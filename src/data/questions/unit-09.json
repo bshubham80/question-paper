@@ -1,0 +1,1204 @@
+[
+  {
+    "id": "u09-001",
+    "unit": 9,
+    "topic": "u09-t08",
+    "type": "sequencing",
+    "stem": "Arrange the following Indian statutes in the chronological order of their enactment:",
+    "items": [
+      "Copyright Act",
+      "Information Technology Act",
+      "Patents Act",
+      "Trade Marks Act"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "3-1-4-2",
+      "1-4-2-3",
+      "1-3-2-4",
+      "1-3-4-2"
+    ],
+    "answer": "d",
+    "code": "1-3-4-2",
+    "explanation": "Copyright Act 1957, Patents Act 1970, Trade Marks Act 1999 and Information Technology Act 2000."
+  },
+  {
+    "id": "u09-002",
+    "unit": 9,
+    "topic": "u09-t04",
+    "type": "matching",
+    "stem": "Match List I (crossing of a cheque) with List II (effect):",
+    "listI": [
+      "General crossing",
+      "Special crossing",
+      "'Not negotiable' crossing",
+      "'Account payee' crossing"
+    ],
+    "listII": [
+      "The name of a particular banker is added across the cheque",
+      "The holder cannot get a better title than that of the transferor",
+      "Two parallel transverse lines, with or without words such as '& Co.'",
+      "Proceeds are to be credited only to the payee's account"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-3, B-1, C-2, D-4",
+      "A-3, B-4, C-2, D-1",
+      "A-3, B-1, C-4, D-2",
+      "A-4, B-1, C-2, D-3"
+    ],
+    "answer": "a",
+    "code": "A-3, B-1, C-2, D-4",
+    "explanation": "A general crossing uses two parallel lines, a special crossing names a banker, 'not negotiable' removes the possibility of a better title, and 'account payee' directs the collecting banker to credit only the payee."
+  },
+  {
+    "id": "u09-003",
+    "unit": 9,
+    "topic": "u09-t07",
+    "type": "statements",
+    "stem": "Consider the following statements with reference to the Consumer Protection Act, 2019:",
+    "items": [
+      "A person who buys goods through electronic means is covered by the definition of consumer.",
+      "A person who obtains goods for resale or for a commercial purpose is generally not a consumer.",
+      "A product liability action may be brought against a product manufacturer, a product service provider or a product seller.",
+      "A complaint can be filed only where the opposite party resides or carries on business."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "3 and 4 only",
+      "1, 2 and 3 only",
+      "2 and 4 only",
+      "2 and 3 only"
+    ],
+    "answer": "b",
+    "explanation": "Statements 1, 2 and 3 are correct. The 2019 Act also allows a complaint to be filed where the complainant resides or personally works for gain."
+  },
+  {
+    "id": "u09-004",
+    "unit": 9,
+    "topic": "u09-t02",
+    "type": "statements",
+    "stem": "Consider the following statements about agency under the Indian Contract Act, 1872:",
+    "items": [
+      "A principal is not bound by the acts of the agent done within the scope of the agent's authority.",
+      "Any person who is of the age of majority and of sound mind may employ an agent.",
+      "No consideration is necessary to create an agency.",
+      "An agency may be created by ratification of acts done without authority."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 3 only",
+      "2, 3 and 4 only",
+      "1, 3 and 4 only",
+      "3 and 4 only"
+    ],
+    "answer": "b",
+    "explanation": "Statements 2, 3 and 4 are correct. A principal is bound by acts of the agent done within the scope of his authority."
+  },
+  {
+    "id": "u09-005",
+    "unit": 9,
+    "topic": "u09-t04",
+    "type": "mcq",
+    "stem": "Under the Negotiable Instruments Act, 1881, a cheque is a bill of exchange drawn on a specified banker and:",
+    "options": [
+      "Not expressed to be payable otherwise than on demand",
+      "Payable on a fixed future date",
+      "Payable only to the bearer",
+      "Payable only after acceptance by the drawee"
+    ],
+    "answer": "a",
+    "explanation": "Section 6 defines a cheque as a bill of exchange drawn on a specified banker and not expressed to be payable otherwise than on demand."
+  },
+  {
+    "id": "u09-006",
+    "unit": 9,
+    "topic": "u09-t02",
+    "type": "mcq",
+    "stem": "Under the Indian Contract Act, 1872, the bailment of goods as security for payment of a debt or performance of a promise is called:",
+    "options": [
+      "Pledge",
+      "Mortgage",
+      "Lien",
+      "Hypothecation"
+    ],
+    "answer": "a",
+    "explanation": "Section 172 defines pledge as bailment of goods as security; hypothecation involves no transfer of possession, and a mortgage relates to immovable property."
+  },
+  {
+    "id": "u09-007",
+    "unit": 9,
+    "topic": "u09-t05",
+    "type": "statements",
+    "stem": "Consider the following statements about the minimum number of directors under the Companies Act, 2013:",
+    "items": [
+      "A private company must have at least two directors.",
+      "A public company must have at least three directors.",
+      "At least one-third of the total directors of a listed public company must be independent directors.",
+      "A One Person Company must have at least two directors."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2, 3 and 4",
+      "1, 2 and 3 only",
+      "2 and 3 only",
+      "2 and 4 only"
+    ],
+    "answer": "b",
+    "explanation": "Statements 1, 2 and 3 are correct. A One Person Company needs a minimum of only one director."
+  },
+  {
+    "id": "u09-008",
+    "unit": 9,
+    "topic": "u09-t06",
+    "type": "matching",
+    "stem": "Match List I (form of business organisation) with List II (feature):",
+    "listI": [
+      "Limited liability partnership",
+      "General partnership",
+      "Company",
+      "Sole proprietorship"
+    ],
+    "listII": [
+      "Separate legal entity managed by a board of directors on behalf of shareholders",
+      "Single owner with unlimited liability",
+      "Separate legal entity with limited liability and internal structure fixed by agreement",
+      "No separate legal entity; partners have unlimited liability"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-3, B-1, C-2, D-4",
+      "A-3, B-4, C-1, D-2",
+      "A-3, B-2, C-1, D-4",
+      "A-4, B-3, C-1, D-2"
+    ],
+    "answer": "b",
+    "code": "A-3, B-4, C-1, D-2",
+    "explanation": "An LLP combines corporate personality and limited liability with partnership-style flexibility; a general partnership has unlimited liability; a company is run by a board for its shareholders; a sole proprietor owns the business alone."
+  },
+  {
+    "id": "u09-009",
+    "unit": 9,
+    "topic": "u09-t05",
+    "type": "mcq",
+    "stem": "Under the Companies Act, 2013, a One Person Company is formed as a:",
+    "options": [
+      "Private company",
+      "Producer company",
+      "Listed company",
+      "Public company"
+    ],
+    "answer": "a",
+    "explanation": "The Act introduced the One Person Company as a type of private company having only one member."
+  },
+  {
+    "id": "u09-010",
+    "unit": 9,
+    "topic": "u09-t10",
+    "type": "mcq",
+    "stem": "Contraventions under the Foreign Exchange Management Act, 1999 are treated as:",
+    "options": [
+      "Cognizable offences",
+      "Non-compoundable offences",
+      "Criminal offences punishable with imprisonment",
+      "Civil offences"
+    ],
+    "answer": "d",
+    "explanation": "Unlike FERA, FEMA treats contraventions as civil in nature, attracting monetary penalties, and allows them to be compounded."
+  },
+  {
+    "id": "u09-011",
+    "unit": 9,
+    "topic": "u09-t04",
+    "type": "mcq",
+    "stem": "Under the Negotiable Instruments Act, 1881, the person who makes a promissory note is called the:",
+    "options": [
+      "Drawee",
+      "Maker",
+      "Drawer",
+      "Endorser"
+    ],
+    "answer": "b",
+    "explanation": "A promissory note has two parties: the maker, who promises to pay, and the payee; drawer and drawee are parties to a bill of exchange or cheque."
+  },
+  {
+    "id": "u09-012",
+    "unit": 9,
+    "topic": "u09-t06",
+    "type": "statements",
+    "stem": "Consider the following statements about LLPs under the Limited Liability Partnership Act, 2008:",
+    "items": [
+      "The provisions of the Indian Partnership Act, 1932 do not apply to an LLP.",
+      "A private company may convert into an LLP in accordance with the Act.",
+      "An LLP must have a minimum paid-up capital of ₹1 lakh.",
+      "An obligation of the LLP, whether arising in contract or otherwise, is solely the obligation of the LLP."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 4 only",
+      "2, 3 and 4 only",
+      "1 and 4 only",
+      "1 and 3 only"
+    ],
+    "answer": "a",
+    "explanation": "Statements 1, 2 and 4 are correct. The Act prescribes no minimum capital for an LLP; partners' contribution is decided by the LLP agreement."
+  },
+  {
+    "id": "u09-013",
+    "unit": 9,
+    "topic": "u09-t01",
+    "type": "statements",
+    "stem": "Consider the following statements with reference to the Indian Contract Act, 1872:",
+    "items": [
+      "An agreement in restraint of the marriage of any person other than a minor is void.",
+      "An agreement by way of wager is void.",
+      "Every agreement in restraint of trade is void without any exception.",
+      "A contract whose consent is caused by coercion is voidable at the option of the party whose consent was so caused."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "3 and 4 only",
+      "1 and 3 only",
+      "1, 2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "c",
+    "explanation": "Statements 1, 2 and 4 are correct. Agreements in restraint of trade are void, but the Act saves an agreement by the seller of goodwill not to carry on a similar business within specified local limits."
+  },
+  {
+    "id": "u09-014",
+    "unit": 9,
+    "topic": "u09-t01",
+    "type": "sequencing",
+    "stem": "Under the Indian Contract Act, 1872, arrange the following events of a contract made by post in chronological order:",
+    "items": [
+      "The acceptance comes to the knowledge of the proposer",
+      "The proposer posts the letter of proposal",
+      "The proposal comes to the knowledge of the offeree",
+      "The offeree posts the letter of acceptance"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "3-2-4-1",
+      "2-3-4-1",
+      "3-4-2-1",
+      "2-3-1-4"
+    ],
+    "answer": "b",
+    "code": "2-3-4-1",
+    "explanation": "Communication of a proposal is complete when it reaches the offeree; acceptance is complete against the proposer when posted, and against the acceptor when it reaches the proposer (Section 4)."
+  },
+  {
+    "id": "u09-015",
+    "unit": 9,
+    "topic": "u09-t07",
+    "type": "ar",
+    "stem": "Assertion (A): Under the Competition Act, 2002, merely holding a dominant position is not prohibited.",
+    "reason": "Reason (R): The Competition Commission of India is a body corporate having perpetual succession and a common seal.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "b",
+    "explanation": "Both are true, but A holds because the Act prohibits only the abuse of a dominant position; the corporate status of the CCI does not explain it."
+  },
+  {
+    "id": "u09-016",
+    "unit": 9,
+    "topic": "u09-t01",
+    "type": "ar",
+    "stem": "Assertion (A): Under the Indian Contract Act, 1872, consideration must move from the promisee only.",
+    "reason": "Reason (R): Under the Act, consideration may move from the promisee or from any other person, at the desire of the promisor.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "d",
+    "explanation": "Section 2(d) allows consideration to move from the promisee or any other person, so A is false and R is true (see also Chinnaya v. Ramayya)."
+  },
+  {
+    "id": "u09-017",
+    "unit": 9,
+    "topic": "u09-t02",
+    "type": "ar",
+    "stem": "Assertion (A): Under the Indian Contract Act, 1872, the liability of the surety is co-extensive with that of the principal debtor, unless otherwise provided by the contract.",
+    "reason": "Reason (R): Under the Act, a contract of guarantee may be either oral or written.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "b",
+    "explanation": "Both are true (Sections 128 and 126), but the form in which a guarantee may be made has nothing to do with the extent of the surety's liability."
+  },
+  {
+    "id": "u09-018",
+    "unit": 9,
+    "topic": "u09-t03",
+    "type": "sequencing",
+    "stem": "Arrange the following Indian statutes in the chronological order of their enactment:",
+    "items": [
+      "Indian Partnership Act",
+      "Sale of Goods Act",
+      "Indian Contract Act",
+      "Negotiable Instruments Act"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "3-2-1-4",
+      "2-4-3-1",
+      "3-4-2-1",
+      "4-3-2-1"
+    ],
+    "answer": "c",
+    "code": "3-4-2-1",
+    "explanation": "Indian Contract Act 1872, Negotiable Instruments Act 1881, Sale of Goods Act 1930 and Indian Partnership Act 1932."
+  },
+  {
+    "id": "u09-019",
+    "unit": 9,
+    "topic": "u09-t10",
+    "type": "statements",
+    "stem": "Consider the following statements with reference to the Foreign Exchange Management Act, 1999:",
+    "items": [
+      "One of its objectives is to facilitate external trade and payments.",
+      "The Directorate of Enforcement investigates contraventions under the Act.",
+      "Residential status under the Act is determined exactly as under the income-tax law.",
+      "The Act also applies to branches, offices and agencies outside India owned or controlled by a person resident in India."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 3 and 4 only",
+      "1, 2 and 4 only",
+      "1 and 2 only",
+      "2 and 4 only"
+    ],
+    "answer": "b",
+    "explanation": "Statements 1, 2 and 4 are correct. FEMA has its own definition of 'person resident in India' (based on stay of more than 182 days in the preceding financial year plus intention), which differs from income-tax rules."
+  },
+  {
+    "id": "u09-020",
+    "unit": 9,
+    "topic": "u09-t03",
+    "type": "ar",
+    "stem": "Assertion (A): Under the Sale of Goods Act, 1930, an unpaid seller loses his right of lien when the buyer lawfully obtains possession of the goods.",
+    "reason": "Reason (R): Lien is a right to retain possession of goods until the price is paid or tendered.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "Because lien is a possessory right, it cannot survive once the goods have lawfully passed into the buyer's possession; R therefore explains A."
+  },
+  {
+    "id": "u09-021",
+    "unit": 9,
+    "topic": "u09-t07",
+    "type": "mcq",
+    "stem": "Under the Consumer Protection Act, 2019, the authority established to regulate violations of consumer rights, unfair trade practices and false or misleading advertisements is the:",
+    "options": [
+      "Competition Commission of India",
+      "Central Consumer Protection Council",
+      "Central Consumer Protection Authority",
+      "National Consumer Disputes Redressal Commission"
+    ],
+    "answer": "c",
+    "explanation": "The 2019 Act created the Central Consumer Protection Authority as a regulator; the Commissions adjudicate disputes and the Councils are advisory bodies."
+  },
+  {
+    "id": "u09-022",
+    "unit": 9,
+    "topic": "u09-t05",
+    "type": "matching",
+    "stem": "Match List I (type of company under the Companies Act, 2013) with List II (feature):",
+    "listI": [
+      "One Person Company",
+      "Section 8 company",
+      "Government company",
+      "Small company"
+    ],
+    "listII": [
+      "Private company with paid-up capital and turnover below prescribed limits",
+      "Has only one person as a member",
+      "Promotes charitable objects and prohibits payment of dividend to members",
+      "Not less than 51% of paid-up share capital held by government"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-2, B-3, C-4, D-1",
+      "A-1, B-3, C-4, D-2",
+      "A-4, B-3, C-2, D-1",
+      "A-3, B-4, C-2, D-1"
+    ],
+    "answer": "a",
+    "code": "A-2, B-3, C-4, D-1",
+    "explanation": "An OPC has one member, a Section 8 company applies income to its charitable objects without paying dividends, a government company has at least 51% government shareholding, and a small company is defined by capital and turnover thresholds."
+  },
+  {
+    "id": "u09-023",
+    "unit": 9,
+    "topic": "u09-t08",
+    "type": "ar",
+    "stem": "Assertion (A): Under the Copyright Act, 1957, copyright protects ideas as such.",
+    "reason": "Reason (R): Copyright protects the original expression of ideas in works.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "d",
+    "explanation": "A is false: ideas themselves are not protected. R is true, since copyright protects only the form in which an idea is expressed."
+  },
+  {
+    "id": "u09-024",
+    "unit": 9,
+    "topic": "u09-t05",
+    "type": "ar",
+    "stem": "Assertion (A): Under the Companies Act, 2013, a company can own property and sue in its own name.",
+    "reason": "Reason (R): Members of a company are personally liable for all the debts of the company.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "c",
+    "explanation": "A is true because a company is a separate legal person. R is false: in a company limited by shares, a member's liability is limited to the unpaid amount on his shares."
+  },
+  {
+    "id": "u09-025",
+    "unit": 9,
+    "topic": "u09-t09",
+    "type": "mcq",
+    "stem": "The Goods and Services Tax was introduced in India through which constitutional amendment, enacted in 2016?",
+    "options": [
+      "122nd Amendment",
+      "103rd Amendment",
+      "101st Amendment",
+      "100th Amendment"
+    ],
+    "answer": "c",
+    "explanation": "GST was enabled by the Constitution (One Hundred and First Amendment) Act, 2016; '122nd' was the number of the Constitution Amendment Bill, not of the Act."
+  },
+  {
+    "id": "u09-026",
+    "unit": 9,
+    "topic": "u09-t07",
+    "type": "sequencing",
+    "stem": "Under the Consumer Protection Act, 2019, arrange the following forums in the order in which a consumer dispute moves in appeal, starting from the original forum:",
+    "items": [
+      "Supreme Court of India",
+      "National Consumer Disputes Redressal Commission",
+      "District Consumer Disputes Redressal Commission",
+      "State Consumer Disputes Redressal Commission"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "3-4-1-2",
+      "4-3-2-1",
+      "1-4-2-3",
+      "3-4-2-1"
+    ],
+    "answer": "d",
+    "code": "3-4-2-1",
+    "explanation": "Appeals lie from the District Commission to the State Commission, from there to the National Commission and finally to the Supreme Court."
+  },
+  {
+    "id": "u09-027",
+    "unit": 9,
+    "topic": "u09-t07",
+    "type": "mcq",
+    "stem": "Under the Competition Act, 2002, an agreement between competing enterprises that directly or indirectly fixes purchase or sale prices is:",
+    "options": [
+      "Permitted if the parties are small enterprises",
+      "Examined only under the rule of reason",
+      "Treated as a combination",
+      "Presumed to have an appreciable adverse effect on competition"
+    ],
+    "answer": "d",
+    "explanation": "Horizontal agreements such as price-fixing, output limitation, market sharing and bid rigging are presumed to cause an appreciable adverse effect on competition (Section 3(3))."
+  },
+  {
+    "id": "u09-028",
+    "unit": 9,
+    "topic": "u09-t09",
+    "type": "statements",
+    "stem": "Consider the following statements about the structure of GST in India:",
+    "items": [
+      "CGST and SGST are levied concurrently on intra-State supplies.",
+      "IGST is levied on inter-State supplies.",
+      "The GST Council is chaired by the Prime Minister."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 3 only",
+      "1, 2 and 3",
+      "1 and 2 only",
+      "2 and 3 only"
+    ],
+    "answer": "c",
+    "explanation": "Statements 1 and 2 are correct. The GST Council under Article 279A is chaired by the Union Finance Minister."
+  },
+  {
+    "id": "u09-029",
+    "unit": 9,
+    "topic": "u09-t07",
+    "type": "matching",
+    "stem": "Match List I (subject under the Competition Act, 2002) with List II (section):",
+    "listI": [
+      "Anti-competitive agreements",
+      "Abuse of dominant position",
+      "Meaning of combination",
+      "Regulation of combinations"
+    ],
+    "listII": [
+      "Section 4",
+      "Section 5",
+      "Section 6",
+      "Section 3"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-4, B-2, C-1, D-3",
+      "A-4, B-3, C-2, D-1",
+      "A-4, B-1, C-2, D-3",
+      "A-1, B-2, C-4, D-3"
+    ],
+    "answer": "c",
+    "code": "A-4, B-1, C-2, D-3",
+    "explanation": "Section 3 prohibits anti-competitive agreements, Section 4 prohibits abuse of dominance, Section 5 defines combinations and Section 6 regulates them."
+  },
+  {
+    "id": "u09-030",
+    "unit": 9,
+    "topic": "u09-t03",
+    "type": "mcq",
+    "stem": "The doctrine of 'caveat emptor' under the Sale of Goods Act, 1930 means:",
+    "options": [
+      "No one can give a better title than he himself has",
+      "Let the seller beware",
+      "Let the buyer beware",
+      "Goods remain at the seller's risk until delivery"
+    ],
+    "answer": "c",
+    "explanation": "Caveat emptor means the buyer must satisfy himself about the goods; 'no one can give a better title than he has' is the separate nemo dat rule."
+  },
+  {
+    "id": "u09-031",
+    "unit": 9,
+    "topic": "u09-t05",
+    "type": "mcq",
+    "stem": "Under the Companies Act, 2013, the maximum number of members of a private company (excluding certain present and former employee-members) is:",
+    "options": [
+      "50",
+      "100",
+      "200",
+      "500"
+    ],
+    "answer": "c",
+    "explanation": "A private company's articles must limit its members to 200, excluding employees and ex-employees who became members during employment (the earlier 1956 Act limit was 50)."
+  },
+  {
+    "id": "u09-032",
+    "unit": 9,
+    "topic": "u09-t02",
+    "type": "sequencing",
+    "stem": "Arrange the following special contracts in the order in which they are defined in the Indian Contract Act, 1872:",
+    "items": [
+      "Pledge",
+      "Bailment",
+      "Guarantee",
+      "Agency (definition of agent)",
+      "Indemnity"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "5-3-2-1-4",
+      "5-3-1-4-2",
+      "3-2-5-1-4",
+      "4-3-2-1-5"
+    ],
+    "answer": "a",
+    "code": "5-3-2-1-4",
+    "explanation": "Indemnity is defined in Section 124, guarantee in Section 126, bailment in Section 148, pledge in Section 172 and agent in Section 182."
+  },
+  {
+    "id": "u09-033",
+    "unit": 9,
+    "topic": "u09-t10",
+    "type": "ar",
+    "stem": "Assertion (A): Under the Foreign Exchange Management Act, 1999, current account transactions are generally permitted, subject to reasonable restrictions notified by the Central Government.",
+    "reason": "Reason (R): Under the Act, capital account transactions are regulated by the Reserve Bank of India in consultation with the Central Government.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "b",
+    "explanation": "Both are true, but the regulation of capital account transactions does not explain why current account transactions are freely permitted; they are separate provisions."
+  },
+  {
+    "id": "u09-034",
+    "unit": 9,
+    "topic": "u09-t01",
+    "type": "matching",
+    "stem": "Match List I (factor affecting free consent under the Indian Contract Act, 1872) with List II (description):",
+    "listI": [
+      "Coercion",
+      "Undue influence",
+      "Fraud",
+      "Misrepresentation"
+    ],
+    "listII": [
+      "An innocent false statement which the maker believes to be true",
+      "A false representation made knowingly with intent to deceive",
+      "Committing or threatening an act forbidden by the penal law to obtain consent",
+      "Using a position to dominate another's will to obtain an unfair advantage"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-3, B-4, C-1, D-2",
+      "A-3, B-4, C-2, D-1",
+      "A-1, B-4, C-2, D-3",
+      "A-2, B-4, C-3, D-1"
+    ],
+    "answer": "b",
+    "code": "A-3, B-4, C-2, D-1",
+    "explanation": "Coercion involves unlawful threats, undue influence abuses a dominating position, fraud requires intent to deceive, and misrepresentation is a false statement made without intent to deceive."
+  },
+  {
+    "id": "u09-035",
+    "unit": 9,
+    "topic": "u09-t04",
+    "type": "ar",
+    "stem": "Assertion (A): Under the Negotiable Instruments Act, 1881, a cheque is always payable on demand.",
+    "reason": "Reason (R): Under the Act, a cheque may be drawn on any person, not necessarily a banker.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "c",
+    "explanation": "A is true by definition of a cheque. R is false: a cheque must always be drawn on a specified banker."
+  },
+  {
+    "id": "u09-036",
+    "unit": 9,
+    "topic": "u09-t10",
+    "type": "mcq",
+    "stem": "The Foreign Exchange Management Act, 1999 replaced the:",
+    "options": [
+      "Sick Industrial Companies Act, 1985",
+      "Foreign Exchange Regulation Act, 1947",
+      "Foreign Exchange Regulation Act, 1973",
+      "MRTP Act, 1969"
+    ],
+    "answer": "c",
+    "explanation": "FEMA, 1999 repealed and replaced FERA, 1973, which had itself replaced the earlier FERA of 1947."
+  },
+  {
+    "id": "u09-037",
+    "unit": 9,
+    "topic": "u09-t10",
+    "type": "sequencing",
+    "stem": "Arrange the following developments in India's foreign exchange regime in chronological order:",
+    "items": [
+      "Enactment of the first Foreign Exchange Regulation Act",
+      "Enactment of the Foreign Exchange Management Act",
+      "Introduction of the Liberalised Exchange Rate Management System (LERMS)",
+      "Re-enactment of FERA as a more stringent law"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "1-3-4-2",
+      "3-4-1-2",
+      "4-3-1-2",
+      "1-4-3-2"
+    ],
+    "answer": "d",
+    "code": "1-4-3-2",
+    "explanation": "FERA was first enacted in 1947 and re-enacted in 1973; LERMS was introduced in 1992; FEMA was enacted in 1999."
+  },
+  {
+    "id": "u09-038",
+    "unit": 9,
+    "topic": "u09-t03",
+    "type": "matching",
+    "stem": "Match List I (implied term under the Sale of Goods Act, 1930) with List II (meaning):",
+    "listI": [
+      "Condition as to title",
+      "Sale by description",
+      "Sale by sample",
+      "Warranty of quiet possession"
+    ],
+    "listII": [
+      "The bulk must correspond with the sample in quality",
+      "The goods must correspond with the description",
+      "The buyer shall have and enjoy undisturbed possession of the goods",
+      "The seller has a right to sell the goods"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-4, B-2, C-1, D-3",
+      "A-4, B-1, C-3, D-2",
+      "A-4, B-2, C-3, D-1",
+      "A-2, B-4, C-1, D-3"
+    ],
+    "answer": "a",
+    "code": "A-4, B-2, C-1, D-3",
+    "explanation": "These are the standard implied conditions (title, description, sample) and the implied warranty of quiet possession."
+  },
+  {
+    "id": "u09-039",
+    "unit": 9,
+    "topic": "u09-t08",
+    "type": "mcq",
+    "stem": "The Information Technology Act, 2000 is based on the:",
+    "options": [
+      "Budapest Convention on Cybercrime",
+      "WIPO Copyright Treaty",
+      "TRIPS Agreement",
+      "UNCITRAL Model Law on Electronic Commerce"
+    ],
+    "answer": "d",
+    "explanation": "The IT Act, 2000 was enacted in line with the UN General Assembly's adoption of the UNCITRAL Model Law on Electronic Commerce (1996) to give legal recognition to electronic transactions."
+  },
+  {
+    "id": "u09-040",
+    "unit": 9,
+    "topic": "u09-t01",
+    "type": "mcq",
+    "stem": "According to the Privy Council in Mohori Bibee v. Dharmodas Ghose, an agreement with a minor under the Indian Contract Act, 1872 is:",
+    "options": [
+      "Valid if it is for the minor's benefit",
+      "Voidable at the option of the minor",
+      "Void ab initio",
+      "Voidable at the option of the other party"
+    ],
+    "answer": "c",
+    "explanation": "Mohori Bibee v. Dharmodas Ghose (1903) held that a minor is not competent to contract, so an agreement with a minor is void from the beginning."
+  },
+  {
+    "id": "u09-041",
+    "unit": 9,
+    "topic": "u09-t08",
+    "type": "mcq",
+    "stem": "Under the Patents Act, 1970 (as amended), the term of a patent is:",
+    "options": [
+      "60 years from the date of publication",
+      "10 years from the date of grant",
+      "14 years from the date of filing of the application",
+      "20 years from the date of filing of the application"
+    ],
+    "answer": "d",
+    "explanation": "After the 2002 amendment aligning with TRIPS, every patent has a term of 20 years from the date of filing, subject to payment of renewal fees."
+  },
+  {
+    "id": "u09-042",
+    "unit": 9,
+    "topic": "u09-t02",
+    "type": "matching",
+    "stem": "Match List I (party under the Indian Contract Act, 1872) with List II (description):",
+    "listI": [
+      "Indemnity-holder",
+      "Surety",
+      "Bailee",
+      "Pawnee"
+    ],
+    "listII": [
+      "Person who is promised protection against loss",
+      "Person who gives the guarantee",
+      "Person to whom goods are delivered as security for a debt",
+      "Person to whom goods are delivered for a purpose, to be returned or disposed of"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-4, B-2, C-1, D-3",
+      "A-2, B-4, C-1, D-3",
+      "A-3, B-2, C-4, D-1",
+      "A-1, B-2, C-4, D-3"
+    ],
+    "answer": "d",
+    "code": "A-1, B-2, C-4, D-3",
+    "explanation": "The indemnity-holder is protected against loss, the surety gives the guarantee, the bailee receives goods under bailment, and the pawnee receives goods as security under a pledge."
+  },
+  {
+    "id": "u09-043",
+    "unit": 9,
+    "topic": "u09-t06",
+    "type": "statements",
+    "stem": "Consider the following statements with reference to the Limited Liability Partnership Act, 2008:",
+    "items": [
+      "Every LLP must have at least two designated partners who are individuals, at least one of whom is resident in India.",
+      "The liability of every partner of an LLP is unlimited, as in a general partnership.",
+      "The LLP agreement governs the mutual rights and duties of the partners."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "b",
+    "explanation": "Statements 1 and 3 are correct. An LLP is a separate legal entity and the liability of its partners is limited."
+  },
+  {
+    "id": "u09-044",
+    "unit": 9,
+    "topic": "u09-t04",
+    "type": "statements",
+    "stem": "Consider the following statements with reference to the Negotiable Instruments Act, 1881:",
+    "items": [
+      "A promissory note contains an unconditional order to pay.",
+      "A bill of exchange contains an unconditional order directing a certain person to pay.",
+      "A cheque is always drawn on a specified banker."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 and 2 only"
+    ],
+    "answer": "b",
+    "explanation": "Statements 2 and 3 are correct. A promissory note contains an unconditional undertaking (promise) to pay, whereas a bill of exchange contains an order."
+  },
+  {
+    "id": "u09-045",
+    "unit": 9,
+    "topic": "u09-t04",
+    "type": "sequencing",
+    "stem": "Under Section 138 of the Negotiable Instruments Act, 1881, arrange the following steps in a cheque-dishonour case in the correct order:",
+    "items": [
+      "The payee files a complaint before the Magistrate within one month",
+      "The payee sends a written notice demanding payment within 30 days of receiving information of dishonour",
+      "The drawer fails to pay within 15 days of receiving the notice",
+      "The cheque is presented to the bank within its period of validity",
+      "The bank returns the cheque unpaid for insufficiency of funds"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "1-5-2-3-4",
+      "4-5-1-3-2",
+      "4-5-3-1-2",
+      "4-5-2-3-1"
+    ],
+    "answer": "d",
+    "code": "4-5-2-3-1",
+    "explanation": "An offence under Section 138 arises only after presentation, dishonour, a demand notice within 30 days and failure to pay within 15 days of the notice; the complaint must then be filed within one month of the cause of action."
+  },
+  {
+    "id": "u09-046",
+    "unit": 9,
+    "topic": "u09-t01",
+    "type": "mcq",
+    "stem": "Under the Indian Contract Act, 1872, an agreement which is enforceable by law at the option of one or more of the parties, but not at the option of the other or others, is a:",
+    "options": [
+      "Void agreement",
+      "Voidable contract",
+      "Valid contract",
+      "Illegal agreement"
+    ],
+    "answer": "b",
+    "explanation": "Section 2(i) defines a voidable contract as one enforceable at the option of one or more parties but not of the other(s), e.g. a contract induced by coercion or fraud."
+  },
+  {
+    "id": "u09-047",
+    "unit": 9,
+    "topic": "u09-t08",
+    "type": "statements",
+    "stem": "Consider the following statements with reference to the Information Technology Act, 2000:",
+    "items": [
+      "The Act applies to wills and other testamentary dispositions.",
+      "The Controller of Certifying Authorities licenses and regulates Certifying Authorities.",
+      "The 2008 amendment introduced the broader concept of electronic signatures in addition to digital signatures."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 and 3 only",
+      "1 and 2 only"
+    ],
+    "answer": "a",
+    "explanation": "Statements 2 and 3 are correct. Wills and testamentary dispositions are among the documents to which the Act does not apply."
+  },
+  {
+    "id": "u09-048",
+    "unit": 9,
+    "topic": "u09-t03",
+    "type": "statements",
+    "stem": "Consider the following statements with reference to the definition of 'goods' under the Sale of Goods Act, 1930:",
+    "items": [
+      "Stocks and shares are goods.",
+      "Money and actionable claims are goods.",
+      "Growing crops that are agreed to be severed before sale or under the contract of sale are goods."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+    ],
+    "answer": "a",
+    "explanation": "Statements 1 and 3 are correct. 'Goods' means every kind of movable property other than actionable claims and money."
+  },
+  {
+    "id": "u09-049",
+    "unit": 9,
+    "topic": "u09-t06",
+    "type": "ar",
+    "stem": "Assertion (A): Under the Limited Liability Partnership Act, 2008, an LLP is a body corporate having perpetual succession.",
+    "reason": "Reason (R): Any change in the partners of an LLP does not affect its existence, rights or liabilities.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "Perpetual succession means the LLP's existence continues irrespective of changes in its partners; R states exactly this, so R explains A."
+  },
+  {
+    "id": "u09-050",
+    "unit": 9,
+    "topic": "u09-t06",
+    "type": "mcq",
+    "stem": "Under the Limited Liability Partnership Act, 2008, the minimum number of partners required to form an LLP is:",
+    "options": [
+      "Three",
+      "One",
+      "Seven",
+      "Two"
+    ],
+    "answer": "d",
+    "explanation": "Every LLP must have at least two partners; if the number falls below two for more than six months, the remaining partner may become personally liable."
+  },
+  {
+    "id": "u09-051",
+    "unit": 9,
+    "topic": "u09-t02",
+    "type": "mcq",
+    "stem": "Under the Indian Contract Act, 1872, a contract to perform the promise or discharge the liability of a third person in case of his default is a contract of:",
+    "options": [
+      "Guarantee",
+      "Agency",
+      "Indemnity",
+      "Bailment"
+    ],
+    "answer": "a",
+    "explanation": "Section 126 defines a contract of guarantee; a contract of indemnity (Section 124) is a promise to save another from loss."
+  },
+  {
+    "id": "u09-052",
+    "unit": 9,
+    "topic": "u09-t08",
+    "type": "matching",
+    "stem": "Match List I (form of intellectual property) with List II (subject matter protected):",
+    "listI": [
+      "Patent",
+      "Copyright",
+      "Trade mark",
+      "Geographical indication"
+    ],
+    "listII": [
+      "A new invention involving an inventive step and capable of industrial application",
+      "Goods whose quality or reputation is attributable to their place of origin",
+      "Original literary, dramatic, musical and artistic works",
+      "A mark capable of distinguishing the goods or services of one person from another"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-1, B-3, C-2, D-4",
+      "A-3, B-4, C-1, D-2",
+      "A-1, B-3, C-4, D-2",
+      "A-4, B-3, C-1, D-2"
+    ],
+    "answer": "c",
+    "code": "A-1, B-3, C-4, D-2",
+    "explanation": "Patents protect inventions, copyright protects original works, trade marks protect distinguishing marks and geographical indications (e.g. Darjeeling tea) protect origin-linked goods."
+  },
+  {
+    "id": "u09-053",
+    "unit": 9,
+    "topic": "u09-t09",
+    "type": "statements",
+    "stem": "Consider the following statements about GST in India:",
+    "items": [
+      "Alcoholic liquor for human consumption is outside the scope of GST.",
+      "Petroleum crude is currently subject to GST at the standard rate.",
+      "Input tax credit allows tax paid on inputs to be set off against output tax liability."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 3",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only"
+    ],
+    "answer": "d",
+    "explanation": "Statements 1 and 3 are correct. GST on petroleum crude, diesel, petrol, natural gas and ATF will apply only from a date recommended by the GST Council; till then they remain outside GST levy."
+  },
+  {
+    "id": "u09-054",
+    "unit": 9,
+    "topic": "u09-t09",
+    "type": "sequencing",
+    "stem": "Arrange the following events relating to indirect tax reform in India in chronological order:",
+    "items": [
+      "Rollout of GST across the country",
+      "Enactment of the constitutional amendment enabling GST",
+      "Constitution of the GST Council",
+      "Introduction of state-level VAT in most States"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "4-1-3-2",
+      "3-2-4-1",
+      "4-2-3-1",
+      "1-2-3-4"
+    ],
+    "answer": "c",
+    "code": "4-2-3-1",
+    "explanation": "Most States adopted VAT in 2005; the 101st Amendment was enacted in September 2016, the GST Council was constituted soon after in September 2016, and GST was rolled out on 1 July 2017."
+  },
+  {
+    "id": "u09-055",
+    "unit": 9,
+    "topic": "u09-t09",
+    "type": "ar",
+    "stem": "Assertion (A): GST in India is a destination-based consumption tax.",
+    "reason": "Reason (R): Under GST, the tax revenue accrues to the State in which the goods or services are consumed.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "The destination principle means tax follows consumption, so revenue goes to the consuming State; R explains why GST is called destination-based."
+  },
+  {
+    "id": "u09-056",
+    "unit": 9,
+    "topic": "u09-t02",
+    "type": "ar",
+    "stem": "Assertion (A): Under the Indian Contract Act, 1872, a contract of indemnity involves three parties: the creditor, the principal debtor and the surety.",
+    "reason": "Reason (R): In a contract of indemnity, one party promises to save the other from loss caused by the conduct of the promisor himself or of any other person.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "d",
+    "explanation": "A is false: indemnity has two parties (indemnifier and indemnity-holder); three parties are found in a guarantee. R correctly paraphrases Section 124."
+  },
+  {
+    "id": "u09-057",
+    "unit": 9,
+    "topic": "u09-t05",
+    "type": "sequencing",
+    "stem": "Arrange the following steps in the incorporation of a company under the Companies Act, 2013 in the correct order:",
+    "items": [
+      "Issue of the certificate of incorporation by the Registrar",
+      "Filing the declaration for commencement of business",
+      "Reserving the proposed name with the Registrar",
+      "Filing the incorporation documents along with the Memorandum and Articles"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "3-1-4-2",
+      "1-4-3-2",
+      "3-4-1-2",
+      "3-4-2-1"
+    ],
+    "answer": "c",
+    "code": "3-4-1-2",
+    "explanation": "The name is reserved, incorporation documents with MoA and AoA are filed, the Registrar issues the certificate of incorporation, and the declaration for commencement of business is filed afterwards."
+  },
+  {
+    "id": "u09-058",
+    "unit": 9,
+    "topic": "u09-t09",
+    "type": "matching",
+    "stem": "Match List I (component of GST) with List II (levy):",
+    "listI": [
+      "CGST",
+      "SGST",
+      "IGST",
+      "UTGST"
+    ],
+    "listII": [
+      "Levied by the Centre on inter-State supplies and imports",
+      "Levied by the Centre on intra-State supplies",
+      "Levied on intra-UT supplies in Union Territories without a legislature",
+      "Levied by a State on intra-State supplies"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-2, B-4, C-3, D-1",
+      "A-2, B-4, C-1, D-3",
+      "A-1, B-4, C-2, D-3",
+      "A-2, B-1, C-3, D-4"
+    ],
+    "answer": "b",
+    "code": "A-2, B-4, C-1, D-3",
+    "explanation": "CGST and SGST are the Centre's and State's shares on intra-State supplies, IGST applies to inter-State supplies and imports, and UTGST replaces SGST in Union Territories without a legislature."
+  },
+  {
+    "id": "u09-059",
+    "unit": 9,
+    "topic": "u09-t01",
+    "type": "ar",
+    "stem": "Assertion (A): Under the Indian Contract Act, 1872, a promise to compensate a person who has already voluntarily done something for the promisor is enforceable even without fresh consideration.",
+    "reason": "Reason (R): Compensation for past voluntary service is one of the statutory exceptions to the rule that an agreement without consideration is void.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "Section 25 makes agreements without consideration void but excepts a promise to compensate for something voluntarily done for the promisor; that exception is exactly why A holds, so R explains A."
+  },
+  {
+    "id": "u09-060",
+    "unit": 9,
+    "topic": "u09-t03",
+    "type": "mcq",
+    "stem": "Under the Sale of Goods Act, 1930, where the transfer of property in goods is to take place at a future time or subject to a condition to be fulfilled later, the contract is called:",
+    "options": [
+      "A bailment",
+      "A sale",
+      "A hire-purchase agreement",
+      "An agreement to sell"
+    ],
+    "answer": "d",
+    "explanation": "In a sale, property passes immediately; where it is to pass in future or on fulfilment of a condition, it is an agreement to sell, which becomes a sale when the time elapses or the condition is met."
+  }
+]

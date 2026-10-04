@@ -1,0 +1,1206 @@
+[
+  {
+    "id": "u08-001",
+    "unit": 8,
+    "topic": "u08-t02",
+    "type": "statements",
+    "stem": "Consider the following statements about market targeting strategies:",
+    "items": [
+      "Concentrated marketing is often suited to firms with limited resources.",
+      "Undifferentiated marketing ignores segment differences and offers one programme to the whole market.",
+      "Niche marketing involves targeting the mass market with a standard product."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1 and 2 only"
+    ],
+    "answer": "d",
+    "explanation": "Statements 1 and 2 are correct. Niche (concentrated) marketing targets a small, well-defined segment, not the mass market."
+  },
+  {
+    "id": "u08-002",
+    "unit": 8,
+    "topic": "u08-t01",
+    "type": "statements",
+    "stem": "Consider the following statements about Ansoff's product-market expansion grid:",
+    "items": [
+      "Market penetration involves selling existing products in existing markets.",
+      "Diversification involves new products in new markets.",
+      "Product development involves offering existing products in new markets.",
+      "Market development involves offering existing products in new markets."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 3 only",
+      "2 and 3 only",
+      "1 and 4 only",
+      "1, 2 and 4 only"
+    ],
+    "answer": "d",
+    "explanation": "Statements 1, 2 and 4 are correct. Statement 3 describes market development; product development means new products for existing markets."
+  },
+  {
+    "id": "u08-003",
+    "unit": 8,
+    "topic": "u08-t01",
+    "type": "matching",
+    "stem": "Match List I (element of the extended services marketing mix) with List II (description):",
+    "listI": [
+      "People",
+      "Process",
+      "Physical evidence",
+      "Place"
+    ],
+    "listII": [
+      "Tangible cues such as ambience, décor and brochures",
+      "Procedures and flow of activities through which the service is delivered",
+      "Staff who deliver the service and interact with customers",
+      "Making the service available and accessible to customers"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-3, B-2, C-1, D-4",
+      "A-3, B-2, C-4, D-1",
+      "A-4, B-2, C-1, D-3",
+      "A-3, B-1, C-2, D-4"
+    ],
+    "answer": "a",
+    "code": "A-3, B-2, C-1, D-4",
+    "explanation": "People are the service personnel, process is the delivery system, physical evidence is the tangible environment that signals quality, and place concerns availability and access."
+  },
+  {
+    "id": "u08-004",
+    "unit": 8,
+    "topic": "u08-t08",
+    "type": "ar",
+    "stem": "Assertion (A): Business markets are characterised by derived demand.",
+    "reason": "Reason (R): Business buyers are typically fewer in number but larger in size than consumer buyers.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "b",
+    "explanation": "Both are true features of business markets, but derived demand arises because business demand ultimately depends on the demand for consumer goods, not on the number or size of buyers."
+  },
+  {
+    "id": "u08-005",
+    "unit": 8,
+    "topic": "u08-t04",
+    "type": "mcq",
+    "stem": "Pricing a product at ₹499 instead of ₹500 is an example of:",
+    "options": [
+      "Penetration pricing",
+      "Odd (psychological) pricing",
+      "Geographical pricing",
+      "Captive-product pricing"
+    ],
+    "answer": "b",
+    "explanation": "Odd pricing is a psychological tactic: a price just below a round figure is perceived as noticeably lower."
+  },
+  {
+    "id": "u08-006",
+    "unit": 8,
+    "topic": "u08-t05",
+    "type": "mcq",
+    "stem": "In the AIDA model of communication, the stage that follows 'Interest' is:",
+    "options": [
+      "Awareness",
+      "Desire",
+      "Action",
+      "Conviction"
+    ],
+    "answer": "b",
+    "explanation": "AIDA stands for Attention, Interest, Desire and Action, so Desire follows Interest."
+  },
+  {
+    "id": "u08-007",
+    "unit": 8,
+    "topic": "u08-t09",
+    "type": "sequencing",
+    "stem": "Arrange the stages of the '5A' customer path proposed by Kotler in Marketing 4.0 in the correct order:",
+    "items": [
+      "Ask",
+      "Act",
+      "Appeal",
+      "Advocate",
+      "Aware"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "3-1-5-2-4",
+      "5-3-1-2-4",
+      "5-3-2-1-4",
+      "5-2-1-3-4"
+    ],
+    "answer": "b",
+    "code": "5-3-1-2-4",
+    "explanation": "Kotler's 5A path runs Aware → Appeal → Ask → Act → Advocate, replacing the traditional 4A path in a connected, digital world."
+  },
+  {
+    "id": "u08-008",
+    "unit": 8,
+    "topic": "u08-t05",
+    "type": "ar",
+    "stem": "Assertion (A): Publicity is generally regarded as more credible than advertising.",
+    "reason": "Reason (R): Sales promotion offers short-term incentives to encourage the purchase of a product.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "b",
+    "explanation": "Both statements are true, but the short-term nature of sales promotion has nothing to do with why publicity is more credible (it is not seen as paid, sponsor-controlled communication)."
+  },
+  {
+    "id": "u08-009",
+    "unit": 8,
+    "topic": "u08-t09",
+    "type": "mcq",
+    "stem": "Selling products in small, low-priced sachets to rural consumers primarily addresses which of the '4 As' of rural marketing?",
+    "options": [
+      "Availability",
+      "Acceptability",
+      "Affordability",
+      "Awareness"
+    ],
+    "answer": "c",
+    "explanation": "Small unit packs lower the price per purchase and make the product affordable; availability concerns reach, awareness concerns communication and acceptability concerns suitability of the offer."
+  },
+  {
+    "id": "u08-010",
+    "unit": 8,
+    "topic": "u08-t08",
+    "type": "mcq",
+    "stem": "When consumers are highly involved in a purchase and perceive significant differences among brands, they exhibit:",
+    "options": [
+      "Habitual buying behaviour",
+      "Variety-seeking buying behaviour",
+      "Dissonance-reducing buying behaviour",
+      "Complex buying behaviour"
+    ],
+    "answer": "d",
+    "explanation": "In Assael's typology, high involvement with significant brand differences gives complex buying behaviour; high involvement with few differences gives dissonance-reducing behaviour."
+  },
+  {
+    "id": "u08-011",
+    "unit": 8,
+    "topic": "u08-t02",
+    "type": "mcq",
+    "stem": "A firm that targets several market segments and designs a separate offer for each is following:",
+    "options": [
+      "Mass marketing",
+      "Differentiated marketing",
+      "Concentrated marketing",
+      "Undifferentiated marketing"
+    ],
+    "answer": "b",
+    "explanation": "Differentiated (segmented) marketing serves several segments with separate offers; concentrated marketing focuses on one or a few niches, while undifferentiated/mass marketing offers one programme to the whole market."
+  },
+  {
+    "id": "u08-012",
+    "unit": 8,
+    "topic": "u08-t06",
+    "type": "sequencing",
+    "stem": "Arrange the following steps of channel design in the correct order:",
+    "items": [
+      "Evaluating the major alternatives",
+      "Setting channel objectives",
+      "Identifying major channel alternatives",
+      "Analysing customers' service needs"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "2-4-3-1",
+      "2-3-4-1",
+      "4-2-3-1",
+      "4-1-3-2"
+    ],
+    "answer": "c",
+    "code": "4-2-3-1",
+    "explanation": "Channel design starts with understanding what customers want from the channel, then sets objectives, identifies the alternatives and finally evaluates them."
+  },
+  {
+    "id": "u08-013",
+    "unit": 8,
+    "topic": "u08-t06",
+    "type": "matching",
+    "stem": "Match List I (type of marketing system) with List II (feature):",
+    "listI": [
+      "Corporate VMS",
+      "Contractual VMS",
+      "Administered VMS",
+      "Horizontal marketing system"
+    ],
+    "listII": [
+      "Independent firms linked by contracts, such as franchising",
+      "Two or more unrelated firms at the same level join to exploit an opportunity",
+      "Successive stages of production and distribution under single ownership",
+      "Coordination through the size and power of one channel member"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-3, B-4, C-2, D-1",
+      "A-3, B-1, C-4, D-2",
+      "A-3, B-1, C-2, D-4",
+      "A-1, B-4, C-3, D-2"
+    ],
+    "answer": "b",
+    "code": "A-3, B-1, C-4, D-2",
+    "explanation": "Ownership links a corporate VMS, contracts link a contractual VMS, a dominant member's power coordinates an administered VMS, and a horizontal system joins firms at the same channel level."
+  },
+  {
+    "id": "u08-014",
+    "unit": 8,
+    "topic": "u08-t04",
+    "type": "statements",
+    "stem": "Consider the following statements about product-mix pricing:",
+    "items": [
+      "Captive-product pricing sets prices for products that must be used with a main product, such as razor blades.",
+      "By-product pricing sets a price for low-value by-products to help make the main product's price more competitive.",
+      "Product-bundle pricing requires customers to buy each item separately at its full price."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 3",
+      "1 and 3 only",
+      "1 and 2 only",
+      "2 and 3 only"
+    ],
+    "answer": "c",
+    "explanation": "Statements 1 and 2 are correct. In product-bundle pricing several products are combined and offered at a reduced combined price."
+  },
+  {
+    "id": "u08-015",
+    "unit": 8,
+    "topic": "u08-t05",
+    "type": "mcq",
+    "stem": "A promotion strategy that directs advertising and consumer promotion at final consumers to induce them to ask intermediaries for the product is a:",
+    "options": [
+      "Push strategy",
+      "Trade promotion strategy",
+      "Pull strategy",
+      "Reseller-oriented strategy"
+    ],
+    "answer": "c",
+    "explanation": "A pull strategy builds consumer demand that pulls the product through the channel; a push strategy relies on personal selling and trade promotion aimed at intermediaries."
+  },
+  {
+    "id": "u08-016",
+    "unit": 8,
+    "topic": "u08-t02",
+    "type": "sequencing",
+    "stem": "Arrange the following steps of the STP process in the correct order:",
+    "items": [
+      "Evaluating the attractiveness of each segment",
+      "Identifying bases for segmenting the market",
+      "Selecting the target segment(s)",
+      "Developing a positioning for each target segment"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "1-2-3-4",
+      "2-1-3-4",
+      "2-1-4-3",
+      "4-1-3-2"
+    ],
+    "answer": "b",
+    "code": "2-1-3-4",
+    "explanation": "Segmentation (identify bases, evaluate segments) comes first, followed by targeting (selecting segments), and positioning is developed last for the chosen segments."
+  },
+  {
+    "id": "u08-017",
+    "unit": 8,
+    "topic": "u08-t01",
+    "type": "ar",
+    "stem": "Assertion (A): The societal marketing concept is identical to the marketing concept.",
+    "reason": "Reason (R): The societal marketing concept requires a firm to balance company profits, consumer wants and society's long-term interests.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "d",
+    "explanation": "A is false: the societal marketing concept goes beyond the marketing concept by adding society's long-term well-being to customer satisfaction and profit. R correctly describes it."
+  },
+  {
+    "id": "u08-018",
+    "unit": 8,
+    "topic": "u08-t05",
+    "type": "matching",
+    "stem": "Match List I (promotion tool) with List II (example):",
+    "listI": [
+      "Advertising",
+      "Sales promotion",
+      "Public relations",
+      "Personal selling"
+    ],
+    "listII": [
+      "Buy-one-get-one-free offer",
+      "Television commercial paid for by an identified sponsor",
+      "Face-to-face presentation by a sales representative",
+      "Press release and sponsorship of events"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-2, B-3, C-4, D-1",
+      "A-3, B-1, C-4, D-2",
+      "A-2, B-1, C-4, D-3",
+      "A-2, B-4, C-1, D-3"
+    ],
+    "answer": "c",
+    "code": "A-2, B-1, C-4, D-3",
+    "explanation": "Paid mass-media messages are advertising, short-term incentives are sales promotion, press releases and sponsorships are PR, and face-to-face presentations are personal selling."
+  },
+  {
+    "id": "u08-019",
+    "unit": 8,
+    "topic": "u08-t01",
+    "type": "ar",
+    "stem": "Assertion (A): Firms suffering from 'marketing myopia' tend to define their business too narrowly.",
+    "reason": "Reason (R): Such firms focus on the product they sell rather than on the underlying customer need it satisfies.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "Levitt's marketing myopia describes a product-oriented rather than need-oriented view of the business; this product focus is exactly why the business definition becomes too narrow, so R explains A."
+  },
+  {
+    "id": "u08-020",
+    "unit": 8,
+    "topic": "u08-t05",
+    "type": "statements",
+    "stem": "Consider the following statements about sales promotion:",
+    "items": [
+      "Coupons and cash refunds are consumer promotion tools.",
+      "Trade allowances and push money are aimed at intermediaries.",
+      "Sales promotion is mainly meant to build long-term brand preference.",
+      "Premiums are goods offered free or at low cost as an incentive to buy a product."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 3 and 4 only",
+      "1 and 4 only",
+      "1, 2 and 4 only",
+      "3 and 4 only"
+    ],
+    "answer": "c",
+    "explanation": "Statements 1, 2 and 4 are correct. Sales promotion offers short-term incentives; building long-term brand preference is mainly the task of advertising."
+  },
+  {
+    "id": "u08-021",
+    "unit": 8,
+    "topic": "u08-t03",
+    "type": "statements",
+    "stem": "Consider the following statements about new product development:",
+    "items": [
+      "Idea screening aims to drop poor ideas as early as possible.",
+      "Test marketing precedes concept development and testing.",
+      "Commercialisation is the final stage of the process."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 3",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only"
+    ],
+    "answer": "d",
+    "explanation": "Statements 1 and 3 are correct. Concept testing comes well before test marketing, which is carried out only after the product has been developed."
+  },
+  {
+    "id": "u08-022",
+    "unit": 8,
+    "topic": "u08-t02",
+    "type": "matching",
+    "stem": "Match List I (basis of segmentation) with List II (example variables):",
+    "listI": [
+      "Geographic",
+      "Demographic",
+      "Psychographic",
+      "Behavioural"
+    ],
+    "listII": [
+      "Usage rate, benefits sought and loyalty status",
+      "Lifestyle, personality and values",
+      "Age, income and family life cycle",
+      "Region, city size and climate"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-4, B-3, C-2, D-1",
+      "A-4, B-2, C-3, D-1",
+      "A-4, B-2, C-1, D-3",
+      "A-1, B-3, C-2, D-4"
+    ],
+    "answer": "a",
+    "code": "A-4, B-3, C-2, D-1",
+    "explanation": "Location variables are geographic, population characteristics are demographic, lifestyle and personality are psychographic, and usage, benefits and loyalty are behavioural."
+  },
+  {
+    "id": "u08-023",
+    "unit": 8,
+    "topic": "u08-t03",
+    "type": "mcq",
+    "stem": "In Kotler's product levels, the level that includes additional services and benefits exceeding customer expectations is the:",
+    "options": [
+      "Core benefit",
+      "Basic product",
+      "Expected product",
+      "Augmented product"
+    ],
+    "answer": "d",
+    "explanation": "The augmented product exceeds customer expectations with extra services and benefits; the expected product only meets the attributes buyers normally expect."
+  },
+  {
+    "id": "u08-024",
+    "unit": 8,
+    "topic": "u08-t06",
+    "type": "ar",
+    "stem": "Assertion (A): Wholesalers help small retailers by breaking bulk.",
+    "reason": "Reason (R): Wholesaling includes all activities involved in selling goods to those who buy for resale or business use.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "b",
+    "explanation": "Both are true, but R is merely the definition of wholesaling; the explanation of A is that wholesalers buy in large lots and resell in smaller quantities suited to retailers."
+  },
+  {
+    "id": "u08-025",
+    "unit": 8,
+    "topic": "u08-t08",
+    "type": "sequencing",
+    "stem": "Arrange the stages of the consumer buying decision process in the correct order:",
+    "items": [
+      "Evaluation of alternatives",
+      "Information search",
+      "Purchase decision",
+      "Post-purchase behaviour",
+      "Need recognition"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "4-2-1-3-5",
+      "5-2-3-4-1",
+      "1-2-5-3-4",
+      "5-2-1-3-4"
+    ],
+    "answer": "d",
+    "code": "5-2-1-3-4",
+    "explanation": "The buyer recognises a need, searches for information, evaluates alternatives, decides to buy and then experiences satisfaction or dissonance after purchase."
+  },
+  {
+    "id": "u08-026",
+    "unit": 8,
+    "topic": "u08-t07",
+    "type": "mcq",
+    "stem": "Information that already exists somewhere, having been collected for another purpose, is called:",
+    "options": [
+      "Observational data",
+      "Secondary data",
+      "Primary data",
+      "Experimental data"
+    ],
+    "answer": "b",
+    "explanation": "Secondary data were collected earlier for some other purpose; primary data are collected fresh for the specific research at hand, e.g. through observation or experiments."
+  },
+  {
+    "id": "u08-027",
+    "unit": 8,
+    "topic": "u08-t07",
+    "type": "mcq",
+    "stem": "Research undertaken to gather preliminary information that helps define the problem and suggest hypotheses is:",
+    "options": [
+      "Experimental research",
+      "Exploratory research",
+      "Descriptive research",
+      "Causal research"
+    ],
+    "answer": "b",
+    "explanation": "Exploratory research clarifies the problem and generates hypotheses; descriptive research describes market characteristics and causal research tests cause-and-effect relationships."
+  },
+  {
+    "id": "u08-028",
+    "unit": 8,
+    "topic": "u08-t09",
+    "type": "ar",
+    "stem": "Assertion (A): Rural markets in India are homogeneous, so a single uniform marketing strategy works across them.",
+    "reason": "Reason (R): Rural consumers differ widely by region, language, income and culture.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "d",
+    "explanation": "A is false; R is true and in fact shows why rural markets are heterogeneous and need region-specific strategies."
+  },
+  {
+    "id": "u08-029",
+    "unit": 8,
+    "topic": "u08-t02",
+    "type": "mcq",
+    "stem": "Dividing a market on the basis of lifestyle, personality and values is known as:",
+    "options": [
+      "Geographic segmentation",
+      "Behavioural segmentation",
+      "Psychographic segmentation",
+      "Demographic segmentation"
+    ],
+    "answer": "c",
+    "explanation": "Psychographic segmentation uses psychological traits, lifestyle and values; demographic uses age, income etc., and behavioural uses usage, benefits sought and loyalty."
+  },
+  {
+    "id": "u08-030",
+    "unit": 8,
+    "topic": "u08-t01",
+    "type": "sequencing",
+    "stem": "Arrange the following steps of the business-unit strategic planning process in the correct order:",
+    "items": [
+      "SWOT analysis",
+      "Defining the business mission",
+      "Goal formulation",
+      "Strategy formulation"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "1-3-2-4",
+      "3-1-2-4",
+      "2-1-3-4",
+      "2-3-1-4"
+    ],
+    "answer": "c",
+    "code": "2-1-3-4",
+    "explanation": "A business unit first defines its mission, then analyses its external and internal environment (SWOT), sets specific goals, and only then formulates strategies to reach them."
+  },
+  {
+    "id": "u08-031",
+    "unit": 8,
+    "topic": "u08-t03",
+    "type": "ar",
+    "stem": "Assertion (A): Brand extension always reduces the risk of new product failure.",
+    "reason": "Reason (R): Brand extension uses an established brand name to launch a product in a new category.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "d",
+    "explanation": "R is the correct meaning of brand extension. A is false because extensions can fail and may even dilute or damage the parent brand, so the risk is not always reduced."
+  },
+  {
+    "id": "u08-032",
+    "unit": 8,
+    "topic": "u08-t04",
+    "type": "mcq",
+    "stem": "A product costs ₹80 per unit. If the seller wants a markup of 20% on the selling price, the selling price should be:",
+    "options": [
+      "₹100",
+      "₹104",
+      "₹90",
+      "₹96"
+    ],
+    "answer": "a",
+    "explanation": "Markup on selling price: price = cost ÷ (1 − markup) = 80 ÷ 0.80 = ₹100. ₹96 would be a 20% markup on cost."
+  },
+  {
+    "id": "u08-033",
+    "unit": 8,
+    "topic": "u08-t01",
+    "type": "mcq",
+    "stem": "In the BCG growth-share matrix, a business unit with a low relative market share in a high-growth market is called a:",
+    "options": [
+      "Question mark",
+      "Dog",
+      "Star",
+      "Cash cow"
+    ],
+    "answer": "a",
+    "explanation": "Question marks (problem children) operate in high-growth markets but hold low relative share; stars have high share in high-growth markets, cash cows high share in low-growth markets and dogs low share in low-growth markets."
+  },
+  {
+    "id": "u08-034",
+    "unit": 8,
+    "topic": "u08-t09",
+    "type": "mcq",
+    "stem": "The use of commercial marketing concepts and tools to influence behaviour for individual and societal well-being, such as anti-smoking campaigns, is called:",
+    "options": [
+      "Green marketing",
+      "Societal marketing concept",
+      "Social marketing",
+      "Relationship marketing"
+    ],
+    "answer": "c",
+    "explanation": "Social marketing applies marketing tools to promote socially desirable behaviour; the societal marketing concept is a business philosophy about balancing profits, customer wants and society's interests."
+  },
+  {
+    "id": "u08-035",
+    "unit": 8,
+    "topic": "u08-t06",
+    "type": "mcq",
+    "stem": "Which of the following intermediaries takes title to the goods it deals in?",
+    "options": [
+      "Merchant wholesaler",
+      "Broker",
+      "Selling agent",
+      "Manufacturer's agent"
+    ],
+    "answer": "a",
+    "explanation": "Merchant wholesalers are independent businesses that take title to the goods; brokers and agents only facilitate buying and selling without taking title."
+  },
+  {
+    "id": "u08-036",
+    "unit": 8,
+    "topic": "u08-t09",
+    "type": "matching",
+    "stem": "Match List I (marketing approach) with List II (description):",
+    "listI": [
+      "Viral marketing",
+      "Guerrilla marketing",
+      "Cause-related marketing",
+      "Influencer marketing"
+    ],
+    "listII": [
+      "Linking the firm's contribution to a cause with customer purchases",
+      "Partnering with people who have a large social media following",
+      "Consumers pass a message along to others, like online word of mouth",
+      "Unconventional, low-cost tactics designed for maximum impact"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-2, B-4, C-1, D-3",
+      "A-3, B-4, C-1, D-2",
+      "A-3, B-4, C-2, D-1",
+      "A-3, B-2, C-1, D-4"
+    ],
+    "answer": "b",
+    "code": "A-3, B-4, C-1, D-2",
+    "explanation": "Viral marketing spreads through consumer sharing, guerrilla marketing uses surprising low-cost tactics, cause-related marketing ties sales to a cause, and influencer marketing uses popular social media personalities."
+  },
+  {
+    "id": "u08-037",
+    "unit": 8,
+    "topic": "u08-t03",
+    "type": "mcq",
+    "stem": "The number of different product lines carried by a company is known as the product mix's:",
+    "options": [
+      "Depth",
+      "Consistency",
+      "Length",
+      "Width"
+    ],
+    "answer": "d",
+    "explanation": "Width is the number of product lines; length is the total number of items, depth is the number of variants of each product, and consistency is how closely the lines are related."
+  },
+  {
+    "id": "u08-038",
+    "unit": 8,
+    "topic": "u08-t06",
+    "type": "statements",
+    "stem": "Consider the following statements about marketing channels:",
+    "items": [
+      "A zero-level channel has no intermediaries.",
+      "Manufacturer → wholesaler → retailer → consumer is a two-level channel.",
+      "Horizontal channel conflict arises between different levels of the same channel."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 and 2 only"
+    ],
+    "answer": "d",
+    "explanation": "Statements 1 and 2 are correct. Conflict between different levels (e.g. manufacturer and retailer) is vertical conflict; horizontal conflict is between firms at the same level."
+  },
+  {
+    "id": "u08-039",
+    "unit": 8,
+    "topic": "u08-t09",
+    "type": "statements",
+    "stem": "Consider the following statements about online marketing:",
+    "items": [
+      "In B2C e-commerce, businesses sell goods and services online to final consumers.",
+      "Search engine optimisation means paying the search engine for each click on a sponsored advertisement.",
+      "C2C e-commerce involves consumers selling to other consumers through online platforms.",
+      "Viral marketing relies on consumers passing marketing messages on to others."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 4 only",
+      "1, 3 and 4 only",
+      "2 and 4 only",
+      "2 and 3 only"
+    ],
+    "answer": "b",
+    "explanation": "Statements 1, 3 and 4 are correct. Paying per click on sponsored ads is pay-per-click search advertising; SEO improves a site's unpaid (organic) ranking."
+  },
+  {
+    "id": "u08-040",
+    "unit": 8,
+    "topic": "u08-t04",
+    "type": "statements",
+    "stem": "Consider the following statements about pricing:",
+    "items": [
+      "Market-skimming pricing works best when there are enough buyers with high current demand.",
+      "Skimming may attract rapid competitor entry when entry barriers are low.",
+      "When price elasticity of demand is greater than one, a price cut increases total revenue.",
+      "Going-rate pricing bases price mainly on the firm's own costs."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2, 3 and 4",
+      "2 and 3 only",
+      "1, 2 and 3 only"
+    ],
+    "answer": "d",
+    "explanation": "Statements 1, 2 and 3 are correct. Going-rate pricing is competition-oriented: the firm bases its price largely on competitors' prices."
+  },
+  {
+    "id": "u08-041",
+    "unit": 8,
+    "topic": "u08-t08",
+    "type": "statements",
+    "stem": "Consider the following statements about roles in the buying centre:",
+    "items": [
+      "Gatekeepers control the flow of information to other members of the buying centre.",
+      "Users are always the members who initiate the proposal to buy.",
+      "Influencers help define specifications and provide information for evaluating alternatives."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 3 only",
+      "1, 2 and 3",
+      "1 and 2 only",
+      "2 and 3 only"
+    ],
+    "answer": "a",
+    "explanation": "Statements 1 and 3 are correct. Users often initiate the buying proposal, but not always; initiation can come from other members."
+  },
+  {
+    "id": "u08-042",
+    "unit": 8,
+    "topic": "u08-t02",
+    "type": "ar",
+    "stem": "Assertion (A): A brand that claims too many benefits may suffer from confused positioning.",
+    "reason": "Reason (R): Buyers find it difficult to form a clear image of a brand that makes too many claims or changes its positioning too often.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "Confused positioning is a recognised positioning error; the reason it arises is that customers cannot form a clear image of the brand, so R explains A."
+  },
+  {
+    "id": "u08-043",
+    "unit": 8,
+    "topic": "u08-t03",
+    "type": "ar",
+    "stem": "Assertion (A): In the maturity stage of the product life cycle, sales growth slows down and competition intensifies.",
+    "reason": "Reason (R): By the maturity stage, most potential buyers have already adopted the product.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "Since most potential buyers have already bought the product, few new customers remain, so sales growth slows and firms fight for share; R explains A."
+  },
+  {
+    "id": "u08-044",
+    "unit": 8,
+    "topic": "u08-t01",
+    "type": "mcq",
+    "stem": "The term 'marketing mix' was first coined by:",
+    "options": [
+      "E. Jerome McCarthy",
+      "Theodore Levitt",
+      "Neil H. Borden",
+      "Philip Kotler"
+    ],
+    "answer": "c",
+    "explanation": "Neil Borden coined the term 'marketing mix'; E. Jerome McCarthy later condensed the mix into the popular 4Ps (product, price, place, promotion)."
+  },
+  {
+    "id": "u08-045",
+    "unit": 8,
+    "topic": "u08-t04",
+    "type": "matching",
+    "stem": "Match List I (pricing method) with List II (basis of price):",
+    "listI": [
+      "Cost-plus pricing",
+      "Target-return pricing",
+      "Perceived-value pricing",
+      "Going-rate pricing"
+    ],
+    "listII": [
+      "Price that yields a desired return on investment",
+      "Buyers' perception of the offer's worth",
+      "Adding a standard markup to unit cost",
+      "Prices charged by competitors"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-4, B-1, C-2, D-3",
+      "A-3, B-1, C-2, D-4",
+      "A-3, B-1, C-4, D-2",
+      "A-3, B-2, C-1, D-4"
+    ],
+    "answer": "b",
+    "code": "A-3, B-1, C-2, D-4",
+    "explanation": "Cost-plus and target-return pricing are cost-based (markup and ROI respectively), perceived-value pricing is buyer-based and going-rate pricing is competitor-based."
+  },
+  {
+    "id": "u08-046",
+    "unit": 8,
+    "topic": "u08-t04",
+    "type": "sequencing",
+    "stem": "Arrange the following steps in setting a price (as per Kotler) in the correct order:",
+    "items": [
+      "Selecting a pricing method",
+      "Estimating costs",
+      "Determining demand",
+      "Selecting the pricing objective"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "2-3-4-1",
+      "4-3-2-1",
+      "4-1-2-3",
+      "4-3-1-2"
+    ],
+    "answer": "b",
+    "code": "4-3-2-1",
+    "explanation": "Kotler's sequence: select the objective, determine demand, estimate costs, analyse competitors, select a pricing method and finally select the final price."
+  },
+  {
+    "id": "u08-047",
+    "unit": 8,
+    "topic": "u08-t06",
+    "type": "mcq",
+    "stem": "A distribution strategy in which the producer stocks its product in as many outlets as possible is:",
+    "options": [
+      "Exclusive distribution",
+      "Selective distribution",
+      "Direct distribution",
+      "Intensive distribution"
+    ],
+    "answer": "d",
+    "explanation": "Intensive distribution maximises the number of outlets and is typical for convenience goods; selective uses a few chosen outlets and exclusive only one dealer per area."
+  },
+  {
+    "id": "u08-048",
+    "unit": 8,
+    "topic": "u08-t08",
+    "type": "matching",
+    "stem": "Match List I (factor influencing consumer behaviour) with List II (example):",
+    "listI": [
+      "Cultural factors",
+      "Social factors",
+      "Personal factors",
+      "Psychological factors"
+    ],
+    "listII": [
+      "Social class and subculture",
+      "Motivation, perception and learning",
+      "Age, occupation and lifestyle",
+      "Reference groups and family"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-1, B-3, C-2, D-4",
+      "A-1, B-3, C-4, D-2",
+      "A-4, B-1, C-3, D-2",
+      "A-1, B-4, C-3, D-2"
+    ],
+    "answer": "d",
+    "code": "A-1, B-4, C-3, D-2",
+    "explanation": "In Kotler's model, culture, subculture and social class are cultural; groups, family and roles are social; age, occupation and lifestyle are personal; and motivation, perception and learning are psychological."
+  },
+  {
+    "id": "u08-049",
+    "unit": 8,
+    "topic": "u08-t03",
+    "type": "matching",
+    "stem": "Match List I (stage of the product life cycle) with List II (typical marketing objective):",
+    "listI": [
+      "Introduction",
+      "Growth",
+      "Maturity",
+      "Decline"
+    ],
+    "listII": [
+      "Create product awareness and trial",
+      "Maximise profit while defending market share",
+      "Maximise market share",
+      "Reduce expenditure and milk the brand"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-3, B-2, C-1, D-4",
+      "A-3, B-1, C-2, D-4",
+      "A-1, B-3, C-2, D-4",
+      "A-1, B-4, C-2, D-3"
+    ],
+    "answer": "c",
+    "code": "A-1, B-3, C-2, D-4",
+    "explanation": "These are the standard PLC objectives: awareness and trial at introduction, share building in growth, profit with share defence in maturity, and cost reduction/harvesting in decline."
+  },
+  {
+    "id": "u08-050",
+    "unit": 8,
+    "topic": "u08-t05",
+    "type": "statements",
+    "stem": "Consider the following statements about advertising media decisions:",
+    "items": [
+      "Reach is the percentage of the target audience exposed to the campaign at least once during a given period.",
+      "Frequency is the number of times the average person in the target market is exposed to the message.",
+      "Gross rating points are obtained by multiplying reach by average frequency.",
+      "Impact refers to the number of different media vehicles used in a campaign."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 3 only",
+      "1, 2 and 4 only",
+      "2 and 3 only",
+      "1, 3 and 4 only"
+    ],
+    "answer": "a",
+    "explanation": "Statements 1, 2 and 3 are correct. Impact is the qualitative value of an exposure through a given medium, not the number of vehicles used."
+  },
+  {
+    "id": "u08-051",
+    "unit": 8,
+    "topic": "u08-t07",
+    "type": "statements",
+    "stem": "Consider the following statements about marketing research:",
+    "items": [
+      "The marketing research process begins with defining the problem and research objectives.",
+      "The questionnaire is the most common instrument for collecting primary data.",
+      "Observational research is best suited to uncovering attitudes and motives.",
+      "Online research is generally faster and cheaper than traditional survey methods."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 4 only",
+      "3 and 4 only",
+      "2 and 3 only",
+      "2 and 4 only"
+    ],
+    "answer": "a",
+    "explanation": "Statements 1, 2 and 4 are correct. Feelings, attitudes and motives cannot be observed directly, so survey or qualitative methods suit them better than observation."
+  },
+  {
+    "id": "u08-052",
+    "unit": 8,
+    "topic": "u08-t08",
+    "type": "mcq",
+    "stem": "An organisational buying situation in which the buyer routinely reorders something without any modification is a:",
+    "options": [
+      "Systems buying",
+      "Modified rebuy",
+      "New task",
+      "Straight rebuy"
+    ],
+    "answer": "d",
+    "explanation": "A straight rebuy is a routine reorder; a modified rebuy changes specifications, prices or suppliers, and a new task is a first-time purchase."
+  },
+  {
+    "id": "u08-053",
+    "unit": 8,
+    "topic": "u08-t05",
+    "type": "sequencing",
+    "stem": "Arrange the following steps of the personal selling process in the correct order:",
+    "items": [
+      "Follow-up",
+      "Prospecting and qualifying",
+      "Presentation and demonstration",
+      "Closing",
+      "Pre-approach"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "2-5-3-4-1",
+      "4-5-3-2-1",
+      "1-5-3-4-2",
+      "2-5-4-3-1"
+    ],
+    "answer": "a",
+    "code": "2-5-3-4-1",
+    "explanation": "The salesperson identifies prospects, learns about them before the call, presents the product, closes the sale and then follows up to ensure satisfaction and repeat business."
+  },
+  {
+    "id": "u08-054",
+    "unit": 8,
+    "topic": "u08-t07",
+    "type": "matching",
+    "stem": "Match List I (research approach) with List II (description):",
+    "listI": [
+      "Observational research",
+      "Survey research",
+      "Experimental research",
+      "Focus group"
+    ],
+    "listII": [
+      "Asking people about their knowledge, attitudes and preferences",
+      "Small-group discussion guided by a trained moderator",
+      "Gathering data by watching relevant people, actions and situations",
+      "Giving matched groups different treatments while controlling other factors"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-3, B-1, C-4, D-2",
+      "A-3, B-1, C-2, D-4",
+      "A-2, B-1, C-4, D-3",
+      "A-1, B-4, C-3, D-2"
+    ],
+    "answer": "a",
+    "code": "A-3, B-1, C-4, D-2",
+    "explanation": "Observation watches behaviour, surveys ask questions, experiments manipulate treatments across matched groups, and focus groups are moderated small-group discussions."
+  },
+  {
+    "id": "u08-055",
+    "unit": 8,
+    "topic": "u08-t07",
+    "type": "ar",
+    "stem": "Assertion (A): Focus group interviewing is a qualitative marketing research technique.",
+    "reason": "Reason (R): Focus groups use large, statistically representative samples so that results can be generalised to the population.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "c",
+    "explanation": "A is true. R is false: focus groups involve a small number of participants led by a moderator, so their findings cannot be statistically generalised."
+  },
+  {
+    "id": "u08-056",
+    "unit": 8,
+    "topic": "u08-t03",
+    "type": "sequencing",
+    "stem": "Arrange the following stages of new product development in the correct order:",
+    "items": [
+      "Concept development and testing",
+      "Test marketing",
+      "Business analysis",
+      "Idea screening"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "4-1-3-2",
+      "4-2-3-1",
+      "4-3-1-2",
+      "2-1-3-4"
+    ],
+    "answer": "a",
+    "code": "4-1-3-2",
+    "explanation": "Ideas are screened first, surviving ideas become tested concepts, their sales, cost and profit prospects are analysed, and the developed product is then test-marketed."
+  },
+  {
+    "id": "u08-057",
+    "unit": 8,
+    "topic": "u08-t07",
+    "type": "sequencing",
+    "stem": "Arrange the following steps of the marketing research process in the correct order:",
+    "items": [
+      "Defining the problem and research objectives",
+      "Collecting the information",
+      "Developing the research plan",
+      "Presenting the findings",
+      "Analysing the information"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "1-5-2-3-4",
+      "3-1-2-5-4",
+      "1-3-2-5-4",
+      "1-3-5-4-2"
+    ],
+    "answer": "c",
+    "code": "1-3-2-5-4",
+    "explanation": "Research starts with the problem definition, followed by the research plan, data collection, analysis and finally the presentation of findings to decision makers."
+  },
+  {
+    "id": "u08-058",
+    "unit": 8,
+    "topic": "u08-t02",
+    "type": "ar",
+    "stem": "Assertion (A): For segmentation to be useful, segments should be measurable, substantial, accessible, differentiable and actionable.",
+    "reason": "Reason (R): Segments should be made as small as possible so that every customer receives a unique offer.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "c",
+    "explanation": "A lists the standard criteria for effective segmentation. R is false: segments must be substantial, i.e. large and profitable enough to be worth serving."
+  },
+  {
+    "id": "u08-059",
+    "unit": 8,
+    "topic": "u08-t04",
+    "type": "ar",
+    "stem": "Assertion (A): Penetration pricing is suitable when the market is highly price-sensitive.",
+    "reason": "Reason (R): A low initial price can stimulate market growth and discourage actual and potential competition.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "When demand is price-sensitive, a low price expands the market quickly and deters rivals; that is why penetration pricing suits such markets, so R explains A."
+  },
+  {
+    "id": "u08-060",
+    "unit": 8,
+    "topic": "u08-t06",
+    "type": "statements",
+    "stem": "Consider the following statements about retail formats:",
+    "items": [
+      "Category killers carry a wide variety of product categories with shallow assortments.",
+      "Hypermarkets combine supermarket and discount store features in a very large selling area.",
+      "Specialty stores carry narrow product lines with deep assortments."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 3",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1 and 2 only"
+    ],
+    "answer": "c",
+    "explanation": "Statements 2 and 3 are correct. A category killer is a giant specialty store carrying a very deep assortment within a narrow category."
+  }
+]

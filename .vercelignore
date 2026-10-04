@@ -1,0 +1,6 @@
+# Never upload local databases or test output
+local.db*
+test-e2e.db*
+test-results
+playwright-report
+.next

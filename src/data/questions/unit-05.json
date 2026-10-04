@@ -1,0 +1,1207 @@
+[
+  {
+    "id": "u05-001",
+    "unit": 5,
+    "topic": "u05-t09",
+    "type": "ar",
+    "stem": "Assertion (A): Factor analysis is an interdependence technique.",
+    "reason": "Reason (R): Factor analysis does not classify variables as dependent or independent; it examines the inter-relationships among all the variables together.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "Both are true, and R explains A: a technique is called 'interdependence' precisely because no variable is treated as dependent and all are analysed together."
+  },
+  {
+    "id": "u05-002",
+    "unit": 5,
+    "topic": "u05-t08",
+    "type": "sequencing",
+    "stem": "Arrange the following steps of testing a hypothesis in the correct order:",
+    "items": [
+      "Specify the level of significance",
+      "Compute the test statistic from the sample data",
+      "Formulate the null and alternative hypotheses",
+      "Compare the computed value with the critical value",
+      "Decide whether to reject or not reject the null hypothesis"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "2-1-3-4-5",
+      "3-5-4-2-1",
+      "3-1-2-4-5",
+      "5-1-2-3-4"
+    ],
+    "answer": "c",
+    "code": "3-1-2-4-5",
+    "explanation": "Hypotheses and α are fixed before looking at the data. The test statistic is then computed and compared with the critical value, and the decision on H0 comes last."
+  },
+  {
+    "id": "u05-003",
+    "unit": 5,
+    "topic": "u05-t08",
+    "type": "statements",
+    "stem": "Consider the following statements:",
+    "items": [
+      "The t-test is appropriate when the sample is small and the population standard deviation is unknown.",
+      "The F-test is used to compare the variances of two populations.",
+      "Analysis of variance (ANOVA) is used to compare the means of three or more groups.",
+      "The level of significance is the probability of committing a Type II error."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 2 and 3 only",
+      "1, 3 and 4 only"
+    ],
+    "answer": "c",
+    "explanation": "Statements 1–3 are standard uses of the t, F and ANOVA tests. The level of significance (α) is the probability of a Type I error, not a Type II error."
+  },
+  {
+    "id": "u05-004",
+    "unit": 5,
+    "topic": "u05-t01",
+    "type": "statements",
+    "stem": "Consider the following statements about measures of dispersion:",
+    "items": [
+      "The coefficient of variation is a relative measure used to compare the variability of series expressed in different units.",
+      "Standard deviation is unaffected by a change of origin but is affected by a change of scale.",
+      "Range is based on all the observations of a series."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 and 2 only"
+    ],
+    "answer": "d",
+    "explanation": "CV = (σ/mean) × 100 is unit-free, so it compares series in different units; adding a constant does not change σ but multiplying by a constant does. Range uses only the largest and smallest values, so statement 3 is false."
+  },
+  {
+    "id": "u05-005",
+    "unit": 5,
+    "topic": "u05-t02",
+    "type": "matching",
+    "stem": "Match List I (measure) with List II (formula):",
+    "listI": [
+      "Spearman's rank correlation",
+      "Coefficient of determination",
+      "Probable error of r",
+      "Regression coefficient of Y on X"
+    ],
+    "listII": [
+      "1 − 6Σd² / [n(n² − 1)]",
+      "0.6745 (1 − r²) / √n",
+      "r²",
+      "r · σy / σx"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-1, B-4, C-2, D-3",
+      "A-2, B-1, C-3, D-4",
+      "A-3, B-2, C-1, D-4",
+      "A-1, B-3, C-2, D-4"
+    ],
+    "answer": "d",
+    "code": "A-1, B-3, C-2, D-4",
+    "explanation": "Spearman's ρ uses squared rank differences; the coefficient of determination is the square of r; the probable error of r is 0.6745 times its standard error (1 − r²)/√n; byx = r σy/σx."
+  },
+  {
+    "id": "u05-006",
+    "unit": 5,
+    "topic": "u05-t07",
+    "type": "ar",
+    "stem": "Assertion (A): Increasing the sample size reduces the standard error of the sample mean.",
+    "reason": "Reason (R): The standard error of the mean equals σ/√n and is therefore inversely proportional to the square root of the sample size.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "Both are true, and R explains A directly: as n increases, √n increases, so σ/√n falls."
+  },
+  {
+    "id": "u05-007",
+    "unit": 5,
+    "topic": "u05-t09",
+    "type": "statements",
+    "stem": "Consider the following statements:",
+    "items": [
+      "Multiple regression has one metric dependent variable and two or more independent variables.",
+      "Discriminant analysis requires a categorical dependent variable.",
+      "A dendrogram is the typical graphical output of factor analysis.",
+      "The Kaiser–Meyer–Olkin (KMO) measure assesses sampling adequacy for factor analysis."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 3 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2 and 4 only"
+    ],
+    "answer": "d",
+    "explanation": "A dendrogram (tree diagram) is produced in hierarchical cluster analysis, not factor analysis, so 3 is false. The other statements are correct."
+  },
+  {
+    "id": "u05-008",
+    "unit": 5,
+    "topic": "u05-t10",
+    "type": "statements",
+    "stem": "Consider the following statements about a research report:",
+    "items": [
+      "Footnotes are used to acknowledge sources and to give supplementary information.",
+      "Appendices contain detailed material such as questionnaires and raw tables that are not essential to the main text.",
+      "A research report should state the limitations of the study.",
+      "The findings section should include the researcher's personal opinions even when the data do not support them."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 3 and 4 only",
+      "1, 2 and 3 only"
+    ],
+    "answer": "d",
+    "explanation": "Statements 1–3 are accepted conventions. Findings must be objective and rest on the data, so statement 4 is false."
+  },
+  {
+    "id": "u05-009",
+    "unit": 5,
+    "topic": "u05-t02",
+    "type": "sequencing",
+    "stem": "Arrange the following steps in computing Spearman's rank correlation coefficient in the correct order:",
+    "items": [
+      "Apply the formula ρ = 1 − 6Σd² / [n(n² − 1)]",
+      "Find the difference (d) between the paired ranks",
+      "Square the differences and obtain Σd²",
+      "Assign ranks to the observations of each variable"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "4-2-3-1",
+      "3-2-4-1",
+      "4-2-1-3",
+      "4-3-2-1"
+    ],
+    "answer": "a",
+    "code": "4-2-3-1",
+    "explanation": "Ranks are assigned first, then rank differences are found, squared and summed, and finally Σd² is substituted into Spearman's formula."
+  },
+  {
+    "id": "u05-010",
+    "unit": 5,
+    "topic": "u05-t03",
+    "type": "statements",
+    "stem": "Consider the following statements about probability:",
+    "items": [
+      "The probability of any event lies between 0 and 1, both inclusive.",
+      "Bayes' theorem is used to revise prior probabilities in the light of new information to obtain posterior probabilities.",
+      "The classical definition of probability assumes that all outcomes are equally likely."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 and 3 only"
+    ],
+    "answer": "c",
+    "explanation": "All three are standard results: 0 ≤ P(E) ≤ 1; Bayes' theorem converts prior into posterior probabilities; and the classical (a priori) approach requires equally likely outcomes."
+  },
+  {
+    "id": "u05-011",
+    "unit": 5,
+    "topic": "u05-t09",
+    "type": "statements",
+    "stem": "Consider the following statements about multivariate techniques:",
+    "items": [
+      "In factor analysis, the eigenvalue of a factor indicates the amount of variance it explains.",
+      "Under the Kaiser criterion, factors with an eigenvalue greater than 1 are retained.",
+      "Conjoint analysis estimates the part-worth utilities of product attributes."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 and 3 only"
+    ],
+    "answer": "b",
+    "explanation": "All three are correct: eigenvalues measure the variance explained, the Kaiser (latent root) criterion keeps factors with eigenvalue > 1, and conjoint analysis estimates the utility of each attribute level."
+  },
+  {
+    "id": "u05-012",
+    "unit": 5,
+    "topic": "u05-t07",
+    "type": "matching",
+    "stem": "Match List I (sampling method) with List II (feature):",
+    "listI": [
+      "Simple random sampling",
+      "Stratified sampling",
+      "Cluster sampling",
+      "Systematic sampling"
+    ],
+    "listII": [
+      "Population divided into homogeneous sub-groups and a sample drawn from each",
+      "Groups selected at random and all units in the chosen groups studied",
+      "Every kth unit selected from an ordered list",
+      "Every unit has an equal chance of selection"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-2, B-1, C-3, D-4",
+      "A-2, B-3, C-4, D-1",
+      "A-4, B-1, C-2, D-3",
+      "A-4, B-3, C-1, D-2"
+    ],
+    "answer": "c",
+    "code": "A-4, B-1, C-2, D-3",
+    "explanation": "These are the defining features: equal chance (simple random), sampling within strata (stratified), whole groups selected (cluster), and a fixed interval k (systematic)."
+  },
+  {
+    "id": "u05-013",
+    "unit": 5,
+    "topic": "u05-t05",
+    "type": "statements",
+    "stem": "Consider the following statements about types of research:",
+    "items": [
+      "Applied research aims at finding a solution to an immediate practical problem.",
+      "Fundamental research is mainly concerned with generalisations and the formulation of theory.",
+      "A longitudinal study observes a sample only once, at a single point in time.",
+      "Descriptive research answers questions such as who, what, when, where and how."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 4 only",
+      "1 and 2 only",
+      "1, 3 and 4 only",
+      "2, 3 and 4 only"
+    ],
+    "answer": "a",
+    "explanation": "Statements 1, 2 and 4 are correct. A longitudinal study observes the same units repeatedly over a period; one observation at a single point in time is a cross-sectional study."
+  },
+  {
+    "id": "u05-014",
+    "unit": 5,
+    "topic": "u05-t06",
+    "type": "matching",
+    "stem": "Match List I (scale) with List II (description):",
+    "listI": [
+      "Likert scale",
+      "Thurstone scale",
+      "Guttman scale",
+      "Bogardus scale"
+    ],
+    "listII": [
+      "Social distance scale",
+      "Summated rating scale",
+      "Method of equal-appearing intervals",
+      "Cumulative scale based on scalogram analysis"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-2, B-3, C-4, D-1",
+      "A-2, B-1, C-4, D-3",
+      "A-3, B-2, C-4, D-1",
+      "A-4, B-3, C-2, D-1"
+    ],
+    "answer": "a",
+    "code": "A-2, B-3, C-4, D-1",
+    "explanation": "Likert developed the summated rating method; Thurstone the equal-appearing interval technique; Guttman the cumulative scalogram; Bogardus the social distance scale."
+  },
+  {
+    "id": "u05-015",
+    "unit": 5,
+    "topic": "u05-t10",
+    "type": "mcq",
+    "stem": "In a research report, a bibliography differs from a list of references in that:",
+    "options": [
+      "A bibliography lists all works consulted, whereas references list only works cited in the text",
+      "A bibliography lists only works cited, whereas references list all works consulted",
+      "A bibliography is placed at the beginning, whereas references come at the end",
+      "A bibliography contains only books, whereas references contain only journal articles"
+    ],
+    "answer": "a",
+    "explanation": "References are limited to sources actually cited in the text. A bibliography can also include other works the researcher consulted."
+  },
+  {
+    "id": "u05-016",
+    "unit": 5,
+    "topic": "u05-t02",
+    "type": "mcq",
+    "stem": "If the regression coefficient of X on Y is 0.4 and that of Y on X is 0.9, the coefficient of correlation between X and Y is:",
+    "options": [
+      "0.36",
+      "0.60",
+      "0.65",
+      "1.30"
+    ],
+    "answer": "b",
+    "explanation": "r = √(bxy × byx) = √(0.4 × 0.9) = √0.36 = 0.6, taking the positive sign because both regression coefficients are positive. 0.36 is r², not r."
+  },
+  {
+    "id": "u05-017",
+    "unit": 5,
+    "topic": "u05-t02",
+    "type": "ar",
+    "stem": "Assertion (A): A coefficient of correlation of zero does not necessarily mean that the two variables are unrelated.",
+    "reason": "Reason (R): Karl Pearson's coefficient of correlation measures only the degree of linear relationship between two variables.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "Both are true, and R explains A: since r captures only linear association, two variables with a strong curvilinear (e.g. U-shaped) relationship can still give r = 0."
+  },
+  {
+    "id": "u05-018",
+    "unit": 5,
+    "topic": "u05-t10",
+    "type": "sequencing",
+    "stem": "Arrange the following parts of a research report in the order in which they appear:",
+    "items": [
+      "Appendices",
+      "Analysis and findings",
+      "Table of contents",
+      "Introduction and research methodology",
+      "Title page"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "4-3-5-2-1",
+      "5-3-2-4-1",
+      "5-3-4-2-1",
+      "5-4-2-3-1"
+    ],
+    "answer": "c",
+    "code": "5-3-4-2-1",
+    "explanation": "Preliminary pages (title page, then contents) come first, followed by the main text (introduction, then analysis and findings), and the end matter such as appendices comes last."
+  },
+  {
+    "id": "u05-019",
+    "unit": 5,
+    "topic": "u05-t08",
+    "type": "ar",
+    "stem": "Assertion (A): The chi-square test is a parametric test.",
+    "reason": "Reason (R): The chi-square test of independence does not require assumptions about population parameters such as normality.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "d",
+    "explanation": "A is false: the chi-square test (independence or goodness of fit) is treated as a non-parametric, distribution-free test. R is true and is the very reason it is classed as non-parametric."
+  },
+  {
+    "id": "u05-020",
+    "unit": 5,
+    "topic": "u05-t05",
+    "type": "ar",
+    "stem": "Assertion (A): Exploratory research usually uses a flexible and unstructured design.",
+    "reason": "Reason (R): Exploratory research is conducted mainly to test hypotheses already formulated.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "c",
+    "explanation": "A is true. R is false: exploratory research aims to gain insights and to formulate problems and hypotheses. Testing hypotheses is the job of conclusive (causal or experimental) research."
+  },
+  {
+    "id": "u05-021",
+    "unit": 5,
+    "topic": "u05-t02",
+    "type": "mcq",
+    "stem": "The two regression lines, Y on X and X on Y, intersect at the point:",
+    "options": [
+      "(0, 0)",
+      "(Median of X, Median of Y)",
+      "(σx, σy)",
+      "(Mean of X, Mean of Y)"
+    ],
+    "answer": "d",
+    "explanation": "Both regression lines pass through the point of means (X̄, Ȳ), so that is where they intersect."
+  },
+  {
+    "id": "u05-022",
+    "unit": 5,
+    "topic": "u05-t03",
+    "type": "ar",
+    "stem": "Assertion (A): Two mutually exclusive events, each with a non-zero probability, cannot be independent.",
+    "reason": "Reason (R): Two events are said to be exhaustive if their union is the entire sample space.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "b",
+    "explanation": "A is true: for mutually exclusive events P(A ∩ B) = 0, while independence needs P(A ∩ B) = P(A)P(B) > 0. R is a correct definition of exhaustive events, but it says nothing about why exclusivity rules out independence."
+  },
+  {
+    "id": "u05-023",
+    "unit": 5,
+    "topic": "u05-t09",
+    "type": "ar",
+    "stem": "Assertion (A): Cluster analysis requires the groups to be defined before the analysis begins.",
+    "reason": "Reason (R): Cluster analysis groups objects so that similarity is high within clusters and low between clusters.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "d",
+    "explanation": "A is false: in cluster analysis the groups are not known in advance but come out of the analysis (predefined groups are a feature of discriminant analysis). R correctly states the aim of clustering."
+  },
+  {
+    "id": "u05-024",
+    "unit": 5,
+    "topic": "u05-t04",
+    "type": "statements",
+    "stem": "Consider the following statements about the normal distribution:",
+    "items": [
+      "It is symmetrical, and its mean, median and mode coincide.",
+      "Its coefficient of skewness is zero and it is mesokurtic (β2 = 3).",
+      "The normal curve touches the X-axis at μ ± 3σ."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 3 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "b",
+    "explanation": "The normal curve is symmetrical and mesokurtic. It is asymptotic to the X-axis: it approaches but never touches the axis, so statement 3 is false."
+  },
+  {
+    "id": "u05-025",
+    "unit": 5,
+    "topic": "u05-t09",
+    "type": "mcq",
+    "stem": "Which multivariate technique is used to classify objects into predefined groups on the basis of a set of predictor variables?",
+    "options": [
+      "Discriminant analysis",
+      "Cluster analysis",
+      "Factor analysis",
+      "Conjoint analysis"
+    ],
+    "answer": "a",
+    "explanation": "Discriminant analysis predicts membership of known, predefined groups (a categorical dependent variable). Cluster analysis forms groups that are not known in advance."
+  },
+  {
+    "id": "u05-026",
+    "unit": 5,
+    "topic": "u05-t06",
+    "type": "mcq",
+    "stem": "Which scale of measurement possesses a true (absolute) zero point?",
+    "options": [
+      "Ratio scale",
+      "Nominal scale",
+      "Ordinal scale",
+      "Interval scale"
+    ],
+    "answer": "a",
+    "explanation": "Only the ratio scale has an absolute zero, so ratios such as 'twice as much' are meaningful. An interval scale (e.g. temperature in °C) has an arbitrary zero."
+  },
+  {
+    "id": "u05-027",
+    "unit": 5,
+    "topic": "u05-t10",
+    "type": "ar",
+    "stem": "Assertion (A): A research report usually begins with an executive summary.",
+    "reason": "Reason (R): The bibliography is placed in the end matter of a research report.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "b",
+    "explanation": "Both statements are true, but where the bibliography goes has nothing to do with why an executive summary comes first (so that busy readers get the key findings at once)."
+  },
+  {
+    "id": "u05-028",
+    "unit": 5,
+    "topic": "u05-t01",
+    "type": "mcq",
+    "stem": "The mean of five observations is 20. If one observation, 30, is removed, what is the mean of the remaining four observations?",
+    "options": [
+      "18.0",
+      "17.5",
+      "16.5",
+      "20.0"
+    ],
+    "answer": "b",
+    "explanation": "Total of five observations = 5 × 20 = 100. After removing 30, total = 70, so the new mean = 70 ÷ 4 = 17.5."
+  },
+  {
+    "id": "u05-029",
+    "unit": 5,
+    "topic": "u05-t04",
+    "type": "mcq",
+    "stem": "In a normal distribution, approximately what percentage of the total area lies within μ ± 2σ?",
+    "options": [
+      "68.27%",
+      "95.45%",
+      "99.73%",
+      "90.00%"
+    ],
+    "answer": "b",
+    "explanation": "About 68.27% of the area lies within μ ± 1σ, 95.45% within μ ± 2σ and 99.73% within μ ± 3σ."
+  },
+  {
+    "id": "u05-030",
+    "unit": 5,
+    "topic": "u05-t05",
+    "type": "mcq",
+    "stem": "A research design in which the researcher manipulates the independent variable and randomly assigns subjects to treatment and control groups is called:",
+    "options": [
+      "Exploratory design",
+      "Ex post facto design",
+      "Cross-sectional descriptive design",
+      "True experimental design"
+    ],
+    "answer": "d",
+    "explanation": "Manipulation of the independent variable plus random assignment defines a true experiment. In ex post facto research the variable has already acted and cannot be manipulated."
+  },
+  {
+    "id": "u05-031",
+    "unit": 5,
+    "topic": "u05-t05",
+    "type": "ar",
+    "stem": "Assertion (A): In ex post facto research, the researcher manipulates the independent variable.",
+    "reason": "Reason (R): Ex post facto research studies effects that have already occurred and tries to trace their possible causes.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "d",
+    "explanation": "A is false: 'ex post facto' means 'after the fact', so the researcher cannot control or manipulate the variables. R correctly describes this type of research."
+  },
+  {
+    "id": "u05-032",
+    "unit": 5,
+    "topic": "u05-t04",
+    "type": "mcq",
+    "stem": "For a binomial distribution with n = 10 and p = 0.4, the mean and variance are:",
+    "options": [
+      "Mean = 4, Variance = 6",
+      "Mean = 2.4, Variance = 4",
+      "Mean = 6, Variance = 2.4",
+      "Mean = 4, Variance = 2.4"
+    ],
+    "answer": "d",
+    "explanation": "Mean = np = 10 × 0.4 = 4; Variance = npq = 10 × 0.4 × 0.6 = 2.4. In a binomial distribution the variance is always less than the mean."
+  },
+  {
+    "id": "u05-033",
+    "unit": 5,
+    "topic": "u05-t06",
+    "type": "ar",
+    "stem": "Assertion (A): Secondary data should be used only after checking them for reliability, suitability and adequacy.",
+    "reason": "Reason (R): Secondary data are always collected by the researcher specifically for the present study.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "c",
+    "explanation": "A is true: data collected by others for another purpose may not fit the present study. R is false because that description fits primary data; secondary data were collected earlier by someone else."
+  },
+  {
+    "id": "u05-034",
+    "unit": 5,
+    "topic": "u05-t03",
+    "type": "matching",
+    "stem": "Match List I (approach to probability) with List II (basis):",
+    "listI": [
+      "Classical approach",
+      "Relative frequency approach",
+      "Subjective approach",
+      "Axiomatic approach"
+    ],
+    "listII": [
+      "Set of axioms laid down by Kolmogorov",
+      "Limiting proportion of occurrence in a large number of repeated trials",
+      "Personal degree of belief of the decision-maker",
+      "Ratio of favourable to equally likely outcomes, known a priori"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-1, B-2, C-4, D-3",
+      "A-4, B-2, C-1, D-3",
+      "A-4, B-2, C-3, D-1",
+      "A-4, B-3, C-2, D-1"
+    ],
+    "answer": "c",
+    "code": "A-4, B-2, C-3, D-1",
+    "explanation": "The classical approach counts equally likely outcomes; the empirical approach uses long-run relative frequency; the subjective approach reflects personal judgement; the axiomatic approach (Kolmogorov, 1933) defines probability through axioms."
+  },
+  {
+    "id": "u05-035",
+    "unit": 5,
+    "topic": "u05-t01",
+    "type": "matching",
+    "stem": "Match List I (measure) with List II (formula):",
+    "listI": [
+      "Quartile deviation",
+      "Coefficient of variation",
+      "Karl Pearson's coefficient of skewness",
+      "Bowley's coefficient of skewness"
+    ],
+    "listII": [
+      "(Q3 − Q1) / 2",
+      "(Mean − Mode) / σ",
+      "(Q3 + Q1 − 2 Median) / (Q3 − Q1)",
+      "(σ / Mean) × 100"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-1, B-2, C-4, D-3",
+      "A-1, B-4, C-3, D-2",
+      "A-1, B-4, C-2, D-3",
+      "A-2, B-4, C-3, D-1"
+    ],
+    "answer": "c",
+    "code": "A-1, B-4, C-2, D-3",
+    "explanation": "Quartile deviation is the semi-interquartile range; CV expresses σ as a percentage of the mean; Karl Pearson's skewness uses mean, mode and σ; Bowley's skewness is based on quartiles and the median."
+  },
+  {
+    "id": "u05-036",
+    "unit": 5,
+    "topic": "u05-t01",
+    "type": "sequencing",
+    "stem": "For the data 2, 3, 3, 5, 7, 10, arrange the following measures in ascending order of their value:",
+    "items": [
+      "Range",
+      "Median",
+      "Arithmetic mean",
+      "Mode"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "1-3-2-4",
+      "2-4-1-3",
+      "4-2-1-3",
+      "4-2-3-1"
+    ],
+    "answer": "d",
+    "code": "4-2-3-1",
+    "explanation": "Mode = 3 (most frequent); Median = (3 + 5)/2 = 4; Mean = 30/6 = 5; Range = 10 − 2 = 8. So ascending order is Mode < Median < Mean < Range."
+  },
+  {
+    "id": "u05-037",
+    "unit": 5,
+    "topic": "u05-t02",
+    "type": "statements",
+    "stem": "Consider the following statements:",
+    "items": [
+      "Karl Pearson's coefficient of correlation is independent of change of origin.",
+      "Both regression coefficients must have the same sign.",
+      "Spearman's rank correlation coefficient lies between −1 and +1.",
+      "The regression coefficient of Y on X is independent of change of scale."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 3 and 4 only"
+    ],
+    "answer": "b",
+    "explanation": "Statements 1–3 are standard properties (both regression coefficients share the sign of r). Regression coefficients are independent of change of origin but not of scale, so statement 4 is false."
+  },
+  {
+    "id": "u05-038",
+    "unit": 5,
+    "topic": "u05-t05",
+    "type": "matching",
+    "stem": "Match List I (term in experimental design) with List II (meaning):",
+    "listI": [
+      "Independent variable",
+      "Dependent variable",
+      "Extraneous variable",
+      "Control group"
+    ],
+    "listII": [
+      "Variable outside the study that may affect the outcome",
+      "Group not exposed to the experimental treatment",
+      "Variable manipulated by the researcher",
+      "Variable measured to observe the effect of the treatment"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-3, B-4, C-1, D-2",
+      "A-1, B-4, C-3, D-2",
+      "A-2, B-3, C-1, D-4",
+      "A-3, B-2, C-4, D-1"
+    ],
+    "answer": "a",
+    "code": "A-3, B-4, C-1, D-2",
+    "explanation": "The researcher changes the independent variable and measures its effect on the dependent variable. Extraneous variables must be controlled, and the control group gives a baseline for comparison."
+  },
+  {
+    "id": "u05-039",
+    "unit": 5,
+    "topic": "u05-t08",
+    "type": "mcq",
+    "stem": "A Type I error is committed when:",
+    "options": [
+      "A true null hypothesis is rejected",
+      "A false null hypothesis is accepted",
+      "A false null hypothesis is rejected",
+      "A true null hypothesis is accepted"
+    ],
+    "answer": "a",
+    "explanation": "Type I error = rejecting H0 when it is true; its probability is the level of significance α. Accepting a false H0 is a Type II error (β)."
+  },
+  {
+    "id": "u05-040",
+    "unit": 5,
+    "topic": "u05-t07",
+    "type": "statements",
+    "stem": "Consider the following statements about estimation:",
+    "items": [
+      "An estimator is unbiased if its expected value equals the population parameter.",
+      "Sampling error can be completely eliminated even when the sample is smaller than the population.",
+      "An estimator is consistent if it approaches the population parameter as the sample size increases."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "b",
+    "explanation": "Unbiasedness and consistency are defined as in statements 1 and 3. Sampling error can be reduced by a larger sample, but it is fully removed only by a complete census, so 2 is false."
+  },
+  {
+    "id": "u05-041",
+    "unit": 5,
+    "topic": "u05-t10",
+    "type": "sequencing",
+    "stem": "Arrange the following steps in writing a research report in the correct order:",
+    "items": [
+      "Rewriting and polishing the rough draft",
+      "Preparation of the rough draft",
+      "Logical analysis of the subject matter",
+      "Preparation of the final outline",
+      "Writing the final draft"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "1-4-2-5-3",
+      "3-4-5-1-2",
+      "5-4-2-1-3",
+      "3-4-2-1-5"
+    ],
+    "answer": "d",
+    "code": "3-4-2-1-5",
+    "explanation": "The subject matter is analysed first and an outline prepared. A rough draft is written from the outline, then revised and polished, and the final draft is written last."
+  },
+  {
+    "id": "u05-042",
+    "unit": 5,
+    "topic": "u05-t01",
+    "type": "mcq",
+    "stem": "In a moderately skewed distribution the mean is 40 and the median is 38. Using the empirical relationship between mean, median and mode, the mode is approximately:",
+    "options": [
+      "34",
+      "36",
+      "42",
+      "44"
+    ],
+    "answer": "a",
+    "explanation": "Mode = 3 Median − 2 Mean = 3(38) − 2(40) = 114 − 80 = 34. The mode lies below the median, as expected when mean > median (positive skew)."
+  },
+  {
+    "id": "u05-043",
+    "unit": 5,
+    "topic": "u05-t04",
+    "type": "matching",
+    "stem": "Match List I (distribution) with List II (feature):",
+    "listI": [
+      "Binomial distribution",
+      "Poisson distribution",
+      "Normal distribution",
+      "Standard normal distribution"
+    ],
+    "listII": [
+      "Fixed number of independent trials, each with two possible outcomes",
+      "Continuous, bell-shaped and asymptotic to the X-axis",
+      "Mean 0 and standard deviation 1",
+      "Mean equals variance"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-3, B-1, C-2, D-4",
+      "A-3, B-4, C-2, D-1",
+      "A-4, B-3, C-2, D-1",
+      "A-1, B-4, C-2, D-3"
+    ],
+    "answer": "d",
+    "code": "A-1, B-4, C-2, D-3",
+    "explanation": "The binomial describes successes in n independent Bernoulli trials; the Poisson has mean = variance = m; the normal is a continuous bell-shaped curve; the standard normal is the normal curve with μ = 0 and σ = 1."
+  },
+  {
+    "id": "u05-044",
+    "unit": 5,
+    "topic": "u05-t10",
+    "type": "statements",
+    "stem": "Consider the following statements about types of research reports:",
+    "items": [
+      "A popular report stresses simplicity and is meant for the general public.",
+      "A technical report gives full details of methods, assumptions and findings.",
+      "An interim report is submitted only after the entire project has been completed."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 3 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "b",
+    "explanation": "Popular reports are simple and non-technical, while technical reports are detailed. An interim report is submitted while the project is still in progress, so statement 3 is false."
+  },
+  {
+    "id": "u05-045",
+    "unit": 5,
+    "topic": "u05-t06",
+    "type": "mcq",
+    "stem": "The scaling technique in which respondents rate an object on a seven-point continuum between two bipolar adjectives (e.g. good–bad) is:",
+    "options": [
+      "Likert scale",
+      "Semantic differential scale",
+      "Thurstone scale",
+      "Guttman scalogram"
+    ],
+    "answer": "b",
+    "explanation": "The semantic differential (Osgood and associates) uses bipolar adjective pairs. A Likert scale asks for degrees of agreement with statements."
+  },
+  {
+    "id": "u05-046",
+    "unit": 5,
+    "topic": "u05-t07",
+    "type": "sequencing",
+    "stem": "Arrange the following steps in developing a sample design in the correct order:",
+    "items": [
+      "Define the target population",
+      "Choose the sampling method",
+      "Select the sample units",
+      "Determine the sample size",
+      "Specify the sampling frame"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "1-5-2-4-3",
+      "1-2-5-3-4",
+      "2-5-1-4-3",
+      "5-2-1-4-3"
+    ],
+    "answer": "a",
+    "code": "1-5-2-4-3",
+    "explanation": "The population is defined first, then a list (frame) of its units is obtained. Next the method of selection is chosen and the size fixed, and finally the units are drawn."
+  },
+  {
+    "id": "u05-047",
+    "unit": 5,
+    "topic": "u05-t03",
+    "type": "mcq",
+    "stem": "Machine M1 produces 60% of a factory's output, of which 2% is defective; machine M2 produces the remaining 40%, of which 3% is defective. An item picked at random is found defective. The probability that it was produced by M1 is:",
+    "options": [
+      "1/2",
+      "3/5",
+      "2/5",
+      "1/3"
+    ],
+    "answer": "a",
+    "explanation": "By Bayes' theorem: P(M1|D) = (0.6 × 0.02) / (0.6 × 0.02 + 0.4 × 0.03) = 0.012 / (0.012 + 0.012) = 0.5."
+  },
+  {
+    "id": "u05-048",
+    "unit": 5,
+    "topic": "u05-t03",
+    "type": "mcq",
+    "stem": "A and B are independent events with P(A) = 0.5 and P(B) = 0.4. What is P(A ∪ B)?",
+    "options": [
+      "0.9",
+      "0.2",
+      "0.7",
+      "0.8"
+    ],
+    "answer": "c",
+    "explanation": "P(A ∩ B) = 0.5 × 0.4 = 0.2 for independent events. P(A ∪ B) = 0.5 + 0.4 − 0.2 = 0.7. 0.9 ignores the overlap."
+  },
+  {
+    "id": "u05-049",
+    "unit": 5,
+    "topic": "u05-t06",
+    "type": "sequencing",
+    "stem": "Arrange the following levels of measurement in increasing order of the information (mathematical properties) they contain:",
+    "items": [
+      "Interval",
+      "Ratio",
+      "Nominal",
+      "Ordinal"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "1-4-3-2",
+      "3-4-1-2",
+      "3-4-2-1",
+      "4-3-1-2"
+    ],
+    "answer": "b",
+    "code": "3-4-1-2",
+    "explanation": "Nominal scales only classify; ordinal adds rank order; interval adds equal distances between units; ratio adds an absolute zero, allowing all arithmetic operations."
+  },
+  {
+    "id": "u05-050",
+    "unit": 5,
+    "topic": "u05-t01",
+    "type": "ar",
+    "stem": "Assertion (A): In a positively skewed distribution, the mean is greater than the median.",
+    "reason": "Reason (R): In a positively skewed distribution, the longer tail of the curve lies to the left.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "c",
+    "explanation": "A is true: in positive skew the mean > median > mode. R is false: in a positively skewed distribution the longer tail extends to the right, and it is these high values that pull the mean up."
+  },
+  {
+    "id": "u05-051",
+    "unit": 5,
+    "topic": "u05-t09",
+    "type": "matching",
+    "stem": "Match List I (technique) with List II (typical use):",
+    "listI": [
+      "Factor analysis",
+      "Cluster analysis",
+      "Discriminant analysis",
+      "Conjoint analysis"
+    ],
+    "listII": [
+      "Predicting group membership such as defaulter / non-defaulter",
+      "Reducing many variables to a few underlying dimensions",
+      "Grouping similar respondents for market segmentation",
+      "Measuring the trade-offs consumers make among product attributes"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-1, B-2, C-3, D-4",
+      "A-2, B-3, C-1, D-4",
+      "A-3, B-2, C-4, D-1",
+      "A-4, B-3, C-1, D-2"
+    ],
+    "answer": "b",
+    "code": "A-2, B-3, C-1, D-4",
+    "explanation": "Factor analysis reduces data; cluster analysis forms homogeneous groups; discriminant analysis predicts which known group a case belongs to; conjoint analysis estimates attribute utilities and trade-offs."
+  },
+  {
+    "id": "u05-052",
+    "unit": 5,
+    "topic": "u05-t04",
+    "type": "ar",
+    "stem": "Assertion (A): In a Poisson distribution, the mean and the variance are equal.",
+    "reason": "Reason (R): The Poisson distribution is a discrete probability distribution.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "b",
+    "explanation": "Both statements are true. But being discrete does not explain why mean = variance (the binomial is also discrete and its variance is less than its mean), so R is not the correct explanation."
+  },
+  {
+    "id": "u05-053",
+    "unit": 5,
+    "topic": "u05-t03",
+    "type": "mcq",
+    "stem": "Two fair dice are thrown together. What is the probability that the sum of the numbers shown is 8?",
+    "options": [
+      "1/6",
+      "1/9",
+      "5/36",
+      "7/36"
+    ],
+    "answer": "c",
+    "explanation": "Favourable outcomes: (2,6), (3,5), (4,4), (5,3), (6,2) = 5 out of 36 equally likely outcomes, so P = 5/36."
+  },
+  {
+    "id": "u05-054",
+    "unit": 5,
+    "topic": "u05-t04",
+    "type": "sequencing",
+    "stem": "Arrange the following steps for finding a probability using the normal distribution table in the correct order:",
+    "items": [
+      "Add or subtract areas to obtain the required probability",
+      "Convert the value of X into a standard score Z = (X − μ)/σ",
+      "Identify the mean (μ) and standard deviation (σ) of the distribution",
+      "Read the area corresponding to Z from the standard normal table"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "1-2-4-3",
+      "4-2-1-3",
+      "3-2-4-1",
+      "4-2-3-1"
+    ],
+    "answer": "c",
+    "code": "3-2-4-1",
+    "explanation": "The parameters are needed to standardise X; the Z value is then looked up in the table, and the table areas are combined to get the required probability."
+  },
+  {
+    "id": "u05-055",
+    "unit": 5,
+    "topic": "u05-t08",
+    "type": "mcq",
+    "stem": "Which non-parametric test is the alternative to the independent two-sample t-test?",
+    "options": [
+      "Kruskal–Wallis H test",
+      "Mann–Whitney U test",
+      "Wilcoxon signed-rank test",
+      "Friedman test"
+    ],
+    "answer": "b",
+    "explanation": "The Mann–Whitney U test compares two independent samples. Wilcoxon signed-rank is for paired samples; Kruskal–Wallis is for three or more independent samples; Friedman is for repeated measures."
+  },
+  {
+    "id": "u05-056",
+    "unit": 5,
+    "topic": "u05-t05",
+    "type": "sequencing",
+    "stem": "Arrange the following steps of the research process in the correct order:",
+    "items": [
+      "Formulating the research problem",
+      "Developing the working hypothesis",
+      "Collecting the data",
+      "Preparing the research design",
+      "Extensive review of literature"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "1-5-4-2-3",
+      "2-5-4-1-3",
+      "3-2-5-4-1",
+      "1-5-2-4-3"
+    ],
+    "answer": "d",
+    "code": "1-5-2-4-3",
+    "explanation": "The problem is defined first and refined through a literature survey. That leads to working hypotheses, which shape the research design, and data are collected under that design."
+  },
+  {
+    "id": "u05-057",
+    "unit": 5,
+    "topic": "u05-t08",
+    "type": "matching",
+    "stem": "Match List I (non-parametric test) with List II (application):",
+    "listI": [
+      "Kruskal–Wallis H test",
+      "Wilcoxon signed-rank test",
+      "Runs test",
+      "Kolmogorov–Smirnov one-sample test"
+    ],
+    "listII": [
+      "Goodness of fit of a sample to a specified continuous distribution",
+      "Comparing three or more independent samples",
+      "Testing the randomness of a sequence of observations",
+      "Comparing two related (paired) samples"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-2, B-4, C-3, D-1",
+      "A-1, B-4, C-2, D-3",
+      "A-1, B-4, C-3, D-2",
+      "A-2, B-1, C-4, D-3"
+    ],
+    "answer": "a",
+    "code": "A-2, B-4, C-3, D-1",
+    "explanation": "Kruskal–Wallis is the rank-based alternative to one-way ANOVA; Wilcoxon signed-rank handles paired data; the runs test checks randomness; the one-sample K–S test compares an observed cumulative distribution with a theoretical one."
+  },
+  {
+    "id": "u05-058",
+    "unit": 5,
+    "topic": "u05-t07",
+    "type": "mcq",
+    "stem": "A sample of 36 items is drawn from a population whose standard deviation is 12. The standard error of the sample mean is:",
+    "options": [
+      "0.33",
+      "3",
+      "6",
+      "2"
+    ],
+    "answer": "d",
+    "explanation": "SE = σ/√n = 12/√36 = 12/6 = 2."
+  },
+  {
+    "id": "u05-059",
+    "unit": 5,
+    "topic": "u05-t07",
+    "type": "mcq",
+    "stem": "Which of the following is a non-probability sampling method?",
+    "options": [
+      "Stratified sampling",
+      "Systematic sampling",
+      "Quota sampling",
+      "Cluster sampling"
+    ],
+    "answer": "c",
+    "explanation": "In quota sampling the interviewer picks units at their discretion to fill fixed quotas, so the selection probabilities are unknown. The other three are probability methods."
+  },
+  {
+    "id": "u05-060",
+    "unit": 5,
+    "topic": "u05-t06",
+    "type": "statements",
+    "stem": "Consider the following statements about methods of data collection:",
+    "items": [
+      "The mailed questionnaire method is most suitable when respondents are largely illiterate.",
+      "In the schedule method, the schedule is filled in by the enumerator.",
+      "The observation method depends mainly on respondents answering questions put to them.",
+      "A pilot survey helps to detect weaknesses in a questionnaire before the main survey."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "2 and 4 only",
+      "1, 3 and 4 only"
+    ],
+    "answer": "c",
+    "explanation": "Questionnaires need literate respondents, so 1 is false. In observation the researcher records behaviour directly without questioning, so 3 is false. Statements 2 and 4 are correct."
+  }
+]

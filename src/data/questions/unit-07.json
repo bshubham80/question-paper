@@ -1,0 +1,1943 @@
+[
+  {
+    "id": "u07-001",
+    "unit": 7,
+    "topic": "u07-t03",
+    "type": "mcq",
+    "stem": "The Reserve Bank of India was set up on the recommendation of which committee/commission?",
+    "options": [
+      "Chakravarty Committee",
+      "Tarapore Committee",
+      "Narasimham Committee",
+      "Hilton Young Commission"
+    ],
+    "answer": "d",
+    "explanation": "The RBI was established on 1 April 1935 on the recommendation of the Hilton Young Commission (Royal Commission on Indian Currency and Finance, 1926). The Chakravarty, Narasimham and Tarapore committees came much later."
+  },
+  {
+    "id": "u07-002",
+    "unit": 7,
+    "topic": "u07-t10",
+    "type": "mcq",
+    "stem": "Distribution of insurance and other financial products through a bank's own branch network is generally referred to as:",
+    "options": [
+      "Correspondent banking",
+      "Bancassurance",
+      "Universal banking",
+      "Narrow banking"
+    ],
+    "answer": "b",
+    "explanation": "Bancassurance is the tie-up under which a bank distributes insurance products through its branch network and customer base, earning commission as a corporate agent or broker."
+  },
+  {
+    "id": "u07-003",
+    "unit": 7,
+    "topic": "u07-t10",
+    "type": "sequencing",
+    "stem": "Arrange the following milestones in the history of insurance regulation in India in chronological order:",
+    "items": [
+      "Enactment of the Insurance Act",
+      "Nationalisation of life insurance business (formation of LIC)",
+      "Nationalisation of general insurance business",
+      "Enactment of the IRDA Act, establishing IRDAI as regulator"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "1-2-3-4",
+      "2-1-3-4",
+      "1-3-2-4",
+      "4-1-2-3"
+    ],
+    "answer": "a",
+    "code": "1-2-3-4",
+    "explanation": "Insurance Act 1938 → life insurance nationalised and LIC formed 1956 → general insurance nationalised 1972 (GIBNA) → IRDA Act 1999 created the regulator."
+  },
+  {
+    "id": "u07-004",
+    "unit": 7,
+    "topic": "u07-t10",
+    "type": "matching",
+    "stem": "Match List I (IRDAI function) with List II (description):",
+    "listI": [
+      "Licensing",
+      "Product regulation",
+      "Protection of policyholders' interests",
+      "Solvency regulation"
+    ],
+    "listII": [
+      "Grants certificate of registration to insurers and intermediaries",
+      "Approves/oversees insurance products offered to policyholders",
+      "Grievance redressal and disclosure norms for insurers",
+      "Prescribes the minimum solvency margin insurers must maintain"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-4, B-2, C-3, D-1",
+      "A-2, B-1, C-3, D-4",
+      "A-1, B-2, C-4, D-3",
+      "A-1, B-2, C-3, D-4"
+    ],
+    "answer": "d",
+    "code": "A-1, B-2, C-3, D-4",
+    "explanation": "IRDAI registers insurers and intermediaries (licensing), oversees product filing/approval, protects policyholders through grievance and disclosure norms, and prescribes minimum solvency margins."
+  },
+  {
+    "id": "u07-005",
+    "unit": 7,
+    "topic": "u07-t01",
+    "type": "matching",
+    "stem": "Match List I (institution) with List II (primary role in the Indian Financial System):",
+    "listI": [
+      "Commercial banks",
+      "SEBI",
+      "Stock exchanges",
+      "RBI"
+    ],
+    "listII": [
+      "Regulates the securities market",
+      "Accepts deposits and extends credit",
+      "Provide a platform for trading securities",
+      "Acts as the central bank and monetary authority"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-2, B-1, C-4, D-3",
+      "A-1, B-2, C-3, D-4",
+      "A-3, B-1, C-2, D-4",
+      "A-2, B-1, C-3, D-4"
+    ],
+    "answer": "d",
+    "code": "A-2, B-1, C-3, D-4",
+    "explanation": "Commercial banks accept deposits and lend, SEBI regulates the securities market, stock exchanges provide the trading platform, and the RBI is the central bank and monetary authority."
+  },
+  {
+    "id": "u07-006",
+    "unit": 7,
+    "topic": "u07-t08",
+    "type": "mcq",
+    "stem": "Which of the following best captures the broad thrust of financial sector reforms initiated in India since 1991?",
+    "options": [
+      "Increasing government control over financial institutions",
+      "Abolishing all financial regulators",
+      "Complete nationalisation of private banks",
+      "Liberalisation, deregulation and greater market orientation of the financial sector"
+    ],
+    "answer": "d",
+    "explanation": "Post-1991 financial sector reforms aimed at liberalisation, deregulation of interest rates, lower statutory pre-emptions and greater competition and market orientation, not more state control."
+  },
+  {
+    "id": "u07-007",
+    "unit": 7,
+    "topic": "u07-t06",
+    "type": "ar",
+    "stem": "Assertion (A): NBFCs play an important role in extending credit to underserved segments of the economy.",
+    "reason": "Reason (R): NBFCs are regulated by the Reserve Bank of India under the RBI Act, 1934.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "b",
+    "explanation": "Both statements are true: NBFCs do lend to segments banks under-serve, and they are regulated by the RBI under Chapter III-B of the RBI Act, 1934. But being RBI-regulated does not explain why they reach underserved borrowers, so R is not the explanation of A."
+  },
+  {
+    "id": "u07-008",
+    "unit": 7,
+    "topic": "u07-t02",
+    "type": "matching",
+    "stem": "Match List I (type of bank) with List II (key characteristic):",
+    "listI": [
+      "Regional Rural Bank",
+      "Urban Cooperative Bank",
+      "Foreign Bank branch",
+      "Small Finance Bank"
+    ],
+    "listII": [
+      "Member-owned society registered under cooperative societies law",
+      "Jointly owned by the Centre, a State and a sponsor bank",
+      "Registered outside India, operates in India under an RBI licence",
+      "Focuses on unserved/underserved sections, with a priority-sector-heavy portfolio"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-2, B-1, C-3, D-4",
+      "A-2, B-1, C-4, D-3",
+      "A-1, B-2, C-3, D-4",
+      "A-3, B-1, C-2, D-4"
+    ],
+    "answer": "a",
+    "code": "A-2, B-1, C-3, D-4",
+    "explanation": "RRBs are jointly owned by the Centre, the State and a sponsor bank; UCBs are member-owned societies registered under cooperative societies law; foreign bank branches are incorporated abroad and licensed by the RBI; SFBs focus on unserved/underserved sections with high priority-sector lending."
+  },
+  {
+    "id": "u07-009",
+    "unit": 7,
+    "topic": "u07-t08",
+    "type": "mcq",
+    "stem": "Which model allows a bank to extend its outreach through agents, such as retail shop owners, for basic banking services in unbanked areas?",
+    "options": [
+      "Merchant Banking model",
+      "Wholesale Banking model",
+      "Universal Banking model",
+      "Business Correspondent (BC) model"
+    ],
+    "answer": "d",
+    "explanation": "Under the Business Correspondent model (RBI, 2006), banks use agents such as kirana shop owners or NGOs to provide basic banking services in places without a branch."
+  },
+  {
+    "id": "u07-010",
+    "unit": 7,
+    "topic": "u07-t06",
+    "type": "statements",
+    "stem": "Consider the following statements about Development Financial Institutions (DFIs) in India:",
+    "items": [
+      "NABARD was established in 1982 to provide credit for agriculture and rural development.",
+      "EXIM Bank was set up to finance, facilitate and promote India's foreign trade.",
+      "DFIs primarily accept retail savings deposits from the general public like commercial banks."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "2 and 3 only",
+      "1 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "answer": "c",
+    "explanation": "NABARD was set up in 1982 for agriculture and rural development, and EXIM Bank finances and promotes foreign trade. DFIs mainly raise long-term funds through bonds and borrowings, not retail savings deposits like banks, so statement 3 is false."
+  },
+  {
+    "id": "u07-011",
+    "unit": 7,
+    "topic": "u07-t05",
+    "type": "ar",
+    "stem": "Assertion (A): Treasury Bills are issued by the Reserve Bank of India on behalf of the Government of India.",
+    "reason": "Reason (R): Treasury Bills carry a fixed coupon (interest) rate that is paid periodically until maturity.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "c",
+    "explanation": "The RBI issues T-Bills on behalf of the Government of India, so A is true. T-Bills are zero-coupon instruments issued at a discount and redeemed at face value, so R is false."
+  },
+  {
+    "id": "u07-012",
+    "unit": 7,
+    "topic": "u07-t06",
+    "type": "statements",
+    "stem": "Consider the following statements about Housing Finance Companies (HFCs):",
+    "items": [
+      "HFCs were brought under the regulatory ambit of the RBI in 2019.",
+      "Prior to 2019, HFCs were regulated by the National Housing Bank (NHB).",
+      "HFCs are classified as a category of NBFC."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "2 and 3 only",
+      "1 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "answer": "d",
+    "explanation": "HFCs are a category of NBFC. The Finance (No. 2) Act, 2019 moved their regulation from the National Housing Bank to the RBI, while the NHB kept supervision. All three statements are correct."
+  },
+  {
+    "id": "u07-013",
+    "unit": 7,
+    "topic": "u07-t02",
+    "type": "mcq",
+    "stem": "The equity capital of a Regional Rural Bank is typically shared among the Central Government, the concerned State Government and the sponsor bank in which ratio?",
+    "options": [
+      "60:20:20",
+      "50:35:15",
+      "50:15:35",
+      "40:40:20"
+    ],
+    "answer": "c",
+    "explanation": "Under the Regional Rural Banks Act, 1976, RRB share capital is held 50% by the Central Government, 15% by the State Government and 35% by the sponsor bank."
+  },
+  {
+    "id": "u07-014",
+    "unit": 7,
+    "topic": "u07-t03",
+    "type": "ar",
+    "stem": "Assertion (A): The Reserve Bank of India functions as the 'lender of last resort' for the banking system.",
+    "reason": "Reason (R): RBI extends financial accommodation to banks facing genuine liquidity shortages, helping prevent a systemic banking crisis.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "The RBI is the lender of last resort because it gives emergency liquidity to solvent banks facing temporary shortages, which prevents a run on one bank from spreading. R describes exactly what the function involves, so it explains A."
+  },
+  {
+    "id": "u07-015",
+    "unit": 7,
+    "topic": "u07-t10",
+    "type": "ar",
+    "stem": "Assertion (A): IRDAI was established as a statutory regulatory body for the insurance sector in India.",
+    "reason": "Reason (R): IRDAI was set up under the Insurance Regulatory and Development Authority Act, 1999.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "A body is 'statutory' when an Act of Parliament creates it. IRDAI was created by the IRDA Act, 1999, so R explains why A is true."
+  },
+  {
+    "id": "u07-016",
+    "unit": 7,
+    "topic": "u07-t06",
+    "type": "statements",
+    "stem": "Consider the following statements about the National Bank for Financing Infrastructure and Development (NaBFID):",
+    "items": [
+      "NaBFID was set up to support the development of long-term infrastructure financing in India.",
+      "NaBFID is regulated as a public sector bank under the Banking Regulation Act.",
+      "The NaBFID Act was passed in the year 2021."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3",
+      "1 only"
+    ],
+    "answer": "b",
+    "explanation": "NaBFID was set up under the NaBFID Act, 2021 as a DFI for long-term infrastructure finance. The RBI regulates it as an All-India Financial Institution; it is not a public sector bank under the Banking Regulation Act, so statement 2 is false."
+  },
+  {
+    "id": "u07-017",
+    "unit": 7,
+    "topic": "u07-t06",
+    "type": "mcq",
+    "stem": "SIDBI was established primarily to promote and finance which sector?",
+    "options": [
+      "Foreign trade",
+      "Micro, Small and Medium Enterprises (MSMEs)",
+      "Agriculture",
+      "Housing"
+    ],
+    "answer": "b",
+    "explanation": "SIDBI (1990) is the principal DFI for promoting, financing and developing the MSME sector. Foreign trade is EXIM Bank's area, agriculture NABARD's and housing NHB's."
+  },
+  {
+    "id": "u07-018",
+    "unit": 7,
+    "topic": "u07-t04",
+    "type": "mcq",
+    "stem": "Which of the following was a key recommendation of the Narasimham Committee-II (1998)?",
+    "options": [
+      "Merging all public sector banks into one entity",
+      "Strengthening banking norms including capital adequacy, asset classification and NPA management",
+      "Complete privatisation of insurance companies",
+      "Abolishing the Reserve Bank of India"
+    ],
+    "answer": "b",
+    "explanation": "The Narasimham Committee-II (1998) on banking sector reforms recommended stronger prudential norms: higher capital adequacy, tighter asset classification and provisioning, and steps to reduce NPAs."
+  },
+  {
+    "id": "u07-019",
+    "unit": 7,
+    "topic": "u07-t05",
+    "type": "ar",
+    "stem": "Assertion (A): Participation of non-bank entities in the call money market in India has been progressively curtailed over the years.",
+    "reason": "Reason (R): The Narasimham Committee-II (1998) recommended that the call money market be developed into a pure inter-bank market.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "Both are true. Following the Narasimham Committee-II (1998) recommendation that the call market be a pure inter-bank market, the RBI phased out non-bank participants (except primary dealers) by 2005. R gives the reason for the curtailment in A, so it explains A."
+  },
+  {
+    "id": "u07-020",
+    "unit": 7,
+    "topic": "u07-t06",
+    "type": "mcq",
+    "stem": "Under the NPS architecture, which account is non-withdrawable until retirement (subject to specified conditions)?",
+    "options": [
+      "Current account",
+      "Tier-II account",
+      "Savings account",
+      "Tier-I account"
+    ],
+    "answer": "d",
+    "explanation": "The NPS Tier-I account is the mandatory retirement account, with withdrawals restricted until exit or retirement. Tier-II is a voluntary account from which the subscriber can withdraw freely."
+  },
+  {
+    "id": "u07-021",
+    "unit": 7,
+    "topic": "u07-t07",
+    "type": "mcq",
+    "stem": "The apex body coordinating regulation among the RBI, SEBI, IRDAI and PFRDA on inter-regulatory issues and financial stability is the:",
+    "options": [
+      "Financial Action Task Force (FATF)",
+      "Insolvency and Bankruptcy Board of India (IBBI)",
+      "National Financial Reporting Authority (NFRA)",
+      "Financial Stability and Development Council (FSDC)"
+    ],
+    "answer": "d",
+    "explanation": "The Financial Stability and Development Council (2010), chaired by the Finance Minister, deals with financial stability, inter-regulatory coordination and development of the financial sector. Its members include the RBI, SEBI, IRDAI and PFRDA."
+  },
+  {
+    "id": "u07-022",
+    "unit": 7,
+    "topic": "u07-t01",
+    "type": "matching",
+    "stem": "Match List I (segment of the financial system) with List II (what it primarily deals in):",
+    "listI": [
+      "Money market",
+      "Capital market",
+      "Forex market",
+      "Credit market"
+    ],
+    "listII": [
+      "Long-term equity and debt instruments",
+      "Short-term funds, usually up to one year",
+      "Trading in foreign currencies",
+      "Loans and advances extended by banks/FIs"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-1, B-2, C-3, D-4",
+      "A-1, B-2, C-4, D-3",
+      "A-2, B-1, C-4, D-3",
+      "A-2, B-1, C-3, D-4"
+    ],
+    "answer": "d",
+    "code": "A-2, B-1, C-3, D-4",
+    "explanation": "The money market deals in short-term funds (up to one year), the capital market in long-term equity and debt, the forex market in foreign currencies, and the credit market in loans and advances by banks and FIs."
+  },
+  {
+    "id": "u07-023",
+    "unit": 7,
+    "topic": "u07-t05",
+    "type": "mcq",
+    "stem": "Which of the following is a money market instrument?",
+    "options": [
+      "Debentures",
+      "Equity shares",
+      "Mutual fund units",
+      "Treasury Bills"
+    ],
+    "answer": "d",
+    "explanation": "Treasury Bills are short-term (91/182/364-day) government money market instruments. Debentures, equity shares and mutual fund units are capital market instruments."
+  },
+  {
+    "id": "u07-024",
+    "unit": 7,
+    "topic": "u07-t02",
+    "type": "mcq",
+    "stem": "Regional Rural Banks (RRBs) were established following the recommendations of which committee/working group?",
+    "options": [
+      "M. Narasimham Working Group on Rural Banks (1975)",
+      "Narasimham Committee (1991)",
+      "Local Area Bank Committee",
+      "Khusro Committee"
+    ],
+    "answer": "a",
+    "explanation": "RRBs were set up in 1975 on the recommendation of the Working Group on Rural Banks chaired by M. Narasimham. They were first created by ordinance and then under the RRB Act, 1976."
+  },
+  {
+    "id": "u07-025",
+    "unit": 7,
+    "topic": "u07-t04",
+    "type": "ar",
+    "stem": "Assertion (A): The Government of India undertook mergers of several public sector banks in recent years.",
+    "reason": "Reason (R): The primary objective of these mergers was to reduce the total number of employees in the banking sector.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "c",
+    "explanation": "PSB mergers did take place (for example, 10 PSBs were merged into 4 in 2020), so A is true. Their main aim was to create larger, better-capitalised and more efficient banks, not to cut staff, so R is false."
+  },
+  {
+    "id": "u07-026",
+    "unit": 7,
+    "topic": "u07-t02",
+    "type": "sequencing",
+    "stem": "Arrange the following bank-nationalisation-related events in chronological order:",
+    "items": [
+      "Nationalisation of 14 major commercial banks",
+      "Nationalisation of the Imperial Bank of India (to form the State Bank of India)",
+      "Nationalisation of 6 more commercial banks",
+      "Establishment of the Reserve Bank of India"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "4-2-1-3",
+      "2-1-4-3",
+      "2-4-1-3",
+      "4-2-3-1"
+    ],
+    "answer": "a",
+    "code": "4-2-1-3",
+    "explanation": "RBI established 1935 → Imperial Bank nationalised as SBI in 1955 → 14 banks nationalised in 1969 → 6 more banks nationalised in 1980."
+  },
+  {
+    "id": "u07-027",
+    "unit": 7,
+    "topic": "u07-t01",
+    "type": "mcq",
+    "stem": "Which of the following is NOT considered a constituent of the Indian Financial System?",
+    "options": [
+      "Financial instruments and services",
+      "Fiscal deficit of the Union Budget",
+      "Financial markets",
+      "Financial institutions"
+    ],
+    "answer": "b",
+    "explanation": "The financial system is made up of financial institutions, markets, instruments and services (with regulators). The fiscal deficit is a public finance measure, not a part of the financial system."
+  },
+  {
+    "id": "u07-028",
+    "unit": 7,
+    "topic": "u07-t05",
+    "type": "mcq",
+    "stem": "The primary market deals with:",
+    "options": [
+      "Trading of existing securities among investors",
+      "Only derivatives trading",
+      "Only government securities",
+      "Issuance of new securities directly by issuers to investors"
+    ],
+    "answer": "d",
+    "explanation": "In the primary (new issue) market, issuers sell new securities directly to investors, as in an IPO or FPO. Trading in securities that already exist happens in the secondary market."
+  },
+  {
+    "id": "u07-029",
+    "unit": 7,
+    "topic": "u07-t04",
+    "type": "mcq",
+    "stem": "Which of the following was introduced under Basel III but was not a feature of Basel II?",
+    "options": [
+      "Supervisory Review Process",
+      "Capital Conservation Buffer",
+      "Market Discipline through disclosure",
+      "Minimum Capital Requirement"
+    ],
+    "answer": "b",
+    "explanation": "The Capital Conservation Buffer (2.5% of RWAs) came in with Basel III. Minimum capital, supervisory review and market discipline were already Basel II's three pillars."
+  },
+  {
+    "id": "u07-030",
+    "unit": 7,
+    "topic": "u07-t06",
+    "type": "mcq",
+    "stem": "Which of the following is described as India's principal development bank for agriculture and rural development?",
+    "options": [
+      "EXIM Bank",
+      "SIDBI",
+      "NHB",
+      "NABARD"
+    ],
+    "answer": "d",
+    "explanation": "NABARD (1982) is the apex development bank for agriculture and rural development. SIDBI serves MSMEs, NHB housing finance and EXIM Bank foreign trade."
+  },
+  {
+    "id": "u07-031",
+    "unit": 7,
+    "topic": "u07-t06",
+    "type": "statements",
+    "stem": "Consider the following statements about NBFCs in India:",
+    "items": [
+      "NBFCs are registered under the Companies Act but regulated by the RBI.",
+      "As per the Scale-Based Regulation (SBR) framework, NBFCs are classified into Base, Middle, Upper and Top Layers.",
+      "All NBFCs are required to maintain CRR and SLR exactly like scheduled commercial banks."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "2 and 3 only",
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "b",
+    "explanation": "NBFCs are companies incorporated under the Companies Act and regulated by the RBI. Under Scale-Based Regulation (2021) they fall into Base, Middle, Upper and Top layers. NBFCs are not subject to CRR, so statement 3 is false."
+  },
+  {
+    "id": "u07-032",
+    "unit": 7,
+    "topic": "u07-t10",
+    "type": "sequencing",
+    "stem": "Arrange the following steps in the typical life-cycle of a life insurance policy in the correct order:",
+    "items": [
+      "Payment of premium and policy issuance",
+      "Underwriting and risk assessment",
+      "Proposal for insurance by the applicant",
+      "Claim settlement on maturity/death"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "2-3-1-4",
+      "3-2-1-4",
+      "3-1-2-4",
+      "1-2-3-4"
+    ],
+    "answer": "b",
+    "code": "3-2-1-4",
+    "explanation": "The applicant first submits a proposal. The insurer underwrites (assesses) the risk, the premium is paid and the policy issued, and the claim is settled on maturity or death."
+  },
+  {
+    "id": "u07-033",
+    "unit": 7,
+    "topic": "u07-t03",
+    "type": "sequencing",
+    "stem": "Arrange the following in chronological order:",
+    "items": [
+      "Nationalisation of the Reserve Bank of India",
+      "Enactment of the Reserve Bank of India Act",
+      "Introduction of the Monetary Policy Committee (MPC) framework",
+      "Commencement of RBI's operations"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "2-4-1-3",
+      "1-2-4-3",
+      "2-1-4-3",
+      "4-2-1-3"
+    ],
+    "answer": "a",
+    "code": "2-4-1-3",
+    "explanation": "RBI Act 1934 → RBI started operations 1 April 1935 → RBI nationalised 1 January 1949 → MPC framework in 2016 after the RBI Act was amended."
+  },
+  {
+    "id": "u07-034",
+    "unit": 7,
+    "topic": "u07-t03",
+    "type": "matching",
+    "stem": "Match List I (term) with List II (meaning):",
+    "listI": [
+      "CRR",
+      "SLR",
+      "LAF",
+      "OMO"
+    ],
+    "listII": [
+      "Minimum proportion of deposits banks must hold in approved liquid assets",
+      "Minimum proportion of Net Demand and Time Liabilities banks must keep with RBI as cash",
+      "Framework through which RBI injects/absorbs liquidity via repo and reverse repo",
+      "RBI's buying and selling of government securities in the open market"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-2, B-1, C-4, D-3",
+      "A-1, B-2, C-3, D-4",
+      "A-3, B-1, C-2, D-4",
+      "A-2, B-1, C-3, D-4"
+    ],
+    "answer": "d",
+    "code": "A-2, B-1, C-3, D-4",
+    "explanation": "CRR is the share of NDTL kept as cash with the RBI, and SLR the share held in approved liquid assets. LAF is the repo/reverse-repo window for injecting or absorbing liquidity, and OMOs are the RBI's outright purchases and sales of G-Secs."
+  },
+  {
+    "id": "u07-035",
+    "unit": 7,
+    "topic": "u07-t10",
+    "type": "ar",
+    "stem": "Assertion (A): Underwriting is a critical function in the insurance business.",
+    "reason": "Reason (R): Underwriting refers exclusively to the process of settling claims after a policy matures.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "c",
+    "explanation": "Underwriting (deciding whether to accept a risk and on what terms and premium) is central to insurance, so A is true. R is false because underwriting is done before the policy is issued, not at claim settlement."
+  },
+  {
+    "id": "u07-036",
+    "unit": 7,
+    "topic": "u07-t07",
+    "type": "mcq",
+    "stem": "The National Pension System (NPS) in India is regulated by:",
+    "options": [
+      "PFRDA",
+      "SEBI",
+      "IRDAI",
+      "RBI"
+    ],
+    "answer": "a",
+    "explanation": "The PFRDA, a statutory body under the PFRDA Act, 2013, regulates the NPS and the pension sector. SEBI covers securities, IRDAI insurance and the RBI banking."
+  },
+  {
+    "id": "u07-037",
+    "unit": 7,
+    "topic": "u07-t10",
+    "type": "ar",
+    "stem": "Assertion (A): IRDAI permits insurers to determine premium rates entirely at their own discretion, without any regulatory oversight.",
+    "reason": "Reason (R): IRDAI's regulatory framework requires insurance products and their pricing to be filed, and in specified cases approved, before being offered to the public.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "d",
+    "explanation": "A is false: insurers must file their products and pricing with IRDAI and, where required, get approval (the 'use and file' or 'file and use' procedures), so they do not set premiums without oversight. R correctly describes this framework."
+  },
+  {
+    "id": "u07-038",
+    "unit": 7,
+    "topic": "u07-t06",
+    "type": "ar",
+    "stem": "Assertion (A): Non-Banking Financial Companies (NBFCs) cannot accept demand deposits.",
+    "reason": "Reason (R): Deposits with NBFCs are not covered by the deposit insurance scheme of the DICGC.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "b",
+    "explanation": "Both are true. NBFCs cannot accept demand deposits because RBI regulation allows only term deposits, and only for authorised NBFCs. Lack of DICGC cover is a separate difference between NBFCs and banks and is not the reason for A."
+  },
+  {
+    "id": "u07-039",
+    "unit": 7,
+    "topic": "u07-t04",
+    "type": "ar",
+    "stem": "Assertion (A): Prudential norms relating to capital adequacy, income recognition and asset classification were introduced in India as part of banking sector reforms.",
+    "reason": "Reason (R): The Narasimham Committee recommended these norms to bring Indian banking practices closer to international standards.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "Prudential norms on capital adequacy, income recognition, asset classification and provisioning came in from 1992–93 on the Narasimham Committee's advice, specifically to bring Indian banks in line with international standards. So R explains A."
+  },
+  {
+    "id": "u07-040",
+    "unit": 7,
+    "topic": "u07-t05",
+    "type": "ar",
+    "stem": "Assertion (A): Stock exchanges provide liquidity to investors holding listed securities.",
+    "reason": "Reason (R): Stock exchanges guarantee a fixed minimum return on all listed securities.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "c",
+    "explanation": "Exchanges give listed securities liquidity through a continuous market where they can be sold, so A is true. No exchange guarantees a return on securities, so R is false."
+  },
+  {
+    "id": "u07-041",
+    "unit": 7,
+    "topic": "u07-t04",
+    "type": "ar",
+    "stem": "Assertion (A): Non-Performing Assets (NPAs) adversely affect the profitability of banks.",
+    "reason": "Reason (R): Banks are required to make provisions against NPAs, which reduces net profit.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "NPAs stop earning income, and banks must set aside provisions against them from profits. R gives the direct way NPAs reduce profitability, so it explains A."
+  },
+  {
+    "id": "u07-042",
+    "unit": 7,
+    "topic": "u07-t09",
+    "type": "mcq",
+    "stem": "The Unified Payments Interface (UPI) was developed and is operated by:",
+    "options": [
+      "RBI",
+      "SEBI",
+      "Indian Banks' Association (IBA)",
+      "National Payments Corporation of India (NPCI)"
+    ],
+    "answer": "d",
+    "explanation": "UPI was launched in 2016 and is run by the National Payments Corporation of India (NPCI), an umbrella body promoted by the RBI and the Indian Banks' Association. The RBI regulates it but does not operate it."
+  },
+  {
+    "id": "u07-043",
+    "unit": 7,
+    "topic": "u07-t05",
+    "type": "ar",
+    "stem": "Assertion (A): An Initial Public Offer (IPO) is a primary market activity.",
+    "reason": "Reason (R): Through an IPO, a company raises capital directly by issuing shares to the public for the first time.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "An IPO is a company's first issue of shares to the public, and the funds go directly to the company. That is exactly what makes it a primary market activity, so R explains A."
+  },
+  {
+    "id": "u07-044",
+    "unit": 7,
+    "topic": "u07-t06",
+    "type": "matching",
+    "stem": "Match List I (term) with List II (meaning):",
+    "listI": [
+      "Asset Management Company (AMC)",
+      "Trustees",
+      "AMFI",
+      "Sponsor"
+    ],
+    "listII": [
+      "Body that oversees the mutual fund and ensures compliance",
+      "Manages the investments of the mutual fund on a day-to-day basis",
+      "Self-regulatory/industry body for mutual funds in India",
+      "Entity that establishes the mutual fund"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-3, B-1, C-2, D-4",
+      "A-2, B-1, C-3, D-4",
+      "A-1, B-2, C-3, D-4",
+      "A-2, B-1, C-4, D-3"
+    ],
+    "answer": "b",
+    "code": "A-2, B-1, C-3, D-4",
+    "explanation": "The AMC manages the scheme's investments day to day, the trustees oversee the fund and check compliance, AMFI is the industry association, and the sponsor sets up the mutual fund."
+  },
+  {
+    "id": "u07-045",
+    "unit": 7,
+    "topic": "u07-t08",
+    "type": "mcq",
+    "stem": "The Narasimham Committee-I (1991) was primarily constituted to recommend reforms in which area?",
+    "options": [
+      "Capital markets",
+      "The financial sector and banking system",
+      "The direct tax structure",
+      "The insurance sector"
+    ],
+    "answer": "b",
+    "explanation": "The first Narasimham Committee (1991) was the Committee on the Financial System. Its report set the agenda for reforming the banking and financial sector."
+  },
+  {
+    "id": "u07-046",
+    "unit": 7,
+    "topic": "u07-t05",
+    "type": "ar",
+    "stem": "Assertion (A): Financial markets in India are broadly classified into the money market and the capital market.",
+    "reason": "Reason (R): Money market instruments are generally more liquid than capital market instruments.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "b",
+    "explanation": "Both are true: markets are broadly divided into money and capital markets, and money market instruments are more liquid. But the liquidity difference does not explain why the classification exists, which rests on the maturity of the instruments, so R is not the explanation."
+  },
+  {
+    "id": "u07-047",
+    "unit": 7,
+    "topic": "u07-t04",
+    "type": "sequencing",
+    "stem": "Arrange the following steps of the risk management process in the correct sequence:",
+    "items": [
+      "Risk monitoring and review",
+      "Risk identification",
+      "Risk assessment/measurement",
+      "Risk mitigation/control"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "2-4-3-1",
+      "1-2-3-4",
+      "2-3-4-1",
+      "3-2-4-1"
+    ],
+    "answer": "c",
+    "code": "2-3-4-1",
+    "explanation": "The standard risk management cycle is identification → assessment/measurement → mitigation/control → monitoring and review."
+  },
+  {
+    "id": "u07-048",
+    "unit": 7,
+    "topic": "u07-t09",
+    "type": "statements",
+    "stem": "Consider the following statements about payment and settlement systems in India:",
+    "items": [
+      "The Payment and Settlement Systems Act, 2007 gives RBI the authority to regulate payment systems in India.",
+      "NEFT operates on a batch (deferred net settlement) basis.",
+      "Once processed, RTGS transactions can be freely reversed by the receiving bank without customer consent."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 and 2 only",
+      "1 and 3 only"
+    ],
+    "answer": "c",
+    "explanation": "The PSS Act, 2007 gives the RBI power to regulate payment systems, and NEFT settles in half-hourly batches (deferred net settlement). RTGS payments are final and irrevocable once settled, so statement 3 is false."
+  },
+  {
+    "id": "u07-049",
+    "unit": 7,
+    "topic": "u07-t04",
+    "type": "mcq",
+    "stem": "Under which Act can banks/financial institutions take possession of secured assets without court intervention, for recovery of dues?",
+    "options": [
+      "Banking Regulation Act, 1949",
+      "Negotiable Instruments Act, 1881",
+      "Companies Act, 2013",
+      "SARFAESI Act, 2002"
+    ],
+    "answer": "d",
+    "explanation": "The SARFAESI Act, 2002 lets secured creditors take possession of, and sell, secured assets to recover NPAs without going to court."
+  },
+  {
+    "id": "u07-050",
+    "unit": 7,
+    "topic": "u07-t08",
+    "type": "matching",
+    "stem": "Match List I (reform measure) with List II (objective/effect):",
+    "listI": [
+      "Deregulation of interest rates",
+      "Entry of new private banks",
+      "Introduction of prudential norms",
+      "Reduction in statutory pre-emptions (CRR/SLR)"
+    ],
+    "listII": [
+      "Allowed banks to price loans/deposits based on market forces",
+      "Increased competition in the banking sector",
+      "Improved asset-quality recognition and provisioning",
+      "Freed up more resources for commercial lending"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-2, B-1, C-3, D-4",
+      "A-1, B-2, C-3, D-4",
+      "A-1, B-2, C-4, D-3",
+      "A-4, B-2, C-3, D-1"
+    ],
+    "answer": "b",
+    "code": "A-1, B-2, C-3, D-4",
+    "explanation": "Freeing interest rates let the market set prices, new private banks increased competition, prudential norms improved how asset quality was recognised and provided for, and lower CRR/SLR released funds for lending."
+  },
+  {
+    "id": "u07-051",
+    "unit": 7,
+    "topic": "u07-t04",
+    "type": "statements",
+    "stem": "Consider the following statements about credit risk mitigation:",
+    "items": [
+      "Collateral security is one of the tools used to mitigate credit risk.",
+      "Credit rating of borrowers helps banks assess the probability of default.",
+      "Diversification of the loan portfolio increases concentration risk."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 and 2 only",
+      "1 and 3 only"
+    ],
+    "answer": "c",
+    "explanation": "Collateral and credit ratings are standard ways to mitigate and assess credit risk. Spreading the loan portfolio reduces concentration risk rather than increasing it, so statement 3 is false."
+  },
+  {
+    "id": "u07-052",
+    "unit": 7,
+    "topic": "u07-t04",
+    "type": "statements",
+    "stem": "Consider the following statements on banking sector reforms in India:",
+    "items": [
+      "The reforms process began in 1991 following the recommendations of the Narasimham Committee.",
+      "Reforms included granting greater operational autonomy to public sector banks.",
+      "Reforms led to the entry of new private sector banks in the 1990s."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 and 2 only",
+      "1 and 3 only"
+    ],
+    "answer": "b",
+    "explanation": "Banking reforms began in 1991–92 on the Narasimham Committee's recommendations. They gave PSBs more operational autonomy and, under the 1993 guidelines, let new private banks enter. All three are correct."
+  },
+  {
+    "id": "u07-053",
+    "unit": 7,
+    "topic": "u07-t07",
+    "type": "mcq",
+    "stem": "Which of the following regulates stock exchanges and the capital market in India?",
+    "options": [
+      "PFRDA",
+      "IRDAI",
+      "Reserve Bank of India",
+      "Securities and Exchange Board of India (SEBI)"
+    ],
+    "answer": "d",
+    "explanation": "SEBI, a statutory body under the SEBI Act, 1992, regulates stock exchanges, intermediaries and the capital market."
+  },
+  {
+    "id": "u07-054",
+    "unit": 7,
+    "topic": "u07-t07",
+    "type": "ar",
+    "stem": "Assertion (A): The Reserve Bank of India regulates and supervises the banking system in India.",
+    "reason": "Reason (R): RBI derives its regulatory powers over banks primarily from the Banking Regulation Act, 1949 and the RBI Act, 1934.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "The RBI regulates and supervises banks using powers given mainly by the Banking Regulation Act, 1949 and the RBI Act, 1934. R names the source of the power described in A, so it explains A."
+  },
+  {
+    "id": "u07-055",
+    "unit": 7,
+    "topic": "u07-t03",
+    "type": "statements",
+    "stem": "Consider the following statements about the Monetary Policy Committee (MPC):",
+    "items": [
+      "The MPC consists of six members, three from the RBI and three external members.",
+      "The RBI Governor is the ex-officio Chairperson of the MPC.",
+      "Decisions of the MPC must be taken by unanimous consent of all members."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "2 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3",
+      "1 only"
+    ],
+    "answer": "b",
+    "explanation": "The MPC has six members: three from the RBI, including the Governor as chairperson, and three external members appointed by the government. Decisions are taken by majority, and the Governor has a casting vote in a tie, so statement 3 is false."
+  },
+  {
+    "id": "u07-056",
+    "unit": 7,
+    "topic": "u07-t05",
+    "type": "matching",
+    "stem": "Match List I (instrument) with List II (feature):",
+    "listI": [
+      "Treasury Bill",
+      "Dated Government Security",
+      "Cash Management Bill",
+      "State Development Loan"
+    ],
+    "listII": [
+      "Long-term security with periodic coupon payment",
+      "Short-term, zero-coupon instrument issued at a discount",
+      "Very short-tenor instrument to meet temporary cash mismatches of the government",
+      "Security issued by state governments to raise market borrowings"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-3, B-1, C-2, D-4",
+      "A-2, B-1, C-4, D-3",
+      "A-2, B-1, C-3, D-4",
+      "A-1, B-2, C-3, D-4"
+    ],
+    "answer": "c",
+    "code": "A-2, B-1, C-3, D-4",
+    "explanation": "T-Bills are short-term zero-coupon instruments issued at a discount, and dated G-Secs are long-term with periodic coupons. CMBs are very short-tenor bills that cover the government's temporary cash mismatches, and SDLs are market borrowings by state governments."
+  },
+  {
+    "id": "u07-057",
+    "unit": 7,
+    "topic": "u07-t04",
+    "type": "mcq",
+    "stem": "The risk of loss arising from inadequate or failed internal processes, people, systems or external events is known as:",
+    "options": [
+      "Operational risk",
+      "Reputational risk",
+      "Credit risk",
+      "Market risk"
+    ],
+    "answer": "a",
+    "explanation": "Basel defines operational risk as the risk of loss from inadequate or failed internal processes, people and systems, or from external events."
+  },
+  {
+    "id": "u07-058",
+    "unit": 7,
+    "topic": "u07-t08",
+    "type": "matching",
+    "stem": "Match List I (committee) with List II (primary focus area):",
+    "listI": [
+      "Narasimham Committee",
+      "Malegam Committee",
+      "Nachiket Mor Committee",
+      "Urjit Patel Committee"
+    ],
+    "listII": [
+      "Banking sector reforms",
+      "Microfinance sector regulation",
+      "Comprehensive financial services for small businesses and low-income households",
+      "Monetary policy framework"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-4, B-2, C-3, D-1",
+      "A-1, B-2, C-3, D-4",
+      "A-1, B-2, C-4, D-3",
+      "A-2, B-1, C-3, D-4"
+    ],
+    "answer": "b",
+    "code": "A-1, B-2, C-3, D-4",
+    "explanation": "The Narasimham Committee covered banking reforms, Malegam microfinance regulation (2011), Nachiket Mor comprehensive financial services for small businesses and low-income households (2014), and Urjit Patel the monetary policy framework (2014)."
+  },
+  {
+    "id": "u07-059",
+    "unit": 7,
+    "topic": "u07-t04",
+    "type": "ar",
+    "stem": "Assertion (A): The Insolvency and Bankruptcy Code (IBC), 2016 provides a time-bound resolution mechanism for corporate insolvency.",
+    "reason": "Reason (R): The IBC replaced the SARFAESI Act, 2002 as the only law available for recovery of bank dues.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "c",
+    "explanation": "The IBC, 2016 sets a time-bound insolvency resolution process, so A is true. R is false because SARFAESI still operates alongside IBC, DRTs and other recovery routes."
+  },
+  {
+    "id": "u07-060",
+    "unit": 7,
+    "topic": "u07-t02",
+    "type": "mcq",
+    "stem": "Which of the following best describes 'Universal Banking'?",
+    "options": [
+      "A bank licensed to deal only in foreign exchange",
+      "A cooperative bank operating at the national level",
+      "A bank offering a wide range of financial services including banking, insurance distribution and investment banking under one roof",
+      "A bank that operates only in rural areas"
+    ],
+    "answer": "c",
+    "explanation": "Universal banking means one institution provides a wide range of financial services, such as commercial banking, investment banking and insurance distribution, under one roof."
+  },
+  {
+    "id": "u07-061",
+    "unit": 7,
+    "topic": "u07-t06",
+    "type": "mcq",
+    "stem": "The price at which an investor buys or sells units of an open-ended mutual fund scheme is known as:",
+    "options": [
+      "Market Capitalisation",
+      "Net Asset Value (NAV)",
+      "Book Value",
+      "Face Value"
+    ],
+    "answer": "b",
+    "explanation": "Units of an open-ended scheme are bought and sold at the Net Asset Value (market value of the scheme's assets minus liabilities, divided by units outstanding), adjusted for any applicable load."
+  },
+  {
+    "id": "u07-062",
+    "unit": 7,
+    "topic": "u07-t03",
+    "type": "sequencing",
+    "stem": "Arrange the following RBI liquidity-management instruments in the order in which they were introduced in India, from earliest to most recent:",
+    "items": [
+      "Cash Reserve Ratio (CRR)",
+      "Statutory Liquidity Ratio (SLR)",
+      "Liquidity Adjustment Facility (LAF)",
+      "Standing Deposit Facility (SDF)"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "1-2-3-4",
+      "2-1-3-4",
+      "1-2-4-3",
+      "2-1-4-3"
+    ],
+    "answer": "a",
+    "code": "1-2-3-4",
+    "explanation": "CRR comes from Section 42 of the RBI Act, 1934, and SLR from the Banking Regulation Act, 1949. LAF was introduced in 2000 and the Standing Deposit Facility in April 2022."
+  },
+  {
+    "id": "u07-063",
+    "unit": 7,
+    "topic": "u07-t06",
+    "type": "matching",
+    "stem": "Match List I (type of mutual fund scheme) with List II (feature):",
+    "listI": [
+      "Open-ended scheme",
+      "Close-ended scheme",
+      "Equity Linked Savings Scheme (ELSS)",
+      "Exchange Traded Fund (ETF)"
+    ],
+    "listII": [
+      "Fixed maturity period; units traded on a stock exchange after the NFO",
+      "Units can be bought/sold on a continuous basis; no fixed maturity",
+      "Tax-saving equity scheme with a three-year lock-in period",
+      "Tracks an index/commodity and is traded on a stock exchange like a share"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-2, B-1, C-3, D-4",
+      "A-1, B-2, C-3, D-4",
+      "A-2, B-1, C-4, D-3",
+      "A-3, B-1, C-2, D-4"
+    ],
+    "answer": "a",
+    "code": "A-2, B-1, C-3, D-4",
+    "explanation": "Open-ended schemes allow continuous buying and selling with no fixed maturity, and close-ended schemes have a fixed term with units listed after the NFO. ELSS is a tax-saving equity scheme with a three-year lock-in, and ETFs track an index or commodity and trade like shares."
+  },
+  {
+    "id": "u07-064",
+    "unit": 7,
+    "topic": "u07-t04",
+    "type": "mcq",
+    "stem": "Basel norms on bank capital adequacy are formulated by which body?",
+    "options": [
+      "Financial Stability Board",
+      "International Monetary Fund",
+      "Basel Committee on Banking Supervision (BCBS)",
+      "World Bank"
+    ],
+    "answer": "c",
+    "explanation": "The Basel Committee on Banking Supervision (BCBS), set up in 1974 and based at the BIS in Basel, frames the Basel capital accords."
+  },
+  {
+    "id": "u07-065",
+    "unit": 7,
+    "topic": "u07-t10",
+    "type": "mcq",
+    "stem": "Reinsurance refers to:",
+    "options": [
+      "A government scheme guaranteeing bank deposits",
+      "An insurance policy issued without any premium",
+      "An arrangement whereby an insurer transfers part of its risk to another insurer",
+      "Insurance taken by an individual for a second time on the same asset"
+    ],
+    "answer": "c",
+    "explanation": "Reinsurance is 'insurance for insurers': a primary insurer passes part of the risk it has accepted to a reinsurer, which reduces its exposure to large losses."
+  },
+  {
+    "id": "u07-066",
+    "unit": 7,
+    "topic": "u07-t10",
+    "type": "mcq",
+    "stem": "Life insurance business in India was nationalised in the year:",
+    "options": [
+      "1972",
+      "1999",
+      "1956",
+      "1938"
+    ],
+    "answer": "c",
+    "explanation": "Life insurance was nationalised in 1956, when 245 companies were merged to form LIC. 1938 is the Insurance Act, 1972 general insurance nationalisation and 1999 the IRDA Act."
+  },
+  {
+    "id": "u07-067",
+    "unit": 7,
+    "topic": "u07-t06",
+    "type": "matching",
+    "stem": "Match List I (entity in the NPS architecture) with List II (role):",
+    "listI": [
+      "PFRDA",
+      "Central Recordkeeping Agency (CRA)",
+      "Pension Fund Managers (PFMs)",
+      "Points of Presence (PoPs)"
+    ],
+    "listII": [
+      "Maintains subscriber records and provides consolidated statements",
+      "Regulates and develops the pension sector",
+      "Manage and invest subscriber contributions",
+      "Act as collection points/front-end for subscriber registration and transactions"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-2, B-1, C-4, D-3",
+      "A-1, B-2, C-3, D-4",
+      "A-3, B-1, C-2, D-4",
+      "A-2, B-1, C-3, D-4"
+    ],
+    "answer": "d",
+    "code": "A-2, B-1, C-3, D-4",
+    "explanation": "The PFRDA regulates, the CRA keeps subscriber records and issues statements, Pension Fund Managers invest the contributions, and Points of Presence are the front-end collection and registration points."
+  },
+  {
+    "id": "u07-068",
+    "unit": 7,
+    "topic": "u07-t03",
+    "type": "ar",
+    "stem": "Assertion (A): The RBI acts as debt manager for the Government of India's market borrowing programme.",
+    "reason": "Reason (R): The RBI is also responsible for the issue of currency notes in India.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "b",
+    "explanation": "The RBI manages the government's market borrowings under the RBI Act, and it also issues currency notes. Both are true, but issuing currency has no bearing on its role as debt manager, so R does not explain A."
+  },
+  {
+    "id": "u07-069",
+    "unit": 7,
+    "topic": "u07-t10",
+    "type": "matching",
+    "stem": "Match List I (term in insurance regulation) with List II (meaning):",
+    "listI": [
+      "IRDAI",
+      "Solvency Margin",
+      "Insurance Ombudsman",
+      "Bancassurance"
+    ],
+    "listII": [
+      "Statutory regulator of the insurance sector in India",
+      "Excess of assets over liabilities that an insurer must maintain",
+      "Quasi-judicial mechanism for resolving policyholder grievances",
+      "Distribution of insurance products through bank branches"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-1, B-2, C-3, D-4",
+      "A-4, B-2, C-3, D-1",
+      "A-1, B-2, C-4, D-3",
+      "A-2, B-1, C-3, D-4"
+    ],
+    "answer": "a",
+    "code": "A-1, B-2, C-3, D-4",
+    "explanation": "IRDAI is the statutory insurance regulator, and the solvency margin is the excess of assets over liabilities an insurer must hold. The Insurance Ombudsman resolves policyholder complaints out of court, and bancassurance is selling insurance through banks."
+  },
+  {
+    "id": "u07-070",
+    "unit": 7,
+    "topic": "u07-t05",
+    "type": "mcq",
+    "stem": "Government securities (G-Secs) are primarily issued to:",
+    "options": [
+      "Fund only defence expenditure",
+      "Provide working capital to private companies",
+      "Replace currency notes in circulation",
+      "Finance the fiscal deficit and market borrowing programme of the government"
+    ],
+    "answer": "d",
+    "explanation": "G-Secs are issued mainly through the government's market borrowing programme to finance the fiscal deficit."
+  },
+  {
+    "id": "u07-071",
+    "unit": 7,
+    "topic": "u07-t01",
+    "type": "ar",
+    "stem": "Assertion (A): The Indian financial system helps mobilise the savings of household and corporate sectors and channel them into productive investment.",
+    "reason": "Reason (R): Financial intermediaries such as banks and mutual funds reduce the transaction and information costs faced by individual savers and borrowers.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "The financial system gathers savings and directs them into investment. It can do this efficiently because intermediaries pool funds and cut the transaction and information costs savers and borrowers would otherwise bear, so R explains A."
+  },
+  {
+    "id": "u07-072",
+    "unit": 7,
+    "topic": "u07-t04",
+    "type": "mcq",
+    "stem": "The introduction of capital adequacy norms (CRAR) for banks in India was a reform aimed primarily at:",
+    "options": [
+      "Promoting only priority sector lending",
+      "Increasing the number of bank branches",
+      "Reducing interest rates on deposits",
+      "Strengthening the financial soundness and stability of banks"
+    ],
+    "answer": "d",
+    "explanation": "Capital adequacy (CRAR) norms require banks to hold capital in proportion to risk-weighted assets, so that losses can be absorbed and banks stay sound and stable."
+  },
+  {
+    "id": "u07-073",
+    "unit": 7,
+    "topic": "u07-t04",
+    "type": "statements",
+    "stem": "Consider the following statements about Basel III norms:",
+    "items": [
+      "Basel III introduced the Liquidity Coverage Ratio (LCR) and the Net Stable Funding Ratio (NSFR).",
+      "Basel III raised the minimum Common Equity Tier-1 (CET1) capital requirement compared to Basel II.",
+      "Basel III norms apply only to banks in India and not globally."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "2 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3",
+      "1 only"
+    ],
+    "answer": "b",
+    "explanation": "Basel III added the LCR and NSFR liquidity standards and raised minimum CET1 from 2% under Basel II to 4.5% of RWAs. It is a global standard from the BCBS, not an India-only rule, so statement 3 is false."
+  },
+  {
+    "id": "u07-074",
+    "unit": 7,
+    "topic": "u07-t10",
+    "type": "mcq",
+    "stem": "As per Indian regulations, which entity is designated as the 'national reinsurer'?",
+    "options": [
+      "General Insurance Corporation of India (GIC Re)",
+      "Life Insurance Corporation of India (LIC)",
+      "Agriculture Insurance Company of India",
+      "New India Assurance"
+    ],
+    "answer": "a",
+    "explanation": "General Insurance Corporation of India (GIC Re) is India's national reinsurer and receives obligatory cessions from domestic general insurers."
+  },
+  {
+    "id": "u07-075",
+    "unit": 7,
+    "topic": "u07-t03",
+    "type": "mcq",
+    "stem": "Which of the following is a quantitative (general) method of credit control used by the RBI?",
+    "options": [
+      "Moral suasion",
+      "Direct action",
+      "Bank Rate policy",
+      "Margin requirements"
+    ],
+    "answer": "c",
+    "explanation": "Quantitative (general) credit controls, such as bank rate, CRR, SLR, OMOs and repo, affect the total volume of credit. Margin requirements, moral suasion and direct action are qualitative (selective) tools."
+  },
+  {
+    "id": "u07-076",
+    "unit": 7,
+    "topic": "u07-t08",
+    "type": "sequencing",
+    "stem": "Arrange the following building blocks of India's direct benefit and digital payments ecosystem in chronological order of launch:",
+    "items": [
+      "Roll-out of Direct Benefit Transfer (DBT)",
+      "Issue of the first Aadhaar number",
+      "Launch of the Pradhan Mantri Jan-Dhan Yojana (PMJDY)",
+      "Launch of the Unified Payments Interface (UPI)"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "1-2-3-4",
+      "2-3-1-4",
+      "2-1-3-4",
+      "3-2-1-4"
+    ],
+    "answer": "c",
+    "code": "2-1-3-4",
+    "explanation": "The first Aadhaar number was issued in September 2010, Direct Benefit Transfer began on 1 January 2013, PMJDY was launched in August 2014 and UPI in April 2016. The correct order is 2-1-3-4."
+  },
+  {
+    "id": "u07-077",
+    "unit": 7,
+    "topic": "u07-t04",
+    "type": "statements",
+    "stem": "Consider the following statements about risk management in banks:",
+    "items": [
+      "Credit risk, market risk and operational risk together form the three broad categories of risk under Basel norms.",
+      "Value at Risk (VaR) is a technique commonly used to measure market risk.",
+      "Risk management in a bank is the sole responsibility of the branch manager."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 and 2 only"
+    ],
+    "answer": "d",
+    "explanation": "Basel Pillar 1 covers credit, market and operational risk, and VaR is a standard way to measure market risk. Risk management is a board-driven, bank-wide function with a dedicated risk management structure, not a branch manager's job, so statement 3 is false."
+  },
+  {
+    "id": "u07-078",
+    "unit": 7,
+    "topic": "u07-t02",
+    "type": "statements",
+    "stem": "Consider the following statements regarding public sector banks (PSBs) in India:",
+    "items": [
+      "PSBs are banks in which the Government of India holds a majority stake.",
+      "The State Bank of India became a PSB following the SBI Act, 1955.",
+      "The major nationalisation of 14 banks took place in the year 1980."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 only",
+      "1, 2 and 3",
+      "1 and 2 only",
+      "2 and 3 only"
+    ],
+    "answer": "c",
+    "explanation": "PSBs are banks in which the Government holds a majority stake, and SBI was created by the SBI Act, 1955 to take over the Imperial Bank. The 14 major banks were nationalised in 1969, not 1980 (six more followed in 1980), so statement 3 is false."
+  },
+  {
+    "id": "u07-079",
+    "unit": 7,
+    "topic": "u07-t07",
+    "type": "ar",
+    "stem": "Assertion (A): SEBI was established as a statutory body under the SEBI Act, 1992.",
+    "reason": "Reason (R): SEBI's primary mandate is to regulate the insurance and pension sectors in India.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "c",
+    "explanation": "SEBI was established in 1988 and got statutory status under the SEBI Act, 1992, so A is true. It regulates the securities market; insurance comes under IRDAI and pensions under PFRDA, so R is false."
+  },
+  {
+    "id": "u07-080",
+    "unit": 7,
+    "topic": "u07-t04",
+    "type": "mcq",
+    "stem": "Which type of risk arises from a borrower's failure to repay a loan as per agreed terms?",
+    "options": [
+      "Credit risk",
+      "Market risk",
+      "Operational risk",
+      "Liquidity risk"
+    ],
+    "answer": "a",
+    "explanation": "Credit risk is the risk that a borrower or counterparty fails to repay as agreed."
+  },
+  {
+    "id": "u07-081",
+    "unit": 7,
+    "topic": "u07-t04",
+    "type": "mcq",
+    "stem": "As per RBI norms, a term loan account is generally classified as a Non-Performing Asset (NPA) if interest or instalment remains overdue for more than:",
+    "options": [
+      "90 days",
+      "30 days",
+      "60 days",
+      "180 days"
+    ],
+    "answer": "a",
+    "explanation": "Under the RBI's income recognition and asset classification norms, a term loan becomes an NPA when interest or an instalment stays overdue for more than 90 days."
+  },
+  {
+    "id": "u07-082",
+    "unit": 7,
+    "topic": "u07-t06",
+    "type": "mcq",
+    "stem": "Mutual Funds in India are regulated under:",
+    "options": [
+      "Rules of the Ministry of Corporate Affairs",
+      "IRDAI regulations",
+      "SEBI (Mutual Funds) Regulations, 1996",
+      "Reserve Bank of India guidelines"
+    ],
+    "answer": "c",
+    "explanation": "Mutual funds in India are set up as trusts and regulated by SEBI under the SEBI (Mutual Funds) Regulations, 1996."
+  },
+  {
+    "id": "u07-083",
+    "unit": 7,
+    "topic": "u07-t10",
+    "type": "mcq",
+    "stem": "Which principle of insurance requires the insured to disclose all material facts to the insurer?",
+    "options": [
+      "Principle of Contribution",
+      "Principle of Subrogation",
+      "Principle of Indemnity",
+      "Principle of Utmost Good Faith"
+    ],
+    "answer": "d",
+    "explanation": "Uberrimae fidei (utmost good faith) requires both parties, especially the proposer, to disclose all material facts. If they are concealed, the insurer can avoid the contract."
+  },
+  {
+    "id": "u07-084",
+    "unit": 7,
+    "topic": "u07-t08",
+    "type": "mcq",
+    "stem": "The Pradhan Mantri Jan-Dhan Yojana (PMJDY) primarily aims at:",
+    "options": [
+      "Providing pension only to government employees",
+      "Regulating the stock market",
+      "Providing crop insurance to farmers",
+      "Universal access to banking/financial services, including a basic savings account"
+    ],
+    "answer": "d",
+    "explanation": "PMJDY (2014) is the national mission for financial inclusion. It aims at universal access to a basic savings bank account, with a RuPay card, accident cover and access to credit, insurance and pension."
+  },
+  {
+    "id": "u07-085",
+    "unit": 7,
+    "topic": "u07-t08",
+    "type": "sequencing",
+    "stem": "Arrange the following financial inclusion milestones in India in chronological order:",
+    "items": [
+      "Launch of the Pradhan Mantri Jan-Dhan Yojana (PMJDY)",
+      "RBI's 'no-frills accounts' financial inclusion drive",
+      "Introduction of the Business Correspondent model",
+      "Licensing of Small Finance Banks"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "2-1-3-4",
+      "1-2-3-4",
+      "2-3-1-4",
+      "3-2-1-4"
+    ],
+    "answer": "c",
+    "code": "2-3-1-4",
+    "explanation": "No-frills accounts (RBI, November 2005) → Business Correspondent model (January 2006) → PMJDY (August 2014) → Small Finance Bank licences (in-principle approvals in 2015, operations from 2016)."
+  },
+  {
+    "id": "u07-086",
+    "unit": 7,
+    "topic": "u07-t03",
+    "type": "matching",
+    "stem": "Match List I (instrument) with List II (what it represents):",
+    "listI": [
+      "Repo Rate",
+      "Reverse Repo Rate",
+      "Bank Rate",
+      "Marginal Standing Facility (MSF)"
+    ],
+    "listII": [
+      "Rate at which RBI absorbs excess liquidity from banks",
+      "Rate at which RBI lends short-term funds to banks against collateral",
+      "Standard rate at which RBI buys or rediscounts bills of exchange and other eligible commercial paper",
+      "Overnight penal-rate window above repo, allowing banks to dip into SLR securities"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-1, B-2, C-3, D-4",
+      "A-3, B-1, C-2, D-4",
+      "A-2, B-1, C-3, D-4",
+      "A-2, B-1, C-4, D-3"
+    ],
+    "answer": "c",
+    "code": "A-2, B-1, C-3, D-4",
+    "explanation": "Repo is the RBI lending short-term against collateral, and reverse repo absorbs surplus liquidity. The Bank Rate is the standard rate for rediscounting bills, and MSF is an overnight penal window above repo where banks may also dip into their SLR holdings."
+  },
+  {
+    "id": "u07-087",
+    "unit": 7,
+    "topic": "u07-t05",
+    "type": "mcq",
+    "stem": "Commercial Paper (CP) in India is typically issued for a maturity period of:",
+    "options": [
+      "More than 10 years",
+      "3 to 10 years",
+      "1 to 3 days only",
+      "7 days to 1 year"
+    ],
+    "answer": "d",
+    "explanation": "Under RBI directions, Commercial Paper is an unsecured short-term money market instrument issued for 7 days to one year."
+  },
+  {
+    "id": "u07-088",
+    "unit": 7,
+    "topic": "u07-t02",
+    "type": "statements",
+    "stem": "Consider the following statements about Scheduled Commercial Banks (SCBs) in India:",
+    "items": [
+      "SCBs are banks included in the Second Schedule of the RBI Act, 1934.",
+      "SCBs are entitled to borrow from the RBI at the Bank Rate.",
+      "All Non-Banking Financial Companies (NBFCs) are automatically classified as SCBs."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 and 2 only",
+      "1 and 3 only"
+    ],
+    "answer": "c",
+    "explanation": "Scheduled banks are those listed in the Second Schedule of the RBI Act, 1934, and they can get accommodation from the RBI at the Bank Rate. NBFCs are not banks and are not listed in the Second Schedule, so statement 3 is false."
+  },
+  {
+    "id": "u07-089",
+    "unit": 7,
+    "topic": "u07-t09",
+    "type": "statements",
+    "stem": "Consider the following statements about digital banking initiatives in India:",
+    "items": [
+      "Immediate Payment Service (IMPS) allows instant, round-the-clock fund transfer through mobile phones.",
+      "Aadhaar Enabled Payment System (AEPS) allows basic banking transactions using Aadhaar-based biometric authentication.",
+      "Digital Banking Units (DBUs) were set up to offer digital banking products only to corporate customers."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "2 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3",
+      "1 and 3 only"
+    ],
+    "answer": "b",
+    "explanation": "IMPS (NPCI, 2010) provides instant 24x7 transfers, and AEPS allows basic transactions through Aadhaar biometric authentication at micro-ATMs. Digital Banking Units (2022) serve all customers, especially retail and MSMEs, so statement 3 is false."
+  },
+  {
+    "id": "u07-090",
+    "unit": 7,
+    "topic": "u07-t02",
+    "type": "statements",
+    "stem": "Consider the following statements about foreign banks operating in India:",
+    "items": [
+      "Foreign banks can operate in India either as branches or through a Wholly Owned Subsidiary (WOS).",
+      "Foreign banks in India are exempt from maintaining CRR and SLR.",
+      "RBI's scheme for setting up a WOS by foreign banks aims to give them near-national treatment."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 only",
+      "1, 2 and 3",
+      "1 and 3 only",
+      "2 and 3 only"
+    ],
+    "answer": "c",
+    "explanation": "Foreign banks can operate as branches or as wholly owned subsidiaries, and the WOS route gives near-national treatment. They must maintain CRR and SLR like other scheduled banks, so statement 2 is false."
+  },
+  {
+    "id": "u07-091",
+    "unit": 7,
+    "topic": "u07-t03",
+    "type": "mcq",
+    "stem": "The Monetary Policy Committee (MPC) of the RBI primarily targets which of the following?",
+    "options": [
+      "Foreign exchange reserves",
+      "Current account deficit",
+      "Fiscal deficit",
+      "Consumer Price Index (CPI) based inflation"
+    ],
+    "answer": "d",
+    "explanation": "Under the flexible inflation-targeting framework (RBI Act as amended in 2016), the MPC targets CPI inflation, set at 4% with a band of ±2%."
+  },
+  {
+    "id": "u07-092",
+    "unit": 7,
+    "topic": "u07-t05",
+    "type": "matching",
+    "stem": "Match List I (term) with List II (description):",
+    "listI": [
+      "Primary Dealers",
+      "NDS-OM",
+      "RBI Retail Direct",
+      "SGL Account"
+    ],
+    "listII": [
+      "Registered entities that underwrite and make markets in G-Secs",
+      "Screen-based electronic order-matching system for G-Sec trading",
+      "Online portal allowing retail investors to directly buy G-Secs",
+      "Subsidiary General Ledger account for holding G-Secs in dematerialised form"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-2, B-1, C-3, D-4",
+      "A-1, B-2, C-3, D-4",
+      "A-1, B-3, C-2, D-4",
+      "A-4, B-2, C-3, D-1"
+    ],
+    "answer": "b",
+    "code": "A-1, B-2, C-3, D-4",
+    "explanation": "Primary Dealers underwrite G-Sec auctions and make markets, and NDS-OM is the RBI's screen-based order-matching system. RBI Retail Direct lets individuals buy G-Secs directly, and SGL accounts hold G-Secs in electronic book-entry form."
+  },
+  {
+    "id": "u07-093",
+    "unit": 7,
+    "topic": "u07-t10",
+    "type": "ar",
+    "stem": "Assertion (A): Reinsurance helps a primary insurer manage large or catastrophic risks.",
+    "reason": "Reason (R): Reinsurance allows the primary insurer to spread part of the risk, reducing the impact of large claims on its own balance sheet.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "By passing part of the risk to reinsurers, the primary insurer limits its loss from any single large or catastrophic event. R explains how reinsurance achieves A, so a is correct."
+  },
+  {
+    "id": "u07-094",
+    "unit": 7,
+    "topic": "u07-t04",
+    "type": "sequencing",
+    "stem": "Arrange the following in the chronological order in which they occurred:",
+    "items": [
+      "Introduction of Basel III",
+      "Introduction of Basel I",
+      "Introduction of Basel II",
+      "Establishment of the Basel Committee on Banking Supervision"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "4-2-3-1",
+      "2-4-3-1",
+      "2-3-4-1",
+      "4-3-2-1"
+    ],
+    "answer": "a",
+    "code": "4-2-3-1",
+    "explanation": "BCBS set up in 1974 → Basel I (1988) → Basel II (2004) → Basel III (2010, after the global financial crisis)."
+  },
+  {
+    "id": "u07-095",
+    "unit": 7,
+    "topic": "u07-t02",
+    "type": "statements",
+    "stem": "Consider the following statements about Regional Rural Banks (RRBs):",
+    "items": [
+      "RRBs were established with the objective of providing credit to weaker sections in rural areas.",
+      "RRBs are regulated by the RBI and supervised by NABARD.",
+      "RRBs can only accept deposits and are not permitted to sanction loans."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+    ],
+    "answer": "b",
+    "explanation": "RRBs were set up to give credit to small farmers, artisans and other rural weaker sections. The RBI regulates them and NABARD supervises them. RRBs do lend, so statement 3 is false."
+  },
+  {
+    "id": "u07-096",
+    "unit": 7,
+    "topic": "u07-t03",
+    "type": "mcq",
+    "stem": "Which department of the RBI is primarily responsible for the issue of currency notes?",
+    "options": [
+      "Department of Payment and Settlement Systems",
+      "Financial Markets Regulation Department",
+      "Department of Currency Management",
+      "Department of Banking Regulation"
+    ],
+    "answer": "c",
+    "explanation": "The RBI's Department of Currency Management handles the issue and management of currency notes."
+  },
+  {
+    "id": "u07-097",
+    "unit": 7,
+    "topic": "u07-t06",
+    "type": "matching",
+    "stem": "Match List I (pension-related scheme) with List II (target group/feature):",
+    "listI": [
+      "Atal Pension Yojana",
+      "Employees' Pension Scheme (EPS)",
+      "NPS Corporate model",
+      "Old Pension Scheme (OPS)"
+    ],
+    "listII": [
+      "Guarantees a fixed minimum monthly pension for unorganised-sector workers",
+      "Applicable to employees covered under the EPF Act",
+      "Allows corporates to extend NPS as a pension benefit to employees",
+      "Defined-benefit pension paid by the government without employee contribution"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-2, B-1, C-3, D-4",
+      "A-1, B-2, C-3, D-4",
+      "A-1, B-2, C-4, D-3",
+      "A-4, B-2, C-3, D-1"
+    ],
+    "answer": "b",
+    "code": "A-1, B-2, C-3, D-4",
+    "explanation": "APY guarantees a minimum pension to unorganised-sector workers, and EPS covers employees under the EPF Act. The NPS corporate model lets employers offer NPS, and the OPS is a defined-benefit pension paid by the government without employee contribution."
+  },
+  {
+    "id": "u07-098",
+    "unit": 7,
+    "topic": "u07-t09",
+    "type": "mcq",
+    "stem": "Which payment system settles transactions individually and in real time, and is typically used for high-value transactions?",
+    "options": [
+      "NEFT",
+      "IMPS",
+      "RTGS",
+      "UPI"
+    ],
+    "answer": "c",
+    "explanation": "RTGS settles each transaction individually (gross) and in real time, and is mainly for high-value payments. NEFT settles in batches."
+  },
+  {
+    "id": "u07-099",
+    "unit": 7,
+    "topic": "u07-t09",
+    "type": "sequencing",
+    "stem": "Arrange the following payment systems in India in chronological order of their launch:",
+    "items": [
+      "National Electronic Funds Transfer (NEFT)",
+      "Unified Payments Interface (UPI)",
+      "Real Time Gross Settlement (RTGS)",
+      "Immediate Payment Service (IMPS)"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "3-1-4-2",
+      "1-3-4-2",
+      "3-4-1-2",
+      "1-3-2-4"
+    ],
+    "answer": "a",
+    "code": "3-1-4-2",
+    "explanation": "RTGS started in March 2004, NEFT in November 2005, IMPS in November 2010 and UPI in April 2016. The correct order is 3-1-4-2."
+  },
+  {
+    "id": "u07-100",
+    "unit": 7,
+    "topic": "u07-t07",
+    "type": "mcq",
+    "stem": "Which regulator is responsible for the regulation and supervision of the insurance sector in India?",
+    "options": [
+      "RBI",
+      "IRDAI",
+      "PFRDA",
+      "SEBI"
+    ],
+    "answer": "b",
+    "explanation": "The Insurance Regulatory and Development Authority of India (IRDAI), set up under the IRDA Act, 1999, regulates and supervises insurance."
+  },
+  {
+    "id": "u07-101",
+    "unit": 7,
+    "topic": "u07-t01",
+    "type": "statements",
+    "stem": "Consider the following statements about the functions of a financial system:",
+    "items": [
+      "It channels funds from surplus-spending units to deficit-spending units.",
+      "It provides mechanisms for pooling, pricing and transferring risk.",
+      "It removes the need for a central bank once markets are well developed."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "a",
+    "explanation": "A financial system moves savings from surplus units to deficit units and provides ways to pool, price and transfer risk, for example through insurance and derivatives. Developed markets still need a central bank for monetary policy, the currency and as lender of last resort, so statement 3 is false."
+  }
+]

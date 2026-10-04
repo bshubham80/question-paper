@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "u04-001",
+    "unit": 4,
+    "topic": "u04-t09",
+    "type": "ar",
+    "stem": "Assertion (A): An Indian Depository Receipt (IDR) is issued by an Indian company to raise funds from overseas investors.",
+    "reason": "Reason (R): IDRs are depository receipts denominated in Indian rupees and listed on Indian stock exchanges.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "d",
+    "explanation": "A is false: an IDR is issued by a foreign company to raise funds from Indian investors. R is true."
+  },
+  {
+    "id": "u04-002",
+    "unit": 4,
+    "topic": "u04-t06",
+    "type": "ar",
+    "stem": "Assertion (A): According to Gordon's model, under uncertainty investors value current dividends more highly than future capital gains.",
+    "reason": "Reason (R): Gordon's model assumes that the growth rate of dividends exceeds the cost of equity.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "c",
+    "explanation": "A is true: this is Gordon's 'bird-in-hand' argument. R is false: the model requires the cost of equity to exceed the growth rate (ke > g), otherwise the price formula breaks down."
+  },
+  {
+    "id": "u04-003",
+    "unit": 4,
+    "topic": "u04-t07",
+    "type": "mcq",
+    "stem": "The risk-free rate is 6%, the expected market return is 12% and a security's beta is 1.5. Under CAPM, the required return on the security is:",
+    "options": [
+      "18%",
+      "15%",
+      "9%",
+      "24%"
+    ],
+    "answer": "b",
+    "explanation": "Required return = Rf + β(Rm − Rf) = 6% + 1.5 × (12% − 6%) = 6% + 9% = 15%. 18% wrongly multiplies beta by the whole market return."
+  },
+  {
+    "id": "u04-004",
+    "unit": 4,
+    "topic": "u04-t10",
+    "type": "sequencing",
+    "stem": "Arrange the following steps of covered interest arbitrage (where the foreign interest rate offers a gain after forward cover) in the correct order:",
+    "items": [
+      "Convert the borrowed amount into foreign currency at the spot rate",
+      "Borrow in the home currency",
+      "Repay the home-currency loan and keep the profit",
+      "Invest the foreign currency and simultaneously sell the maturity value forward"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "1-2-4-3",
+      "2-4-1-3",
+      "2-1-4-3",
+      "2-1-3-4"
+    ],
+    "answer": "c",
+    "code": "2-1-4-3",
+    "explanation": "The arbitrageur borrows at home, converts at spot, invests abroad while selling the maturity proceeds forward, and at maturity converts back at the forward rate and repays the loan, keeping the difference."
+  },
+  {
+    "id": "u04-005",
+    "unit": 4,
+    "topic": "u04-t03",
+    "type": "mcq",
+    "stem": "The value of an unlevered firm is ₹50 lakh. An identical firm uses ₹20 lakh of perpetual debt, and the corporate tax rate is 30%. According to Modigliani–Miller with corporate taxes, the value of the levered firm is:",
+    "options": [
+      "₹56 lakh",
+      "₹50 lakh",
+      "₹70 lakh",
+      "₹64 lakh"
+    ],
+    "answer": "a",
+    "explanation": "VL = VU + tD = 50 + 0.30 × 20 = 50 + 6 = ₹56 lakh. ₹50 lakh is the MM result without taxes."
+  },
+  {
+    "id": "u04-006",
+    "unit": 4,
+    "topic": "u04-t07",
+    "type": "ar",
+    "stem": "Assertion (A): Diversification cannot eliminate systematic risk.",
+    "reason": "Reason (R): Beta measures the sensitivity of a security's return to changes in the market return.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "b",
+    "explanation": "Both are true, but systematic risk cannot be diversified away because it comes from economy-wide factors that affect all securities. R only says how that risk is measured."
+  },
+  {
+    "id": "u04-007",
+    "unit": 4,
+    "topic": "u04-t10",
+    "type": "ar",
+    "stem": "Assertion (A): Covered interest arbitrage opportunities tend to disappear quickly in integrated financial markets.",
+    "reason": "Reason (R): Purchasing power parity states that exchange rates adjust to offset inflation differentials between countries.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "b",
+    "explanation": "Both are true, but covered arbitrage disappears because arbitrage trades push spot rates, forward rates and interest rates back to interest rate parity. PPP concerns inflation and does not explain this."
+  },
+  {
+    "id": "u04-008",
+    "unit": 4,
+    "topic": "u04-t09",
+    "type": "statements",
+    "stem": "Consider the following statements about international financial markets:",
+    "items": [
+      "Euro-currency markets are largely free of domestic reserve requirements.",
+      "Masala bonds are rupee-denominated bonds issued outside India.",
+      "Samurai bonds are US dollar bonds issued in the US by Japanese companies."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3",
+      "1 and 2 only"
+    ],
+    "answer": "d",
+    "explanation": "Statements 1 and 2 are correct. Samurai bonds are yen-denominated bonds issued in Japan by non-Japanese borrowers."
+  },
+  {
+    "id": "u04-009",
+    "unit": 4,
+    "topic": "u04-t02",
+    "type": "mcq",
+    "stem": "A company has just paid a dividend of ₹2 per share. Dividends are expected to grow at 5% per annum and the current share price is ₹42. Using the Gordon growth model, the cost of equity is:",
+    "options": [
+      "9.76%",
+      "5%",
+      "10%",
+      "15%"
+    ],
+    "answer": "c",
+    "explanation": "D1 = 2 × 1.05 = ₹2.10. Ke = D1/P0 + g = 2.10/42 + 0.05 = 0.05 + 0.05 = 10%. The value 9.76% wrongly uses D0 (2/42 + 5%)."
+  },
+  {
+    "id": "u04-010",
+    "unit": 4,
+    "topic": "u04-t02",
+    "type": "sequencing",
+    "stem": "₹1,000 is invested for one year at a nominal rate of 12% per annum. Arrange the following compounding frequencies in ascending order of the resulting future value:",
+    "items": [
+      "Quarterly compounding",
+      "Annual compounding",
+      "Monthly compounding",
+      "Semi-annual compounding"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "2-4-1-3",
+      "2-1-4-3",
+      "4-2-1-3",
+      "2-4-3-1"
+    ],
+    "answer": "a",
+    "code": "2-4-1-3",
+    "explanation": "Annual: 1,000 × 1.12 = ₹1,120. Semi-annual: 1,000 × 1.06² = ₹1,123.60. Quarterly: 1,000 × 1.03⁴ = ₹1,125.51. Monthly: 1,000 × 1.01¹² = ₹1,126.83."
+  },
+  {
+    "id": "u04-011",
+    "unit": 4,
+    "topic": "u04-t06",
+    "type": "mcq",
+    "stem": "A firm has earnings per share of ₹10 and pays a dividend of ₹4 per share. Its rate of return on investment is 15% and its cost of equity is 10%. According to Walter's model, the market price per share is:",
+    "options": [
+      "₹100",
+      "₹150",
+      "₹130",
+      "₹85"
+    ],
+    "answer": "c",
+    "explanation": "P = [D + (r/ke)(E − D)] / ke = [4 + (0.15/0.10)(10 − 4)] / 0.10 = (4 + 9) / 0.10 = ₹130. ₹150 would result only at zero payout."
+  },
+  {
+    "id": "u04-012",
+    "unit": 4,
+    "topic": "u04-t09",
+    "type": "mcq",
+    "stem": "An American Depository Receipt (ADR) is:",
+    "options": [
+      "A negotiable certificate issued by a US depository bank representing shares of a non-US company and traded in the US",
+      "A certificate issued by a domestic custodian representing shares of a foreign company traded in India",
+      "A bond issued in the US by a foreign borrower in US dollars",
+      "A convertible bond issued abroad by an Indian company in foreign currency"
+    ],
+    "answer": "a",
+    "explanation": "An ADR is issued by a US depository bank against shares of a foreign company held with a custodian, so that US investors can trade them in dollars. The other options describe an IDR, a Yankee bond and an FCCB."
+  },
+  {
+    "id": "u04-013",
+    "unit": 4,
+    "topic": "u04-t10",
+    "type": "matching",
+    "stem": "Match List I (concept) with List II (description):",
+    "listI": [
+      "Locational arbitrage",
+      "Triangular arbitrage",
+      "Covered interest arbitrage",
+      "International Fisher effect"
+    ],
+    "listII": [
+      "Investing abroad with a forward cover to exploit an interest differential",
+      "Differences in a currency's quotes across banks",
+      "Nominal interest differential predicts the change in the spot rate",
+      "Discrepancy between a quoted cross rate and the implied cross rate"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-4, B-2, C-1, D-3",
+      "A-2, B-4, C-3, D-1",
+      "A-1, B-4, C-2, D-3",
+      "A-2, B-4, C-1, D-3"
+    ],
+    "answer": "d",
+    "code": "A-2, B-4, C-1, D-3",
+    "explanation": "Locational arbitrage exploits differences in quotes between banks, triangular arbitrage exploits cross-rate mismatches, covered interest arbitrage exploits interest differentials with forward cover, and the IFE links interest differentials to expected exchange-rate changes."
+  },
+  {
+    "id": "u04-014",
+    "unit": 4,
+    "topic": "u04-t05",
+    "type": "statements",
+    "stem": "Consider the following statements about working capital:",
+    "items": [
+      "Gross working capital refers to total current assets.",
+      "Net working capital is current assets minus current liabilities.",
+      "Factoring involves selling receivables to a factor.",
+      "The Baumol model is a technique of inventory management of raw materials only."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 3 and 4 only"
+    ],
+    "answer": "b",
+    "explanation": "Statements 1, 2 and 3 are correct. The Baumol model applies inventory (EOQ) logic to cash management, so it is a cash management model."
+  },
+  {
+    "id": "u04-015",
+    "unit": 4,
+    "topic": "u04-t04",
+    "type": "mcq",
+    "stem": "A project costs ₹50,000 and yields ₹30,000 at the end of each of the next two years. At a discount rate of 10%, its NPV is approximately:",
+    "options": [
+      "₹10,000",
+      "₹4,793",
+      "₹2,066",
+      "(−) ₹1,240"
+    ],
+    "answer": "c",
+    "explanation": "PV of inflows = 30,000 × (0.9091 + 0.8264) = 30,000 × 1.7355 = ₹52,066. NPV = 52,066 − 50,000 = ₹2,066. ₹10,000 is the undiscounted surplus."
+  },
+  {
+    "id": "u04-016",
+    "unit": 4,
+    "topic": "u04-t03",
+    "type": "mcq",
+    "stem": "According to the Net Income (NI) approach to capital structure, an increase in financial leverage:",
+    "options": [
+      "Leaves the value of the firm and the overall cost of capital unchanged",
+      "Increases the value of the firm and lowers its overall cost of capital",
+      "Lowers the value of the firm and raises the overall cost of capital",
+      "First raises and then lowers the overall cost of capital"
+    ],
+    "answer": "b",
+    "explanation": "The NI approach assumes Ke and Kd stay constant with Kd < Ke. More cheap debt therefore lowers the overall cost of capital (Ko) and raises firm value. An unchanged Ko is the NOI view."
+  },
+  {
+    "id": "u04-017",
+    "unit": 4,
+    "topic": "u04-t04",
+    "type": "statements",
+    "stem": "Consider the following statements about handling risk in capital budgeting:",
+    "items": [
+      "The risk-adjusted discount rate method adds a risk premium to the discount rate.",
+      "The certainty equivalent method scales down risky cash flows to their riskless equivalents.",
+      "Sensitivity analysis examines how NPV changes when one variable is changed at a time.",
+      "Monte Carlo simulation uses probability distributions of the key variables."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 3 only",
+      "1 and 3 only",
+      "2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "d",
+    "explanation": "All four statements correctly describe standard techniques for dealing with risk in capital budgeting."
+  },
+  {
+    "id": "u04-018",
+    "unit": 4,
+    "topic": "u04-t04",
+    "type": "mcq",
+    "stem": "A project costs ₹1,00,000 and generates cash inflows of ₹30,000, ₹40,000, ₹50,000 and ₹20,000 in years 1 to 4. Its payback period is:",
+    "options": [
+      "2.5 years",
+      "3.0 years",
+      "2.6 years",
+      "2.4 years"
+    ],
+    "answer": "c",
+    "explanation": "₹70,000 is recovered in two years. The remaining ₹30,000 comes from year 3's ₹50,000, which takes 30,000/50,000 = 0.6 year. Payback = 2.6 years."
+  },
+  {
+    "id": "u04-019",
+    "unit": 4,
+    "topic": "u04-t09",
+    "type": "statements",
+    "stem": "Consider the following statements about international financial instruments:",
+    "items": [
+      "GDRs may be listed on stock exchanges in more than one country.",
+      "A Eurobond is denominated in a currency other than that of the country in which it is issued.",
+      "A Yankee bond is a US dollar bond issued in the US by a foreign borrower.",
+      "Foreign currency convertible bonds (FCCBs) cannot be converted into equity shares."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 2 and 3 only",
+      "1, 3 and 4 only"
+    ],
+    "answer": "c",
+    "explanation": "Statements 1, 2 and 3 are correct. FCCBs are, by definition, convertible into equity shares of the issuer."
+  },
+  {
+    "id": "u04-020",
+    "unit": 4,
+    "topic": "u04-t07",
+    "type": "mcq",
+    "stem": "A share may return 20%, 10% or −5% with probabilities 0.3, 0.5 and 0.2 respectively. Its expected return is:",
+    "options": [
+      "8.33%",
+      "10%",
+      "11%",
+      "12%"
+    ],
+    "answer": "b",
+    "explanation": "Expected return = 0.3 × 20 + 0.5 × 10 + 0.2 × (−5) = 6 + 5 − 1 = 10%. 8.33% is the unweighted average."
+  },
+  {
+    "id": "u04-021",
+    "unit": 4,
+    "topic": "u04-t03",
+    "type": "matching",
+    "stem": "Match List I (capital structure theory) with List II (implication):",
+    "listI": [
+      "Net Income approach",
+      "Net Operating Income approach",
+      "Traditional approach",
+      "Pecking order theory"
+    ],
+    "listII": [
+      "Overall cost of capital unaffected by leverage",
+      "U-shaped overall cost of capital curve",
+      "Overall cost of capital declines as debt increases",
+      "Preference ordering among sources of finance"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-3, B-1, C-2, D-4",
+      "A-1, B-3, C-2, D-4",
+      "A-3, B-1, C-4, D-2",
+      "A-2, B-1, C-3, D-4"
+    ],
+    "answer": "a",
+    "code": "A-3, B-1, C-2, D-4",
+    "explanation": "Under the NI approach Ko falls with debt, under NOI Ko is constant, the traditional approach gives a U-shaped Ko, and the pecking order ranks internal funds, then debt, then equity."
+  },
+  {
+    "id": "u04-022",
+    "unit": 4,
+    "topic": "u04-t03",
+    "type": "statements",
+    "stem": "Consider the following statements about capital structure theories:",
+    "items": [
+      "The traditional approach holds that there is an optimum capital structure.",
+      "Under the Net Operating Income approach, the overall cost of capital stays constant whatever the leverage.",
+      "The trade-off theory balances the tax benefits of debt against the costs of financial distress."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 3",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only"
+    ],
+    "answer": "a",
+    "explanation": "All three statements are correct descriptions of the respective theories."
+  },
+  {
+    "id": "u04-023",
+    "unit": 4,
+    "topic": "u04-t02",
+    "type": "mcq",
+    "stem": "The present value of ₹10,000 receivable after 2 years at a discount rate of 10% per annum compounded annually is approximately:",
+    "options": [
+      "₹8,000",
+      "₹8,264",
+      "₹8,333",
+      "₹9,091"
+    ],
+    "answer": "b",
+    "explanation": "PV = 10,000 / (1.10)² = 10,000 / 1.21 = ₹8,264.46. ₹9,091 is the one-year value and ₹8,333 wrongly uses simple interest (10,000/1.20)."
+  },
+  {
+    "id": "u04-024",
+    "unit": 4,
+    "topic": "u04-t04",
+    "type": "sequencing",
+    "stem": "Arrange the following stages of the capital budgeting process in the correct order:",
+    "items": [
+      "Project selection",
+      "Post-completion audit",
+      "Identification of investment opportunities",
+      "Evaluation of proposals"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "3-1-4-2",
+      "3-4-1-2",
+      "4-3-1-2",
+      "3-4-2-1"
+    ],
+    "answer": "b",
+    "code": "3-4-1-2",
+    "explanation": "Opportunities are identified first, then evaluated, the best are selected and implemented, and finally a post-completion audit reviews actual performance."
+  },
+  {
+    "id": "u04-025",
+    "unit": 4,
+    "topic": "u04-t08",
+    "type": "mcq",
+    "stem": "An Indian importer must pay US dollars in three months and fears that the rupee will depreciate. A suitable hedge is:",
+    "options": [
+      "Selling US dollars forward for three months",
+      "Buying a put option on US dollars",
+      "Selling US dollar futures contracts",
+      "Buying US dollars forward for three months"
+    ],
+    "answer": "d",
+    "explanation": "The importer has a future dollar payable, so it needs a long dollar position. Buying dollars forward fixes the rupee cost. Selling dollars forward or futures, or buying a dollar put, would add to its exposure instead of offsetting it."
+  },
+  {
+    "id": "u04-026",
+    "unit": 4,
+    "topic": "u04-t08",
+    "type": "sequencing",
+    "stem": "Arrange the following phases of the international monetary system in chronological order:",
+    "items": [
+      "Bretton Woods system",
+      "Jamaica Agreement",
+      "Smithsonian Agreement",
+      "Classical gold standard"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "4-1-3-2",
+      "1-4-3-2",
+      "4-3-1-2",
+      "4-1-2-3"
+    ],
+    "answer": "a",
+    "code": "4-1-3-2",
+    "explanation": "The classical gold standard (c. 1870–1914) came first, then the Bretton Woods system (1944), the Smithsonian Agreement (1971) and the Jamaica Agreement (1976)."
+  },
+  {
+    "id": "u04-027",
+    "unit": 4,
+    "topic": "u04-t08",
+    "type": "statements",
+    "stem": "Consider the following statements about foreign exchange exposure:",
+    "items": [
+      "Transaction exposure arises from contracted cash flows denominated in foreign currency.",
+      "Translation exposure arises when the financial statements of foreign subsidiaries are consolidated.",
+      "Economic exposure affects the present value of a firm's future operating cash flows."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 3",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only"
+    ],
+    "answer": "a",
+    "explanation": "All three statements correctly describe transaction, translation (accounting) and economic (operating) exposure."
+  },
+  {
+    "id": "u04-028",
+    "unit": 4,
+    "topic": "u04-t04",
+    "type": "matching",
+    "stem": "Match List I (appraisal technique) with List II (feature):",
+    "listI": [
+      "Payback period",
+      "Accounting rate of return",
+      "Internal rate of return",
+      "Profitability index"
+    ],
+    "listII": [
+      "Discount rate at which NPV equals zero",
+      "Ratio of the PV of inflows to the initial outlay",
+      "Ignores cash flows after the recovery period",
+      "Based on accounting profit rather than cash flows"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-4, B-3, C-1, D-2",
+      "A-3, B-4, C-2, D-1",
+      "A-1, B-4, C-3, D-2",
+      "A-3, B-4, C-1, D-2"
+    ],
+    "answer": "d",
+    "code": "A-3, B-4, C-1, D-2",
+    "explanation": "Payback ignores post-recovery cash flows, ARR uses accounting profits, IRR is the rate at which NPV is zero, and PI divides the PV of inflows by the outlay."
+  },
+  {
+    "id": "u04-029",
+    "unit": 4,
+    "topic": "u04-t01",
+    "type": "sequencing",
+    "stem": "Arrange the following stages of venture capital financing in the correct order:",
+    "items": [
+      "Mezzanine (bridge) financing",
+      "Seed financing",
+      "Expansion (second-stage) financing",
+      "Start-up financing"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "4-2-3-1",
+      "2-3-4-1",
+      "2-4-1-3",
+      "2-4-3-1"
+    ],
+    "answer": "d",
+    "code": "2-4-3-1",
+    "explanation": "Venture funding moves from seed capital (idea or prototype) to start-up, then to expansion (second-stage) financing, and finally to mezzanine or bridge finance before an IPO or exit."
+  },
+  {
+    "id": "u04-030",
+    "unit": 4,
+    "topic": "u04-t01",
+    "type": "matching",
+    "stem": "Match List I (source of finance) with List II (description):",
+    "listI": [
+      "Commercial paper",
+      "Debenture",
+      "Venture capital",
+      "Trade credit"
+    ],
+    "listII": [
+      "Credit allowed by suppliers of goods",
+      "Short-term unsecured promissory note issued in the money market",
+      "Risk capital for young, high-growth ventures",
+      "Long-term debt instrument carrying a fixed rate of interest"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-4, B-2, C-3, D-1",
+      "A-2, B-4, C-1, D-3",
+      "A-2, B-4, C-3, D-1",
+      "A-1, B-4, C-3, D-2"
+    ],
+    "answer": "c",
+    "code": "A-2, B-4, C-3, D-1",
+    "explanation": "Commercial paper is a short-term unsecured money-market note, a debenture is long-term fixed-interest debt, venture capital is risk capital for start-ups, and trade credit comes from suppliers."
+  },
+  {
+    "id": "u04-031",
+    "unit": 4,
+    "topic": "u04-t05",
+    "type": "mcq",
+    "stem": "Annual demand for a material is 4,000 units, the cost of placing an order is ₹100 and the carrying cost is ₹5 per unit per year. The economic order quantity is:",
+    "options": [
+      "283 units",
+      "800 units",
+      "400 units",
+      "200 units"
+    ],
+    "answer": "c",
+    "explanation": "EOQ = √(2AO/C) = √(2 × 4,000 × 100 / 5) = √1,60,000 = 400 units."
+  },
+  {
+    "id": "u04-032",
+    "unit": 4,
+    "topic": "u04-t06",
+    "type": "sequencing",
+    "stem": "For a growth firm (r > ke), arrange the following dividend payout ratios in ascending order of the share price predicted by Walter's model:",
+    "items": [
+      "0% payout",
+      "50% payout",
+      "100% payout",
+      "25% payout"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "3-2-4-1",
+      "1-4-2-3",
+      "3-4-2-1",
+      "2-3-4-1"
+    ],
+    "answer": "a",
+    "code": "3-2-4-1",
+    "explanation": "When r > ke, every rupee retained adds more value than a rupee paid out, so the price falls as payout rises. The ascending price order is 100%, 50%, 25%, 0% payout."
+  },
+  {
+    "id": "u04-033",
+    "unit": 4,
+    "topic": "u04-t05",
+    "type": "ar",
+    "stem": "Assertion (A): An aggressive working capital financing policy raises expected profitability but also raises risk.",
+    "reason": "Reason (R): Under an aggressive policy, all current assets are financed from long-term sources.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "c",
+    "explanation": "A is true, because cheaper short-term funds lift profits but bring refinancing risk. R is false: financing all current assets from long-term sources is the conservative policy, whereas an aggressive policy uses short-term funds even for part of the permanent current assets."
+  },
+  {
+    "id": "u04-034",
+    "unit": 4,
+    "topic": "u04-t07",
+    "type": "sequencing",
+    "stem": "Arrange the following steps in a typical securitisation transaction in the correct order:",
+    "items": [
+      "The SPV issues securities to investors",
+      "The originator identifies and pools receivables",
+      "The servicer collects dues and passes them on to investors",
+      "The pool is transferred (sold) to the SPV"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "4-2-1-3",
+      "2-1-4-3",
+      "2-4-3-1",
+      "2-4-1-3"
+    ],
+    "answer": "d",
+    "code": "2-4-1-3",
+    "explanation": "The originator pools the assets and sells them to the SPV, which issues securities against them. Collections from borrowers are then passed through to investors over the life of the deal."
+  },
+  {
+    "id": "u04-035",
+    "unit": 4,
+    "topic": "u04-t09",
+    "type": "mcq",
+    "stem": "A Eurodollar deposit is:",
+    "options": [
+      "A deposit in euros held in a bank in the euro area",
+      "A dollar deposit held with the US Federal Reserve",
+      "A bond denominated in euros issued by a US company",
+      "A US dollar deposit held in a bank outside the United States"
+    ],
+    "answer": "d",
+    "explanation": "The 'Euro' prefix means a currency held or traded outside its country of issue, so a Eurodollar is a dollar deposit held outside the US. The term has nothing to do with the euro currency."
+  },
+  {
+    "id": "u04-036",
+    "unit": 4,
+    "topic": "u04-t07",
+    "type": "matching",
+    "stem": "Match List I (measure) with List II (what it indicates):",
+    "listI": [
+      "Standard deviation",
+      "Beta",
+      "Coefficient of variation",
+      "Sharpe ratio"
+    ],
+    "listII": [
+      "Market (non-diversifiable) risk",
+      "Excess return per unit of total risk",
+      "Total variability of returns",
+      "Risk per unit of expected return"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-1, B-3, C-4, D-2",
+      "A-3, B-1, C-2, D-4",
+      "A-4, B-1, C-3, D-2",
+      "A-3, B-1, C-4, D-2"
+    ],
+    "answer": "d",
+    "code": "A-3, B-1, C-4, D-2",
+    "explanation": "Standard deviation measures total risk, beta measures systematic risk, the coefficient of variation measures risk per unit of return, and the Sharpe ratio measures excess return per unit of total risk."
+  },
+  {
+    "id": "u04-037",
+    "unit": 4,
+    "topic": "u04-t10",
+    "type": "sequencing",
+    "stem": "Arrange the following steps in evaluating a foreign project from the parent company's perspective in the correct order:",
+    "items": [
+      "Convert the remittable cash flows into home currency at forecast exchange rates",
+      "Estimate the project's cash flows in the foreign currency",
+      "Discount the home-currency cash flows at the parent's required rate of return",
+      "Adjust for host-country taxes, withholding taxes and blocked funds"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "4-2-1-3",
+      "2-1-4-3",
+      "2-4-1-3",
+      "2-4-3-1"
+    ],
+    "answer": "c",
+    "code": "2-4-1-3",
+    "explanation": "Foreign-currency cash flows are estimated first and adjusted for taxes and remittance restrictions. The remittable amounts are then converted into home currency and discounted at the parent's required return to get NPV."
+  },
+  {
+    "id": "u04-038",
+    "unit": 4,
+    "topic": "u04-t01",
+    "type": "statements",
+    "stem": "Consider the following statements about long-term sources of finance:",
+    "items": [
+      "Equity shareholders are residual claimants on income and assets.",
+      "Interest on debentures is a tax-deductible expense for the company.",
+      "Preference dividend is a tax-deductible expense for the company."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3",
+      "1 and 2 only"
+    ],
+    "answer": "d",
+    "explanation": "Statements 1 and 2 are correct. Preference dividend is an appropriation of profit, not an expense, so it is not tax-deductible."
+  },
+  {
+    "id": "u04-039",
+    "unit": 4,
+    "topic": "u04-t02",
+    "type": "ar",
+    "stem": "Assertion (A): The cost of retained earnings is lower than the cost of a fresh issue of equity shares.",
+    "reason": "Reason (R): A fresh issue of equity involves flotation costs, which reduce the net proceeds per share.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "Both are true, and R explains A: flotation costs lower the net proceeds per share, which raises the cost of new equity above the cost of retained earnings."
+  },
+  {
+    "id": "u04-040",
+    "unit": 4,
+    "topic": "u04-t01",
+    "type": "ar",
+    "stem": "Assertion (A): Retained earnings are a cost-free source of finance.",
+    "reason": "Reason (R): Retained earnings involve no flotation costs.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "d",
+    "explanation": "A is false: retained earnings carry an opportunity cost equal to the return shareholders could earn if the profits were paid out. R is true, since no issue expenses are incurred."
+  },
+  {
+    "id": "u04-041",
+    "unit": 4,
+    "topic": "u04-t01",
+    "type": "mcq",
+    "stem": "A firm sells an asset it owns to a leasing company and then leases the same asset back for its own use. This arrangement is called:",
+    "options": [
+      "Leveraged lease",
+      "Sale and leaseback",
+      "Operating lease",
+      "Cross-border lease"
+    ],
+    "answer": "b",
+    "explanation": "In a sale and leaseback the owner raises cash by selling the asset and keeps using it by leasing it back from the buyer."
+  },
+  {
+    "id": "u04-042",
+    "unit": 4,
+    "topic": "u04-t03",
+    "type": "ar",
+    "stem": "Assertion (A): Under Modigliani–Miller's hypothesis without taxes, the value of a firm is independent of its capital structure.",
+    "reason": "Reason (R): Arbitrage by investors prevents identical firms that differ only in leverage from selling at different values.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "Both are true, and R explains A: MM's proof rests on arbitrage (home-made leverage), which removes any difference in value caused by leverage alone."
+  },
+  {
+    "id": "u04-043",
+    "unit": 4,
+    "topic": "u04-t02",
+    "type": "statements",
+    "stem": "Consider the following statements about the time value of money:",
+    "items": [
+      "For a given nominal rate, the effective annual rate rises as compounding becomes more frequent.",
+      "The present value of an annuity due exceeds that of an ordinary annuity with the same payments and rate.",
+      "The Rule of 72 estimates the number of years needed to double an investment.",
+      "The present value of a perpetuity equals the annual cash flow multiplied by the discount rate."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "c",
+    "explanation": "Statements 1, 2 and 3 are correct. The PV of a perpetuity is the cash flow divided by the discount rate (C/r), not multiplied by it."
+  },
+  {
+    "id": "u04-044",
+    "unit": 4,
+    "topic": "u04-t08",
+    "type": "statements",
+    "stem": "Consider the following statements about currency derivatives:",
+    "items": [
+      "A forward contract is customised and traded over the counter.",
+      "Currency futures are standardised and traded on an exchange.",
+      "The buyer of a currency option is obliged to exercise it on maturity."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "a",
+    "explanation": "Statements 1 and 2 are correct. An option gives its buyer a right but not an obligation; only the option writer is obliged to perform."
+  },
+  {
+    "id": "u04-045",
+    "unit": 4,
+    "topic": "u04-t02",
+    "type": "mcq",
+    "stem": "A firm is financed 60% by equity (cost 15%) and 40% by debt (pre-tax cost 10%). If the tax rate is 30%, its weighted average cost of capital is:",
+    "options": [
+      "13.0%",
+      "11.8%",
+      "12.5%",
+      "10.6%"
+    ],
+    "answer": "b",
+    "explanation": "After-tax Kd = 10% × (1 − 0.30) = 7%. WACC = 0.60 × 15% + 0.40 × 7% = 9% + 2.8% = 11.8%. The value 13.0% ignores the tax shield."
+  },
+  {
+    "id": "u04-046",
+    "unit": 4,
+    "topic": "u04-t05",
+    "type": "mcq",
+    "stem": "A firm's raw materials are held for 30 days, WIP for 15 days and finished goods for 20 days. Debtors take 45 days to pay, and creditors allow 40 days. Its net operating cycle is:",
+    "options": [
+      "110 days",
+      "70 days",
+      "150 days",
+      "30 days"
+    ],
+    "answer": "b",
+    "explanation": "Gross operating cycle = 30 + 15 + 20 + 45 = 110 days. Net operating cycle = 110 − 40 (creditors' deferral) = 70 days."
+  },
+  {
+    "id": "u04-047",
+    "unit": 4,
+    "topic": "u04-t06",
+    "type": "ar",
+    "stem": "Assertion (A): Firms are generally reluctant to cut dividends.",
+    "reason": "Reason (R): Modigliani and Miller argued that dividend policy does not affect firm value in perfect capital markets.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "b",
+    "explanation": "Both are true, but reluctance to cut dividends comes from signalling and investors' preference for stable dividends (Lintner). MM's irrelevance argument does not explain it."
+  },
+  {
+    "id": "u04-048",
+    "unit": 4,
+    "topic": "u04-t09",
+    "type": "matching",
+    "stem": "Match List I (foreign bond) with List II (market of issue):",
+    "listI": [
+      "Yankee bond",
+      "Samurai bond",
+      "Bulldog bond",
+      "Panda bond"
+    ],
+    "listII": [
+      "Japan",
+      "China",
+      "United States",
+      "United Kingdom"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-3, B-1, C-4, D-2",
+      "A-1, B-3, C-4, D-2",
+      "A-3, B-1, C-2, D-4",
+      "A-4, B-1, C-3, D-2"
+    ],
+    "answer": "a",
+    "code": "A-3, B-1, C-4, D-2",
+    "explanation": "These are foreign bonds issued by non-residents in local currency: Yankee bonds in the US, Samurai bonds in Japan, Bulldog bonds in the UK and Panda bonds in China."
+  },
+  {
+    "id": "u04-049",
+    "unit": 4,
+    "topic": "u04-t06",
+    "type": "statements",
+    "stem": "Consider the following statements about dividend theories:",
+    "items": [
+      "Under Walter's model, a growth firm (r > ke) should retain all its earnings.",
+      "Modigliani–Miller's dividend irrelevance theory assumes perfect capital markets and no taxes.",
+      "Lintner found that firms change dividends frequently in line with every change in earnings.",
+      "The 'bird-in-hand' argument is associated with Myron Gordon."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 3 only",
+      "1, 2 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "b",
+    "explanation": "Statements 1, 2 and 4 are correct. Lintner found the opposite of statement 3: firms adjust dividends gradually towards a target payout and avoid frequent changes."
+  },
+  {
+    "id": "u04-050",
+    "unit": 4,
+    "topic": "u04-t01",
+    "type": "mcq",
+    "stem": "Which of the following is a feature of a financial lease?",
+    "options": [
+      "The lessor bears maintenance and obsolescence risk and the lease is short-term",
+      "The lessee must buy the asset at a nominal price at the end of the term",
+      "The lessee bears the risk of obsolescence and the lease is non-cancellable for most of the asset's life",
+      "The lessor sells the asset to the lessee in instalments"
+    ],
+    "answer": "c",
+    "explanation": "A financial (capital) lease is a long-term, non-cancellable lease that transfers substantially all risks and rewards of ownership to the lessee. The short-term lease where the lessor bears the risks is an operating lease."
+  },
+  {
+    "id": "u04-051",
+    "unit": 4,
+    "topic": "u04-t10",
+    "type": "mcq",
+    "stem": "The spot rate is ₹83.00/US$. The one-year interest rate is 8% in India and 4% in the US. Under interest rate parity, the one-year forward rate is approximately:",
+    "options": [
+      "₹86.19/US$",
+      "₹79.93/US$",
+      "₹86.32/US$",
+      "₹83.00/US$"
+    ],
+    "answer": "a",
+    "explanation": "F = S × (1 + i_INR)/(1 + i_USD) = 83 × 1.08/1.04 = 83 × 1.03846 = ₹86.19. The higher-interest rupee trades at a forward discount. ₹79.93 inverts the ratio."
+  },
+  {
+    "id": "u04-052",
+    "unit": 4,
+    "topic": "u04-t08",
+    "type": "matching",
+    "stem": "Match List I (hedging technique) with List II (description):",
+    "listI": [
+      "Leading and lagging",
+      "Netting",
+      "Money market hedge",
+      "Currency swap"
+    ],
+    "listII": [
+      "Exchange of principal and interest streams in two currencies",
+      "Speeding up or delaying foreign-currency payments",
+      "Offsetting intra-group receivables and payables",
+      "Borrowing in one currency and investing in another to fix the rate"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-2, B-3, C-4, D-1",
+      "A-3, B-2, C-4, D-1",
+      "A-2, B-3, C-1, D-4",
+      "A-4, B-3, C-2, D-1"
+    ],
+    "answer": "a",
+    "code": "A-2, B-3, C-4, D-1",
+    "explanation": "Leading and lagging change the timing of payments, netting offsets intra-group flows, a money market hedge locks the rate through borrowing and lending, and a currency swap exchanges principal and interest in two currencies."
+  },
+  {
+    "id": "u04-053",
+    "unit": 4,
+    "topic": "u04-t04",
+    "type": "ar",
+    "stem": "Assertion (A): NPV and IRR may rank mutually exclusive projects differently.",
+    "reason": "Reason (R): The NPV method assumes that intermediate cash flows are reinvested at the cost of capital, whereas the IRR method assumes reinvestment at the IRR.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "Both are true, and the different reinvestment assumptions are the standard textbook explanation of the conflict, which shows up when projects differ in scale or in the timing of cash flows."
+  },
+  {
+    "id": "u04-054",
+    "unit": 4,
+    "topic": "u04-t06",
+    "type": "matching",
+    "stem": "Match List I (dividend form or policy) with List II (description):",
+    "listI": [
+      "Stock dividend",
+      "Stable dividend policy",
+      "Scrip dividend",
+      "Share buyback"
+    ],
+    "listII": [
+      "Issue of fully paid bonus shares instead of cash",
+      "Company purchasing its own shares from shareholders",
+      "Paying a steady amount per share despite fluctuating earnings",
+      "Issue of notes promising to pay the dividend at a future date"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-3, B-1, C-4, D-2",
+      "A-1, B-3, C-4, D-2",
+      "A-1, B-3, C-2, D-4",
+      "A-4, B-3, C-1, D-2"
+    ],
+    "answer": "b",
+    "code": "A-1, B-3, C-4, D-2",
+    "explanation": "A stock dividend is paid in bonus shares, a stable policy keeps the dividend per share steady, a scrip dividend is paid through promissory notes, and a buyback returns cash by repurchasing shares."
+  },
+  {
+    "id": "u04-055",
+    "unit": 4,
+    "topic": "u04-t05",
+    "type": "sequencing",
+    "stem": "Arrange the following stages of the operating cycle of a manufacturing firm, starting from cash, in the correct order:",
+    "items": [
+      "Work-in-progress",
+      "Receivables",
+      "Raw materials",
+      "Finished goods"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "1-3-4-2",
+      "3-1-4-2",
+      "3-4-1-2",
+      "3-1-2-4"
+    ],
+    "answer": "b",
+    "code": "3-1-4-2",
+    "explanation": "Cash buys raw materials, which become work-in-progress and then finished goods. Credit sales create receivables, which are finally collected as cash."
+  },
+  {
+    "id": "u04-056",
+    "unit": 4,
+    "topic": "u04-t05",
+    "type": "matching",
+    "stem": "Match List I (model/tool) with List II (area of application):",
+    "listI": [
+      "Baumol model",
+      "Miller–Orr model",
+      "ABC analysis",
+      "Ageing schedule"
+    ],
+    "listII": [
+      "Classifying inventory by consumption value",
+      "Monitoring receivables by how long they have been outstanding",
+      "Cash balance allowed to fluctuate between upper and lower control limits",
+      "Trade-off between the holding cost and the transaction cost of cash"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-3, B-4, C-1, D-2",
+      "A-4, B-3, C-2, D-1",
+      "A-1, B-3, C-4, D-2",
+      "A-4, B-3, C-1, D-2"
+    ],
+    "answer": "d",
+    "code": "A-4, B-3, C-1, D-2",
+    "explanation": "Baumol trades off the holding and transaction costs of cash, Miller–Orr uses control limits for random cash flows, ABC classifies inventory by value, and an ageing schedule monitors receivables."
+  },
+  {
+    "id": "u04-057",
+    "unit": 4,
+    "topic": "u04-t07",
+    "type": "statements",
+    "stem": "Consider the following statements about asset securitisation:",
+    "items": [
+      "It pools illiquid assets such as loans and converts them into marketable securities.",
+      "A special purpose vehicle (SPV) is usually set up to hold the pooled assets.",
+      "Securitisation keeps the securitised assets on the originator's balance sheet.",
+      "Pass-through certificates pass the cash flows from the underlying assets to investors."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "c",
+    "explanation": "Statements 1, 2 and 4 are correct. In a true sale the assets move to the SPV and leave the originator's balance sheet, freeing capital, so statement 3 is wrong."
+  },
+  {
+    "id": "u04-058",
+    "unit": 4,
+    "topic": "u04-t03",
+    "type": "ar",
+    "stem": "Assertion (A): According to the pecking order theory, firms prefer external equity to internal funds.",
+    "reason": "Reason (R): Because of information asymmetry, a new equity issue may be read as a signal that the shares are overvalued.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "d",
+    "explanation": "A is false: under the pecking order, firms prefer internal funds first, then debt, and new equity last. R is true, and this signalling cost is why equity comes last."
+  },
+  {
+    "id": "u04-059",
+    "unit": 4,
+    "topic": "u04-t08",
+    "type": "ar",
+    "stem": "Assertion (A): Under the Bretton Woods system, currencies were pegged to the US dollar, which was convertible into gold at $35 per ounce.",
+    "reason": "Reason (R): The Bretton Woods system was established under the Jamaica Agreement of 1976.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "c",
+    "explanation": "A is true. R is false: the Bretton Woods system was set up at the 1944 Bretton Woods conference, and the 1976 Jamaica Agreement formally recognised floating rates after it had collapsed."
+  },
+  {
+    "id": "u04-060",
+    "unit": 4,
+    "topic": "u04-t10",
+    "type": "statements",
+    "stem": "Consider the following statements about multinational capital budgeting:",
+    "items": [
+      "A foreign project may be evaluated from the subsidiary's as well as the parent's perspective.",
+      "From the parent's perspective, only the cash flows that can be remitted to the parent are relevant.",
+      "Exchange rate changes and blocked funds are irrelevant to the parent's evaluation."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3",
+      "1 and 2 only"
+    ],
+    "answer": "d",
+    "explanation": "Statements 1 and 2 are correct. Exchange rate forecasts and restrictions on remittance directly affect the home-currency cash flows the parent receives, so statement 3 is wrong."
+  }
+]

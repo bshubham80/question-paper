@@ -1,0 +1,1201 @@
+[
+  {
+    "id": "u03-001",
+    "unit": 3,
+    "topic": "u03-t04",
+    "type": "statements",
+    "stem": "Consider the following statements about production analysis:",
+    "items": [
+      "Ridge lines separate the economic region of production from the uneconomic region.",
+      "The expansion path joins the points of tangency between isoquants and isocost lines.",
+      "The Cobb–Douglas production function has an elasticity of substitution equal to one.",
+      "Two isoquants of the same firm may intersect."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4",
+      "1, 2 and 3 only"
+    ],
+    "answer": "d",
+    "explanation": "Statements 1, 2 and 3 are correct. Isoquants cannot intersect, because one input combination cannot produce two different output levels."
+  },
+  {
+    "id": "u03-002",
+    "unit": 3,
+    "topic": "u03-t06",
+    "type": "mcq",
+    "stem": "A perfectly competitive firm shuts down in the short run if the price falls below:",
+    "options": [
+      "Minimum average total cost",
+      "Minimum average variable cost",
+      "Minimum average fixed cost",
+      "Maximum marginal revenue"
+    ],
+    "answer": "b",
+    "explanation": "In the short run the firm keeps producing as long as price covers AVC, because fixed costs are incurred anyway. Below minimum AVC it minimises losses by shutting down."
+  },
+  {
+    "id": "u03-003",
+    "unit": 3,
+    "topic": "u03-t03",
+    "type": "ar",
+    "stem": "Assertion (A): Two indifference curves of a consumer cannot intersect each other.",
+    "reason": "Reason (R): Indifference curves are convex to the origin because of a diminishing marginal rate of substitution.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "b",
+    "explanation": "Both are true, but non-intersection follows from the assumptions of transitivity and non-satiation, not from convexity."
+  },
+  {
+    "id": "u03-004",
+    "unit": 3,
+    "topic": "u03-t05",
+    "type": "sequencing",
+    "stem": "A firm faces the demand curve P = 20 − 2Q. At Q = 4, arrange the following in ascending order of value:",
+    "items": [
+      "Total revenue",
+      "Average revenue",
+      "Marginal revenue"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "2-3-1",
+      "3-2-1",
+      "3-1-2",
+      "1-2-3"
+    ],
+    "answer": "b",
+    "code": "3-2-1",
+    "explanation": "AR = P = 20 − 8 = 12. TR = 12 × 4 = 48. MR = 20 − 4Q = 4. The ascending order is MR (4), AR (12), TR (48)."
+  },
+  {
+    "id": "u03-005",
+    "unit": 3,
+    "topic": "u03-t02",
+    "type": "ar",
+    "stem": "Assertion (A): The demand curve for a Giffen good slopes upward.",
+    "reason": "Reason (R): For a Giffen good, the negative income effect is weaker than the substitution effect.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "c",
+    "explanation": "A is true. R is false: a Giffen good's demand curve slopes upward precisely because its negative income effect is stronger than the substitution effect."
+  },
+  {
+    "id": "u03-006",
+    "unit": 3,
+    "topic": "u03-t07",
+    "type": "statements",
+    "stem": "Consider the following statements about oligopoly:",
+    "items": [
+      "Interdependence among firms in decision-making is a key feature.",
+      "A cartel is a form of collusive oligopoly.",
+      "In the Bertrand model, firms compete by choosing quantities.",
+      "Price leadership may be exercised by a low-cost firm or by a dominant firm."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "b",
+    "explanation": "Statements 1, 2 and 4 are correct. In the Bertrand model firms compete on price; quantity competition is the Cournot model."
+  },
+  {
+    "id": "u03-007",
+    "unit": 3,
+    "topic": "u03-t07",
+    "type": "mcq",
+    "stem": "In Chamberlin's long-run equilibrium under monopolistic competition, the firm's demand curve is tangent to the LAC curve:",
+    "options": [
+      "At the minimum point of the LAC curve",
+      "On the rising portion of the LAC curve",
+      "On the falling portion of the LAC curve",
+      "At the point where MC is at its minimum"
+    ],
+    "answer": "c",
+    "explanation": "The firm's demand curve slopes downward, so it can touch the U-shaped LAC only where LAC is falling. Output is therefore below the minimum-cost level, which is the excess capacity theorem."
+  },
+  {
+    "id": "u03-008",
+    "unit": 3,
+    "topic": "u03-t02",
+    "type": "sequencing",
+    "stem": "Arrange the following steps of a demand forecasting exercise in the correct order:",
+    "items": [
+      "Selecting the forecasting method",
+      "Specifying the objective of the forecast",
+      "Interpreting and evaluating the results",
+      "Collecting the relevant data"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "2-1-4-3",
+      "1-2-4-3",
+      "2-4-1-3",
+      "4-2-1-3"
+    ],
+    "answer": "a",
+    "code": "2-1-4-3",
+    "explanation": "The objective is specified first, the method is chosen to suit it, the data the method needs are collected, and finally the results are interpreted and evaluated."
+  },
+  {
+    "id": "u03-009",
+    "unit": 3,
+    "topic": "u03-t04",
+    "type": "ar",
+    "stem": "Assertion (A): Isoquants are concave to the origin.",
+    "reason": "Reason (R): The marginal rate of technical substitution of labour for capital diminishes as more labour is substituted for capital.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "d",
+    "explanation": "A is false: isoquants are convex to the origin. R is true, and the diminishing MRTS is exactly why isoquants are convex."
+  },
+  {
+    "id": "u03-010",
+    "unit": 3,
+    "topic": "u03-t02",
+    "type": "sequencing",
+    "stem": "Arrange the following types of price elasticity of demand in ascending order of elasticity:",
+    "items": [
+      "Unitary elastic",
+      "Perfectly inelastic",
+      "Relatively elastic",
+      "Relatively inelastic"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "2-1-4-3",
+      "4-2-1-3",
+      "2-4-3-1",
+      "2-4-1-3"
+    ],
+    "answer": "d",
+    "code": "2-4-1-3",
+    "explanation": "Elasticity rises from zero (perfectly inelastic) to between zero and one (relatively inelastic), to one (unitary) and then above one (relatively elastic)."
+  },
+  {
+    "id": "u03-011",
+    "unit": 3,
+    "topic": "u03-t01",
+    "type": "mcq",
+    "stem": "According to Baumol's model, a firm aims to maximise:",
+    "options": [
+      "Sales revenue subject to a minimum profit constraint",
+      "Profit subject to a minimum sales constraint",
+      "Its balanced rate of growth subject to a security constraint",
+      "A managerial utility function of staff and emoluments"
+    ],
+    "answer": "a",
+    "explanation": "Baumol argued that managers maximise total sales revenue as long as profit does not fall below the minimum acceptable to shareholders. The growth objective belongs to Marris and the managerial utility function to Williamson."
+  },
+  {
+    "id": "u03-012",
+    "unit": 3,
+    "topic": "u03-t03",
+    "type": "sequencing",
+    "stem": "Arrange the following contributions to consumer theory in chronological order:",
+    "items": [
+      "Samuelson's revealed preference theory",
+      "Marshall's Principles of Economics",
+      "Hicks and Allen's 'A Reconsideration of the Theory of Value'",
+      "Edgeworth's Mathematical Psychics"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "2-4-3-1",
+      "4-2-1-3",
+      "4-2-3-1",
+      "2-4-1-3"
+    ],
+    "answer": "c",
+    "code": "4-2-3-1",
+    "explanation": "Edgeworth's Mathematical Psychics (1881) came first, then Marshall's Principles (1890), Hicks and Allen's paper (1934) and Samuelson's revealed preference theory (1938)."
+  },
+  {
+    "id": "u03-013",
+    "unit": 3,
+    "topic": "u03-t06",
+    "type": "statements",
+    "stem": "Consider the following statements about monopoly:",
+    "items": [
+      "A monopolist has no supply curve in the sense of a unique price–quantity relationship.",
+      "Monopoly equilibrium requires MC to cut MR from below.",
+      "The Lerner index of monopoly power is (P − MC)/P."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "d",
+    "explanation": "All three are correct. The same output can be sold at different prices depending on demand, so there is no unique supply curve. The second-order condition requires MC to cut MR from below, and Lerner measured monopoly power as (P − MC)/P."
+  },
+  {
+    "id": "u03-014",
+    "unit": 3,
+    "topic": "u03-t01",
+    "type": "matching",
+    "stem": "Match List I (theory of the firm) with List II (proponent):",
+    "listI": [
+      "Sales revenue maximisation",
+      "Growth maximisation",
+      "Managerial discretion model",
+      "Behavioural theory of the firm"
+    ],
+    "listII": [
+      "Robin Marris",
+      "W.J. Baumol",
+      "R.M. Cyert and J.G. March",
+      "O.E. Williamson"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-2, B-1, C-4, D-3",
+      "A-1, B-2, C-4, D-3",
+      "A-2, B-1, C-3, D-4",
+      "A-4, B-1, C-2, D-3"
+    ],
+    "answer": "a",
+    "code": "A-2, B-1, C-4, D-3",
+    "explanation": "Baumol proposed sales maximisation, Marris growth maximisation, Williamson the managerial discretion (utility) model and Cyert and March the behavioural theory."
+  },
+  {
+    "id": "u03-015",
+    "unit": 3,
+    "topic": "u03-t08",
+    "type": "sequencing",
+    "stem": "Arrange the following steps in setting a price for a product in the correct order:",
+    "items": [
+      "Determining demand",
+      "Selecting the final price",
+      "Selecting the pricing objective",
+      "Estimating costs"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "3-1-4-2",
+      "1-3-4-2",
+      "3-4-1-2",
+      "3-1-2-4"
+    ],
+    "answer": "a",
+    "code": "3-1-4-2",
+    "explanation": "The firm first sets its pricing objective, then estimates demand (the price ceiling) and costs (the price floor), and finally selects the price."
+  },
+  {
+    "id": "u03-016",
+    "unit": 3,
+    "topic": "u03-t05",
+    "type": "statements",
+    "stem": "Consider the following statements about revenue curves:",
+    "items": [
+      "Marginal revenue is zero when total revenue is at its maximum.",
+      "Under perfect competition, AR = MR for the firm.",
+      "When demand is price inelastic, marginal revenue is positive."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3",
+      "1 and 2 only"
+    ],
+    "answer": "d",
+    "explanation": "Statements 1 and 2 are correct. From MR = AR(1 − 1/e), MR is negative when e < 1, so statement 3 is wrong."
+  },
+  {
+    "id": "u03-017",
+    "unit": 3,
+    "topic": "u03-t01",
+    "type": "ar",
+    "stem": "Assertion (A): In Williamson's model, managers derive utility from expenditure on staff and from managerial emoluments.",
+    "reason": "Reason (R): Baumol argued that managers' salaries are more closely linked to sales than to profits.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "b",
+    "explanation": "Both statements are true, but they belong to different managerial theories. Williamson's assertion rests on managerial discretion arising from the separation of ownership and control, not on Baumol's sales-salary link."
+  },
+  {
+    "id": "u03-018",
+    "unit": 3,
+    "topic": "u03-t03",
+    "type": "mcq",
+    "stem": "The slope of an indifference curve measures the:",
+    "options": [
+      "Ratio of the prices of the two goods",
+      "Marginal utility of money",
+      "Marginal rate of substitution",
+      "Marginal rate of technical substitution"
+    ],
+    "answer": "c",
+    "explanation": "The slope of an indifference curve is the marginal rate of substitution between the two goods. The price ratio is the slope of the budget line, and MRTS is the slope of an isoquant."
+  },
+  {
+    "id": "u03-019",
+    "unit": 3,
+    "topic": "u03-t08",
+    "type": "statements",
+    "stem": "Consider the following statements about pricing practices:",
+    "items": [
+      "Skimming pricing sets a high initial price for a new product.",
+      "Psychological pricing uses prices such as ₹99 instead of ₹100.",
+      "Transfer pricing refers to prices charged between divisions of the same firm.",
+      "Peak-load pricing charges higher prices during periods of high demand."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2, 3 and 4",
+      "1, 2 and 3 only",
+      "1 and 4 only",
+      "2, 3 and 4 only"
+    ],
+    "answer": "a",
+    "explanation": "All four statements correctly describe standard pricing practices."
+  },
+  {
+    "id": "u03-020",
+    "unit": 3,
+    "topic": "u03-t08",
+    "type": "matching",
+    "stem": "Match List I (pricing method) with List II (description):",
+    "listI": [
+      "Marginal cost pricing",
+      "Target return pricing",
+      "Loss-leader pricing",
+      "Peak-load pricing"
+    ],
+    "listII": [
+      "Higher charges during periods of maximum demand",
+      "Price set to earn a specified rate of return on investment",
+      "A popular item sold below cost to attract customers",
+      "Price that covers only the incremental cost of extra output"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-2, B-4, C-3, D-1",
+      "A-4, B-2, C-1, D-3",
+      "A-3, B-2, C-4, D-1",
+      "A-4, B-2, C-3, D-1"
+    ],
+    "answer": "d",
+    "code": "A-4, B-2, C-3, D-1",
+    "explanation": "Marginal cost pricing covers incremental cost, target return pricing aims at a set ROI, a loss leader is priced below cost to draw customers, and peak-load pricing charges more at times of peak demand."
+  },
+  {
+    "id": "u03-021",
+    "unit": 3,
+    "topic": "u03-t02",
+    "type": "statements",
+    "stem": "Consider the following statements about demand forecasting methods:",
+    "items": [
+      "The Delphi method uses successive rounds of anonymous expert opinion.",
+      "The barometric technique uses leading indicators to anticipate changes in demand.",
+      "Trend projection is a survey method of demand forecasting.",
+      "The complete enumeration method collects the purchase intentions of all consumers."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 4 only",
+      "1 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "a",
+    "explanation": "Statements 1, 2 and 4 are correct. Trend projection fits a trend to past time-series data, so it is a statistical method, not a survey method."
+  },
+  {
+    "id": "u03-022",
+    "unit": 3,
+    "topic": "u03-t05",
+    "type": "ar",
+    "stem": "Assertion (A): The short-run average cost curve is U-shaped.",
+    "reason": "Reason (R): The variable factor first shows increasing and then diminishing returns under the law of variable proportions.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "Both are true. Increasing returns to the variable factor first lower average cost, and diminishing returns later raise it, which gives the SAC its U shape."
+  },
+  {
+    "id": "u03-023",
+    "unit": 3,
+    "topic": "u03-t05",
+    "type": "matching",
+    "stem": "Match List I (cost concept) with List II (meaning):",
+    "listI": [
+      "Marginal cost",
+      "Sunk cost",
+      "Opportunity cost",
+      "Explicit cost"
+    ],
+    "listII": [
+      "Value of the next best alternative forgone",
+      "Actual payments made to outside suppliers of factors",
+      "Past cost that cannot be recovered",
+      "Addition to total cost from one more unit of output"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-4, B-3, C-1, D-2",
+      "A-3, B-4, C-1, D-2",
+      "A-4, B-3, C-2, D-1",
+      "A-1, B-3, C-4, D-2"
+    ],
+    "answer": "a",
+    "code": "A-4, B-3, C-1, D-2",
+    "explanation": "Marginal cost is the extra cost of one more unit, sunk cost is an unrecoverable past cost, opportunity cost is the next best alternative forgone, and explicit cost is an actual payment to outsiders."
+  },
+  {
+    "id": "u03-024",
+    "unit": 3,
+    "topic": "u03-t03",
+    "type": "matching",
+    "stem": "Match List I (concept) with List II (economist):",
+    "listI": [
+      "Cardinal utility analysis of demand",
+      "Ordinal indifference curve analysis of demand",
+      "Revealed preference theory",
+      "First introduction of the indifference curve"
+    ],
+    "listII": [
+      "Paul Samuelson",
+      "F.Y. Edgeworth",
+      "Alfred Marshall",
+      "J.R. Hicks and R.G.D. Allen"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-3, B-4, C-1, D-2",
+      "A-4, B-3, C-1, D-2",
+      "A-3, B-4, C-2, D-1",
+      "A-1, B-4, C-3, D-2"
+    ],
+    "answer": "a",
+    "code": "A-3, B-4, C-1, D-2",
+    "explanation": "Marshall built demand on cardinal utility, Hicks and Allen on ordinal indifference curves, and Samuelson on revealed preference. Edgeworth first introduced the indifference curve in 1881."
+  },
+  {
+    "id": "u03-025",
+    "unit": 3,
+    "topic": "u03-t05",
+    "type": "mcq",
+    "stem": "A firm's total cost function is TC = 100 + 10Q + Q². What is the marginal cost at Q = 5?",
+    "options": [
+      "₹20",
+      "₹35",
+      "₹15",
+      "₹25"
+    ],
+    "answer": "a",
+    "explanation": "MC = dTC/dQ = 10 + 2Q = 10 + 10 = ₹20. ₹35 is ATC (100/5 + 10 + 5) and ₹15 is AVC (10 + 5)."
+  },
+  {
+    "id": "u03-026",
+    "unit": 3,
+    "topic": "u03-t02",
+    "type": "matching",
+    "stem": "Match List I (demand forecasting method) with List II (feature):",
+    "listI": [
+      "Delphi method",
+      "Barometric technique",
+      "Method of least squares",
+      "Test marketing"
+    ],
+    "listII": [
+      "Statistical fitting of a trend line",
+      "Panel of experts responding anonymously",
+      "Experiment in a controlled market",
+      "Leading, coincident and lagging indicators"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-4, B-2, C-1, D-3",
+      "A-2, B-4, C-3, D-1",
+      "A-2, B-4, C-1, D-3",
+      "A-3, B-4, C-1, D-2"
+    ],
+    "answer": "c",
+    "code": "A-2, B-4, C-1, D-3",
+    "explanation": "Delphi uses anonymous expert panels, the barometric technique uses economic indicators, least squares fits a trend, and test marketing is a controlled market experiment."
+  },
+  {
+    "id": "u03-027",
+    "unit": 3,
+    "topic": "u03-t06",
+    "type": "mcq",
+    "stem": "A monopolist faces the demand curve P = 100 − 2Q and has a constant marginal cost of ₹20. Its profit-maximising output and price are:",
+    "options": [
+      "Q = 40, P = ₹20",
+      "Q = 20, P = ₹60",
+      "Q = 25, P = ₹50",
+      "Q = 30, P = ₹40"
+    ],
+    "answer": "b",
+    "explanation": "TR = 100Q − 2Q², so MR = 100 − 4Q. Setting MR = MC gives 100 − 4Q = 20, so Q = 20 and P = 100 − 40 = ₹60. Q = 40, P = ₹20 is the competitive outcome where P = MC."
+  },
+  {
+    "id": "u03-028",
+    "unit": 3,
+    "topic": "u03-t05",
+    "type": "mcq",
+    "stem": "If average revenue is ₹20 and the price elasticity of demand is 2, marginal revenue is:",
+    "options": [
+      "₹15",
+      "₹10",
+      "₹30",
+      "₹40"
+    ],
+    "answer": "b",
+    "explanation": "MR = AR × (1 − 1/e) = 20 × (1 − 1/2) = ₹10."
+  },
+  {
+    "id": "u03-029",
+    "unit": 3,
+    "topic": "u03-t02",
+    "type": "statements",
+    "stem": "Consider the following statements about price elasticity of demand:",
+    "items": [
+      "A vertical demand curve has zero price elasticity.",
+      "Price elasticity is the same at every point on a downward-sloping straight-line demand curve.",
+      "A demand curve shaped as a rectangular hyperbola has unitary elasticity throughout."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "c",
+    "explanation": "Statements 1 and 3 are correct. On a straight-line demand curve the slope is constant but elasticity varies, from infinity at the price axis to zero at the quantity axis."
+  },
+  {
+    "id": "u03-030",
+    "unit": 3,
+    "topic": "u03-t02",
+    "type": "mcq",
+    "stem": "When the price of a good falls from ₹10 to ₹8, its quantity demanded rises from 100 to 130 units. Using the percentage method with the initial values as base, the price elasticity of demand is:",
+    "options": [
+      "0.67",
+      "1.17",
+      "2.5",
+      "1.5"
+    ],
+    "answer": "d",
+    "explanation": "Percentage change in quantity = 30/100 = 30%; percentage change in price = 2/10 = 20%; e = 30/20 = 1.5. The value 1.17 is the arc (midpoint) elasticity, which the question does not ask for."
+  },
+  {
+    "id": "u03-031",
+    "unit": 3,
+    "topic": "u03-t07",
+    "type": "matching",
+    "stem": "Match List I (model) with List II (economist):",
+    "listI": [
+      "Kinked demand curve",
+      "Duopoly with quantity competition",
+      "Duopoly with price competition",
+      "Group equilibrium under monopolistic competition"
+    ],
+    "listII": [
+      "Joseph Bertrand",
+      "E.H. Chamberlin",
+      "Paul Sweezy",
+      "Augustin Cournot"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-4, B-3, C-1, D-2",
+      "A-3, B-1, C-4, D-2",
+      "A-2, B-4, C-1, D-3",
+      "A-3, B-4, C-1, D-2"
+    ],
+    "answer": "d",
+    "code": "A-3, B-4, C-1, D-2",
+    "explanation": "Sweezy gave the kinked demand curve, Cournot the quantity-setting duopoly, Bertrand the price-setting duopoly and Chamberlin the group equilibrium of monopolistic competition."
+  },
+  {
+    "id": "u03-032",
+    "unit": 3,
+    "topic": "u03-t02",
+    "type": "matching",
+    "stem": "Match List I (value of price elasticity) with List II (type of demand):",
+    "listI": [
+      "e = 0",
+      "e = ∞",
+      "e = 1",
+      "e > 1"
+    ],
+    "listII": [
+      "Relatively elastic",
+      "Perfectly inelastic",
+      "Unitary elastic",
+      "Perfectly elastic"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-4, B-2, C-3, D-1",
+      "A-2, B-4, C-3, D-1",
+      "A-2, B-4, C-1, D-3",
+      "A-3, B-4, C-2, D-1"
+    ],
+    "answer": "b",
+    "code": "A-2, B-4, C-3, D-1",
+    "explanation": "Zero elasticity is perfectly inelastic, infinite elasticity is perfectly elastic, unity is unitary elastic and a value above one is relatively elastic."
+  },
+  {
+    "id": "u03-033",
+    "unit": 3,
+    "topic": "u03-t07",
+    "type": "mcq",
+    "stem": "The kinked demand curve model of oligopoly is mainly used to explain:",
+    "options": [
+      "Price leadership by a dominant firm",
+      "Price rigidity in oligopolistic markets",
+      "Excess capacity under monopolistic competition",
+      "The allocation of quotas within a cartel"
+    ],
+    "answer": "b",
+    "explanation": "Sweezy's kinked demand curve assumes rivals match price cuts but not price increases. This creates a gap in the MR curve, so prices stay stable even when costs change within that gap."
+  },
+  {
+    "id": "u03-034",
+    "unit": 3,
+    "topic": "u03-t06",
+    "type": "sequencing",
+    "stem": "Arrange the following market forms in ascending order of the number of sellers:",
+    "items": [
+      "Oligopoly",
+      "Perfect competition",
+      "Monopoly",
+      "Duopoly"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "4-3-1-2",
+      "3-1-4-2",
+      "3-4-1-2",
+      "3-4-2-1"
+    ],
+    "answer": "c",
+    "code": "3-4-1-2",
+    "explanation": "A monopoly has one seller, a duopoly two, an oligopoly a few, and perfect competition a very large number."
+  },
+  {
+    "id": "u03-035",
+    "unit": 3,
+    "topic": "u03-t03",
+    "type": "statements",
+    "stem": "Consider the following statements:",
+    "items": [
+      "Under the cardinal approach, the consumer is in equilibrium when MUx/Px = MUy/Py.",
+      "The Hicks–Allen ordinal approach assumes that utility can be measured in utils.",
+      "In indifference curve analysis, the consumer is in equilibrium where MRSxy = Px/Py.",
+      "The law of diminishing marginal utility underlies Marshall's derivation of the demand curve."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 3 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "b",
+    "explanation": "Statements 1, 3 and 4 are correct. The ordinal approach only needs the consumer to rank combinations, not measure utility in utils."
+  },
+  {
+    "id": "u03-036",
+    "unit": 3,
+    "topic": "u03-t08",
+    "type": "mcq",
+    "stem": "A firm's unit cost is ₹80 and it adds a mark-up of 25% on cost. Its selling price is:",
+    "options": [
+      "₹105",
+      "₹106.67",
+      "₹120",
+      "₹100"
+    ],
+    "answer": "d",
+    "explanation": "Under cost-plus pricing with the mark-up on cost, price = 80 × 1.25 = ₹100. ₹106.67 would result from a 25% margin on the selling price (80/0.75)."
+  },
+  {
+    "id": "u03-037",
+    "unit": 3,
+    "topic": "u03-t08",
+    "type": "ar",
+    "stem": "Assertion (A): Penetration pricing is suitable for products whose demand is highly price elastic.",
+    "reason": "Reason (R): A low price in a price-sensitive market can quickly build a large sales volume and market share.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "Both are true, and R explains A: penetration pricing works because elastic demand responds strongly to a low price, so volume and market share grow quickly."
+  },
+  {
+    "id": "u03-038",
+    "unit": 3,
+    "topic": "u03-t02",
+    "type": "mcq",
+    "stem": "If the cross elasticity of demand between two goods is negative, the goods are:",
+    "options": [
+      "Substitutes",
+      "Unrelated goods",
+      "Complements",
+      "Giffen goods"
+    ],
+    "answer": "c",
+    "explanation": "A negative cross elasticity means a rise in the price of one good reduces the demand for the other, which is the case of complementary goods such as cars and petrol."
+  },
+  {
+    "id": "u03-039",
+    "unit": 3,
+    "topic": "u03-t06",
+    "type": "ar",
+    "stem": "Assertion (A): In long-run equilibrium, perfectly competitive firms earn supernormal profits.",
+    "reason": "Reason (R): Free entry and exit of firms eliminates abnormal profits in the long run.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "d",
+    "explanation": "A is false: in the long run competitive firms earn only normal profit. R is true, and free entry is exactly the mechanism that removes supernormal profits."
+  },
+  {
+    "id": "u03-040",
+    "unit": 3,
+    "topic": "u03-t06",
+    "type": "matching",
+    "stem": "Match List I (form of pricing) with List II (description):",
+    "listI": [
+      "First-degree price discrimination",
+      "Second-degree price discrimination",
+      "Third-degree price discrimination",
+      "Dumping"
+    ],
+    "listII": [
+      "Charging different prices to separable groups of buyers",
+      "Charging each buyer the maximum price he is willing to pay for each unit",
+      "Selling at a lower price in a foreign market than in the home market",
+      "Charging different prices for different blocks of quantity"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-4, B-2, C-1, D-3",
+      "A-2, B-4, C-3, D-1",
+      "A-2, B-4, C-1, D-3",
+      "A-1, B-4, C-2, D-3"
+    ],
+    "answer": "c",
+    "code": "A-2, B-4, C-1, D-3",
+    "explanation": "First-degree discrimination extracts each buyer's full willingness to pay, second-degree prices by quantity blocks, and third-degree separates markets by elasticity. Dumping is international price discrimination."
+  },
+  {
+    "id": "u03-041",
+    "unit": 3,
+    "topic": "u03-t04",
+    "type": "sequencing",
+    "stem": "As more units of a variable factor are added to a fixed factor, arrange the following events in the order in which they occur:",
+    "items": [
+      "Total product reaches its maximum",
+      "Marginal product reaches its maximum",
+      "Average product reaches its maximum",
+      "Marginal product becomes negative"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "3-2-1-4",
+      "2-3-1-4",
+      "2-1-3-4",
+      "2-3-4-1"
+    ],
+    "answer": "b",
+    "code": "2-3-1-4",
+    "explanation": "MP peaks first. AP peaks later, where MP cuts it from above. TP is at its maximum where MP is zero, and only after that does MP become negative."
+  },
+  {
+    "id": "u03-042",
+    "unit": 3,
+    "topic": "u03-t06",
+    "type": "statements",
+    "stem": "Consider the following statements about perfect competition:",
+    "items": [
+      "Each firm is a price taker.",
+      "The demand curve facing an individual firm is perfectly elastic.",
+      "In long-run equilibrium, P = MC = minimum LAC.",
+      "Firms spend heavily on competitive advertising."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "c",
+    "explanation": "Statements 1, 2 and 3 are correct. Products are homogeneous and buyers are fully informed under perfect competition, so there is no reason to spend on advertising."
+  },
+  {
+    "id": "u03-043",
+    "unit": 3,
+    "topic": "u03-t07",
+    "type": "ar",
+    "stem": "Assertion (A): Firms under monopolistic competition incur selling costs.",
+    "reason": "Reason (R): Monopolistic competition has a large number of sellers.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "b",
+    "explanation": "Both are true, but selling costs arise from product differentiation: firms advertise to shift and differentiate their demand. A large number of sellers alone, as in perfect competition, does not lead to selling costs."
+  },
+  {
+    "id": "u03-044",
+    "unit": 3,
+    "topic": "u03-t04",
+    "type": "ar",
+    "stem": "Assertion (A): Returns to scale are a long-run concept.",
+    "reason": "Reason (R): Under returns to scale, one factor is held constant while the others are varied.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "c",
+    "explanation": "A is true because returns to scale study proportionate changes in all inputs, which is possible only in the long run. R is false: holding one factor constant describes the law of variable proportions."
+  },
+  {
+    "id": "u03-045",
+    "unit": 3,
+    "topic": "u03-t01",
+    "type": "mcq",
+    "stem": "Business (managerial) economics is best described as:",
+    "options": [
+      "Purely positive macroeconomic theory",
+      "Applied microeconomics used for business decision-making",
+      "A descriptive study of national income aggregates",
+      "A historical study of business institutions"
+    ],
+    "answer": "b",
+    "explanation": "Business economics applies microeconomic tools such as demand, cost and pricing analysis to decision-making within the firm; it is pragmatic and largely normative."
+  },
+  {
+    "id": "u03-046",
+    "unit": 3,
+    "topic": "u03-t02",
+    "type": "mcq",
+    "stem": "A consumer's income rises by 20% and her demand for a good rises by 10%. The income elasticity of demand and the nature of the good are:",
+    "options": [
+      "2.0; a luxury",
+      "0.5; a normal necessity",
+      "0.5; an inferior good",
+      "−0.5; an inferior good"
+    ],
+    "answer": "b",
+    "explanation": "Income elasticity = 10% / 20% = 0.5. A positive value below one indicates a normal good that is a necessity; inferior goods have negative income elasticity."
+  },
+  {
+    "id": "u03-047",
+    "unit": 3,
+    "topic": "u03-t05",
+    "type": "statements",
+    "stem": "Consider the following statements about cost concepts:",
+    "items": [
+      "Opportunity cost is the value of the next best alternative forgone.",
+      "Sunk costs are relevant for future business decisions.",
+      "Implicit costs include the imputed value of the owner's own resources used in the business.",
+      "Economic profit is always greater than accounting profit."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 3 only",
+      "2 and 4 only",
+      "1 and 3 only",
+      "1, 3 and 4 only"
+    ],
+    "answer": "c",
+    "explanation": "Statements 1 and 3 are correct. Sunk costs cannot be recovered and are irrelevant to future decisions. Economic profit subtracts implicit costs as well, so it is usually smaller than accounting profit, not greater."
+  },
+  {
+    "id": "u03-048",
+    "unit": 3,
+    "topic": "u03-t02",
+    "type": "ar",
+    "stem": "Assertion (A): The demand for common salt is highly price inelastic.",
+    "reason": "Reason (R): Salt has few close substitutes and accounts for a very small share of the consumer's budget.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "Both are true, and the absence of substitutes together with the tiny budget share are exactly the determinants that make salt's demand inelastic."
+  },
+  {
+    "id": "u03-049",
+    "unit": 3,
+    "topic": "u03-t05",
+    "type": "ar",
+    "stem": "Assertion (A): The marginal cost curve cuts both the AVC and the ATC curves at their minimum points.",
+    "reason": "Reason (R): Marginal cost depends on the level of fixed cost.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "c",
+    "explanation": "A is true. R is false: fixed cost does not change with output, so it does not affect marginal cost, which is the change in variable cost from one more unit."
+  },
+  {
+    "id": "u03-050",
+    "unit": 3,
+    "topic": "u03-t04",
+    "type": "mcq",
+    "stem": "For the production function Q = A·L^0.6·K^0.5, returns to scale are:",
+    "options": [
+      "Increasing",
+      "Constant",
+      "Decreasing",
+      "First constant and then diminishing"
+    ],
+    "answer": "a",
+    "explanation": "For a Cobb–Douglas function, returns to scale depend on the sum of the exponents: 0.6 + 0.5 = 1.1 > 1, so returns to scale are increasing."
+  },
+  {
+    "id": "u03-051",
+    "unit": 3,
+    "topic": "u03-t07",
+    "type": "sequencing",
+    "stem": "Arrange the following models of oligopoly and duopoly in chronological order:",
+    "items": [
+      "Sweezy's kinked demand curve model",
+      "Cournot's duopoly model",
+      "Edgeworth's duopoly model",
+      "Bertrand's duopoly model"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "2-3-4-1",
+      "4-2-3-1",
+      "2-4-3-1",
+      "2-4-1-3"
+    ],
+    "answer": "c",
+    "code": "2-4-3-1",
+    "explanation": "Cournot (1838) came first, then Bertrand (1883), Edgeworth (1897) and Sweezy (1939)."
+  },
+  {
+    "id": "u03-052",
+    "unit": 3,
+    "topic": "u03-t06",
+    "type": "ar",
+    "stem": "Assertion (A): A profit-maximising monopolist always produces on the inelastic portion of its demand curve.",
+    "reason": "Reason (R): Marginal revenue is negative on the inelastic portion of a demand curve.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "d",
+    "explanation": "A is false. R is true, and because MR is negative on the inelastic portion while MC is positive, MR = MC can only hold on the elastic portion."
+  },
+  {
+    "id": "u03-053",
+    "unit": 3,
+    "topic": "u03-t05",
+    "type": "sequencing",
+    "stem": "For typical U-shaped short-run cost curves, arrange the following in the order in which they occur as output increases:",
+    "items": [
+      "Minimum point of ATC",
+      "Minimum point of MC",
+      "Minimum point of AVC"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "3-2-1",
+      "2-1-3",
+      "1-3-2",
+      "2-3-1"
+    ],
+    "answer": "d",
+    "code": "2-3-1",
+    "explanation": "MC reaches its minimum first. It then rises and cuts AVC at the AVC minimum, and later cuts ATC at the ATC minimum, which lies to the right because AFC keeps falling."
+  },
+  {
+    "id": "u03-054",
+    "unit": 3,
+    "topic": "u03-t01",
+    "type": "statements",
+    "stem": "Consider the following statements about the objectives of business firms:",
+    "items": [
+      "Simon's satisficing hypothesis holds that firms aim at satisfactory rather than maximum profits.",
+      "Cyert and March treat the firm as a coalition of groups with conflicting goals.",
+      "Wealth maximisation ignores the time value of money, whereas profit maximisation takes it into account."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3",
+      "1 and 2 only"
+    ],
+    "answer": "d",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is reversed: it is profit maximisation that ignores the timing and risk of returns, while wealth maximisation accounts for them through discounting."
+  },
+  {
+    "id": "u03-055",
+    "unit": 3,
+    "topic": "u03-t03",
+    "type": "mcq",
+    "stem": "The revealed preference theory of consumer demand was propounded by:",
+    "options": [
+      "J.R. Hicks and R.G.D. Allen",
+      "Alfred Marshall",
+      "Vilfredo Pareto",
+      "Paul A. Samuelson"
+    ],
+    "answer": "d",
+    "explanation": "Samuelson developed revealed preference theory (1938), which infers preferences from observed choices rather than introspective utility or indifference maps."
+  },
+  {
+    "id": "u03-056",
+    "unit": 3,
+    "topic": "u03-t06",
+    "type": "mcq",
+    "stem": "Under third-degree price discrimination, a monopolist charges a higher price in the market where:",
+    "options": [
+      "Demand is less elastic",
+      "Demand is more elastic",
+      "Marginal cost is lower",
+      "The number of buyers is larger"
+    ],
+    "answer": "a",
+    "explanation": "Equilibrium requires MR to be equal in every market. Since MR = P(1 − 1/e), the price must be higher where e is lower, that is, where demand is less elastic."
+  },
+  {
+    "id": "u03-057",
+    "unit": 3,
+    "topic": "u03-t07",
+    "type": "matching",
+    "stem": "Match List I (game-theory concept) with List II (meaning):",
+    "listI": [
+      "Nash equilibrium",
+      "Prisoner's dilemma",
+      "Dominant strategy",
+      "Cartel"
+    ],
+    "listII": [
+      "Formal collusive agreement among firms to restrict output",
+      "Individually rational choices produce a jointly inferior outcome",
+      "No player can gain by changing strategy unilaterally",
+      "The best strategy whatever the rival does"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-4, B-2, C-3, D-1",
+      "A-3, B-1, C-4, D-2",
+      "A-2, B-3, C-4, D-1",
+      "A-3, B-2, C-4, D-1"
+    ],
+    "answer": "d",
+    "code": "A-3, B-2, C-4, D-1",
+    "explanation": "At a Nash equilibrium no player gains by deviating alone. The prisoner's dilemma shows individual rationality leading to a worse joint result, a dominant strategy is best regardless of the rival's move, and a cartel is formal collusion."
+  },
+  {
+    "id": "u03-058",
+    "unit": 3,
+    "topic": "u03-t04",
+    "type": "mcq",
+    "stem": "Under the law of variable proportions, a rational producer operates in the stage where:",
+    "options": [
+      "The marginal product of the variable factor is negative",
+      "The average product of the variable factor is still rising",
+      "The average and marginal products of the variable factor are both positive and falling",
+      "The marginal product of the variable factor exceeds its average product"
+    ],
+    "answer": "c",
+    "explanation": "Stage II begins where AP is at its maximum and ends where MP is zero, so both are positive and falling. In Stage I AP is still rising (the fixed factor is under-used), and in Stage III MP is negative."
+  },
+  {
+    "id": "u03-059",
+    "unit": 3,
+    "topic": "u03-t07",
+    "type": "statements",
+    "stem": "Consider the following statements about monopolistic competition:",
+    "items": [
+      "Product differentiation is its distinguishing feature.",
+      "Each firm faces a downward-sloping and relatively elastic demand curve.",
+      "The theory was developed by E.H. Chamberlin."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "1 and 3 only",
+      "2 and 3 only"
+    ],
+    "answer": "b",
+    "explanation": "All three are correct. Differentiated products give each firm a downward-sloping but elastic demand curve because close substitutes exist, and Chamberlin set out the theory in 1933."
+  },
+  {
+    "id": "u03-060",
+    "unit": 3,
+    "topic": "u03-t05",
+    "type": "mcq",
+    "stem": "The long-run average cost curve is also known as the:",
+    "options": [
+      "Planning curve",
+      "Break-even curve",
+      "Isocost curve",
+      "Offer curve"
+    ],
+    "answer": "a",
+    "explanation": "The LAC curve envelops the short-run AC curves and guides the firm's choice of plant size, so it is called the planning or envelope curve."
+  }
+]

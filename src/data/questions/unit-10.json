@@ -1,0 +1,1209 @@
+[
+  {
+    "id": "u10-001",
+    "unit": 10,
+    "topic": "u10-t03",
+    "type": "statements",
+    "stem": "Consider the following statements regarding income from salaries:",
+    "items": [
+      "Advance salary is taxable in the year of receipt.",
+      "Arrears of salary not taxed earlier are taxable in the year of receipt.",
+      "Perquisites are included in salary only if they are received in cash.",
+      "Uncommuted pension received by a retired employee from his former employer is taxable as salary."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 4 only",
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 3 and 4 only"
+    ],
+    "answer": "a",
+    "explanation": "Advance salary and untaxed arrears are taxed on receipt (1, 2), and periodic pension from a former employer is salary (4). Perquisites are mostly non-cash benefits, so 3 is wrong."
+  },
+  {
+    "id": "u10-002",
+    "unit": 10,
+    "topic": "u10-t01",
+    "type": "mcq",
+    "stem": "Under the Income-tax Act, 1961, which of the following best describes the income of a non-resident that is chargeable to tax in India?",
+    "options": [
+      "Only income that is actually received in India during the year",
+      "Income received or deemed to be received in India, or accruing or arising (or deemed to accrue or arise) in India",
+      "Global income, wherever it accrues or is received",
+      "Only income from a business controlled from India"
+    ],
+    "answer": "b",
+    "explanation": "A non-resident is taxed only on Indian-source income: income received/deemed received in India or accruing/arising/deemed to accrue in India. Global income is taxable only for a resident and ordinarily resident person; 'only income received' is too narrow."
+  },
+  {
+    "id": "u10-003",
+    "unit": 10,
+    "topic": "u10-t04",
+    "type": "ar",
+    "stem": "Assertion (A): Municipal taxes are deductible in computing the net annual value only if they are actually paid by the owner during the year.",
+    "reason": "Reason (R): Municipal taxes are deducted from the gross annual value on a due (accrual) basis.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "c",
+    "explanation": "A is true: municipal taxes borne by the owner are deducted in the year of actual payment. R is false because the deduction is on a payment basis, not on a due basis."
+  },
+  {
+    "id": "u10-004",
+    "unit": 10,
+    "topic": "u10-t06",
+    "type": "mcq",
+    "stem": "Which of the following is NOT a capital asset for the purpose of capital gains?",
+    "options": [
+      "Shares held as an investment",
+      "A residential house held by an individual",
+      "Stock-in-trade held for the purposes of business",
+      "Jewellery held for personal use"
+    ],
+    "answer": "c",
+    "explanation": "Stock-in-trade is expressly excluded from capital assets; gains on it are business income. Jewellery is specifically excluded from 'personal effects', so it remains a capital asset."
+  },
+  {
+    "id": "u10-005",
+    "unit": 10,
+    "topic": "u10-t02",
+    "type": "matching",
+    "stem": "Match List I (concept) with List II (meaning):",
+    "listI": [
+      "Partial integration",
+      "Rural agricultural land",
+      "Basic operations",
+      "Subsequent operations"
+    ],
+    "listII": [
+      "Not a capital asset for the purpose of capital gains",
+      "Tilling the land, sowing seeds and planting",
+      "Including agricultural income only to determine the rate of tax on non-agricultural income",
+      "Weeding, pruning and harvesting after the produce sprouts"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-1, B-3, C-2, D-4",
+      "A-3, B-1, C-4, D-2",
+      "A-2, B-4, C-3, D-1",
+      "A-3, B-1, C-2, D-4"
+    ],
+    "answer": "d",
+    "code": "A-3, B-1, C-2, D-4",
+    "explanation": "Partial integration uses agricultural income only for rate purposes; rural agricultural land is excluded from capital assets; basic operations are tilling/sowing/planting on the land; subsequent operations such as weeding and harvesting follow them."
+  },
+  {
+    "id": "u10-006",
+    "unit": 10,
+    "topic": "u10-t01",
+    "type": "ar",
+    "stem": "Assertion (A): An individual can be resident in India for a previous year even though he stayed in India for fewer than 182 days in that year.",
+    "reason": "Reason (R): An individual is resident if he satisfies either of the basic conditions, one of which combines a shorter stay in the relevant year with a longer aggregate stay over the preceding years.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "The basic conditions are alternatives: besides the 182-day test there is a test combining a shorter stay in the year with a longer stay in the preceding four years (subject to specified exceptions). That second test is exactly why a stay under 182 days can still make a person resident, so R explains A."
+  },
+  {
+    "id": "u10-007",
+    "unit": 10,
+    "topic": "u10-t04",
+    "type": "matching",
+    "stem": "Match List I (term) with List II (meaning) in the context of annual value of house property:",
+    "listI": [
+      "Municipal value",
+      "Fair rent",
+      "Standard rent",
+      "Composite rent"
+    ],
+    "listII": [
+      "Maximum rent legally recoverable under the rent control law",
+      "Rent that a similar property in the same locality would fetch",
+      "Rent covering the building together with services or amenities",
+      "Value fixed by the local authority for levying property tax"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-4, B-2, C-1, D-3",
+      "A-2, B-4, C-1, D-3",
+      "A-4, B-2, C-3, D-1",
+      "A-1, B-3, C-4, D-2"
+    ],
+    "answer": "a",
+    "code": "A-4, B-2, C-1, D-3",
+    "explanation": "Municipal value is the local authority's valuation; fair rent is the rent of comparable property nearby; standard rent is the ceiling under rent control law; composite rent covers the building plus services/amenities."
+  },
+  {
+    "id": "u10-008",
+    "unit": 10,
+    "topic": "u10-t08",
+    "type": "sequencing",
+    "stem": "Arrange the following steps in computing the net tax payable by an assessee in the correct order:",
+    "items": [
+      "Add health and education cess",
+      "Compute tax on total income at the applicable rates",
+      "Deduct TDS and advance tax paid to find the balance payable",
+      "Add surcharge, where applicable"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "2-1-4-3",
+      "2-4-1-3",
+      "4-2-1-3",
+      "2-4-3-1"
+    ],
+    "answer": "b",
+    "code": "2-4-1-3",
+    "explanation": "Tax on total income comes first (2); surcharge is levied on that tax (4); cess is levied on tax plus surcharge (1); prepaid taxes (TDS, advance tax) are then deducted to find the balance (3)."
+  },
+  {
+    "id": "u10-009",
+    "unit": 10,
+    "topic": "u10-t01",
+    "type": "statements",
+    "stem": "Consider the following statements regarding the incidence of income tax on individuals:",
+    "items": [
+      "A resident and ordinarily resident individual is taxable on his global income.",
+      "Income received in India is taxable irrespective of the residential status of the recipient.",
+      "Past untaxed foreign income brought into India in the current year is taxable in the year of remittance.",
+      "A non-resident is taxable on income that accrues and is received outside India."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 3 only",
+      "2 and 4 only",
+      "1 and 2 only",
+      "1 and 3 only"
+    ],
+    "answer": "c",
+    "explanation": "1 and 2 are correct. Mere remittance of past foreign income into India is not taxable (3 is wrong), and a non-resident is never taxed on income that both accrues and is received outside India (4 is wrong)."
+  },
+  {
+    "id": "u10-010",
+    "unit": 10,
+    "topic": "u10-t02",
+    "type": "mcq",
+    "stem": "Which of the following is agricultural income?",
+    "options": [
+      "Income from sale of trees of a forest that grew spontaneously without any basic operations",
+      "Dividend paid by a company out of its agricultural income",
+      "Income from poultry farming",
+      "Rent received from agricultural land situated in India and used for agricultural purposes"
+    ],
+    "answer": "d",
+    "explanation": "Rent or revenue from agricultural land in India used for agricultural purposes is agricultural income. Spontaneous forest growth lacks basic operations, a dividend has no direct nexus with land, and poultry farming is not agriculture."
+  },
+  {
+    "id": "u10-011",
+    "unit": 10,
+    "topic": "u10-t10",
+    "type": "matching",
+    "stem": "Match List I (type of assessment) with List II (description):",
+    "listI": [
+      "Summary processing",
+      "Scrutiny assessment",
+      "Best judgment assessment",
+      "Reassessment"
+    ],
+    "listII": [
+      "Assessment of income that has escaped assessment",
+      "Computing income from the return, correcting arithmetical errors and issuing an intimation",
+      "Estimate by the assessing officer when the assessee fails to file or comply",
+      "Detailed examination of the return after notice to verify claims"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-2, B-4, C-3, D-1",
+      "A-4, B-2, C-3, D-1",
+      "A-2, B-4, C-1, D-3",
+      "A-3, B-1, C-2, D-4"
+    ],
+    "answer": "a",
+    "code": "A-2, B-4, C-3, D-1",
+    "explanation": "Summary processing works from the return itself and issues an intimation; scrutiny involves detailed verification after notice; best judgment is the officer's estimate on non-compliance; reassessment covers escaped income."
+  },
+  {
+    "id": "u10-012",
+    "unit": 10,
+    "topic": "u10-t02",
+    "type": "mcq",
+    "stem": "The share of profit received by a partner from a firm that is assessed as a firm is, in the partner's hands:",
+    "options": [
+      "Taxable as income from other sources",
+      "Exempt from tax",
+      "Taxable as profits and gains of business",
+      "Taxable as capital gains"
+    ],
+    "answer": "b",
+    "explanation": "The firm itself pays tax on its profits, so the partner's share of those profits is exempt in his hands. Interest and remuneration from the firm, by contrast, are taxable as business income."
+  },
+  {
+    "id": "u10-013",
+    "unit": 10,
+    "topic": "u10-t01",
+    "type": "mcq",
+    "stem": "A resident but not ordinarily resident individual is taxable on income that accrues and is received outside India only if such income is derived from:",
+    "options": [
+      "Any business, wherever it is controlled",
+      "Past untaxed foreign income remitted to India",
+      "A business controlled from, or a profession set up in, India",
+      "Employment with a foreign employer outside India"
+    ],
+    "answer": "c",
+    "explanation": "Besides Indian-source income, an RNOR is taxed on foreign income only if it comes from a business controlled in India or a profession set up in India. Remittance of past foreign income is not income at all."
+  },
+  {
+    "id": "u10-014",
+    "unit": 10,
+    "topic": "u10-t05",
+    "type": "mcq",
+    "stem": "Under Indian income-tax law, depreciation on plant and machinery of an ordinary business is generally computed:",
+    "options": [
+      "On the straight-line method for each individual asset",
+      "On the market value of assets at the end of the year",
+      "On the replacement cost of the assets",
+      "On the written down value of each block of assets"
+    ],
+    "answer": "d",
+    "explanation": "Tax depreciation is generally allowed at prescribed rates on the written down value of a block of assets (with limited exceptions such as power undertakings opting for straight-line)."
+  },
+  {
+    "id": "u10-015",
+    "unit": 10,
+    "topic": "u10-t05",
+    "type": "sequencing",
+    "stem": "Arrange the following steps in computing depreciation on a block of assets in the correct order:",
+    "items": [
+      "Apply the prescribed rate to arrive at depreciation for the year",
+      "Take the opening written down value of the block",
+      "Deduct moneys payable in respect of assets of the block sold during the year",
+      "Add the actual cost of assets of the block acquired during the year"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "2-4-3-1",
+      "4-2-3-1",
+      "2-1-4-3",
+      "2-4-1-3"
+    ],
+    "answer": "a",
+    "code": "2-4-3-1",
+    "explanation": "Opening WDV (2) plus additions (4) less sale proceeds (3) gives the closing WDV before depreciation, on which the prescribed rate is applied (1)."
+  },
+  {
+    "id": "u10-016",
+    "unit": 10,
+    "topic": "u10-t04",
+    "type": "mcq",
+    "stem": "Under the Income-tax Act, 1961, a let-out house has a gross annual value of ₹3,00,000. The owner paid municipal taxes of ₹20,000 and interest of ₹50,000 on a loan taken to construct it. Standard deduction is 30% of the net annual value. The income from house property is:",
+    "options": [
+      "₹1,40,000",
+      "₹1,46,000",
+      "₹1,96,000",
+      "₹1,60,000"
+    ],
+    "answer": "b",
+    "explanation": "NAV = 3,00,000 − 20,000 = 2,80,000. Standard deduction = 30% × 2,80,000 = 84,000. Income = 2,80,000 − 84,000 − 50,000 = ₹1,46,000. (₹1,40,000 wrongly takes 30% of GAV.)"
+  },
+  {
+    "id": "u10-017",
+    "unit": 10,
+    "topic": "u10-t06",
+    "type": "ar",
+    "stem": "Assertion (A): A capital gain is chargeable only when there is a transfer of a capital asset.",
+    "reason": "Reason (R): The period of holding of the asset determines whether the gain is chargeable to tax at all.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "c",
+    "explanation": "A is true: transfer of a capital asset is the basic condition of the charge. R is false: the period of holding only classifies the gain as short-term or long-term; it does not decide chargeability."
+  },
+  {
+    "id": "u10-018",
+    "unit": 10,
+    "topic": "u10-t03",
+    "type": "ar",
+    "stem": "Assertion (A): Salary received by a partner from his firm is not taxable under the head 'Salaries'.",
+    "reason": "Reason (R): There is no employer–employee relationship between a firm and its partners.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "Both are true. Because a partner is not an employee of the firm, his 'salary' cannot fall under the head Salaries (it is taxed as business income), so R explains A."
+  },
+  {
+    "id": "u10-019",
+    "unit": 10,
+    "topic": "u10-t04",
+    "type": "statements",
+    "stem": "Consider the following statements regarding income from house property:",
+    "items": [
+      "A deemed owner, such as an individual who transfers a house to his spouse without adequate consideration (other than in connection with an agreement to live apart), is taxable on its income.",
+      "Rent from letting out vacant land that is not appurtenant to a building is taxable under the head house property.",
+      "A property used by the owner for his own business, whose profits are taxable, is not charged under the head house property.",
+      "Standard deduction is available even where the annual value of a self-occupied property is nil."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 3 only",
+      "3 and 4 only",
+      "1 and 3 only",
+      "2 and 4 only"
+    ],
+    "answer": "c",
+    "explanation": "Deemed owners are taxed (1) and self-business use is excluded (3). Rent from vacant land is income from other sources (2 wrong), and there is no standard deduction when annual value is nil (4 wrong)."
+  },
+  {
+    "id": "u10-020",
+    "unit": 10,
+    "topic": "u10-t08",
+    "type": "statements",
+    "stem": "Consider the following statements regarding deductions from gross total income:",
+    "items": [
+      "Where a deduction is linked to a particular income, it is allowed only to the extent that income is included in gross total income.",
+      "The aggregate of such deductions cannot exceed the gross total income.",
+      "These deductions can be claimed against any income, including capital gains taxed at special rates.",
+      "These deductions reduce the tax payable directly rather than the income."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 3 only",
+      "2 and 4 only",
+      "1 and 3 only",
+      "1 and 2 only"
+    ],
+    "answer": "d",
+    "explanation": "1 and 2 are correct. The deductions are not allowed against certain incomes taxed at special rates, such as specified capital gains (3 wrong), and they reduce income, not tax, unlike a rebate (4 wrong)."
+  },
+  {
+    "id": "u10-021",
+    "unit": 10,
+    "topic": "u10-t10",
+    "type": "mcq",
+    "stem": "The system under which the payer deducts tax when making specified payments and deposits it with the government to the credit of the payee is known as:",
+    "options": [
+      "Tax deducted at source",
+      "Advance tax",
+      "Self-assessment tax",
+      "Tax collected at source"
+    ],
+    "answer": "a",
+    "explanation": "Deduction by the payer from payments made is TDS. TCS is collected by a seller from the buyer, advance tax is paid by the assessee during the year, and self-assessment tax is paid before filing the return."
+  },
+  {
+    "id": "u10-022",
+    "unit": 10,
+    "topic": "u10-t09",
+    "type": "mcq",
+    "stem": "Which of the following is an example of tax evasion?",
+    "options": [
+      "Investing in instruments eligible for a tax deduction",
+      "Suppressing sales by not recording them in the books of account",
+      "Leasing an asset instead of buying it for tax reasons",
+      "Setting up a unit in an area eligible for a tax holiday"
+    ],
+    "answer": "b",
+    "explanation": "Suppressing sales is an illegal concealment of income, i.e., evasion. The other options use choices and incentives the law itself provides, i.e., tax planning."
+  },
+  {
+    "id": "u10-023",
+    "unit": 10,
+    "topic": "u10-t06",
+    "type": "sequencing",
+    "stem": "Arrange the following steps in computing taxable capital gain in the correct order:",
+    "items": [
+      "Deduct the cost of acquisition and the cost of improvement",
+      "Deduct exemptions available (such as for reinvestment) to arrive at taxable capital gain",
+      "Ascertain the full value of consideration",
+      "Deduct expenditure incurred wholly and exclusively in connection with the transfer"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "1-3-4-2",
+      "4-3-1-2",
+      "3-4-1-2",
+      "3-4-2-1"
+    ],
+    "answer": "c",
+    "code": "3-4-1-2",
+    "explanation": "Start with full value of consideration (3), deduct transfer expenses to get net consideration (4), deduct cost of acquisition and improvement (1), and finally deduct available exemptions (2)."
+  },
+  {
+    "id": "u10-024",
+    "unit": 10,
+    "topic": "u10-t04",
+    "type": "sequencing",
+    "stem": "Arrange the following steps in computing income from a let-out house property in the correct order:",
+    "items": [
+      "Deduct interest on borrowed capital",
+      "Determine the gross annual value",
+      "Deduct the standard deduction computed on net annual value",
+      "Deduct municipal taxes paid by the owner to get the net annual value"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "2-3-4-1",
+      "4-2-3-1",
+      "2-1-4-3",
+      "2-4-3-1"
+    ],
+    "answer": "d",
+    "code": "2-4-3-1",
+    "explanation": "Start with gross annual value (2), deduct municipal taxes to get NAV (4), then allow the standard deduction on NAV (3) and interest on borrowed capital (1)."
+  },
+  {
+    "id": "u10-025",
+    "unit": 10,
+    "topic": "u10-t07",
+    "type": "matching",
+    "stem": "Match List I (income) with List II (in whose hands it is taxed) under the clubbing provisions:",
+    "listI": [
+      "Income of a minor child from manual work or his own skill",
+      "Remuneration of a spouse, without technical or professional qualification, from a concern in which the individual has substantial interest",
+      "Income from property converted by an HUF member into joint family property without adequate consideration",
+      "Income of a minor child from investments (parents' marriage subsisting)"
+    ],
+    "listII": [
+      "The member who converted the property",
+      "The parent whose income, before clubbing, is higher",
+      "The individual having the substantial interest",
+      "The minor himself"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-4, B-3, C-1, D-2",
+      "A-2, B-3, C-1, D-4",
+      "A-4, B-1, C-3, D-2",
+      "A-3, B-4, C-2, D-1"
+    ],
+    "answer": "a",
+    "code": "A-4, B-3, C-1, D-2",
+    "explanation": "A minor's income from his own manual work or skill is not clubbed; unqualified spouse remuneration is clubbed with the individual having substantial interest; income from converted property is clubbed with the converting member; a minor's other income goes to the parent with higher income."
+  },
+  {
+    "id": "u10-026",
+    "unit": 10,
+    "topic": "u10-t08",
+    "type": "mcq",
+    "stem": "Under the Income-tax Act, 1961, a partnership firm has total income of ₹10,00,000, taxed at a flat 30%, with health and education cess at 4% of the tax. Assuming no surcharge, the firm's tax liability is:",
+    "options": [
+      "₹3,00,000",
+      "₹3,12,000",
+      "₹3,40,000",
+      "₹3,04,000"
+    ],
+    "answer": "b",
+    "explanation": "Tax = 30% × 10,00,000 = 3,00,000; cess = 4% × 3,00,000 = 12,000; total = ₹3,12,000. (₹3,40,000 wrongly applies 4% to income.)"
+  },
+  {
+    "id": "u10-027",
+    "unit": 10,
+    "topic": "u10-t02",
+    "type": "ar",
+    "stem": "Assertion (A): Income from a nursery that grows saplings or seedlings is treated as agricultural income even if basic operations are not carried out on the land.",
+    "reason": "Reason (R): Agricultural income is exempt from income tax.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "b",
+    "explanation": "A is true because the law expressly deems nursery income to be agricultural income. R is also true, but the exemption of agricultural income does not explain why nursery income is deemed agricultural; the deeming provision does."
+  },
+  {
+    "id": "u10-028",
+    "unit": 10,
+    "topic": "u10-t10",
+    "type": "sequencing",
+    "stem": "Arrange the following appellate authorities under Indian income-tax law in the order in which an assessee aggrieved by an assessment order would ordinarily approach them:",
+    "items": [
+      "High Court",
+      "Commissioner (Appeals)",
+      "Supreme Court",
+      "Income Tax Appellate Tribunal"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "4-2-1-3",
+      "2-1-4-3",
+      "2-4-1-3",
+      "2-4-3-1"
+    ],
+    "answer": "c",
+    "code": "2-4-1-3",
+    "explanation": "The first appeal lies to the Commissioner (Appeals) (2), then to the Income Tax Appellate Tribunal (4), then to the High Court on a substantial question of law (1), and finally to the Supreme Court (3)."
+  },
+  {
+    "id": "u10-029",
+    "unit": 10,
+    "topic": "u10-t01",
+    "type": "sequencing",
+    "stem": "Arrange the following steps in computing the tax liability of an individual in the correct order:",
+    "items": [
+      "Aggregate the income under all heads to arrive at gross total income",
+      "Determine the residential status of the assessee",
+      "Allow permissible deductions to arrive at total income",
+      "Classify and compute income under each head of income",
+      "Compute tax on the total income"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "4-2-1-3-5",
+      "2-1-4-3-5",
+      "2-4-3-1-5",
+      "2-4-1-3-5"
+    ],
+    "answer": "d",
+    "code": "2-4-1-3-5",
+    "explanation": "Residential status fixes the scope of taxable income (2); income is then computed head-wise (4), aggregated into gross total income (1), reduced by deductions to total income (3), and tax is computed on it (5)."
+  },
+  {
+    "id": "u10-030",
+    "unit": 10,
+    "topic": "u10-t05",
+    "type": "mcq",
+    "stem": "Which of the following is a capital expenditure for the purpose of computing business income?",
+    "options": [
+      "Cost of acquiring a new machine to expand production capacity",
+      "Cost of routine repairs to existing machinery",
+      "Wages paid to factory workers",
+      "Insurance premium paid on stock-in-trade"
+    ],
+    "answer": "a",
+    "explanation": "Buying a new machine creates an enduring benefit and is capital (recovered through depreciation). Repairs, wages and stock insurance are recurring revenue expenses."
+  },
+  {
+    "id": "u10-031",
+    "unit": 10,
+    "topic": "u10-t09",
+    "type": "ar",
+    "stem": "Assertion (A): Tax avoidance and tax evasion are both illegal.",
+    "reason": "Reason (R): General anti-avoidance rules empower tax authorities to deny the tax benefit of impermissible avoidance arrangements.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "d",
+    "explanation": "A is false: evasion is illegal, whereas avoidance complies with the letter of the law (though against its spirit). R is true: GAAR lets authorities disregard impermissible avoidance arrangements and deny the tax benefit."
+  },
+  {
+    "id": "u10-032",
+    "unit": 10,
+    "topic": "u10-t07",
+    "type": "sequencing",
+    "stem": "Arrange the following steps in arriving at gross total income in the correct order:",
+    "items": [
+      "Inter-head set-off of current year losses",
+      "Set-off of brought forward losses of earlier years",
+      "Clubbing of income of other persons",
+      "Intra-head set-off of current year losses"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "4-3-1-2",
+      "3-4-1-2",
+      "3-1-4-2",
+      "3-4-2-1"
+    ],
+    "answer": "b",
+    "code": "3-4-1-2",
+    "explanation": "Clubbed income is included first (3); current-year losses are set off within the same head (4), then across heads (1); brought forward losses are set off last (2)."
+  },
+  {
+    "id": "u10-033",
+    "unit": 10,
+    "topic": "u10-t05",
+    "type": "matching",
+    "stem": "Match List I (concept) with List II (meaning) under the head business or profession:",
+    "listI": [
+      "Deemed profit",
+      "Presumptive taxation",
+      "Block of assets",
+      "Actual cost"
+    ],
+    "listII": [
+      "Group of assets of the same class carrying the same rate of depreciation",
+      "Amount recovered for a loss or expense earlier allowed, taxed as business income",
+      "Cost of an asset to the assessee less any portion met directly or indirectly by another person",
+      "Income taken at a prescribed percentage of turnover or gross receipts"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-4, B-2, C-1, D-3",
+      "A-2, B-4, C-3, D-1",
+      "A-2, B-4, C-1, D-3",
+      "A-1, B-3, C-2, D-4"
+    ],
+    "answer": "c",
+    "code": "A-2, B-4, C-1, D-3",
+    "explanation": "Recovery of a previously allowed expense is deemed profit; presumptive schemes estimate income as a percentage of turnover; a block groups assets with the same rate; actual cost excludes the part met by others (e.g., subsidies)."
+  },
+  {
+    "id": "u10-034",
+    "unit": 10,
+    "topic": "u10-t06",
+    "type": "mcq",
+    "stem": "An individual sells a capital asset for ₹10,00,000 and pays brokerage of ₹20,000 on the sale. The cost of acquisition was ₹6,00,000 and the cost of improvement ₹1,00,000. Assuming no indexation and no exemption, the capital gain is:",
+    "options": [
+      "₹3,00,000",
+      "₹3,80,000",
+      "₹2,60,000",
+      "₹2,80,000"
+    ],
+    "answer": "d",
+    "explanation": "Capital gain = 10,00,000 − 20,000 (transfer expenses) − 6,00,000 (cost of acquisition) − 1,00,000 (cost of improvement) = ₹2,80,000."
+  },
+  {
+    "id": "u10-035",
+    "unit": 10,
+    "topic": "u10-t03",
+    "type": "mcq",
+    "stem": "A receipt is chargeable under the head 'Salaries' only if:",
+    "options": [
+      "There is an employer–employee relationship between the payer and the payee",
+      "The payment is received in cash",
+      "The payee is resident in India",
+      "The payment is made at monthly intervals"
+    ],
+    "answer": "a",
+    "explanation": "The essential test for the head Salaries is an employer–employee (master–servant) relationship. Mode, frequency of payment and residential status do not decide the head."
+  },
+  {
+    "id": "u10-036",
+    "unit": 10,
+    "topic": "u10-t08",
+    "type": "ar",
+    "stem": "Assertion (A): The agricultural income of a partnership firm is aggregated with its non-agricultural income to determine the rate of tax.",
+    "reason": "Reason (R): A partnership firm is taxed at a flat rate, so aggregating agricultural income for rate purposes would serve no purpose.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "d",
+    "explanation": "A is false: partial integration applies to individuals, HUFs and similar persons taxed at slab rates, not to firms. R is true: a firm pays a flat rate, so rate-purpose aggregation is irrelevant to it."
+  },
+  {
+    "id": "u10-037",
+    "unit": 10,
+    "topic": "u10-t03",
+    "type": "mcq",
+    "stem": "Under the Income-tax Act, 1961, salary is taxable on due or receipt basis, whichever is earlier. Mr X's salary of ₹50,000 for March 2025 fell due on 31 March 2025 but was paid on 5 April 2025. In March 2025 he also received ₹50,000 as advance salary for April 2025. How much of these two items is taxable in previous year 2024-25?",
+    "options": [
+      "₹50,000",
+      "₹1,00,000",
+      "Nil",
+      "₹1,50,000"
+    ],
+    "answer": "b",
+    "explanation": "March salary became due in 2024-25, so it is taxed then (due earlier than receipt): ₹50,000. Advance salary for April was received in March 2025, so it is taxed on receipt in 2024-25: ₹50,000. Total = ₹1,00,000."
+  },
+  {
+    "id": "u10-038",
+    "unit": 10,
+    "topic": "u10-t05",
+    "type": "statements",
+    "stem": "Consider the following statements regarding profits and gains of business or profession:",
+    "items": [
+      "Business income is computed under the cash or mercantile system of accounting regularly employed by the assessee.",
+      "Income-tax paid on business profits is an allowable deduction.",
+      "Expenditure of a personal nature is not deductible.",
+      "Bad debts written off as irrecoverable in the accounts are deductible, subject to conditions."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 3 only",
+      "2, 3 and 4 only",
+      "1, 3 and 4 only",
+      "1, 2 and 4 only"
+    ],
+    "answer": "c",
+    "explanation": "1, 3 and 4 are correct. Income-tax is a tax on profits, not an expense incurred to earn them, so it is not deductible (2 wrong)."
+  },
+  {
+    "id": "u10-039",
+    "unit": 10,
+    "topic": "u10-t04",
+    "type": "mcq",
+    "stem": "Income under the head 'Income from house property' is charged on:",
+    "options": [
+      "The actual rent received by the assessee only",
+      "The market value of the property",
+      "The cost of construction of the property",
+      "The annual value of buildings or appurtenant land owned by the assessee"
+    ],
+    "answer": "d",
+    "explanation": "The charge is on the annual value of a building (or land appurtenant to it) of which the assessee is the owner, not on actual rent alone or on capital values."
+  },
+  {
+    "id": "u10-040",
+    "unit": 10,
+    "topic": "u10-t01",
+    "type": "matching",
+    "stem": "Match List I (type of person) with List II (basis for determining residential status):",
+    "listI": [
+      "Individual",
+      "Company not incorporated in India",
+      "Firm or association of persons",
+      "Ordinary residence of a resident HUF"
+    ],
+    "listII": [
+      "Depends on the residential history of the karta",
+      "Period of physical stay in India",
+      "Resident unless control and management of its affairs is wholly outside India",
+      "Place of effective management in the relevant year"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-2, B-4, C-3, D-1",
+      "A-2, B-3, C-4, D-1",
+      "A-1, B-4, C-3, D-2",
+      "A-4, B-2, C-1, D-3"
+    ],
+    "answer": "a",
+    "code": "A-2, B-4, C-3, D-1",
+    "explanation": "An individual's status turns on days of stay; a foreign-incorporated company is resident if its place of effective management is in India; a firm/AOP is resident unless control and management is wholly outside India; whether a resident HUF is ordinarily resident depends on its karta."
+  },
+  {
+    "id": "u10-041",
+    "unit": 10,
+    "topic": "u10-t06",
+    "type": "matching",
+    "stem": "Match List I (term) with List II (meaning) under capital gains:",
+    "listI": [
+      "Cost inflation index",
+      "Transfer",
+      "Personal effects",
+      "Slump sale"
+    ],
+    "listII": [
+      "Transfer of an undertaking for a lump-sum consideration without assigning values to individual assets",
+      "Movable property held for personal use, excluded from capital assets (jewellery apart)",
+      "Used to compute the indexed cost of acquisition",
+      "Includes sale, exchange and relinquishment of an asset"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-4, B-3, C-2, D-1",
+      "A-3, B-4, C-2, D-1",
+      "A-3, B-4, C-1, D-2",
+      "A-2, B-1, C-3, D-4"
+    ],
+    "answer": "b",
+    "code": "A-3, B-4, C-2, D-1",
+    "explanation": "The cost inflation index is used for indexation; transfer covers sale, exchange and relinquishment; personal effects are movable personal-use property outside capital assets; a slump sale transfers an undertaking for a lump sum."
+  },
+  {
+    "id": "u10-042",
+    "unit": 10,
+    "topic": "u10-t09",
+    "type": "ar",
+    "stem": "Assertion (A): Tax planning is legally permissible.",
+    "reason": "Reason (R): Tax planning uses deductions, exemptions and incentives provided by the law itself, in line with its intent.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "Both are true, and R explains A: tax planning is lawful precisely because it arranges affairs to use benefits the legislature intended to give."
+  },
+  {
+    "id": "u10-043",
+    "unit": 10,
+    "topic": "u10-t06",
+    "type": "statements",
+    "stem": "Consider the following statements regarding 'transfer' for the purpose of capital gains:",
+    "items": [
+      "Transfer includes exchange of the asset.",
+      "Transfer includes relinquishment of the asset or extinguishment of any rights in it.",
+      "Compulsory acquisition of an asset under any law is a transfer.",
+      "A gift of a capital asset by an individual is regarded as a transfer chargeable to capital gains."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "c",
+    "explanation": "Exchange, relinquishment/extinguishment and compulsory acquisition are all included in 'transfer' (1, 2, 3). A gift by an individual is specifically not treated as a transfer for capital gains (4 wrong)."
+  },
+  {
+    "id": "u10-044",
+    "unit": 10,
+    "topic": "u10-t09",
+    "type": "matching",
+    "stem": "Match List I (concept) with List II (description):",
+    "listI": [
+      "Tax planning",
+      "Tax avoidance",
+      "Tax evasion",
+      "Tax management"
+    ],
+    "listII": [
+      "Illegal reduction of tax, e.g., by suppressing income or inflating expenses",
+      "Compliance functions such as timely filing of returns, deduction of tax at source and maintaining records",
+      "Complying with the letter but not the spirit of the law by exploiting loopholes",
+      "Arranging affairs within the letter and spirit of the law to use its incentives"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-3, B-4, C-1, D-2",
+      "A-4, B-3, C-2, D-1",
+      "A-1, B-2, C-4, D-3",
+      "A-4, B-3, C-1, D-2"
+    ],
+    "answer": "d",
+    "code": "A-4, B-3, C-1, D-2",
+    "explanation": "Tax planning uses intended incentives; avoidance exploits loopholes against the spirit of the law; evasion is illegal concealment; tax management covers compliance such as returns, TDS and records."
+  },
+  {
+    "id": "u10-045",
+    "unit": 10,
+    "topic": "u10-t02",
+    "type": "statements",
+    "stem": "Consider the following statements regarding agricultural income under Indian income-tax law:",
+    "items": [
+      "Income from a dairy farm is agricultural income.",
+      "Agricultural income from land situated outside India is not exempt.",
+      "Rent or revenue received in kind from agricultural land can be agricultural income.",
+      "Income from sale of produce of a forest that grew spontaneously, without any basic operations, is agricultural income."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "2 and 3 only",
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1 and 4 only"
+    ],
+    "answer": "a",
+    "explanation": "The exemption covers only land in India (2 correct), and rent/revenue may be in cash or kind (3 correct). Dairy farming is not agriculture (1 wrong), and spontaneous forest growth lacks the basic operations on land (4 wrong)."
+  },
+  {
+    "id": "u10-046",
+    "unit": 10,
+    "topic": "u10-t05",
+    "type": "ar",
+    "stem": "Assertion (A): Depreciation is allowed to an assessee only if the asset is owned by him, wholly or partly, and used for his business or profession.",
+    "reason": "Reason (R): Depreciation represents the recovery of the capital cost of an asset over its useful life.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "b",
+    "explanation": "Both are true. But the ownership-and-use conditions are statutory requirements; the nature of depreciation as recovery of capital cost does not explain why these specific conditions apply."
+  },
+  {
+    "id": "u10-047",
+    "unit": 10,
+    "topic": "u10-t09",
+    "type": "sequencing",
+    "stem": "Arrange the following steps of the tax planning process in the correct order:",
+    "items": [
+      "Study the provisions of tax law applicable to the facts",
+      "Implement the chosen plan and review it periodically",
+      "Gather facts about the assessee's income, activities and objectives",
+      "Evaluate the alternatives and select the most tax-efficient lawful option"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "1-3-4-2",
+      "3-1-4-2",
+      "3-4-1-2",
+      "4-3-1-2"
+    ],
+    "answer": "b",
+    "code": "3-1-4-2",
+    "explanation": "Facts are gathered first (3), the applicable law is studied (1), alternatives are evaluated and the best lawful option chosen (4), and the plan is implemented and reviewed (2)."
+  },
+  {
+    "id": "u10-048",
+    "unit": 10,
+    "topic": "u10-t10",
+    "type": "ar",
+    "stem": "Assertion (A): Interest is payable by an assessee who defaults in paying advance tax as required.",
+    "reason": "Reason (R): Advance tax is payable only by companies.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "c",
+    "explanation": "A is true: default or shortfall in advance tax attracts interest. R is false: advance tax is payable by any assessee (individual, firm, company, etc.) whose estimated liability meets the prescribed conditions."
+  },
+  {
+    "id": "u10-049",
+    "unit": 10,
+    "topic": "u10-t03",
+    "type": "matching",
+    "stem": "Match List I (salary item) with List II (description):",
+    "listI": [
+      "Gratuity",
+      "Commuted pension",
+      "Leave encashment",
+      "Profits in lieu of salary"
+    ],
+    "listII": [
+      "Lump sum received by surrendering a part of the periodic pension",
+      "Compensation received on termination or modification of the terms of employment",
+      "Lump sum paid by the employer in recognition of long service, usually on retirement",
+      "Payment for accumulated leave not availed"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-1, B-3, C-4, D-2",
+      "A-3, B-1, C-2, D-4",
+      "A-3, B-1, C-4, D-2",
+      "A-4, B-2, C-3, D-1"
+    ],
+    "answer": "c",
+    "code": "A-3, B-1, C-4, D-2",
+    "explanation": "Gratuity rewards long service; commuted pension is the lump sum for surrendering part of the pension; leave encashment pays for unavailed leave; compensation on termination or change of terms is profit in lieu of salary."
+  },
+  {
+    "id": "u10-050",
+    "unit": 10,
+    "topic": "u10-t09",
+    "type": "statements",
+    "stem": "Consider the following statements regarding corporate tax planning:",
+    "items": [
+      "The choice between leasing and buying an asset has tax implications.",
+      "Debt financing is often tax-efficient compared with equity because interest is deductible while dividends are not.",
+      "Tax incentives available for specified areas or sectors can influence the location of a new business.",
+      "Make-or-buy decisions may be influenced by tax considerations."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 3 only",
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "d",
+    "explanation": "All four are correct: leasing vs buying, capital structure, location and make-or-buy are standard areas of corporate tax planning because each affects deductions, allowances or incentives."
+  },
+  {
+    "id": "u10-051",
+    "unit": 10,
+    "topic": "u10-t08",
+    "type": "mcq",
+    "stem": "'Gross total income' of an assessee means:",
+    "options": [
+      "Aggregate income under all heads, after clubbing and set-off of losses, but before deductions from gross total income",
+      "Total income after allowing all deductions from gross total income",
+      "Income under the heads salaries and house property only",
+      "Tax payable on total income before rebate"
+    ],
+    "answer": "a",
+    "explanation": "Gross total income is the head-wise income after clubbing and set-off, before deductions; subtracting permissible deductions from it gives total income."
+  },
+  {
+    "id": "u10-052",
+    "unit": 10,
+    "topic": "u10-t10",
+    "type": "statements",
+    "stem": "Consider the following statements regarding returns and assessment:",
+    "items": [
+      "A return of loss can be filed at any time without affecting the right to carry forward business losses.",
+      "A revised return can be filed if the assessee discovers an omission or wrong statement in the original return.",
+      "Best judgment assessment may be made when the assessee fails to file a return or to comply with notices.",
+      "Reassessment relates to income that has escaped assessment."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "b",
+    "explanation": "2, 3 and 4 are correct. A business loss can be carried forward only if the return of loss is filed within the due date, so 1 is wrong."
+  },
+  {
+    "id": "u10-053",
+    "unit": 10,
+    "topic": "u10-t08",
+    "type": "statements",
+    "stem": "Consider the following statements regarding the assessment of a partnership firm and its partners:",
+    "items": [
+      "A partnership firm is taxed at a flat rate without any basic exemption limit.",
+      "The partner's share of profit from the firm is taxable in the partner's hands.",
+      "Remuneration to a working partner is deductible for the firm only if authorised by the partnership deed and within prescribed limits.",
+      "Interest on capital allowed as a deduction to the firm is taxable in the partner's hands."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 3 only",
+      "2, 3 and 4 only",
+      "1, 3 and 4 only",
+      "1, 2 and 4 only"
+    ],
+    "answer": "c",
+    "explanation": "1, 3 and 4 are correct. The share of profit is exempt in the partner's hands because the firm has already been taxed on it (2 wrong)."
+  },
+  {
+    "id": "u10-054",
+    "unit": 10,
+    "topic": "u10-t02",
+    "type": "ar",
+    "stem": "Assertion (A): Dividend paid by a company out of its agricultural income is agricultural income in the hands of its shareholders.",
+    "reason": "Reason (R): To qualify as agricultural income, an income must have a direct and immediate nexus with agricultural land.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "d",
+    "explanation": "A is false: the shareholder's dividend arises from holding shares, not from land, so it is not agricultural income. R correctly states the test of direct nexus with land (which is exactly why A fails)."
+  },
+  {
+    "id": "u10-055",
+    "unit": 10,
+    "topic": "u10-t07",
+    "type": "mcq",
+    "stem": "Family pension received by the legal heirs of a deceased employee is taxable under the head:",
+    "options": [
+      "Salaries",
+      "Profits and gains of business or profession",
+      "Capital gains",
+      "Income from other sources"
+    ],
+    "answer": "d",
+    "explanation": "The heirs were never employees of the payer, so there is no employer–employee relationship; family pension is therefore taxed under income from other sources."
+  },
+  {
+    "id": "u10-056",
+    "unit": 10,
+    "topic": "u10-t07",
+    "type": "ar",
+    "stem": "Assertion (A): Loss from a speculation business cannot be set off against income from a non-speculative business.",
+    "reason": "Reason (R): Speculation losses can be carried forward only for a limited number of years.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "b",
+    "explanation": "Both are true, but R concerns the time limit for carry forward. It does not explain A; A follows from the rule that speculation losses can be set off only against speculation profits."
+  },
+  {
+    "id": "u10-057",
+    "unit": 10,
+    "topic": "u10-t10",
+    "type": "statements",
+    "stem": "Consider the following statements regarding tax deducted and collected at source and advance tax:",
+    "items": [
+      "Credit for tax deducted at source is given to the payee whose income it was deducted from.",
+      "A payer who fails to deduct or deposit tax at source may be treated as an assessee in default.",
+      "Advance tax is paid after the end of the year along with the return of income.",
+      "Tax collected at source is deducted by a buyer from payments made to the seller."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2 and 4 only",
+      "1 and 3 only"
+    ],
+    "answer": "a",
+    "explanation": "1 and 2 are correct. Advance tax is paid in instalments during the year (tax paid with the return is self-assessment tax), so 3 is wrong; TCS is collected by the seller from the buyer, so 4 is wrong."
+  },
+  {
+    "id": "u10-058",
+    "unit": 10,
+    "topic": "u10-t07",
+    "type": "mcq",
+    "stem": "Which of the following is taxable under the head 'Income from other sources'?",
+    "options": [
+      "Rent from a let-out residential house",
+      "Winnings from lotteries and crossword puzzles",
+      "Salary received by an employee",
+      "Gain on sale of listed shares held as investment"
+    ],
+    "answer": "b",
+    "explanation": "Casual income such as lottery and crossword winnings is taxed under other sources. House rent, salary and capital gains fall under their own specific heads."
+  },
+  {
+    "id": "u10-059",
+    "unit": 10,
+    "topic": "u10-t03",
+    "type": "sequencing",
+    "stem": "Arrange the following steps in computing income under the head 'Salaries' in the correct order:",
+    "items": [
+      "Deduct the deductions allowable from salary income (such as the standard deduction)",
+      "Aggregate basic salary, taxable allowances and taxable perquisites to get gross salary",
+      "Arrive at the income chargeable under the head Salaries",
+      "Exclude the exempt portion of each allowance and retirement benefit"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "2-1-4-3",
+      "4-1-2-3",
+      "4-2-1-3",
+      "1-4-2-3"
+    ],
+    "answer": "c",
+    "code": "4-2-1-3",
+    "explanation": "The exempt portion of each component is excluded first (4), the taxable components are added up as gross salary (2), deductions from salary are allowed (1), giving income under the head Salaries (3)."
+  },
+  {
+    "id": "u10-060",
+    "unit": 10,
+    "topic": "u10-t07",
+    "type": "statements",
+    "stem": "Consider the following statements regarding set-off and carry forward of losses:",
+    "items": [
+      "Brought forward business loss can be set off only against income under the head business or profession.",
+      "Unabsorbed depreciation can be carried forward without any time limit.",
+      "A loss under the head capital gains can be set off against salary income of the same year.",
+      "Filing the return of loss within the due date is a condition for carrying forward a business loss."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 3 and 4 only",
+      "1, 2 and 4 only"
+    ],
+    "answer": "d",
+    "explanation": "1, 2 and 4 are correct. Capital losses can be set off only against capital gains, never against income under another head, so 3 is wrong."
+  }
+]

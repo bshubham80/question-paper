@@ -1,0 +1,1226 @@
+[
+  {
+    "id": "u01-001",
+    "unit": 1,
+    "topic": "u01-t01",
+    "type": "mcq",
+    "stem": "Which of the following is an element of the micro (task) environment of a business rather than its macro environment?",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Suppliers of raw materials",
+      "Fiscal policy of the government",
+      "Demographic trends in the population",
+      "Political stability of the country"
+    ],
+    "answer": "a",
+    "explanation": "Suppliers directly affect a firm's day-to-day operations and form part of its micro (task) environment. Fiscal policy, demography and political stability are macro forces that affect all firms broadly."
+  },
+  {
+    "id": "u01-002",
+    "unit": 1,
+    "topic": "u01-t01",
+    "type": "mcq",
+    "stem": "In a SWOT analysis, opportunities and threats are identified mainly from the:",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Internal resources of the firm",
+      "External environment of the firm",
+      "Organisational culture of the firm",
+      "Financial position of the firm"
+    ],
+    "answer": "b",
+    "explanation": "Strengths and weaknesses are internal, whereas opportunities and threats come from the external environment in which the firm operates."
+  },
+  {
+    "id": "u01-003",
+    "unit": 1,
+    "topic": "u01-t01",
+    "type": "ar",
+    "stem": "Assertion (A): Business firms need to carry out environmental scanning on a continuous basis.",
+    "reason": "Reason (R): Environmental factors such as technology, government policy and consumer preferences keep changing over time.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "Both statements are true. Because the environment is dynamic, a one-time scan soon becomes outdated, so the changing nature of the environment is exactly why scanning must be continuous."
+  },
+  {
+    "id": "u01-004",
+    "unit": 1,
+    "topic": "u01-t01",
+    "type": "statements",
+    "stem": "Consider the following statements about the business environment:",
+    "items": [
+      "Factors of the internal environment are, by and large, controllable by the firm.",
+      "Macro-environmental factors affect all firms in an industry, not just one firm.",
+      "Competitors form part of the macro environment of a firm.",
+      "Environmental scanning helps a firm identify opportunities and threats."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4",
+      "1, 2 and 4 only"
+    ],
+    "answer": "d",
+    "explanation": "Statements 1, 2 and 4 are correct. Competitors are part of the micro (task) environment because they directly affect the firm, so statement 3 is wrong."
+  },
+  {
+    "id": "u01-005",
+    "unit": 1,
+    "topic": "u01-t01",
+    "type": "matching",
+    "stem": "Match List I (tool of environmental analysis) with List II (what it covers):",
+    "listI": [
+      "PESTLE analysis",
+      "SWOT analysis",
+      "ETOP",
+      "Porter's five forces model"
+    ],
+    "listII": [
+      "Intensity of competition within an industry",
+      "Political, economic, social, technological, legal and ecological factors",
+      "Internal strengths and weaknesses with external opportunities and threats",
+      "Profile summarising environmental threats and opportunities and their impact on the firm"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-3, B-2, C-4, D-1",
+      "A-2, B-3, C-1, D-4",
+      "A-2, B-3, C-4, D-1",
+      "A-4, B-3, C-2, D-1"
+    ],
+    "answer": "c",
+    "code": "A-2, B-3, C-4, D-1",
+    "explanation": "PESTLE groups macro factors into six categories; SWOT pairs internal and external appraisal; ETOP (Environmental Threat and Opportunity Profile) summarises how environmental factors affect the firm; Porter's model analyses industry competition."
+  },
+  {
+    "id": "u01-006",
+    "unit": 1,
+    "topic": "u01-t01",
+    "type": "sequencing",
+    "stem": "Arrange the following stages of environmental analysis in the correct order:",
+    "items": [
+      "Forecasting",
+      "Scanning",
+      "Assessment",
+      "Monitoring"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "2-1-4-3",
+      "2-4-1-3",
+      "4-2-1-3",
+      "2-4-3-1"
+    ],
+    "answer": "b",
+    "code": "2-4-1-3",
+    "explanation": "The firm first scans the environment for signals, then monitors the relevant trends, forecasts how they will develop, and finally assesses what they mean for the firm."
+  },
+  {
+    "id": "u01-007",
+    "unit": 1,
+    "topic": "u01-t02",
+    "type": "mcq",
+    "stem": "Which of the following is a quantitative (general) instrument of monetary control used by a central bank?",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Margin requirements on secured loans",
+      "Moral suasion",
+      "Open market operations",
+      "Credit rationing"
+    ],
+    "answer": "c",
+    "explanation": "Open market operations change the overall volume of money and credit, so they are a quantitative tool. Margin requirements, moral suasion and credit rationing are qualitative (selective) tools."
+  },
+  {
+    "id": "u01-008",
+    "unit": 1,
+    "topic": "u01-t02",
+    "type": "mcq",
+    "stem": "Fiscal deficit of the government is best defined as:",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Revenue expenditure minus revenue receipts",
+      "Total expenditure minus total receipts excluding borrowings, minus interest payments",
+      "Total expenditure minus total receipts including borrowings",
+      "Total expenditure minus total receipts excluding borrowings and other liabilities"
+    ],
+    "answer": "d",
+    "explanation": "Fiscal deficit is the gap between total expenditure and non-debt receipts, which equals the government's borrowing requirement. Revenue expenditure minus revenue receipts is the revenue deficit, and subtracting interest payments gives the primary deficit."
+  },
+  {
+    "id": "u01-009",
+    "unit": 1,
+    "topic": "u01-t02",
+    "type": "ar",
+    "stem": "Assertion (A): An increase in the Cash Reserve Ratio (CRR) tends to reduce the lending capacity of commercial banks.",
+    "reason": "Reason (R): CRR is the share of a bank's net demand and time liabilities that must be kept as a cash balance with the central bank.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "Both are true. Since a higher CRR requires banks to keep more of their deposits idle with the central bank, less is left for lending, so R explains A."
+  },
+  {
+    "id": "u01-010",
+    "unit": 1,
+    "topic": "u01-t02",
+    "type": "statements",
+    "stem": "Consider the following statements about India's New Industrial Policy, 1991:",
+    "items": [
+      "It abolished industrial licensing for most industries.",
+      "It reduced the number of industries reserved for the public sector.",
+      "It introduced the Monopolies and Restrictive Trade Practices (MRTP) Act.",
+      "It provided automatic approval for foreign equity up to 51 per cent in specified high-priority industries."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 4 only",
+      "1, 2 and 3 only",
+      "2 and 3 only",
+      "1, 3 and 4 only"
+    ],
+    "answer": "a",
+    "explanation": "Statements 1, 2 and 4 describe the 1991 policy. The MRTP Act dates from 1969; the 1991 policy actually removed its asset-size limits, so statement 3 is wrong."
+  },
+  {
+    "id": "u01-011",
+    "unit": 1,
+    "topic": "u01-t02",
+    "type": "matching",
+    "stem": "Match List I (budgetary deficit) with List II (meaning):",
+    "listI": [
+      "Revenue deficit",
+      "Fiscal deficit",
+      "Primary deficit",
+      "Effective revenue deficit"
+    ],
+    "listII": [
+      "Fiscal deficit minus interest payments",
+      "Revenue deficit minus grants for creation of capital assets",
+      "Excess of revenue expenditure over revenue receipts",
+      "Total borrowing requirement of the government"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-4, B-3, C-1, D-2",
+      "A-3, B-4, C-2, D-1",
+      "A-3, B-4, C-1, D-2",
+      "A-1, B-4, C-3, D-2"
+    ],
+    "answer": "c",
+    "code": "A-3, B-4, C-1, D-2",
+    "explanation": "Revenue deficit is revenue expenditure over revenue receipts; fiscal deficit is the total borrowing requirement; primary deficit removes interest payments from it; effective revenue deficit removes grants for creating capital assets from the revenue deficit."
+  },
+  {
+    "id": "u01-012",
+    "unit": 1,
+    "topic": "u01-t02",
+    "type": "sequencing",
+    "stem": "Arrange the following Indian industrial policy announcements in chronological order:",
+    "items": [
+      "Industrial Policy Statement (Janata Government)",
+      "New Industrial Policy (liberalisation)",
+      "First Industrial Policy Resolution",
+      "Industrial Policy Resolution based on the Mahalanobis approach"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "3-1-4-2",
+      "4-3-1-2",
+      "3-4-2-1",
+      "3-4-1-2"
+    ],
+    "answer": "d",
+    "code": "3-4-1-2",
+    "explanation": "The first Industrial Policy Resolution came in 1948, the second in 1956, the Industrial Policy Statement in 1977 and the New Industrial Policy in 1991."
+  },
+  {
+    "id": "u01-013",
+    "unit": 1,
+    "topic": "u01-t03",
+    "type": "mcq",
+    "stem": "The Competition Act, 2002 replaced which of the following Indian laws?",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Monopolies and Restrictive Trade Practices Act, 1969",
+      "Foreign Exchange Regulation Act, 1973",
+      "Companies Act, 1956",
+      "Industries (Development and Regulation) Act, 1951"
+    ],
+    "answer": "a",
+    "explanation": "The Competition Act, 2002 replaced the MRTP Act, 1969 and set up the Competition Commission of India. FERA was replaced by FEMA, and the Companies Act, 1956 by the Companies Act, 2013."
+  },
+  {
+    "id": "u01-014",
+    "unit": 1,
+    "topic": "u01-t03",
+    "type": "mcq",
+    "stem": "The risk that a host government may take over the assets of a foreign-owned company without adequate compensation is an example of:",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Exchange rate risk",
+      "Political risk",
+      "Interest rate risk",
+      "Liquidity risk"
+    ],
+    "answer": "b",
+    "explanation": "Expropriation and confiscation are actions of the host government, so they are forms of political risk. The other three are financial or market risks."
+  },
+  {
+    "id": "u01-015",
+    "unit": 1,
+    "topic": "u01-t03",
+    "type": "ar",
+    "stem": "Assertion (A): The Foreign Exchange Management Act, 1999 replaced the Foreign Exchange Regulation Act, 1973.",
+    "reason": "Reason (R): Under FEMA, 1999 contraventions are generally treated as civil offences rather than criminal offences.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "b",
+    "explanation": "Both are true. However, treating contraventions as civil offences is only one feature of FEMA; it does not explain why FERA was replaced, which was the wider shift to managing foreign exchange after liberalisation."
+  },
+  {
+    "id": "u01-016",
+    "unit": 1,
+    "topic": "u01-t03",
+    "type": "statements",
+    "stem": "Consider the following statements about the socio-cultural environment:",
+    "items": [
+      "Demographic factors such as age structure form part of the socio-cultural environment.",
+      "Hofstede's model of national culture includes power distance and individualism.",
+      "Uncertainty avoidance is one of Hofstede's cultural dimensions.",
+      "The rate of interest in the economy is a socio-cultural factor."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4",
+      "1, 2 and 3 only"
+    ],
+    "answer": "d",
+    "explanation": "Statements 1 to 3 are correct. The rate of interest is an economic factor, not a socio-cultural one."
+  },
+  {
+    "id": "u01-017",
+    "unit": 1,
+    "topic": "u01-t03",
+    "type": "statements",
+    "stem": "Consider the following statements about India's Consumer Protection Act, 2019:",
+    "items": [
+      "It provides for a Central Consumer Protection Authority.",
+      "It covers transactions made through e-commerce.",
+      "It contains provisions on product liability.",
+      "It replaced the Consumer Protection Act, 1986."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2, 3 and 4",
+      "1, 2 and 3 only",
+      "1, 3 and 4 only",
+      "2 and 4 only"
+    ],
+    "answer": "a",
+    "explanation": "All four are correct. The 2019 Act replaced the 1986 Act, set up the CCPA, brought e-commerce under its scope and added product liability provisions."
+  },
+  {
+    "id": "u01-018",
+    "unit": 1,
+    "topic": "u01-t03",
+    "type": "matching",
+    "stem": "Match List I (Indian law) with List II (main objective):",
+    "listI": [
+      "Competition Act, 2002",
+      "Foreign Exchange Management Act, 1999",
+      "Consumer Protection Act, 2019",
+      "SEBI Act, 1992"
+    ],
+    "listII": [
+      "Protecting investors and regulating the securities market",
+      "Preventing anti-competitive agreements and abuse of dominant position",
+      "Protecting consumers against unfair trade practices",
+      "Facilitating external trade and payments and developing the forex market"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-4, B-2, C-3, D-1",
+      "A-2, B-4, C-3, D-1",
+      "A-2, B-4, C-1, D-3",
+      "A-3, B-4, C-2, D-1"
+    ],
+    "answer": "b",
+    "code": "A-2, B-4, C-3, D-1",
+    "explanation": "The Competition Act targets anti-competitive practices, FEMA deals with foreign exchange, the Consumer Protection Act protects consumers, and the SEBI Act protects investors in securities."
+  },
+  {
+    "id": "u01-019",
+    "unit": 1,
+    "topic": "u01-t04",
+    "type": "mcq",
+    "stem": "Under Section 135 of the Companies Act, 2013, a company covered by the CSR provisions must try to spend in every financial year at least what share of its average net profits of the three immediately preceding financial years?",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "1 per cent",
+      "5 per cent",
+      "2 per cent",
+      "3 per cent"
+    ],
+    "answer": "c",
+    "explanation": "Section 135 requires the Board of a qualifying company to ensure that at least 2 per cent of average net profits of the preceding three years is spent on CSR activities."
+  },
+  {
+    "id": "u01-020",
+    "unit": 1,
+    "topic": "u01-t04",
+    "type": "mcq",
+    "stem": "In Archie Carroll's pyramid of corporate social responsibility, which responsibility forms the base of the pyramid?",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Legal responsibility",
+      "Ethical responsibility",
+      "Philanthropic responsibility",
+      "Economic responsibility"
+    ],
+    "answer": "d",
+    "explanation": "Carroll places economic responsibility (being profitable) at the base, followed by legal, ethical and, at the top, philanthropic responsibilities."
+  },
+  {
+    "id": "u01-021",
+    "unit": 1,
+    "topic": "u01-t04",
+    "type": "ar",
+    "stem": "Assertion (A): Under the Companies Act, 2013, every company, whatever its size, must spend on corporate social responsibility.",
+    "reason": "Reason (R): The CSR provisions of the Companies Act, 2013 apply to companies that cross a prescribed net worth, turnover or net profit threshold.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "d",
+    "explanation": "A is false and R is true. The CSR requirement applies only to companies that meet at least one of the prescribed thresholds, not to every company."
+  },
+  {
+    "id": "u01-022",
+    "unit": 1,
+    "topic": "u01-t04",
+    "type": "statements",
+    "stem": "Consider the following statements about theories of business ethics:",
+    "items": [
+      "Utilitarianism judges an action by whether its consequences produce the greatest good for the greatest number.",
+      "Deontological ethics judges an action by whether it follows moral duties or rules.",
+      "Ethical relativism holds that the same moral standards apply in all cultures.",
+      "Virtue ethics focuses on the character of the person acting."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 3 only",
+      "1, 2 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "b",
+    "explanation": "Statements 1, 2 and 4 are correct. Ethical relativism says moral standards vary between cultures, which is the opposite of statement 3."
+  },
+  {
+    "id": "u01-023",
+    "unit": 1,
+    "topic": "u01-t04",
+    "type": "statements",
+    "stem": "Consider the following statements about social responsibility of business:",
+    "items": [
+      "Milton Friedman argued that the social responsibility of business is to increase its profits within the rules of the game.",
+      "Stakeholder theory is associated with R. Edward Freeman.",
+      "John Elkington's triple bottom line refers to people, planet and profit.",
+      "Carroll's pyramid places philanthropic responsibilities at its base."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 4 only",
+      "3 and 4 only",
+      "1, 2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "c",
+    "explanation": "Statements 1 to 3 are correct. Philanthropic responsibilities are at the top of Carroll's pyramid, and economic responsibilities are at the base."
+  },
+  {
+    "id": "u01-024",
+    "unit": 1,
+    "topic": "u01-t04",
+    "type": "sequencing",
+    "stem": "Arrange the responsibilities in Carroll's CSR pyramid from the base to the top:",
+    "items": [
+      "Legal",
+      "Philanthropic",
+      "Economic",
+      "Ethical"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "3-1-4-2",
+      "1-3-4-2",
+      "3-4-1-2",
+      "3-1-2-4"
+    ],
+    "answer": "a",
+    "code": "3-1-4-2",
+    "explanation": "From the base upward Carroll's pyramid runs: economic, legal, ethical and philanthropic."
+  },
+  {
+    "id": "u01-025",
+    "unit": 1,
+    "topic": "u01-t05",
+    "type": "mcq",
+    "stem": "Which foreign market entry mode generally involves the highest degree of control and the highest risk for the investing firm?",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Wholly owned subsidiary",
+      "Licensing",
+      "Indirect exporting",
+      "Franchising"
+    ],
+    "answer": "a",
+    "explanation": "A wholly owned subsidiary needs the full investment and gives full control, so the firm carries all the risk. Licensing, exporting and franchising need little investment and give less control."
+  },
+  {
+    "id": "u01-026",
+    "unit": 1,
+    "topic": "u01-t05",
+    "type": "ar",
+    "stem": "Assertion (A): Licensing is considered a low-risk mode of entering foreign markets.",
+    "reason": "Reason (R): Under licensing, the licensor makes little or no capital investment in the foreign market.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "Both are true. Because the licensee provides the capital and runs the business, the licensor has little money at stake, which is why licensing is low-risk. R explains A."
+  },
+  {
+    "id": "u01-027",
+    "unit": 1,
+    "topic": "u01-t05",
+    "type": "ar",
+    "stem": "Assertion (A): Globalisation always reduces income inequality within every country that takes part in it.",
+    "reason": "Reason (R): Globalisation refers to the growing integration of national economies through flows of trade, capital and technology.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "d",
+    "explanation": "A is false: the evidence is mixed, and inequality has risen within several countries that globalised. R is a correct definition of globalisation."
+  },
+  {
+    "id": "u01-028",
+    "unit": 1,
+    "topic": "u01-t05",
+    "type": "statements",
+    "stem": "Consider the following statements about modes of entry into foreign markets:",
+    "items": [
+      "Indirect exporting requires the firm to set up its own sales subsidiary abroad.",
+      "In a turnkey project, the contractor designs and builds a facility and hands it over ready to operate.",
+      "A joint venture involves sharing ownership and control with a partner.",
+      "Franchising usually involves transferring a complete business system along with the brand."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 3 only",
+      "1 and 4 only",
+      "1, 2, 3 and 4",
+      "2, 3 and 4 only"
+    ],
+    "answer": "d",
+    "explanation": "Statements 2, 3 and 4 are correct. In indirect exporting the firm sells through domestic intermediaries such as export houses; setting up an overseas sales subsidiary is a form of direct exporting."
+  },
+  {
+    "id": "u01-029",
+    "unit": 1,
+    "topic": "u01-t05",
+    "type": "matching",
+    "stem": "Match List I (mode of entry) with List II (description):",
+    "listI": [
+      "Licensing",
+      "Franchising",
+      "Turnkey project",
+      "Management contract"
+    ],
+    "listII": [
+      "Right to use intellectual property in return for royalty",
+      "Providing managerial know-how to run a foreign firm for a fee",
+      "Brand plus a full business system and ongoing support",
+      "Facility built and handed over ready to operate"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-3, B-1, C-4, D-2",
+      "A-1, B-3, C-4, D-2",
+      "A-1, B-4, C-3, D-2",
+      "A-2, B-3, C-4, D-1"
+    ],
+    "answer": "b",
+    "code": "A-1, B-3, C-4, D-2",
+    "explanation": "Licensing grants rights to intellectual property for a royalty; franchising adds a complete business system; a turnkey project hands over a ready-to-run facility; a management contract sells managerial services for a fee."
+  },
+  {
+    "id": "u01-030",
+    "unit": 1,
+    "topic": "u01-t05",
+    "type": "sequencing",
+    "stem": "According to the Uppsala (establishment chain) model, arrange the stages of a firm's internationalisation in the correct order:",
+    "items": [
+      "Setting up a production subsidiary abroad",
+      "Exporting through independent agents",
+      "No regular export activity",
+      "Setting up a foreign sales subsidiary"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "3-4-2-1",
+      "2-3-4-1",
+      "3-2-4-1",
+      "3-2-1-4"
+    ],
+    "answer": "c",
+    "code": "3-2-4-1",
+    "explanation": "The Uppsala model describes step-by-step commitment: no regular exports, exports through agents, a sales subsidiary, and finally production abroad."
+  },
+  {
+    "id": "u01-031",
+    "unit": 1,
+    "topic": "u01-t06",
+    "type": "mcq",
+    "stem": "The Heckscher-Ohlin theory explains international trade mainly on the basis of differences in:",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Absolute costs of production",
+      "Technological gaps between countries",
+      "Factor endowments of countries",
+      "Stages of the product life cycle"
+    ],
+    "answer": "c",
+    "explanation": "The Heckscher-Ohlin theory says a country exports goods that make intensive use of its abundant factor. Absolute cost is Adam Smith's basis, and technology gaps and the product life cycle belong to later theories."
+  },
+  {
+    "id": "u01-032",
+    "unit": 1,
+    "topic": "u01-t06",
+    "type": "ar",
+    "stem": "Assertion (A): Leontief found that the exports of the USA were relatively capital-intensive compared with its import-competing goods.",
+    "reason": "Reason (R): The Leontief paradox contradicted the Heckscher-Ohlin prediction for a capital-abundant country like the USA.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "d",
+    "explanation": "A is false: Leontief found that US exports were relatively labour-intensive. That result is what made it a paradox against the Heckscher-Ohlin theory, so R is true."
+  },
+  {
+    "id": "u01-033",
+    "unit": 1,
+    "topic": "u01-t06",
+    "type": "ar",
+    "stem": "Assertion (A): Import quotas are a non-tariff barrier to trade.",
+    "reason": "Reason (R): An import quota is a tax charged on imported goods as a percentage of their value.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "c",
+    "explanation": "A is true because a quota restricts the physical quantity of imports rather than taxing them. R is false: a tax charged as a percentage of value is an ad valorem tariff."
+  },
+  {
+    "id": "u01-034",
+    "unit": 1,
+    "topic": "u01-t06",
+    "type": "statements",
+    "stem": "Consider the following statements:",
+    "items": [
+      "The theory of absolute advantage was put forward by Adam Smith.",
+      "The theory of comparative advantage was put forward by David Ricardo.",
+      "India's Foreign Trade Policy is issued under the Foreign Trade (Development and Regulation) Act, 1992.",
+      "The factor endowment theory was put forward by Wassily Leontief."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 4 only",
+      "1, 2 and 3 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "b",
+    "explanation": "Statements 1 to 3 are correct. The factor endowment theory is due to Heckscher and Ohlin; Leontief tested it empirically."
+  },
+  {
+    "id": "u01-035",
+    "unit": 1,
+    "topic": "u01-t06",
+    "type": "matching",
+    "stem": "Match List I (trade barrier) with List II (description):",
+    "listI": [
+      "Ad valorem duty",
+      "Voluntary export restraint",
+      "Anti-dumping duty",
+      "Import quota"
+    ],
+    "listII": [
+      "Physical limit on the quantity that may be imported",
+      "Duty charged as a percentage of the value of imports",
+      "Duty on imports priced below their normal value",
+      "Exporting country limits its exports at the importer's request"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-2, B-3, C-4, D-1",
+      "A-1, B-4, C-3, D-2",
+      "A-4, B-2, C-3, D-1",
+      "A-2, B-4, C-3, D-1"
+    ],
+    "answer": "d",
+    "code": "A-2, B-4, C-3, D-1",
+    "explanation": "An ad valorem duty is a percentage of value; a VER is a limit the exporter accepts; an anti-dumping duty counters below-normal-value pricing; a quota caps import quantity."
+  },
+  {
+    "id": "u01-036",
+    "unit": 1,
+    "topic": "u01-t06",
+    "type": "sequencing",
+    "stem": "Arrange the following theories of international trade in chronological order of their development:",
+    "items": [
+      "Heckscher-Ohlin factor endowment theory",
+      "Mercantilism",
+      "Comparative advantage theory",
+      "Absolute advantage theory"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "2-4-3-1",
+      "2-3-4-1",
+      "4-2-3-1",
+      "2-4-1-3"
+    ],
+    "answer": "a",
+    "code": "2-4-3-1",
+    "explanation": "Mercantilism dominated the 16th to 18th centuries, Adam Smith's absolute advantage appeared in 1776, Ricardo's comparative advantage in 1817, and the Heckscher-Ohlin theory in the early 20th century."
+  },
+  {
+    "id": "u01-037",
+    "unit": 1,
+    "topic": "u01-t07",
+    "type": "mcq",
+    "stem": "The main feature that distinguishes foreign direct investment (FDI) from foreign portfolio investment (FPI) is that FDI involves:",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "A lasting interest and a significant say in management",
+      "Higher liquidity of the investment",
+      "Investment mainly in debt instruments",
+      "A short-term investment horizon"
+    ],
+    "answer": "a",
+    "explanation": "FDI reflects a lasting interest and managerial influence in the investee enterprise. FPI is a passive, more liquid holding of securities made for financial return."
+  },
+  {
+    "id": "u01-038",
+    "unit": 1,
+    "topic": "u01-t07",
+    "type": "mcq",
+    "stem": "Greenfield investment refers to a foreign investor:",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Acquiring an existing company in the host country",
+      "Setting up new facilities from scratch in the host country",
+      "Buying shares of host-country companies on a stock exchange",
+      "Lending money to the host-country government"
+    ],
+    "answer": "b",
+    "explanation": "Greenfield FDI builds new operations from the ground up. Buying an existing firm is a brownfield or acquisition route, and buying listed shares is usually portfolio investment."
+  },
+  {
+    "id": "u01-039",
+    "unit": 1,
+    "topic": "u01-t07",
+    "type": "ar",
+    "stem": "Assertion (A): Foreign portfolio investment is generally more volatile than foreign direct investment.",
+    "reason": "Reason (R): In India, foreign portfolio investors are registered with and regulated by SEBI.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "b",
+    "explanation": "Both are true, but SEBI regulation does not explain volatility. FPI is volatile because listed securities can be sold quickly, not because of who regulates it."
+  },
+  {
+    "id": "u01-040",
+    "unit": 1,
+    "topic": "u01-t07",
+    "type": "statements",
+    "stem": "Consider the following statements about foreign investment in India:",
+    "items": [
+      "Brownfield investment involves acquiring or leasing existing facilities.",
+      "FDI is permitted up to 100 per cent under the automatic route in every sector.",
+      "Participatory notes let overseas investors gain exposure to Indian securities without registering directly.",
+      "FDI can come into India only through the government approval route."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 3 only",
+      "2 and 4 only",
+      "1, 3 and 4 only",
+      "1 and 3 only"
+    ],
+    "answer": "d",
+    "explanation": "Statements 1 and 3 are correct. Sectoral caps and prohibited sectors exist, so statement 2 is wrong, and FDI comes through both the automatic and approval routes, so statement 4 is wrong."
+  },
+  {
+    "id": "u01-041",
+    "unit": 1,
+    "topic": "u01-t07",
+    "type": "matching",
+    "stem": "Match List I (term) with List II (meaning):",
+    "listI": [
+      "Horizontal FDI",
+      "Vertical FDI",
+      "Conglomerate FDI",
+      "Round tripping"
+    ],
+    "listII": [
+      "Investment in an earlier or later stage of the investor's value chain",
+      "Domestic funds sent abroad and brought back as foreign investment",
+      "Same activity abroad as the investor carries on at home",
+      "Investment in a business unrelated to the investor's existing business"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-1, B-3, C-4, D-2",
+      "A-3, B-1, C-2, D-4",
+      "A-3, B-1, C-4, D-2",
+      "A-4, B-1, C-3, D-2"
+    ],
+    "answer": "c",
+    "code": "A-3, B-1, C-4, D-2",
+    "explanation": "Horizontal FDI copies the home activity abroad, vertical FDI moves up or down the value chain, conglomerate FDI enters unrelated businesses, and round tripping disguises domestic money as foreign investment."
+  },
+  {
+    "id": "u01-042",
+    "unit": 1,
+    "topic": "u01-t07",
+    "type": "sequencing",
+    "stem": "Arrange the following milestones in India's foreign investment regime in chronological order:",
+    "items": [
+      "New Industrial Policy with automatic approval for foreign equity",
+      "FEMA comes into force",
+      "FERA enacted",
+      "Foreign Investment Promotion Board (FIPB) abolished"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "1-3-2-4",
+      "3-1-2-4",
+      "3-2-1-4",
+      "3-1-4-2"
+    ],
+    "answer": "b",
+    "code": "3-1-2-4",
+    "explanation": "FERA was enacted in 1973, the New Industrial Policy came in 1991, FEMA came into force in 2000, and the FIPB was abolished in 2017."
+  },
+  {
+    "id": "u01-043",
+    "unit": 1,
+    "topic": "u01-t08",
+    "type": "mcq",
+    "stem": "A group of countries that removes trade barriers among its members and also adopts a common external tariff against non-members forms a:",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Free trade area",
+      "Common market",
+      "Customs union",
+      "Economic union"
+    ],
+    "answer": "c",
+    "explanation": "A free trade area removes internal barriers only; adding a common external tariff makes it a customs union. A common market also allows free movement of factors, and an economic union also harmonises economic policies."
+  },
+  {
+    "id": "u01-044",
+    "unit": 1,
+    "topic": "u01-t08",
+    "type": "mcq",
+    "stem": "The South Asian Free Trade Area (SAFTA) agreement was signed by the member countries of:",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "ASEAN",
+      "BIMSTEC",
+      "APEC",
+      "SAARC"
+    ],
+    "answer": "d",
+    "explanation": "SAFTA was signed in 2004 by the members of the South Asian Association for Regional Cooperation (SAARC)."
+  },
+  {
+    "id": "u01-045",
+    "unit": 1,
+    "topic": "u01-t08",
+    "type": "ar",
+    "stem": "Assertion (A): A common market allows free movement of factors of production such as labour and capital among its members.",
+    "reason": "Reason (R): A common market also has a single currency managed by a supranational monetary authority.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "c",
+    "explanation": "A is true. R is false: a single currency and common monetary authority belong to a monetary or economic union, a higher stage than a common market."
+  },
+  {
+    "id": "u01-046",
+    "unit": 1,
+    "topic": "u01-t08",
+    "type": "statements",
+    "stem": "Consider the following statements about regional trade groups:",
+    "items": [
+      "The euro is the common currency of the euro area within the European Union.",
+      "The USMCA replaced NAFTA.",
+      "India is a member of the Regional Comprehensive Economic Partnership (RCEP).",
+      "ASEAN was founded in 1967 through the Bangkok Declaration."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 4 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "a",
+    "explanation": "Statements 1, 2 and 4 are correct. India pulled out of the RCEP negotiations in 2019 and is not a member."
+  },
+  {
+    "id": "u01-047",
+    "unit": 1,
+    "topic": "u01-t08",
+    "type": "matching",
+    "stem": "Match List I (regional grouping) with List II (region):",
+    "listI": [
+      "ASEAN",
+      "MERCOSUR",
+      "USMCA",
+      "SAFTA"
+    ],
+    "listII": [
+      "South America",
+      "Southeast Asia",
+      "North America",
+      "South Asia"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-1, B-2, C-3, D-4",
+      "A-2, B-1, C-4, D-3",
+      "A-2, B-1, C-3, D-4",
+      "A-4, B-1, C-3, D-2"
+    ],
+    "answer": "c",
+    "code": "A-2, B-1, C-3, D-4",
+    "explanation": "ASEAN covers Southeast Asia, MERCOSUR South America, USMCA North America and SAFTA South Asia."
+  },
+  {
+    "id": "u01-048",
+    "unit": 1,
+    "topic": "u01-t08",
+    "type": "sequencing",
+    "stem": "Arrange the following stages of economic integration (Balassa) from the lowest to the highest:",
+    "items": [
+      "Common market",
+      "Free trade area",
+      "Economic union",
+      "Customs union"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "2-1-4-3",
+      "4-2-1-3",
+      "2-4-3-1",
+      "2-4-1-3"
+    ],
+    "answer": "d",
+    "code": "2-4-1-3",
+    "explanation": "Balassa's stages run from free trade area to customs union (adds a common external tariff), common market (adds factor mobility) and economic union (adds policy harmonisation)."
+  },
+  {
+    "id": "u01-049",
+    "unit": 1,
+    "topic": "u01-t09",
+    "type": "mcq",
+    "stem": "Special Drawing Rights (SDRs) are an international reserve asset created by the:",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "International Monetary Fund",
+      "World Bank",
+      "World Trade Organization",
+      "Bank for International Settlements"
+    ],
+    "answer": "a",
+    "explanation": "The IMF created the SDR in 1969 to add to its member countries' official reserves."
+  },
+  {
+    "id": "u01-050",
+    "unit": 1,
+    "topic": "u01-t09",
+    "type": "mcq",
+    "stem": "The World Trade Organization came into existence on:",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "1 January 1948",
+      "1 January 1995",
+      "1 July 1944",
+      "1 January 1994"
+    ],
+    "answer": "b",
+    "explanation": "The WTO was set up on 1 January 1995 under the Marrakesh Agreement at the end of the Uruguay Round. GATT had applied provisionally from 1948, and the Bretton Woods conference was held in July 1944."
+  },
+  {
+    "id": "u01-051",
+    "unit": 1,
+    "topic": "u01-t09",
+    "type": "ar",
+    "stem": "Assertion (A): UNCTAD was set up in 1964 as a permanent intergovernmental body of the United Nations.",
+    "reason": "Reason (R): UNCTAD is the main body that administers multilateral trade agreements and settles trade disputes between countries.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "c",
+    "explanation": "A is true. R is false: administering multilateral trade agreements and settling disputes is the job of the WTO. UNCTAD deals with trade and development issues of developing countries."
+  },
+  {
+    "id": "u01-052",
+    "unit": 1,
+    "topic": "u01-t09",
+    "type": "statements",
+    "stem": "Consider the following statements about the World Bank Group:",
+    "items": [
+      "The IBRD and the IDA together make up the World Bank.",
+      "The IFC finances private-sector projects in developing countries.",
+      "MIGA provides political risk insurance to foreign investors.",
+      "ICSID provides concessional loans to the poorest countries."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 4 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4",
+      "1, 2 and 3 only"
+    ],
+    "answer": "d",
+    "explanation": "Statements 1 to 3 are correct. ICSID settles investment disputes; concessional credit to the poorest countries comes from the IDA."
+  },
+  {
+    "id": "u01-053",
+    "unit": 1,
+    "topic": "u01-t09",
+    "type": "matching",
+    "stem": "Match List I (institution) with List II (main function):",
+    "listI": [
+      "IMF",
+      "IDA",
+      "WTO",
+      "UNCTAD"
+    ],
+    "listII": [
+      "Promotes the trade and development interests of developing countries",
+      "Administers multilateral trade agreements",
+      "Long-term concessional credit to the poorest countries",
+      "Short-term balance of payments support and surveillance"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-4, B-3, C-2, D-1",
+      "A-3, B-4, C-2, D-1",
+      "A-4, B-3, C-1, D-2",
+      "A-4, B-2, C-3, D-1"
+    ],
+    "answer": "a",
+    "code": "A-4, B-3, C-2, D-1",
+    "explanation": "The IMF supports balance of payments and carries out surveillance, the IDA gives concessional credit, the WTO administers trade agreements, and UNCTAD promotes developing countries' trade and development."
+  },
+  {
+    "id": "u01-054",
+    "unit": 1,
+    "topic": "u01-t09",
+    "type": "sequencing",
+    "stem": "Arrange the following events in chronological order:",
+    "items": [
+      "Establishment of UNCTAD",
+      "Establishment of the WTO",
+      "Bretton Woods Conference",
+      "Signing of GATT"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "3-1-4-2",
+      "3-4-1-2",
+      "4-3-1-2",
+      "3-4-2-1"
+    ],
+    "answer": "b",
+    "code": "3-4-1-2",
+    "explanation": "The Bretton Woods Conference was held in 1944, GATT was signed in 1947, UNCTAD was set up in 1964, and the WTO in 1995."
+  },
+  {
+    "id": "u01-055",
+    "unit": 1,
+    "topic": "u01-t10",
+    "type": "mcq",
+    "stem": "Which of the following is recorded in the current account of a country's balance of payments?",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Foreign direct investment inflows",
+      "External commercial borrowings",
+      "Remittances received from residents working abroad",
+      "Changes in official foreign exchange reserves"
+    ],
+    "answer": "c",
+    "explanation": "Personal remittances are current transfers and appear in the current account. FDI and ECBs are capital or financial account items, and reserve changes are recorded as official reserve transactions."
+  },
+  {
+    "id": "u01-056",
+    "unit": 1,
+    "topic": "u01-t10",
+    "type": "mcq",
+    "stem": "The spot rate is ₹83.00 per US dollar and the three-month forward rate is ₹83.83 per US dollar. The annualised forward premium or discount on the dollar is:",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "1 per cent premium",
+      "4 per cent discount",
+      "3.2 per cent premium",
+      "4 per cent premium"
+    ],
+    "answer": "d",
+    "explanation": "Forward premium = (83.83 − 83.00) / 83.00 × 12/3 × 100 = 0.01 × 4 × 100 = 4 per cent. The forward rate is above the spot rate, so the dollar is at a premium. 1 per cent is the unannualised figure."
+  },
+  {
+    "id": "u01-057",
+    "unit": 1,
+    "topic": "u01-t10",
+    "type": "ar",
+    "stem": "Assertion (A): Depreciation of the domestic currency tends to make the country's exports cheaper for foreign buyers.",
+    "reason": "Reason (R): India has had current account convertibility of the rupee since the 1990s.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "b",
+    "explanation": "Both are true. However, convertibility of the rupee does not explain why depreciation cheapens exports; that happens because each unit of foreign currency buys more domestic goods."
+  },
+  {
+    "id": "u01-058",
+    "unit": 1,
+    "topic": "u01-t10",
+    "type": "statements",
+    "stem": "Consider the following statements about the balance of payments:",
+    "items": [
+      "A current account deficit necessarily means that the capital account is also in deficit.",
+      "Invisibles in the current account include services, income and transfers.",
+      "The capital account includes FDI, portfolio investment and external commercial borrowings.",
+      "Errors and omissions is a balancing item in the balance of payments."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "b",
+    "explanation": "Statements 2 to 4 are correct. A current account deficit is usually financed by a capital account surplus or a fall in reserves, so statement 1 is wrong."
+  },
+  {
+    "id": "u01-059",
+    "unit": 1,
+    "topic": "u01-t10",
+    "type": "matching",
+    "stem": "Match List I (foreign exchange term) with List II (meaning):",
+    "listI": [
+      "Direct quote",
+      "Indirect quote",
+      "Cross rate",
+      "Spread"
+    ],
+    "listII": [
+      "Exchange rate between two currencies worked out through a third currency",
+      "Difference between the ask and bid rates",
+      "Units of domestic currency per unit of foreign currency",
+      "Units of foreign currency per unit of domestic currency"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-4, B-3, C-1, D-2",
+      "A-3, B-4, C-2, D-1",
+      "A-3, B-4, C-1, D-2",
+      "A-3, B-1, C-4, D-2"
+    ],
+    "answer": "c",
+    "code": "A-3, B-4, C-1, D-2",
+    "explanation": "A direct quote gives the domestic-currency price of one unit of foreign currency, an indirect quote the reverse; a cross rate is derived through a third currency; the spread is the ask minus the bid."
+  },
+  {
+    "id": "u01-060",
+    "unit": 1,
+    "topic": "u01-t10",
+    "type": "sequencing",
+    "stem": "Arrange the following foreign exchange transactions in order of their settlement date, from the earliest to the latest:",
+    "items": [
+      "Tom",
+      "Cash (ready)",
+      "Forward (three months)",
+      "Spot"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "2-1-4-3",
+      "1-2-4-3",
+      "2-1-3-4",
+      "2-4-1-3"
+    ],
+    "answer": "a",
+    "code": "2-1-4-3",
+    "explanation": "Cash or ready deals settle on the same day, tom deals the next working day, spot deals on the second working day, and forward deals on a later agreed date."
+  }
+]

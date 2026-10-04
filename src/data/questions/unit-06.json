@@ -1,0 +1,1204 @@
+[
+  {
+    "id": "u06-001",
+    "unit": 6,
+    "topic": "u06-t02",
+    "type": "mcq",
+    "stem": "Which form of organisation structure departs from the principle of unity of command by making employees report to both a functional manager and a project manager?",
+    "options": [
+      "Line organisation",
+      "Divisional organisation",
+      "Line and staff organisation",
+      "Matrix organisation"
+    ],
+    "answer": "d",
+    "explanation": "A matrix structure lays project authority over functional authority, creating dual reporting. Line, divisional and line-and-staff structures keep a single line of command."
+  },
+  {
+    "id": "u06-002",
+    "unit": 6,
+    "topic": "u06-t07",
+    "type": "mcq",
+    "stem": "Training in which employees learn on equipment similar to that used on the actual job, but in a separate area away from the workplace, is called:",
+    "options": [
+      "Apprenticeship training",
+      "Vestibule training",
+      "Job rotation",
+      "In-basket exercise"
+    ],
+    "answer": "b",
+    "explanation": "Vestibule training copies the real work setting in a separate training area, so learners can practise without disrupting production."
+  },
+  {
+    "id": "u06-003",
+    "unit": 6,
+    "topic": "u06-t08",
+    "type": "sequencing",
+    "stem": "Arrange the following steps of the performance appraisal process in the correct order:",
+    "items": [
+      "Measuring actual performance",
+      "Discussing the results and taking corrective action",
+      "Establishing performance standards",
+      "Communicating the standards to employees",
+      "Comparing actual performance with standards"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "3-4-2-5-1",
+      "4-3-1-5-2",
+      "5-3-1-4-2",
+      "3-4-1-5-2"
+    ],
+    "answer": "d",
+    "code": "3-4-1-5-2",
+    "explanation": "Standards are set and communicated before performance is measured. Actual performance is then compared with the standards, and the results are discussed with the employee and followed up."
+  },
+  {
+    "id": "u06-004",
+    "unit": 6,
+    "topic": "u06-t02",
+    "type": "statements",
+    "stem": "Consider the following statements:",
+    "items": [
+      "Decentralisation is the systematic delegation of authority to all levels of the organisation.",
+      "Centralisation means that decision-making authority is concentrated at the top.",
+      "A wider span of control results in a taller organisation structure."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 3 only",
+      "2 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "answer": "c",
+    "explanation": "Statements 1 and 2 are the standard definitions. A wider span needs fewer levels and so gives a flat structure; a narrow span gives a tall one."
+  },
+  {
+    "id": "u06-005",
+    "unit": 6,
+    "topic": "u06-t05",
+    "type": "ar",
+    "stem": "Assertion (A): Stakeholder theory holds that a firm should be managed solely for the benefit of its shareholders.",
+    "reason": "Reason (R): Stakeholder theory argues that a firm is answerable to all groups that affect or are affected by its activities.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "d",
+    "explanation": "A is false: managing solely for shareholders is the shareholder-primacy view. R correctly states stakeholder theory (Freeman), which takes in employees, customers, suppliers, the community and others."
+  },
+  {
+    "id": "u06-006",
+    "unit": 6,
+    "topic": "u06-t01",
+    "type": "statements",
+    "stem": "Consider the following statements:",
+    "items": [
+      "Henri Fayol gave fourteen principles of management.",
+      "Taylor's functional foremanship provided for eight specialist foremen.",
+      "Management by Objectives was popularised by Peter Drucker.",
+      "Fayol's principle of 'esprit de corps' refers to the division of work."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 2 and 3 only",
+      "1, 3 and 4 only"
+    ],
+    "answer": "c",
+    "explanation": "Statements 1–3 are correct: Taylor had four foremen for planning and four for doing, and Drucker introduced MBO in 'The Practice of Management' (1954). Esprit de corps means team spirit, not division of work."
+  },
+  {
+    "id": "u06-007",
+    "unit": 6,
+    "topic": "u06-t05",
+    "type": "matching",
+    "stem": "Match List I with List II:",
+    "listI": [
+      "Cadbury Committee",
+      "Kumar Mangalam Birla Committee",
+      "Sarbanes–Oxley Act",
+      "Uday Kotak Committee"
+    ],
+    "listII": [
+      "SEBI committee on corporate governance (2017)",
+      "UK report on the financial aspects of corporate governance (1992)",
+      "US law enacted after the Enron and WorldCom scandals",
+      "SEBI committee whose report led to Clause 49 (1999)"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-1, B-4, C-3, D-2",
+      "A-2, B-1, C-3, D-4",
+      "A-3, B-4, C-2, D-1",
+      "A-2, B-4, C-3, D-1"
+    ],
+    "answer": "d",
+    "code": "A-2, B-4, C-3, D-1",
+    "explanation": "Cadbury (UK, 1992) was the pioneering report; the Birla Committee's recommendations became Clause 49; SOX (USA, 2002) followed the accounting scandals; the Kotak Committee reported to SEBI in 2017."
+  },
+  {
+    "id": "u06-008",
+    "unit": 6,
+    "topic": "u06-t10",
+    "type": "statements",
+    "stem": "Consider the following statements about grievance handling:",
+    "items": [
+      "A grievance is an employee's dissatisfaction or feeling of injustice connected with his employment.",
+      "An open-door policy allows employees to take grievances directly to management.",
+      "Under a step-ladder procedure, a grievance is normally raised first with the immediate supervisor.",
+      "An effective grievance procedure should not set any time limits for settling grievances at each stage."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 3 and 4 only",
+      "1, 2 and 3 only"
+    ],
+    "answer": "d",
+    "explanation": "Statements 1–3 are correct. Time limits at each stage are a key feature of a sound grievance procedure because they ensure prompt settlement, so statement 4 is false."
+  },
+  {
+    "id": "u06-009",
+    "unit": 6,
+    "topic": "u06-t08",
+    "type": "mcq",
+    "stem": "Which performance appraisal method gathers feedback about an employee from superiors, peers, subordinates, customers and the employee himself?",
+    "options": [
+      "Management by Objectives",
+      "Behaviourally anchored rating scales",
+      "360-degree appraisal",
+      "Forced distribution method"
+    ],
+    "answer": "c",
+    "explanation": "360-degree feedback collects ratings from everyone around the employee. MBO appraises against jointly set goals, and BARS uses rating scales anchored in critical incidents."
+  },
+  {
+    "id": "u06-010",
+    "unit": 6,
+    "topic": "u06-t02",
+    "type": "matching",
+    "stem": "Match List I (type of organisation) with List II (feature):",
+    "listI": [
+      "Line organisation",
+      "Functional organisation",
+      "Matrix organisation",
+      "Line and staff organisation"
+    ],
+    "listII": [
+      "Specialists exercise authority over their function, as in Taylor's functional foremanship",
+      "Dual reporting to project and functional managers",
+      "Specialist advisers support line managers without command authority",
+      "Direct vertical flow of authority, as in the military"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-4, B-1, C-2, D-3",
+      "A-1, B-3, C-2, D-4",
+      "A-2, B-1, C-3, D-4",
+      "A-4, B-2, C-1, D-3"
+    ],
+    "answer": "a",
+    "code": "A-4, B-1, C-2, D-3",
+    "explanation": "Line organisation is the simplest scalar structure; functional organisation grew out of Taylor's specialist foremen; matrix combines project and functional lines; line and staff adds advisory specialists to the line."
+  },
+  {
+    "id": "u06-011",
+    "unit": 6,
+    "topic": "u06-t07",
+    "type": "mcq",
+    "stem": "Which of the following is an internal source of recruitment?",
+    "options": [
+      "Campus recruitment",
+      "Employment exchange",
+      "Press advertisement",
+      "Promotion"
+    ],
+    "answer": "d",
+    "explanation": "Promotion fills a vacancy from within the organisation. Campus recruitment, employment exchanges and advertisements draw candidates from outside."
+  },
+  {
+    "id": "u06-012",
+    "unit": 6,
+    "topic": "u06-t01",
+    "type": "matching",
+    "stem": "Match List I (thinker) with List II (contribution):",
+    "listI": [
+      "F. W. Taylor",
+      "Henri Fayol",
+      "Max Weber",
+      "Elton Mayo"
+    ],
+    "listII": [
+      "Hawthorne experiments and human relations movement",
+      "Bureaucratic model of organisation",
+      "Administrative (general) management theory",
+      "Scientific management"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-1, B-3, C-4, D-2",
+      "A-4, B-3, C-2, D-1",
+      "A-2, B-3, C-4, D-1",
+      "A-3, B-4, C-2, D-1"
+    ],
+    "answer": "b",
+    "code": "A-4, B-3, C-2, D-1",
+    "explanation": "Taylor is the father of scientific management; Fayol of administrative management; Weber proposed the ideal-type bureaucracy; Mayo led the Hawthorne studies that began the human relations approach."
+  },
+  {
+    "id": "u06-013",
+    "unit": 6,
+    "topic": "u06-t03",
+    "type": "statements",
+    "stem": "Consider the following statements about theories of motivation:",
+    "items": [
+      "Alderfer's ERG theory includes a frustration–regression component.",
+      "McClelland's theory identifies the needs for existence, relatedness and growth.",
+      "Adams' equity theory is based on comparing one's own output–input ratio with that of others.",
+      "McGregor's Theory X assumes that the average person dislikes work and must be directed or controlled."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 2 and 3 only",
+      "1, 3 and 4 only"
+    ],
+    "answer": "d",
+    "explanation": "Existence, relatedness and growth are Alderfer's ERG needs. McClelland's needs are achievement, affiliation and power, so statement 2 is false. The rest are correct."
+  },
+  {
+    "id": "u06-014",
+    "unit": 6,
+    "topic": "u06-t05",
+    "type": "sequencing",
+    "stem": "Arrange the following corporate governance milestones in chronological order:",
+    "items": [
+      "Cadbury Committee report",
+      "Uday Kotak Committee report",
+      "Narayana Murthy Committee report",
+      "Enactment of the Companies Act, 2013"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "1-3-4-2",
+      "1-2-4-3",
+      "1-4-2-3",
+      "3-1-4-2"
+    ],
+    "answer": "a",
+    "code": "1-3-4-2",
+    "explanation": "Cadbury reported in 1992, Narayana Murthy in 2003, the Companies Act was passed in 2013, and the Kotak Committee reported in 2017."
+  },
+  {
+    "id": "u06-015",
+    "unit": 6,
+    "topic": "u06-t08",
+    "type": "mcq",
+    "stem": "Standard time for a job is 10 hours and a worker completes it in 8 hours. The time rate is ₹50 per hour. Under the Rowan premium plan, the worker's total earnings are:",
+    "options": [
+      "₹450",
+      "₹500",
+      "₹420",
+      "₹480"
+    ],
+    "answer": "d",
+    "explanation": "Basic wage = 8 × 50 = ₹400. Rowan bonus = (time saved ÷ standard time) × time taken × rate = (2/10) × 8 × 50 = ₹80. Total = ₹480. (Halsey at 50% would give 400 + 0.5 × 2 × 50 = ₹450.)"
+  },
+  {
+    "id": "u06-016",
+    "unit": 6,
+    "topic": "u06-t08",
+    "type": "statements",
+    "stem": "Consider the following statements about wage incentive plans:",
+    "items": [
+      "Taylor's differential piece-rate system uses two piece rates.",
+      "Merrick's multiple piece-rate system uses three piece rates.",
+      "Behaviourally anchored rating scales combine the critical incident method with rating scales."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 and 3 only"
+    ],
+    "answer": "b",
+    "explanation": "Taylor used a lower and a higher rate on either side of the standard; Merrick added a middle rate, making three; BARS anchors each scale point with critical incidents. All three statements are correct."
+  },
+  {
+    "id": "u06-017",
+    "unit": 6,
+    "topic": "u06-t07",
+    "type": "ar",
+    "stem": "Assertion (A): Selection is often described as a negative process.",
+    "reason": "Reason (R): Selection involves rejecting a large number of applicants in order to pick the most suitable ones.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "Both are true, and R explains A: recruitment attracts a pool of candidates (positive), while selection screens most of them out (negative)."
+  },
+  {
+    "id": "u06-018",
+    "unit": 6,
+    "topic": "u06-t09",
+    "type": "statements",
+    "stem": "Consider the following statements about central trade union organisations in India:",
+    "items": [
+      "AITUC, formed in 1920, is the oldest central trade union organisation in India.",
+      "INTUC is associated with the Indian National Congress.",
+      "Bharatiya Mazdoor Sangh is associated with the Communist Party of India (Marxist).",
+      "CITU is associated with the Communist Party of India (Marxist)."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 2 and 4 only",
+      "1, 3 and 4 only"
+    ],
+    "answer": "c",
+    "explanation": "BMS is linked to the Sangh Parivar, not the CPI(M); the CPI(M)-linked federation is CITU. The other statements are correct."
+  },
+  {
+    "id": "u06-019",
+    "unit": 6,
+    "topic": "u06-t04",
+    "type": "ar",
+    "stem": "Assertion (A): In Hersey and Blanchard's situational leadership model, the 'delegating' style suits followers with high readiness.",
+    "reason": "Reason (R): The Hersey–Blanchard model was originally called the life-cycle theory of leadership.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "b",
+    "explanation": "Both are true. A holds because high-readiness followers are both able and willing; the model's earlier name does not explain this."
+  },
+  {
+    "id": "u06-020",
+    "unit": 6,
+    "topic": "u06-t06",
+    "type": "ar",
+    "stem": "Assertion (A): Human resource planning is a continuous process.",
+    "reason": "Reason (R): Human resource planning is concerned only with forecasting the surplus of employees.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "c",
+    "explanation": "A is true, because plans must be revised as the environment and the organisation change. R is false: HRP forecasts both demand and supply and deals with shortages as well as surpluses."
+  },
+  {
+    "id": "u06-021",
+    "unit": 6,
+    "topic": "u06-t04",
+    "type": "sequencing",
+    "stem": "Arrange the following leader behaviours on the Tannenbaum–Schmidt continuum from the most boss-centred to the most subordinate-centred:",
+    "items": [
+      "Manager defines limits and asks the group to make the decision",
+      "Manager makes the decision and announces it",
+      "Manager presents the problem, gets suggestions and then decides",
+      "Manager 'sells' the decision to subordinates"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "2-4-1-3",
+      "3-4-1-2",
+      "3-4-2-1",
+      "2-4-3-1"
+    ],
+    "answer": "d",
+    "code": "2-4-3-1",
+    "explanation": "As the continuum moves away from the boss, the manager's use of authority shrinks and subordinates' freedom grows: tell, then sell, then consult, then let the group decide within limits."
+  },
+  {
+    "id": "u06-022",
+    "unit": 6,
+    "topic": "u06-t05",
+    "type": "mcq",
+    "stem": "Which theory of corporate governance treats managers as agents of the shareholders and focuses on conflicts of interest between the two?",
+    "options": [
+      "Stewardship theory",
+      "Agency theory",
+      "Stakeholder theory",
+      "Resource dependence theory"
+    ],
+    "answer": "b",
+    "explanation": "Agency theory (Jensen and Meckling) deals with the principal–agent problem and the costs of aligning managers with owners. Stewardship theory assumes managers act as trustworthy stewards."
+  },
+  {
+    "id": "u06-023",
+    "unit": 6,
+    "topic": "u06-t04",
+    "type": "matching",
+    "stem": "Match List I (leadership model) with List II (proponents):",
+    "listI": [
+      "Managerial Grid",
+      "Path–goal theory",
+      "Situational leadership (follower readiness)",
+      "Continuum of leadership behaviour"
+    ],
+    "listII": [
+      "Robert Blake and Jane Mouton",
+      "Paul Hersey and Kenneth Blanchard",
+      "Robert Tannenbaum and Warren Schmidt",
+      "Robert House"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-2, B-1, C-4, D-3",
+      "A-2, B-4, C-3, D-1",
+      "A-3, B-4, C-2, D-1",
+      "A-1, B-4, C-2, D-3"
+    ],
+    "answer": "d",
+    "code": "A-1, B-4, C-2, D-3",
+    "explanation": "The Managerial Grid is Blake and Mouton's; path–goal theory is House's; the readiness-based situational model is Hersey and Blanchard's; the boss-centred to subordinate-centred continuum is Tannenbaum and Schmidt's."
+  },
+  {
+    "id": "u06-024",
+    "unit": 6,
+    "topic": "u06-t02",
+    "type": "ar",
+    "stem": "Assertion (A): Authority can be delegated, but responsibility cannot be delegated completely.",
+    "reason": "Reason (R): The delegator remains accountable to his own superior for the performance of the tasks delegated.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "Both are true, and R explains A: delegating a task does not free the manager of ultimate responsibility, because he stays answerable upward for the outcome."
+  },
+  {
+    "id": "u06-025",
+    "unit": 6,
+    "topic": "u06-t08",
+    "type": "matching",
+    "stem": "Match List I (incentive plan) with List II (feature):",
+    "listI": [
+      "Taylor's differential piece rate",
+      "Halsey premium plan",
+      "Rowan plan",
+      "Scanlon plan"
+    ],
+    "listII": [
+      "Bonus rate equal to the proportion of time saved to standard time, applied to time taken",
+      "Plant-wide gain sharing based on savings in labour cost",
+      "Two piece rates depending on whether the standard output is reached",
+      "Bonus equal to a fixed percentage (usually 50%) of time saved"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-3, B-4, C-1, D-2",
+      "A-2, B-4, C-3, D-1",
+      "A-3, B-2, C-1, D-4",
+      "A-4, B-1, C-3, D-2"
+    ],
+    "answer": "a",
+    "code": "A-3, B-4, C-1, D-2",
+    "explanation": "Taylor's plan has two rates; Halsey pays a share of time saved; Rowan's bonus is (time saved ÷ standard time) × time taken × rate; Scanlon is a group gain-sharing plan."
+  },
+  {
+    "id": "u06-026",
+    "unit": 6,
+    "topic": "u06-t03",
+    "type": "mcq",
+    "stem": "The expectancy theory of motivation, which states that Motivation = Valence × Expectancy × Instrumentality, was proposed by:",
+    "options": [
+      "J. Stacy Adams",
+      "Clayton Alderfer",
+      "David McClelland",
+      "Victor Vroom"
+    ],
+    "answer": "d",
+    "explanation": "Victor Vroom put forward expectancy (VIE) theory in 'Work and Motivation' (1964). Adams gave equity theory, Alderfer ERG theory, and McClelland the theory of needs."
+  },
+  {
+    "id": "u06-027",
+    "unit": 6,
+    "topic": "u06-t05",
+    "type": "statements",
+    "stem": "Consider the following statements:",
+    "items": [
+      "The Companies Act, 2013 makes CSR spending mandatory for companies that meet specified thresholds.",
+      "The Kumar Mangalam Birla Committee on corporate governance was constituted by SEBI.",
+      "Clause 49 of the listing agreement dealt with corporate governance.",
+      "The Sarbanes–Oxley Act was enacted in the United Kingdom."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 3 only",
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 3 and 4 only"
+    ],
+    "answer": "a",
+    "explanation": "Statements 1–3 are correct. The Sarbanes–Oxley Act (2002) is a US law, passed after the Enron and WorldCom scandals."
+  },
+  {
+    "id": "u06-028",
+    "unit": 6,
+    "topic": "u06-t06",
+    "type": "matching",
+    "stem": "Match List I (concept) with List II (meaning):",
+    "listI": [
+      "Job analysis",
+      "Job enlargement",
+      "Job enrichment",
+      "Job rotation"
+    ],
+    "listII": [
+      "Horizontal addition of more tasks at the same level",
+      "Systematic study of the content and requirements of a job",
+      "Vertical loading of a job with more responsibility and autonomy",
+      "Periodic movement of employees from one job to another"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-3, B-1, C-2, D-4",
+      "A-3, B-2, C-1, D-4",
+      "A-2, B-1, C-3, D-4",
+      "A-4, B-1, C-2, D-3"
+    ],
+    "answer": "c",
+    "code": "A-2, B-1, C-3, D-4",
+    "explanation": "Job enlargement widens a job horizontally, while job enrichment (Herzberg) deepens it vertically. Job rotation moves people between jobs, and job analysis is the study behind all of these."
+  },
+  {
+    "id": "u06-029",
+    "unit": 6,
+    "topic": "u06-t04",
+    "type": "mcq",
+    "stem": "On Blake and Mouton's Managerial Grid, the 9,9 style, showing high concern for both people and production, is called:",
+    "options": [
+      "Country club management",
+      "Team management",
+      "Impoverished management",
+      "Authority–compliance (task) management"
+    ],
+    "answer": "b",
+    "explanation": "9,9 is team management. 1,9 is country club (people only), 1,1 is impoverished, and 9,1 is authority–compliance (production only)."
+  },
+  {
+    "id": "u06-030",
+    "unit": 6,
+    "topic": "u06-t01",
+    "type": "mcq",
+    "stem": "According to Fayol's principle of unity of command:",
+    "options": [
+      "There should be one head and one plan for a group of activities with the same objective",
+      "Authority should flow from the top to the lowest rank through a chain of superiors",
+      "Individual interests should be subordinated to the general interest",
+      "An employee should receive orders from one superior only"
+    ],
+    "answer": "d",
+    "explanation": "Unity of command means one boss for each subordinate. 'One head, one plan' is unity of direction; the chain of superiors is the scalar chain."
+  },
+  {
+    "id": "u06-031",
+    "unit": 6,
+    "topic": "u06-t03",
+    "type": "sequencing",
+    "stem": "Arrange the needs in Maslow's hierarchy from the lowest to the highest:",
+    "items": [
+      "Self-actualisation needs",
+      "Physiological needs",
+      "Esteem needs",
+      "Safety needs",
+      "Social (belongingness) needs"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "2-3-5-4-1",
+      "2-4-3-1-5",
+      "2-4-5-3-1",
+      "5-4-2-3-1"
+    ],
+    "answer": "c",
+    "code": "2-4-5-3-1",
+    "explanation": "Maslow's order from the base up is physiological, safety, social, esteem and self-actualisation."
+  },
+  {
+    "id": "u06-032",
+    "unit": 6,
+    "topic": "u06-t03",
+    "type": "ar",
+    "stem": "Assertion (A): According to Maslow, a need that has been satisfied no longer acts as a motivator.",
+    "reason": "Reason (R): Maslow set out his need hierarchy in the paper 'A Theory of Human Motivation', published in 1943.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "b",
+    "explanation": "Both are true, but the publication details do not explain A. The explanation is Maslow's idea that behaviour is driven by the lowest unsatisfied need."
+  },
+  {
+    "id": "u06-033",
+    "unit": 6,
+    "topic": "u06-t10",
+    "type": "mcq",
+    "stem": "Works committees, a form of workers' participation in management in India, are provided for under the:",
+    "options": [
+      "Factories Act, 1948",
+      "Industrial Disputes Act, 1947",
+      "Trade Unions Act, 1926",
+      "Payment of Wages Act, 1936"
+    ],
+    "answer": "b",
+    "explanation": "The Industrial Disputes Act, 1947 required works committees in establishments with 100 or more workers, to encourage good relations between employer and workers. These provisions now appear in the Industrial Relations Code."
+  },
+  {
+    "id": "u06-034",
+    "unit": 6,
+    "topic": "u06-t04",
+    "type": "statements",
+    "stem": "Consider the following statements about leadership theories:",
+    "items": [
+      "Transformational leadership relies mainly on contingent rewards and corrective transactions with followers.",
+      "According to House's path–goal theory, the leader clarifies the path followers must take to reach their goals.",
+      "In Likert's four systems of management, System 4 is the participative group system."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "2 and 3 only",
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "a",
+    "explanation": "Contingent reward is typical of transactional leadership. Transformational leadership works through inspiration, intellectual stimulation and individual consideration, so 1 is false. Statements 2 and 3 are correct (System 1 is exploitative–authoritative)."
+  },
+  {
+    "id": "u06-035",
+    "unit": 6,
+    "topic": "u06-t03",
+    "type": "matching",
+    "stem": "Match List I (theorist) with List II (theory of motivation):",
+    "listI": [
+      "Abraham Maslow",
+      "Frederick Herzberg",
+      "Victor Vroom",
+      "J. Stacy Adams"
+    ],
+    "listII": [
+      "Motivation–hygiene (two-factor) theory",
+      "Expectancy theory",
+      "Need hierarchy theory",
+      "Equity theory"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-3, B-1, C-4, D-2",
+      "A-4, B-1, C-2, D-3",
+      "A-3, B-1, C-2, D-4",
+      "A-4, B-1, C-3, D-2"
+    ],
+    "answer": "c",
+    "code": "A-3, B-1, C-2, D-4",
+    "explanation": "Maslow gave the need hierarchy, Herzberg the motivation–hygiene theory, Vroom expectancy theory, and Adams equity theory."
+  },
+  {
+    "id": "u06-036",
+    "unit": 6,
+    "topic": "u06-t10",
+    "type": "statements",
+    "stem": "Consider the following statements about workers' participation in management:",
+    "items": [
+      "Appointing worker-directors represents participation at the board level.",
+      "Quality circles are small groups of employees who meet voluntarily to solve work-related problems.",
+      "Joint Management Councils were given statutory status under the Industrial Disputes Act, 1947."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 and 2 only"
+    ],
+    "answer": "d",
+    "explanation": "Worker-directors and quality circles are recognised forms of participation. Joint Management Councils (introduced in 1958) were voluntary and non-statutory, so statement 3 is false."
+  },
+  {
+    "id": "u06-037",
+    "unit": 6,
+    "topic": "u06-t10",
+    "type": "statements",
+    "stem": "Consider the following statements about employee welfare:",
+    "items": [
+      "Intra-mural welfare facilities are provided within the factory premises.",
+      "Extra-mural welfare facilities, such as housing and recreation, are provided outside the workplace.",
+      "The Factories Act, 1948 requires welfare officers in factories employing 500 or more workers."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 and 3 only"
+    ],
+    "answer": "b",
+    "explanation": "Welfare is classified as intra-mural (inside the premises, e.g. canteens) and extra-mural (outside, e.g. housing). The Factories Act, 1948 requires welfare officers where 500 or more workers are employed. All three are correct."
+  },
+  {
+    "id": "u06-038",
+    "unit": 6,
+    "topic": "u06-t01",
+    "type": "sequencing",
+    "stem": "Arrange the following developments in management thought in chronological order:",
+    "items": [
+      "Hawthorne experiments at Western Electric",
+      "Introduction of Management by Objectives by Peter Drucker",
+      "Publication of Fayol's 'Administration Industrielle et Générale'",
+      "Publication of Taylor's 'The Principles of Scientific Management'"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "1-2-4-3",
+      "4-3-1-2",
+      "4-1-3-2",
+      "4-3-2-1"
+    ],
+    "answer": "b",
+    "code": "4-3-1-2",
+    "explanation": "Taylor's book appeared in 1911, Fayol's in 1916, the Hawthorne studies ran from about 1924 to 1932, and Drucker described MBO in 1954."
+  },
+  {
+    "id": "u06-039",
+    "unit": 6,
+    "topic": "u06-t08",
+    "type": "ar",
+    "stem": "Assertion (A): The halo effect is an error in performance appraisal.",
+    "reason": "Reason (R): The forced distribution method places employees in predetermined categories resembling a normal curve.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "b",
+    "explanation": "Both are true, but R describes an appraisal method and does not explain the halo effect. The halo effect arises when one trait colours the rater's judgement of all other traits."
+  },
+  {
+    "id": "u06-040",
+    "unit": 6,
+    "topic": "u06-t09",
+    "type": "mcq",
+    "stem": "In Walton and McKersie's framework, bargaining in which the parties look for mutually beneficial (win–win) solutions to problems of common concern is called:",
+    "options": [
+      "Distributive bargaining",
+      "Integrative bargaining",
+      "Attitudinal structuring",
+      "Intra-organisational bargaining"
+    ],
+    "answer": "b",
+    "explanation": "Integrative bargaining is problem-solving and win–win. Distributive bargaining divides a fixed pie (win–lose); attitudinal structuring shapes relationships; intra-organisational bargaining reconciles views within each side."
+  },
+  {
+    "id": "u06-041",
+    "unit": 6,
+    "topic": "u06-t06",
+    "type": "mcq",
+    "stem": "In Flippo's classification of HRM operative functions, job analysis, recruitment and selection fall under:",
+    "options": [
+      "Development",
+      "Integration",
+      "Procurement",
+      "Maintenance"
+    ],
+    "answer": "c",
+    "explanation": "Procurement covers finding and obtaining the right people: job analysis, HR planning, recruitment, selection, placement and induction. Development covers training; maintenance covers health, safety and welfare."
+  },
+  {
+    "id": "u06-042",
+    "unit": 6,
+    "topic": "u06-t06",
+    "type": "mcq",
+    "stem": "Which technique of forecasting human resource demand pools the opinions of experts anonymously through repeated rounds until a consensus emerges?",
+    "options": [
+      "Delphi technique",
+      "Markov analysis",
+      "Replacement charts",
+      "Work-study technique"
+    ],
+    "answer": "a",
+    "explanation": "The Delphi technique uses successive anonymous rounds of expert opinion. Markov analysis and replacement charts forecast internal supply of labour."
+  },
+  {
+    "id": "u06-043",
+    "unit": 6,
+    "topic": "u06-t03",
+    "type": "mcq",
+    "stem": "Which of the following is a hygiene (maintenance) factor in Herzberg's two-factor theory?",
+    "options": [
+      "Working conditions",
+      "Recognition",
+      "Achievement",
+      "Advancement"
+    ],
+    "answer": "a",
+    "explanation": "Herzberg listed company policy, supervision, salary, interpersonal relations and working conditions as hygiene factors. Recognition, achievement and advancement are motivators."
+  },
+  {
+    "id": "u06-044",
+    "unit": 6,
+    "topic": "u06-t09",
+    "type": "mcq",
+    "stem": "The Trade Unions Act, providing for the registration of trade unions in India, was enacted in:",
+    "options": [
+      "1936",
+      "1947",
+      "1926",
+      "1948"
+    ],
+    "answer": "c",
+    "explanation": "The Trade Unions Act, 1926 provided for registration of trade unions and gave registered unions certain protections. The Payment of Wages Act is of 1936, the Industrial Disputes Act of 1947 and the Factories Act of 1948."
+  },
+  {
+    "id": "u06-045",
+    "unit": 6,
+    "topic": "u06-t06",
+    "type": "statements",
+    "stem": "Consider the following statements:",
+    "items": [
+      "A job description states the qualifications and skills required of the job holder.",
+      "A job specification sets out the minimum human qualities needed to perform a job.",
+      "Markov analysis is used to forecast the internal supply of human resources."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "2 and 3 only",
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "a",
+    "explanation": "Qualifications and skills belong in the job specification; the job description sets out duties, responsibilities and working conditions. So statement 1 is false, and 2 and 3 are correct."
+  },
+  {
+    "id": "u06-046",
+    "unit": 6,
+    "topic": "u06-t02",
+    "type": "mcq",
+    "stem": "The term 'span of control' refers to:",
+    "options": [
+      "The number of levels in the organisational hierarchy",
+      "The extent to which authority is delegated to lower levels",
+      "The number of subordinates a manager can effectively supervise",
+      "The range of decisions a manager is authorised to take"
+    ],
+    "answer": "c",
+    "explanation": "Span of control (span of management) is the number of subordinates reporting directly to a manager. The number of levels is the height of the structure."
+  },
+  {
+    "id": "u06-047",
+    "unit": 6,
+    "topic": "u06-t02",
+    "type": "sequencing",
+    "stem": "Arrange the following elements of the process of delegation in the correct order:",
+    "items": [
+      "Creation of accountability",
+      "Assignment of duties (responsibility)",
+      "Granting of authority"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "1-3-2",
+      "2-3-1",
+      "2-1-3",
+      "3-2-1"
+    ],
+    "answer": "b",
+    "code": "2-3-1",
+    "explanation": "The manager first assigns the task, then grants the authority needed to perform it, and finally the subordinate becomes accountable for the results."
+  },
+  {
+    "id": "u06-048",
+    "unit": 6,
+    "topic": "u06-t09",
+    "type": "sequencing",
+    "stem": "Arrange the following Indian labour enactments in chronological order:",
+    "items": [
+      "Industrial Disputes Act",
+      "Industrial Employment (Standing Orders) Act",
+      "Trade Unions Act",
+      "Industrial Relations Code"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "3-2-1-4",
+      "3-1-2-4",
+      "4-2-3-1",
+      "4-3-1-2"
+    ],
+    "answer": "a",
+    "code": "3-2-1-4",
+    "explanation": "Trade Unions Act 1926; Industrial Employment (Standing Orders) Act 1946; Industrial Disputes Act 1947; Industrial Relations Code 2020, which consolidates these three."
+  },
+  {
+    "id": "u06-049",
+    "unit": 6,
+    "topic": "u06-t10",
+    "type": "ar",
+    "stem": "Assertion (A): Workers' participation in management always means that workers own a majority of the company's shares.",
+    "reason": "Reason (R): Workers' participation can take forms such as works committees, joint management councils and worker-directors on the board.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "d",
+    "explanation": "A is false: participation mainly means sharing in decision-making, and share ownership is only one possible form. R is true and lists the common forms."
+  },
+  {
+    "id": "u06-050",
+    "unit": 6,
+    "topic": "u06-t06",
+    "type": "sequencing",
+    "stem": "Arrange the following steps of the human resource planning process in the correct order:",
+    "items": [
+      "Forecasting the supply of human resources",
+      "Formulating action plans to meet the gap",
+      "Forecasting the demand for human resources",
+      "Analysing organisational objectives and plans",
+      "Estimating net human resource requirements"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "2-3-1-4-5",
+      "4-1-3-2-5",
+      "4-3-1-5-2",
+      "4-3-1-2-5"
+    ],
+    "answer": "c",
+    "code": "4-3-1-5-2",
+    "explanation": "HRP starts from organisational objectives, forecasts demand and then supply, works out the net gap, and ends with action plans such as recruitment, training or redeployment."
+  },
+  {
+    "id": "u06-051",
+    "unit": 6,
+    "topic": "u06-t05",
+    "type": "ar",
+    "stem": "Assertion (A): A vigil (whistle-blower) mechanism strengthens corporate governance.",
+    "reason": "Reason (R): A vigil mechanism allows employees and directors to report genuine concerns about unethical behaviour without fear of victimisation.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "Both are true, and R explains A: safe reporting channels bring fraud and misconduct to light early, which improves accountability and oversight."
+  },
+  {
+    "id": "u06-052",
+    "unit": 6,
+    "topic": "u06-t07",
+    "type": "matching",
+    "stem": "Match List I (training method) with List II (description):",
+    "listI": [
+      "Role playing",
+      "In-basket exercise",
+      "Case study",
+      "Sensitivity training"
+    ],
+    "listII": [
+      "Unstructured T-group sessions to build self-awareness and interpersonal skills",
+      "Trainees act out given parts in a realistic situation",
+      "Trainee deals with a tray of memos, letters and reports within a time limit",
+      "Analysis of a written account of a real or hypothetical business situation"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-1, B-3, C-4, D-2",
+      "A-2, B-3, C-4, D-1",
+      "A-2, B-3, C-1, D-4",
+      "A-2, B-4, C-3, D-1"
+    ],
+    "answer": "b",
+    "code": "A-2, B-3, C-4, D-1",
+    "explanation": "These are the defining features of each off-the-job method. Sensitivity (T-group) training works on self-awareness, while in-basket exercises test decision-making under time pressure."
+  },
+  {
+    "id": "u06-053",
+    "unit": 6,
+    "topic": "u06-t09",
+    "type": "matching",
+    "stem": "Match List I (thinker) with List II (contribution to industrial relations / trade union theory):",
+    "listI": [
+      "John T. Dunlop",
+      "Sidney and Beatrice Webb",
+      "Selig Perlman",
+      "Karl Marx"
+    ],
+    "listII": [
+      "Theory of job-conscious unionism",
+      "Trade unions as instruments of class struggle",
+      "Industrial democracy; trade union as a continuous association of wage earners",
+      "Systems approach to industrial relations"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-1, B-3, C-2, D-4",
+      "A-4, B-3, C-1, D-2",
+      "A-2, B-3, C-1, D-4",
+      "A-2, B-3, C-4, D-1"
+    ],
+    "answer": "b",
+    "code": "A-4, B-3, C-1, D-2",
+    "explanation": "Dunlop gave the IR system of actors, contexts, ideology and web of rules; the Webbs saw unions as continuous associations serving industrial democracy; Perlman stressed job scarcity and job consciousness; Marx saw unions as instruments of class struggle."
+  },
+  {
+    "id": "u06-054",
+    "unit": 6,
+    "topic": "u06-t01",
+    "type": "mcq",
+    "stem": "The acronym POSDCORB, describing the functions of an executive, was coined by:",
+    "options": [
+      "Luther Gulick",
+      "Henri Fayol",
+      "F. W. Taylor",
+      "Peter Drucker"
+    ],
+    "answer": "a",
+    "explanation": "Luther Gulick (with Lyndall Urwick, 1937) used POSDCORB for Planning, Organising, Staffing, Directing, Co-ordinating, Reporting and Budgeting. Fayol's own list was planning, organising, commanding, co-ordinating and controlling."
+  },
+  {
+    "id": "u06-055",
+    "unit": 6,
+    "topic": "u06-t09",
+    "type": "ar",
+    "stem": "Assertion (A): Collective bargaining is essentially a bipartite process.",
+    "reason": "Reason (R): In collective bargaining, negotiations must be chaired by a government nominee.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "c",
+    "explanation": "A is true: collective bargaining is negotiation directly between employers and workers' representatives. R is false: the government takes part only in conciliation or adjudication, which are separate from bipartite bargaining."
+  },
+  {
+    "id": "u06-056",
+    "unit": 6,
+    "topic": "u06-t01",
+    "type": "ar",
+    "stem": "Assertion (A): Fayol's principle of scalar chain rules out every form of horizontal communication in an organisation.",
+    "reason": "Reason (R): Fayol suggested a 'gang plank' that allows employees at the same level to communicate directly, with the knowledge of their superiors.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "d",
+    "explanation": "A is false, and R shows why: the gang plank is Fayol's own exception to the scalar chain, allowing quick horizontal contact between people at the same level."
+  },
+  {
+    "id": "u06-057",
+    "unit": 6,
+    "topic": "u06-t07",
+    "type": "sequencing",
+    "stem": "Arrange the following steps of the selection process in the usual order:",
+    "items": [
+      "Preliminary screening of applications",
+      "Placement",
+      "Medical examination",
+      "Final interview",
+      "Selection tests"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "1-5-4-3-2",
+      "1-3-4-5-2",
+      "1-4-5-3-2",
+      "1-5-2-3-4"
+    ],
+    "answer": "a",
+    "code": "1-5-4-3-2",
+    "explanation": "Applications are screened first, then candidates take tests and a final interview. Those selected undergo a medical examination and are then placed on the job."
+  },
+  {
+    "id": "u06-058",
+    "unit": 6,
+    "topic": "u06-t07",
+    "type": "statements",
+    "stem": "Consider the following statements:",
+    "items": [
+      "Selection precedes recruitment in the staffing process.",
+      "Kirkpatrick's model evaluates training at four levels: reaction, learning, behaviour and results.",
+      "Apprenticeship training combines classroom instruction with on-the-job learning."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "2 and 3 only",
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "a",
+    "explanation": "Recruitment (building a pool of applicants) comes before selection, so statement 1 is false. Statements 2 and 3 are correct."
+  },
+  {
+    "id": "u06-059",
+    "unit": 6,
+    "topic": "u06-t04",
+    "type": "mcq",
+    "stem": "The Least Preferred Co-worker (LPC) scale is associated with:",
+    "options": [
+      "Hersey and Blanchard's situational leadership model",
+      "House's path–goal theory",
+      "Fiedler's contingency model",
+      "Vroom and Yetton's normative model"
+    ],
+    "answer": "c",
+    "explanation": "Fred Fiedler used the LPC score to identify a leader's basic style (task- or relationship-oriented) and matched it to situational favourableness."
+  },
+  {
+    "id": "u06-060",
+    "unit": 6,
+    "topic": "u06-t10",
+    "type": "ar",
+    "stem": "Assertion (A): Welfare facilities such as canteens, crèches and restrooms must be provided in factories under the Factories Act, 1948.",
+    "reason": "Reason (R): Statutory welfare measures are voluntary and left to the discretion of the employer.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "c",
+    "explanation": "A is true: the Factories Act requires such facilities once specified worker thresholds are reached. R is false: statutory welfare is compulsory by law; only non-statutory welfare is voluntary."
+  }
+]

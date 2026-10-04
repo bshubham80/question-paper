@@ -1,0 +1,1226 @@
+[
+  {
+    "id": "u02-001",
+    "unit": 2,
+    "topic": "u02-t01",
+    "type": "mcq",
+    "stem": "The accounting rule 'anticipate no profit but provide for all possible losses' reflects the concept of:",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Prudence (conservatism)",
+      "Consistency",
+      "Materiality",
+      "Going concern"
+    ],
+    "answer": "a",
+    "explanation": "Prudence or conservatism asks accountants to record expected losses but not expected gains, so that profits and assets are not overstated."
+  },
+  {
+    "id": "u02-002",
+    "unit": 2,
+    "topic": "u02-t01",
+    "type": "mcq",
+    "stem": "A firm has total assets of ₹5,00,000 and outside liabilities of ₹1,80,000. According to the accounting equation, the owner's capital is:",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "₹6,80,000",
+      "₹3,20,000",
+      "₹1,80,000",
+      "₹5,00,000"
+    ],
+    "answer": "b",
+    "explanation": "Capital = Assets − Liabilities = ₹5,00,000 − ₹1,80,000 = ₹3,20,000. ₹6,80,000 wrongly adds the two figures."
+  },
+  {
+    "id": "u02-003",
+    "unit": 2,
+    "topic": "u02-t01",
+    "type": "ar",
+    "stem": "Assertion (A): Fixed assets are shown in the balance sheet at cost less depreciation rather than at their realisable value.",
+    "reason": "Reason (R): The going concern assumption presumes that the business will continue to operate in the foreseeable future.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "Both are true. Because the business is not expected to sell its fixed assets soon, their break-up (realisable) value does not matter, so going concern explains the cost-less-depreciation basis."
+  },
+  {
+    "id": "u02-004",
+    "unit": 2,
+    "topic": "u02-t01",
+    "type": "statements",
+    "stem": "Consider the following statements about accounting concepts:",
+    "items": [
+      "Under the money measurement concept, only transactions that can be expressed in money are recorded.",
+      "The business entity concept treats the business as separate from its owner.",
+      "The matching concept requires expenses to be matched with the revenues of the same period.",
+      "Under the realisation concept, revenue is recognised only when cash is received."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4",
+      "1, 2 and 3 only"
+    ],
+    "answer": "d",
+    "explanation": "Statements 1 to 3 are correct. Under the realisation concept revenue is recognised when it is earned, for example when goods are delivered, even if cash comes later."
+  },
+  {
+    "id": "u02-005",
+    "unit": 2,
+    "topic": "u02-t01",
+    "type": "matching",
+    "stem": "Match List I (accounting concept) with List II (example):",
+    "listI": [
+      "Consistency",
+      "Materiality",
+      "Accrual",
+      "Full disclosure"
+    ],
+    "listII": [
+      "Contingent liabilities shown in notes to accounts",
+      "Same depreciation method followed year after year",
+      "Wages due but unpaid recorded as an expense",
+      "A low-cost stapler written off as an expense when bought"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-4, B-2, C-3, D-1",
+      "A-2, B-3, C-4, D-1",
+      "A-2, B-4, C-3, D-1",
+      "A-1, B-4, C-3, D-2"
+    ],
+    "answer": "c",
+    "code": "A-2, B-4, C-3, D-1",
+    "explanation": "Using the same method each year shows consistency; expensing a trivial item shows materiality; recording wages due shows accrual; showing contingent liabilities in notes shows full disclosure."
+  },
+  {
+    "id": "u02-006",
+    "unit": 2,
+    "topic": "u02-t01",
+    "type": "sequencing",
+    "stem": "Arrange the following steps of the accounting cycle in the correct order:",
+    "items": [
+      "Preparing the trial balance",
+      "Recording in the journal",
+      "Preparing final accounts",
+      "Posting to the ledger"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "4-2-1-3",
+      "2-4-1-3",
+      "2-1-4-3",
+      "2-4-3-1"
+    ],
+    "answer": "b",
+    "code": "2-4-1-3",
+    "explanation": "Transactions are first journalised, then posted to the ledger, then balanced into a trial balance, from which the final accounts are prepared."
+  },
+  {
+    "id": "u02-007",
+    "unit": 2,
+    "topic": "u02-t02",
+    "type": "mcq",
+    "stem": "A and B share profits in the ratio 3:2. C is admitted and the new profit-sharing ratio of A, B and C is 5:3:2. The sacrificing ratio of A and B is:",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "3:2",
+      "5:3",
+      "1:1",
+      "2:1"
+    ],
+    "answer": "c",
+    "explanation": "Sacrifice = old share − new share. A: 3/5 − 5/10 = 6/10 − 5/10 = 1/10. B: 2/5 − 3/10 = 4/10 − 3/10 = 1/10. So the sacrificing ratio is 1:1."
+  },
+  {
+    "id": "u02-008",
+    "unit": 2,
+    "topic": "u02-t02",
+    "type": "mcq",
+    "stem": "Under the Indian Partnership Act, 1932, when the partnership deed says nothing on the matter, interest on partners' capital is:",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Allowed at 6 per cent per annum",
+      "Allowed at 5 per cent per annum",
+      "Allowed at the bank rate",
+      "Not allowed"
+    ],
+    "answer": "d",
+    "explanation": "Without an agreement, partners are not entitled to interest on capital. The 6 per cent rate applies to loans and advances a partner makes to the firm, not to capital."
+  },
+  {
+    "id": "u02-009",
+    "unit": 2,
+    "topic": "u02-t02",
+    "type": "ar",
+    "stem": "Assertion (A): On the admission of a new partner, accumulated reserves are shared among the old partners in their old profit-sharing ratio.",
+    "reason": "Reason (R): Such reserves were built up out of profits earned when only the old partners shared profits in the old ratio.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "Both are true. The reserves belong to the old partners because they come from past profits those partners shared in the old ratio, so R explains A."
+  },
+  {
+    "id": "u02-010",
+    "unit": 2,
+    "topic": "u02-t02",
+    "type": "statements",
+    "stem": "Consider the following statements about the rule in Garner v. Murray:",
+    "items": [
+      "Solvent partners bear the capital deficiency of an insolvent partner in the ratio of their capitals.",
+      "The rule applies only when there is no agreement to the contrary among the partners.",
+      "Solvent partners must bring in cash equal to their share of the loss on realisation.",
+      "Under the rule, the insolvent partner's deficiency is shared in the profit-sharing ratio."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 3 only",
+      "1, 2 and 4 only",
+      "3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "a",
+    "explanation": "Statements 1 to 3 are correct. Garner v. Murray shares the deficiency in the ratio of capitals, not in the profit-sharing ratio, so statement 4 is wrong."
+  },
+  {
+    "id": "u02-011",
+    "unit": 2,
+    "topic": "u02-t02",
+    "type": "matching",
+    "stem": "Match List I (item in partnership accounts) with List II (description):",
+    "listI": [
+      "Gaining ratio",
+      "Sacrificing ratio",
+      "Realisation account",
+      "Joint life policy"
+    ],
+    "listII": [
+      "Old share minus new share of existing partners",
+      "Insurance on the lives of all partners, payable on the death of any one",
+      "Opened to close the books of the firm on dissolution",
+      "New share minus old share of continuing partners"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-1, B-4, C-3, D-2",
+      "A-4, B-1, C-2, D-3",
+      "A-4, B-1, C-3, D-2",
+      "A-3, B-1, C-4, D-2"
+    ],
+    "answer": "c",
+    "code": "A-4, B-1, C-3, D-2",
+    "explanation": "The gaining ratio (new minus old share) applies to continuing partners; the sacrificing ratio (old minus new share) applies on admission; the realisation account is used on dissolution; a joint life policy pays out on the death of any partner."
+  },
+  {
+    "id": "u02-012",
+    "unit": 2,
+    "topic": "u02-t02",
+    "type": "sequencing",
+    "stem": "Under Section 48 of the Indian Partnership Act, 1932, arrange the order in which the firm's assets are applied on dissolution:",
+    "items": [
+      "Paying each partner what is due on account of capital",
+      "Distributing any residue among partners in their profit-sharing ratio",
+      "Paying debts of the firm to third parties",
+      "Paying each partner's loans and advances to the firm"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "4-3-1-2",
+      "3-1-4-2",
+      "3-4-2-1",
+      "3-4-1-2"
+    ],
+    "answer": "d",
+    "code": "3-4-1-2",
+    "explanation": "Section 48 requires third-party debts to be paid first, then partners' loans and advances, then partners' capital, and finally any surplus in the profit-sharing ratio."
+  },
+  {
+    "id": "u02-013",
+    "unit": 2,
+    "topic": "u02-t03",
+    "type": "mcq",
+    "stem": "When forfeited shares are reissued, the balance left in the share forfeiture account on those shares is transferred to:",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Capital reserve",
+      "General reserve",
+      "Securities premium account",
+      "Statement of profit and loss"
+    ],
+    "answer": "a",
+    "explanation": "The profit on reissue of forfeited shares is a capital profit, so it is transferred to capital reserve."
+  },
+  {
+    "id": "u02-014",
+    "unit": 2,
+    "topic": "u02-t03",
+    "type": "mcq",
+    "stem": "H Ltd acquired 80 per cent of the equity shares of S Ltd for ₹5,20,000. On the date of acquisition, S Ltd had share capital of ₹5,00,000 and reserves of ₹1,00,000. Goodwill or capital reserve on consolidation is:",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Capital reserve ₹40,000",
+      "Goodwill ₹40,000",
+      "Goodwill ₹20,000",
+      "Goodwill ₹1,20,000"
+    ],
+    "answer": "b",
+    "explanation": "H's share of net assets = 80% × (5,00,000 + 1,00,000) = ₹4,80,000. Cost ₹5,20,000 − ₹4,80,000 = ₹40,000 paid in excess, which is goodwill. ₹1,20,000 is the non-controlling interest, not goodwill."
+  },
+  {
+    "id": "u02-015",
+    "unit": 2,
+    "topic": "u02-t03",
+    "type": "ar",
+    "stem": "Assertion (A): Under AS 14, an amalgamation in the nature of purchase is accounted for using the purchase method.",
+    "reason": "Reason (R): Under the pooling of interests method, assets and liabilities of the transferor company are recorded at their existing carrying amounts.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "b",
+    "explanation": "Both are true. R describes the pooling of interests method, which is used for amalgamations in the nature of merger, so it does not explain why the purchase method is used for purchase-type amalgamations."
+  },
+  {
+    "id": "u02-016",
+    "unit": 2,
+    "topic": "u02-t03",
+    "type": "statements",
+    "stem": "Consider the following statements under the Companies Act, 2013:",
+    "items": [
+      "Securities premium can be used to issue fully paid bonus shares.",
+      "Securities premium can be distributed to shareholders as dividend.",
+      "Calls in arrears are deducted from called-up capital in the balance sheet.",
+      "Redeemable preference shares can be redeemed only out of distributable profits or the proceeds of a fresh issue of shares."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 3 only",
+      "2 and 4 only",
+      "1, 2, 3 and 4",
+      "1, 3 and 4 only"
+    ],
+    "answer": "d",
+    "explanation": "Statements 1, 3 and 4 are correct. Securities premium is a capital receipt and can be used only for the purposes allowed by Section 52; paying dividends is not one of them."
+  },
+  {
+    "id": "u02-017",
+    "unit": 2,
+    "topic": "u02-t03",
+    "type": "statements",
+    "stem": "Consider the following statements about internal reconstruction:",
+    "items": [
+      "It usually involves a reduction of share capital.",
+      "The capital reduction account is used to write off accumulated losses and fictitious assets.",
+      "The existing company is wound up and a new company is formed to take over its business.",
+      "Any balance left in the capital reduction account is transferred to capital reserve."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 4 only",
+      "1, 2 and 3 only",
+      "3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "a",
+    "explanation": "Statements 1, 2 and 4 are correct. Winding up the old company and forming a new one is external reconstruction; in internal reconstruction the same company carries on."
+  },
+  {
+    "id": "u02-018",
+    "unit": 2,
+    "topic": "u02-t03",
+    "type": "matching",
+    "stem": "Match List I (term) with List II (context in corporate accounting):",
+    "listI": [
+      "Purchase consideration",
+      "Liquidator's final statement of account",
+      "Non-controlling interest",
+      "Capital reduction account"
+    ],
+    "listII": [
+      "Internal reconstruction",
+      "Consolidated financial statements",
+      "Amalgamation",
+      "Winding up of a company"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-4, B-3, C-2, D-1",
+      "A-3, B-4, C-2, D-1",
+      "A-3, B-4, C-1, D-2",
+      "A-2, B-4, C-3, D-1"
+    ],
+    "answer": "b",
+    "code": "A-3, B-4, C-2, D-1",
+    "explanation": "Purchase consideration arises in amalgamation, the liquidator's final statement in winding up, non-controlling interest in consolidation, and the capital reduction account in internal reconstruction."
+  },
+  {
+    "id": "u02-019",
+    "unit": 2,
+    "topic": "u02-t04",
+    "type": "mcq",
+    "stem": "Fixed costs are ₹1,20,000, the selling price is ₹50 per unit and the variable cost is ₹30 per unit. The break-even point in units is:",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "4,000 units",
+      "2,400 units",
+      "6,000 units",
+      "3,000 units"
+    ],
+    "answer": "c",
+    "explanation": "Contribution per unit = 50 − 30 = ₹20. BEP = Fixed costs ÷ Contribution per unit = 1,20,000 ÷ 20 = 6,000 units, or sales of ₹3,00,000. 2,400 units wrongly divides by the selling price."
+  },
+  {
+    "id": "u02-020",
+    "unit": 2,
+    "topic": "u02-t04",
+    "type": "mcq",
+    "stem": "Sales are ₹5,00,000, the P/V ratio is 40 per cent and fixed costs are ₹1,20,000. The margin of safety is:",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "₹3,00,000",
+      "₹80,000",
+      "₹1,20,000",
+      "₹2,00,000"
+    ],
+    "answer": "d",
+    "explanation": "BEP sales = 1,20,000 ÷ 0.40 = ₹3,00,000. Margin of safety = 5,00,000 − 3,00,000 = ₹2,00,000. Check: profit = 2,00,000 × 40% = ₹80,000 = contribution 2,00,000 − fixed costs 1,20,000."
+  },
+  {
+    "id": "u02-021",
+    "unit": 2,
+    "topic": "u02-t04",
+    "type": "ar",
+    "stem": "Assertion (A): Under marginal costing, closing stock is valued at variable cost only.",
+    "reason": "Reason (R): Under marginal costing, fixed manufacturing overheads are treated as period costs and charged in full to the period in which they arise.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "a",
+    "explanation": "Both are true. Because fixed overheads are written off as period costs, none of them is carried forward in inventory, which is why stock is valued at variable cost. R explains A."
+  },
+  {
+    "id": "u02-022",
+    "unit": 2,
+    "topic": "u02-t04",
+    "type": "statements",
+    "stem": "Consider the following statements about variance analysis in standard costing:",
+    "items": [
+      "Material cost variance equals material price variance plus material usage variance.",
+      "Labour efficiency variance equals standard rate × (standard hours for actual output − actual hours worked).",
+      "Labour idle time variance can be favourable.",
+      "Material price variance equals standard price × (standard quantity − actual quantity)."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 3 only",
+      "1 and 2 only",
+      "2 and 4 only",
+      "1, 3 and 4 only"
+    ],
+    "answer": "b",
+    "explanation": "Statements 1 and 2 are correct. Idle time means paying for hours with no output, so it is always adverse. The formula in statement 4 is the material usage variance; the price variance is actual quantity × (standard price − actual price)."
+  },
+  {
+    "id": "u02-023",
+    "unit": 2,
+    "topic": "u02-t04",
+    "type": "statements",
+    "stem": "Consider the following statements about process costing:",
+    "items": [
+      "The cost of normal loss is absorbed by the good units produced.",
+      "Abnormal loss is valued like good units and transferred to the costing profit and loss account.",
+      "Equivalent production expresses partly finished units as an equal number of fully completed units.",
+      "Abnormal gain raises the cost per unit of good output."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 4 only",
+      "3 and 4 only",
+      "1, 2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "c",
+    "explanation": "Statements 1 to 3 are correct. Abnormal gain is valued at the normal cost per unit and credited to costing profit and loss, so it does not raise the cost per unit of good output."
+  },
+  {
+    "id": "u02-024",
+    "unit": 2,
+    "topic": "u02-t04",
+    "type": "sequencing",
+    "stem": "Arrange the following steps in preparing a process account with work-in-progress in the correct order:",
+    "items": [
+      "Computing cost per equivalent unit",
+      "Valuing completed units and closing work-in-progress",
+      "Preparing the statement of physical flow of units",
+      "Preparing the statement of equivalent production"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "3-4-1-2",
+      "4-3-1-2",
+      "3-1-4-2",
+      "3-4-2-1"
+    ],
+    "answer": "a",
+    "code": "3-4-1-2",
+    "explanation": "Physical units are first reconciled, then converted into equivalent units, cost per equivalent unit is worked out, and finally completed output and closing WIP are valued."
+  },
+  {
+    "id": "u02-025",
+    "unit": 2,
+    "topic": "u02-t05",
+    "type": "mcq",
+    "stem": "Zero-base budgeting was developed and popularised by:",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Peter A. Pyhrr",
+      "Robert S. Kaplan",
+      "Taiichi Ohno",
+      "Masaaki Imai"
+    ],
+    "answer": "a",
+    "explanation": "Peter Pyhrr developed zero-base budgeting at Texas Instruments around 1970. Kaplan is linked with ABC and the balanced scorecard, Ohno with the Toyota Production System, and Imai with kaizen."
+  },
+  {
+    "id": "u02-026",
+    "unit": 2,
+    "topic": "u02-t05",
+    "type": "ar",
+    "stem": "Assertion (A): Target costing is mainly a cost-control technique applied after production of a product has started.",
+    "reason": "Reason (R): Target cost is found by deducting the desired profit margin from the competitive market price.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "d",
+    "explanation": "A is false: target costing is applied at the product planning and design stage, where most costs are locked in. R correctly states how target cost is calculated."
+  },
+  {
+    "id": "u02-027",
+    "unit": 2,
+    "topic": "u02-t05",
+    "type": "ar",
+    "stem": "Assertion (A): Kaizen costing aims at continuous, small cost reductions during the manufacturing stage of a product.",
+    "reason": "Reason (R): Kaizen costing is applied mainly at the product design stage before production begins.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "c",
+    "explanation": "A is true. R is false: the design stage is where target costing applies, while kaizen costing works on continuous improvement during production."
+  },
+  {
+    "id": "u02-028",
+    "unit": 2,
+    "topic": "u02-t05",
+    "type": "statements",
+    "stem": "Consider the following statements about budgets:",
+    "items": [
+      "A flexible budget stays the same whatever the level of activity.",
+      "A cash budget is a functional budget.",
+      "The master budget is a summary of all functional budgets.",
+      "A fixed budget is most suitable where activity levels fluctuate widely."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 3 only",
+      "1 and 4 only",
+      "2, 3 and 4 only",
+      "2 and 3 only"
+    ],
+    "answer": "d",
+    "explanation": "Statements 2 and 3 are correct. A flexible budget is adjusted to different activity levels, and a fixed budget suits stable activity, so statements 1 and 4 are wrong."
+  },
+  {
+    "id": "u02-029",
+    "unit": 2,
+    "topic": "u02-t05",
+    "type": "matching",
+    "stem": "Match List I (technique) with List II (main feature):",
+    "listI": [
+      "Activity-based costing",
+      "Life-cycle costing",
+      "Kaizen costing",
+      "Zero-base budgeting"
+    ],
+    "listII": [
+      "Every activity is justified afresh at each budget",
+      "Overheads assigned through multiple cost drivers",
+      "Costs tracked from design to final disposal of the product",
+      "Continuous improvement during the production stage"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-3, B-2, C-4, D-1",
+      "A-2, B-3, C-4, D-1",
+      "A-2, B-4, C-3, D-1",
+      "A-1, B-3, C-4, D-2"
+    ],
+    "answer": "b",
+    "code": "A-2, B-3, C-4, D-1",
+    "explanation": "ABC uses cost drivers, life-cycle costing covers a product's whole life, kaizen costing seeks continuous improvement in production, and ZBB justifies every activity from zero."
+  },
+  {
+    "id": "u02-030",
+    "unit": 2,
+    "topic": "u02-t05",
+    "type": "sequencing",
+    "stem": "Arrange the following steps of budgetary control in the correct order:",
+    "items": [
+      "Preparing budgets",
+      "Taking corrective action",
+      "Comparing actual performance with the budget",
+      "Setting organisational objectives"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "1-4-3-2",
+      "4-3-1-2",
+      "4-1-3-2",
+      "4-1-2-3"
+    ],
+    "answer": "c",
+    "code": "4-1-3-2",
+    "explanation": "Objectives are set first, budgets are prepared to meet them, actual results are compared with the budget, and corrective action is taken on the variances."
+  },
+  {
+    "id": "u02-031",
+    "unit": 2,
+    "topic": "u02-t06",
+    "type": "mcq",
+    "stem": "A firm's current ratio is 2.5 and its working capital is ₹60,000. Its current assets are:",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "₹1,50,000",
+      "₹60,000",
+      "₹1,00,000",
+      "₹40,000"
+    ],
+    "answer": "c",
+    "explanation": "Let current liabilities = x, so current assets = 2.5x. Working capital = 2.5x − x = 1.5x = 60,000, so x = ₹40,000 and current assets = 2.5 × 40,000 = ₹1,00,000."
+  },
+  {
+    "id": "u02-032",
+    "unit": 2,
+    "topic": "u02-t06",
+    "type": "ar",
+    "stem": "Assertion (A): In the indirect method, depreciation is added back to net profit to find cash flow from operating activities.",
+    "reason": "Reason (R): Depreciation is itself a source of cash for the business.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "c",
+    "explanation": "A is true because depreciation is a non-cash expense that reduced net profit. R is false: depreciation does not bring in any cash; it is only added back because no cash went out."
+  },
+  {
+    "id": "u02-033",
+    "unit": 2,
+    "topic": "u02-t06",
+    "type": "ar",
+    "stem": "Assertion (A): The quick ratio is a stricter test of liquidity than the current ratio.",
+    "reason": "Reason (R): A current ratio of 2:1 is conventionally regarded as satisfactory.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "b",
+    "explanation": "Both are true, but the 2:1 norm does not explain A. The quick ratio is stricter because it leaves out inventory and prepaid expenses, which are harder to turn into cash."
+  },
+  {
+    "id": "u02-034",
+    "unit": 2,
+    "topic": "u02-t06",
+    "type": "statements",
+    "stem": "Under AS 3 / Ind AS 7, consider the following classifications in the cash flow statement of a non-financial company:",
+    "items": [
+      "Purchase of machinery is an investing activity.",
+      "Payment to suppliers of goods is a financing activity.",
+      "Issue of debentures is a financing activity.",
+      "Buy-back of equity shares is a financing activity."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 3 only",
+      "1, 3 and 4 only",
+      "2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "b",
+    "explanation": "Statements 1, 3 and 4 are correct. Payments to suppliers relate to the main revenue-producing activity, so they are operating cash flows."
+  },
+  {
+    "id": "u02-035",
+    "unit": 2,
+    "topic": "u02-t06",
+    "type": "matching",
+    "stem": "Match List I (ratio) with List II (formula):",
+    "listI": [
+      "Inventory turnover ratio",
+      "Debt-equity ratio",
+      "Interest coverage ratio",
+      "Return on capital employed"
+    ],
+    "listII": [
+      "EBIT ÷ Interest",
+      "EBIT ÷ Capital employed",
+      "Cost of goods sold ÷ Average inventory",
+      "Long-term debt ÷ Shareholders' funds"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-4, B-3, C-1, D-2",
+      "A-3, B-4, C-2, D-1",
+      "A-1, B-4, C-3, D-2",
+      "A-3, B-4, C-1, D-2"
+    ],
+    "answer": "d",
+    "code": "A-3, B-4, C-1, D-2",
+    "explanation": "Inventory turnover is COGS over average inventory, debt-equity is long-term debt over shareholders' funds, interest coverage is EBIT over interest, and ROCE is EBIT over capital employed."
+  },
+  {
+    "id": "u02-036",
+    "unit": 2,
+    "topic": "u02-t06",
+    "type": "sequencing",
+    "stem": "A firm has sales of ₹10,00,000, gross profit of ₹2,50,000 and operating expenses of ₹1,50,000 (no other income or expenses). Arrange the following ratios in ascending order of value:",
+    "items": [
+      "Operating ratio",
+      "Net profit ratio",
+      "Gross profit ratio",
+      "Operating expense ratio"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "2-4-3-1",
+      "4-2-3-1",
+      "2-3-4-1",
+      "2-4-1-3"
+    ],
+    "answer": "a",
+    "code": "2-4-3-1",
+    "explanation": "GP ratio = 2,50,000/10,00,000 = 25%. Net profit = 2,50,000 − 1,50,000 = 1,00,000, so NP ratio = 10%. Operating expense ratio = 15%. Operating ratio = (COGS 7,50,000 + 1,50,000)/10,00,000 = 90%. Ascending: 10%, 15%, 25%, 90%."
+  },
+  {
+    "id": "u02-037",
+    "unit": 2,
+    "topic": "u02-t07",
+    "type": "mcq",
+    "stem": "The Lev and Schwartz model of human resource accounting values employees on the basis of:",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Present value of their future earnings",
+      "Replacement cost of the employees",
+      "Historical cost of recruitment and training",
+      "Competitive bidding among divisions"
+    ],
+    "answer": "a",
+    "explanation": "Lev and Schwartz value human capital as the present value of employees' future earnings until retirement. Competitive bidding (opportunity cost) is the Hekimian and Jones approach."
+  },
+  {
+    "id": "u02-038",
+    "unit": 2,
+    "topic": "u02-t07",
+    "type": "mcq",
+    "stem": "Under the Current Purchasing Power (CPP) method of inflation accounting, historical figures are restated using:",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Specific price indices of individual assets",
+      "A general price index",
+      "Replacement cost of assets",
+      "Net realisable value of assets"
+    ],
+    "answer": "b",
+    "explanation": "CPP converts historical amounts into units of current purchasing power using a general price index such as the consumer price index. Specific indices and replacement cost are used in current cost accounting."
+  },
+  {
+    "id": "u02-039",
+    "unit": 2,
+    "topic": "u02-t07",
+    "type": "ar",
+    "stem": "Assertion (A): Under CPP accounting, holding monetary liabilities during a period of inflation results in a loss of purchasing power.",
+    "reason": "Reason (R): Monetary items are fixed in money terms regardless of changes in the price level.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "d",
+    "explanation": "A is false: a firm that owes a fixed money amount repays it in money of lower purchasing power, so it gains. R is true, and it is the reason monetary liabilities produce a gain."
+  },
+  {
+    "id": "u02-040",
+    "unit": 2,
+    "topic": "u02-t07",
+    "type": "statements",
+    "stem": "Consider the following statements:",
+    "items": [
+      "Environmental accounting identifies and reports the environmental costs and benefits of a firm's activities.",
+      "Human resource accounting treats employees as assets of the organisation.",
+      "Disclosure of human resource accounts is mandatory for all companies under the Companies Act, 2013.",
+      "Flamholtz proposed a stochastic rewards valuation model for human resources."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 3 only",
+      "3 and 4 only",
+      "1, 2, 3 and 4",
+      "1, 2 and 4 only"
+    ],
+    "answer": "d",
+    "explanation": "Statements 1, 2 and 4 are correct. HRA disclosure is voluntary in India; firms such as BHEL and Infosys have reported it on their own."
+  },
+  {
+    "id": "u02-041",
+    "unit": 2,
+    "topic": "u02-t07",
+    "type": "matching",
+    "stem": "Match List I (human resource valuation approach) with List II (proponent):",
+    "listI": [
+      "Present value of future earnings",
+      "Opportunity cost (competitive bidding)",
+      "Stochastic rewards valuation",
+      "Group valuation of employees"
+    ],
+    "listII": [
+      "Jaggi and Lau",
+      "Eric Flamholtz",
+      "Hekimian and Jones",
+      "Lev and Schwartz"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-3, B-4, C-2, D-1",
+      "A-4, B-2, C-3, D-1",
+      "A-4, B-3, C-2, D-1",
+      "A-4, B-3, C-1, D-2"
+    ],
+    "answer": "c",
+    "code": "A-4, B-3, C-2, D-1",
+    "explanation": "Lev and Schwartz proposed the present value model, Hekimian and Jones the opportunity cost model, Flamholtz the stochastic rewards model, and Jaggi and Lau the group valuation model."
+  },
+  {
+    "id": "u02-042",
+    "unit": 2,
+    "topic": "u02-t07",
+    "type": "sequencing",
+    "stem": "Under CPP accounting, the general price index is 200 at year end. Arrange the following in ascending order of their CPP-restated year-end values:",
+    "items": [
+      "Land bought for ₹50,000 when the index was 100",
+      "Machinery bought for ₹90,000 when the index was 150",
+      "Furniture bought for ₹70,000 when the index was 175",
+      "Cash balance of ₹1,10,000 at year end"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "1-3-4-2",
+      "3-1-4-2",
+      "3-4-1-2",
+      "3-1-2-4"
+    ],
+    "answer": "b",
+    "code": "3-1-4-2",
+    "explanation": "Land = 50,000 × 200/100 = ₹1,00,000; machinery = 90,000 × 200/150 = ₹1,20,000; furniture = 70,000 × 200/175 = ₹80,000; cash is monetary and stays at ₹1,10,000. Ascending: 80,000, 1,00,000, 1,10,000, 1,20,000."
+  },
+  {
+    "id": "u02-043",
+    "unit": 2,
+    "topic": "u02-t08",
+    "type": "mcq",
+    "stem": "Ind AS 115 deals with:",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Leases",
+      "Financial instruments",
+      "Revenue from contracts with customers",
+      "Property, plant and equipment"
+    ],
+    "answer": "c",
+    "explanation": "Ind AS 115 covers revenue from contracts with customers. Leases fall under Ind AS 116, financial instruments under Ind AS 109, and PPE under Ind AS 16."
+  },
+  {
+    "id": "u02-044",
+    "unit": 2,
+    "topic": "u02-t08",
+    "type": "mcq",
+    "stem": "International Financial Reporting Standards (IFRS) are issued by the:",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Financial Accounting Standards Board (FASB)",
+      "International Federation of Accountants (IFAC)",
+      "International Organization of Securities Commissions (IOSCO)",
+      "International Accounting Standards Board (IASB)"
+    ],
+    "answer": "d",
+    "explanation": "The IASB, under the IFRS Foundation, issues IFRS. The FASB sets US GAAP, and IFAC issues auditing and ethics standards through its boards."
+  },
+  {
+    "id": "u02-045",
+    "unit": 2,
+    "topic": "u02-t08",
+    "type": "ar",
+    "stem": "Assertion (A): Ind AS are word-for-word identical to IFRS, with no carve-outs.",
+    "reason": "Reason (R): Ind AS are standards converged with IFRS.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "d",
+    "explanation": "A is false: Ind AS are converged with IFRS but include some carve-outs and carve-ins to suit Indian conditions. R is true."
+  },
+  {
+    "id": "u02-046",
+    "unit": 2,
+    "topic": "u02-t08",
+    "type": "statements",
+    "stem": "Consider the following statements about Indian Accounting Standards:",
+    "items": [
+      "Ind AS 116 requires a lessee to recognise a right-of-use asset for most leases.",
+      "Ind AS 2 allows the LIFO method for valuing inventories.",
+      "Ind AS 16 allows the revaluation model for property, plant and equipment.",
+      "Ind AS 36 deals with impairment of assets."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 3 and 4 only",
+      "1, 2 and 3 only",
+      "2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "a",
+    "explanation": "Statements 1, 3 and 4 are correct. Ind AS 2, like IAS 2, does not allow LIFO; FIFO or weighted average cost must be used."
+  },
+  {
+    "id": "u02-047",
+    "unit": 2,
+    "topic": "u02-t08",
+    "type": "matching",
+    "stem": "Match List I (Ind AS) with List II (subject):",
+    "listI": [
+      "Ind AS 7",
+      "Ind AS 12",
+      "Ind AS 38",
+      "Ind AS 110"
+    ],
+    "listII": [
+      "Income taxes",
+      "Statement of cash flows",
+      "Consolidated financial statements",
+      "Intangible assets"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-1, B-2, C-4, D-3",
+      "A-2, B-1, C-3, D-4",
+      "A-2, B-1, C-4, D-3",
+      "A-4, B-1, C-2, D-3"
+    ],
+    "answer": "c",
+    "code": "A-2, B-1, C-4, D-3",
+    "explanation": "Ind AS 7 covers cash flows, Ind AS 12 income taxes, Ind AS 38 intangible assets, and Ind AS 110 consolidated financial statements."
+  },
+  {
+    "id": "u02-048",
+    "unit": 2,
+    "topic": "u02-t08",
+    "type": "sequencing",
+    "stem": "Arrange the following steps of the revenue recognition model under Ind AS 115 in the correct order:",
+    "items": [
+      "Identify the performance obligations",
+      "Allocate the transaction price to the performance obligations",
+      "Identify the contract with the customer",
+      "Determine the transaction price"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "1-3-4-2",
+      "3-4-1-2",
+      "3-1-2-4",
+      "3-1-4-2"
+    ],
+    "answer": "d",
+    "code": "3-1-4-2",
+    "explanation": "The five-step model is: identify the contract, identify the performance obligations, determine the transaction price, allocate it, and recognise revenue as each obligation is satisfied."
+  },
+  {
+    "id": "u02-049",
+    "unit": 2,
+    "topic": "u02-t09",
+    "type": "mcq",
+    "stem": "Vouching in auditing means:",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Examining documentary evidence that supports recorded transactions",
+      "Physically verifying the existence of assets",
+      "Checking the valuation of assets at the balance sheet date",
+      "Checking the arithmetic accuracy of totals"
+    ],
+    "answer": "a",
+    "explanation": "Vouching tests the authenticity of entries by checking them against vouchers such as invoices and receipts. Checking existence and valuation of assets is verification and valuation."
+  },
+  {
+    "id": "u02-050",
+    "unit": 2,
+    "topic": "u02-t09",
+    "type": "mcq",
+    "stem": "Under SA 705, an auditor issues an adverse opinion when misstatements in the financial statements are:",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Material but not pervasive",
+      "Material and pervasive",
+      "Possibly material and pervasive but sufficient evidence cannot be obtained",
+      "Not material, individually or in total"
+    ],
+    "answer": "b",
+    "explanation": "Material and pervasive misstatement leads to an adverse opinion. Material but not pervasive leads to a qualified opinion, and inability to get sufficient evidence with possibly pervasive effects leads to a disclaimer."
+  },
+  {
+    "id": "u02-051",
+    "unit": 2,
+    "topic": "u02-t09",
+    "type": "ar",
+    "stem": "Assertion (A): Verification involves confirming the existence, ownership and valuation of assets.",
+    "reason": "Reason (R): Verification is concerned only with checking the arithmetic accuracy of the books of account.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "c",
+    "explanation": "A is true. R is false: verification is about the existence, title and value of assets and liabilities, not about arithmetic accuracy."
+  },
+  {
+    "id": "u02-052",
+    "unit": 2,
+    "topic": "u02-t09",
+    "type": "statements",
+    "stem": "Consider the following statements under the Companies Act, 2013:",
+    "items": [
+      "The statutory auditor of a non-government company is appointed by the shareholders at the annual general meeting.",
+      "The auditor of a government company is appointed by the Comptroller and Auditor General of India.",
+      "The internal auditor of a company may also be appointed as its statutory auditor.",
+      "SA 700 deals with forming an opinion and reporting on financial statements."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 3 only",
+      "3 and 4 only",
+      "1, 2, 3 and 4",
+      "1, 2 and 4 only"
+    ],
+    "answer": "d",
+    "explanation": "Statements 1, 2 and 4 are correct. An employee of the company is disqualified under Section 141, and Section 144 bars the statutory auditor from providing internal audit services, so the two roles cannot be combined."
+  },
+  {
+    "id": "u02-053",
+    "unit": 2,
+    "topic": "u02-t09",
+    "type": "matching",
+    "stem": "Match List I (Standard on Auditing) with List II (subject):",
+    "listI": [
+      "SA 200",
+      "SA 230",
+      "SA 500",
+      "SA 700"
+    ],
+    "listII": [
+      "Audit evidence",
+      "Forming an opinion and reporting on financial statements",
+      "Audit documentation",
+      "Overall objectives of the independent auditor"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-4, B-3, C-1, D-2",
+      "A-3, B-4, C-1, D-2",
+      "A-4, B-3, C-2, D-1",
+      "A-4, B-1, C-3, D-2"
+    ],
+    "answer": "a",
+    "code": "A-4, B-3, C-1, D-2",
+    "explanation": "SA 200 sets the overall objectives of the independent auditor, SA 230 covers audit documentation, SA 500 audit evidence, and SA 700 forming an opinion and reporting."
+  },
+  {
+    "id": "u02-054",
+    "unit": 2,
+    "topic": "u02-t09",
+    "type": "sequencing",
+    "stem": "Arrange the following stages of an audit in the correct order:",
+    "items": [
+      "Issuing the audit report",
+      "Planning the audit",
+      "Agreeing the terms of engagement",
+      "Collecting audit evidence"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "2-3-4-1",
+      "3-2-4-1",
+      "3-4-2-1",
+      "3-2-1-4"
+    ],
+    "answer": "b",
+    "code": "3-2-4-1",
+    "explanation": "The auditor first agrees the terms of engagement, then plans the audit, then gathers evidence, and finally issues the report."
+  },
+  {
+    "id": "u02-055",
+    "unit": 2,
+    "topic": "u02-t10",
+    "type": "mcq",
+    "stem": "Under Section 148 of the Companies Act, 2013, the cost audit of a company must be conducted by a:",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Chartered accountant in practice",
+      "Company secretary in practice",
+      "Cost accountant in practice",
+      "Statutory auditor of the company"
+    ],
+    "answer": "c",
+    "explanation": "Section 148(3) requires the cost audit to be done by a cost accountant in practice, and the company's statutory auditor cannot be appointed as its cost auditor."
+  },
+  {
+    "id": "u02-056",
+    "unit": 2,
+    "topic": "u02-t10",
+    "type": "mcq",
+    "stem": "The main purpose of a forensic audit is to:",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Give an opinion on whether the financial statements are true and fair",
+      "Assess how efficiently the cost of production is controlled",
+      "Check that the company has complied with tax laws",
+      "Detect fraud and gather evidence that can be used in legal proceedings"
+    ],
+    "answer": "d",
+    "explanation": "A forensic audit investigates suspected fraud or misconduct and gathers evidence for courts. A true and fair opinion is the goal of a statutory audit."
+  },
+  {
+    "id": "u02-057",
+    "unit": 2,
+    "topic": "u02-t10",
+    "type": "ar",
+    "stem": "Assertion (A): Under the Companies Act, 2013, the Central Government may order a cost audit for specified classes of companies.",
+    "reason": "Reason (R): A person appointed as the statutory auditor of a company under Section 139 cannot be appointed as its cost auditor.",
+    "prompt": "Choose the correct option:",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "b",
+    "explanation": "Both are true under Section 148. But the bar on the statutory auditor being the cost auditor does not explain why the government orders cost audits for certain companies."
+  },
+  {
+    "id": "u02-058",
+    "unit": 2,
+    "topic": "u02-t10",
+    "type": "statements",
+    "stem": "Consider the following statements about recent trends in auditing:",
+    "items": [
+      "Continuous auditing uses technology to give assurance close to real time.",
+      "Computer-assisted audit techniques (CAATs) help auditors analyse large volumes of data.",
+      "Blockchain can make audit trails harder to alter.",
+      "Environmental audit is mandatory for all companies under the Companies Act, 2013."
+    ],
+    "prompt": "Which of the above statements are correct?",
+    "options": [
+      "1, 2 and 4 only",
+      "1, 2 and 3 only",
+      "3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "b",
+    "explanation": "Statements 1 to 3 are correct. The Companies Act, 2013 does not require an environmental audit for all companies."
+  },
+  {
+    "id": "u02-059",
+    "unit": 2,
+    "topic": "u02-t10",
+    "type": "matching",
+    "stem": "Match List I (type of audit) with List II (focus):",
+    "listI": [
+      "Efficiency audit",
+      "Propriety audit",
+      "Management audit",
+      "Social audit"
+    ],
+    "listII": [
+      "Whether expenditure is justified and in the public interest",
+      "Contribution of the firm to social objectives",
+      "Best use of resources to achieve results",
+      "Appraisal of the performance of management"
+    ],
+    "prompt": "Choose the correct code:",
+    "options": [
+      "A-1, B-3, C-4, D-2",
+      "A-3, B-1, C-2, D-4",
+      "A-3, B-1, C-4, D-2",
+      "A-4, B-1, C-3, D-2"
+    ],
+    "answer": "c",
+    "code": "A-3, B-1, C-4, D-2",
+    "explanation": "An efficiency audit checks whether resources are used well, a propriety audit checks whether spending is justified, a management audit appraises management performance, and a social audit reviews social contribution."
+  },
+  {
+    "id": "u02-060",
+    "unit": 2,
+    "topic": "u02-t10",
+    "type": "sequencing",
+    "stem": "Arrange the following steps of a statutory cost audit under the Companies Act, 2013 in the correct order:",
+    "items": [
+      "Cost auditor submits the cost audit report to the Board",
+      "Company files the cost audit report with the Central Government",
+      "Board appoints the cost auditor on the recommendation of the audit committee",
+      "Cost auditor audits the cost records"
+    ],
+    "prompt": "Choose the correct sequence:",
+    "options": [
+      "3-4-1-2",
+      "4-3-1-2",
+      "3-1-4-2",
+      "3-4-2-1"
+    ],
+    "answer": "a",
+    "code": "3-4-1-2",
+    "explanation": "The Board first appoints the cost auditor, the auditor audits the cost records and sends the report to the Board, and the company then files the report with the Central Government."
+  }
+]
