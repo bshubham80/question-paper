@@ -8,6 +8,8 @@ const question = Source_Serif_4({ variable: "--font-question", subsets: ["latin"
 export const metadata: Metadata = {
   title: "JRF Commerce Practice",
   description: "UGC NET / JRF Commerce (code 08) practice exams with history",
+  // iOS ignores most of manifest.ts; these make "Add to Home Screen" open full-screen with this title.
+  appleWebApp: { capable: true, title: "JRF Practice", statusBarStyle: "default" },
 };
 
 // viewport-fit=cover lets fixed bottom bars use env(safe-area-inset-bottom) above the iPhone home bar.
