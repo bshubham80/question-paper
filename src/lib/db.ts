@@ -1,8 +1,9 @@
 import "server-only";
 import { createClient, type Client } from "@libsql/client";
+import { resolveDbConfig } from "./db-config";
 
 // Local dev: a SQLite file next to package.json. Vercel: Turso (hosted SQLite), because
-// Vercel's filesystem is read-only and ephemeral.
+// Vercel's filesystem is read-only and ephemeral. Which database: see db-config.ts.
 const SCHEMA = `
 CREATE TABLE IF NOT EXISTS attempts (
   id             TEXT PRIMARY KEY,
@@ -39,9 +40,7 @@ let ready: Promise<void> | null = null;
 
 export async function db(): Promise<Client> {
   if (!client) {
-    const url = process.env.TURSO_DATABASE_URL ?? (process.env.VERCEL ? undefined : "file:local.db");
-    if (!url) throw new Error("TURSO_DATABASE_URL is not set. Add it (and TURSO_AUTH_TOKEN) in Vercel → Settings → Environment Variables.");
-    client = createClient({ url, authToken: process.env.TURSO_AUTH_TOKEN });
+    client = createClient(resolveDbConfig(process.env));
     ready = client.executeMultiple(SCHEMA).catch((e) => {
       client = null; // retry on the next request
       throw e;

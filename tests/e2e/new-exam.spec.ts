@@ -219,10 +219,12 @@ test.describe("number of questions", () => {
   });
 
   test("asking for more than the bank has shows a warning and caps the exam", async ({ page }) => {
+    // Smallest unit, and ask for more than it holds — works whatever size the bank grows to.
+    const unit = SYLLABUS.map((u) => u.unit).sort((x, y) => unitCount(x) - unitCount(y))[0];
+    const n = unitCount(unit);
     await page.getByRole("button", { name: "Clear" }).click();
-    await unitBox(page, 1).check();
-    await page.getByRole("button", { name: "100", exact: true }).click();
-    const n = unitCount(1);
+    await unitBox(page, unit).check();
+    await page.getByLabel("Custom number of questions").fill(String(n + 10));
     await expect(page.getByText(`Only ${n} questions match this selection — the exam will have ${n}.`)).toBeVisible();
     await expect(startButton(page)).toHaveText(`Start exam · ${n} questions`);
   });
@@ -246,6 +248,7 @@ test.describe("timer", () => {
   test("real-exam pace follows the capped question count", async ({ page }) => {
     await page.goto("/new?unit=7&topic=u07-t10");
     const n = topicCount("u07-t10");
+    await page.getByLabel("Custom number of questions").fill(String(n + 5)); // more than the topic holds
     await expect(page.getByRole("button", { name: `Real exam pace (${Math.round((n * 72) / 60)} min)` })).toBeVisible();
   });
 });
@@ -303,6 +306,7 @@ test.describe("starting an exam", () => {
   test("single topic: capped to the topic's size, titled with the topic name", async ({ page }) => {
     await page.goto("/new?unit=7&topic=u07-t10");
     const n = topicCount("u07-t10");
+    await page.getByLabel("Custom number of questions").fill(String(n + 5)); // more than the topic holds
     await startButton(page).click();
     await expect(atQuestion(page, 1, n)).toBeVisible();
     await expect(page.getByText("Insurance: types, principles, IRDAI and ombudsman", { exact: true })).toBeVisible();
@@ -310,7 +314,8 @@ test.describe("starting an exam", () => {
 
   test("several topics: exam draws only from them and is titled '<unit> · N topics'", async ({ page }) => {
     await page.goto("/new?unit=7&topic=u07-t01&topic=u07-t07");
-    const n = topicCount("u07-t01") + topicCount("u07-t07");
+    // Default 25 questions, or fewer if the two topics hold less.
+    const n = Math.min(25, topicCount("u07-t01") + topicCount("u07-t07"));
     await startButton(page).click();
     await expect(atQuestion(page, 1, n)).toBeVisible();
     await expect(page.getByText("Banking and Financial Institutions · 2 topics", { exact: true })).toBeVisible();

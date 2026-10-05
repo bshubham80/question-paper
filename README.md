@@ -26,18 +26,26 @@ Open http://localhost:3000. History is stored in `local.db` (created automatical
 
 ## Deploy to Vercel
 
-Vercel's filesystem is read-only and temporary, so production history lives in Turso (hosted SQLite, free tier).
+Vercel's filesystem is read-only and temporary, so history lives in [Turso](https://turso.tech) (hosted SQLite).
 
-1. **Create the database** — sign up at https://turso.tech, create a database, then copy:
-   - the database URL (`libsql://<name>-<org>.turso.io`)
-   - an auth token (Database → *Generate token*)
-2. **Push this folder to GitHub** and import the repo at https://vercel.com/new (framework: Next.js, defaults are fine).
-3. In Vercel → Project → **Settings → Environment Variables**, add:
-   - `TURSO_DATABASE_URL` = the URL
-   - `TURSO_AUTH_TOKEN` = the token
-4. Deploy. Tables are created automatically on the first request.
+**Production must point at one fixed database.** The Vercel Turso integration's `TURSO_DATABASE_URL`
+is a *per-deployment branch* (`dpl-<deployment id>`) forked from the main database at deploy time —
+using it in production makes history look reset after every deploy. So production reads its own settings:
 
-To use the Turso database locally as well, put the same two variables in `.env.local`.
+| Variable (Production only) | Value |
+|---|---|
+| `APP_DB_URL` | `libsql://database-lime-basket-….turso.io` — the **main** database, never a `dpl-…` branch |
+| `APP_DB_TOKEN` | a **read-write**, non-expiring Turso token created for that main database |
+
+If either is missing, or the URL is a `dpl-…` branch, production refuses to start rather than show an empty history
+(see `src/lib/db-config.ts`). Preview deployments keep using their throwaway branch, so test data never
+reaches real history. Tables are created automatically on the first request.
+
+Deploy from this folder:
+
+```bash
+npx vercel deploy --prod
+```
 
 ## Tests
 
