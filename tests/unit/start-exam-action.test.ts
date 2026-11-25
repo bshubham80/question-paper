@@ -22,7 +22,7 @@ vi.mock("next/navigation", () => ({
 
 const { startExamAction } = await import("@/app/actions");
 
-const valid: ExamConfig = { mode: "subject", units: [1, 7], topics: [], setup: "balanced", count: 25, timeLimitSec: 1800 };
+const valid: ExamConfig = { mode: "subject", units: [1, 7], topics: [], kind: "both", setup: "balanced", count: 25, timeLimitSec: 1800 };
 
 async function run(overrides: Partial<ExamConfig>) {
   try {
@@ -42,6 +42,8 @@ describe("startExamAction — rejects bad input", () => {
     ["single-topic exam with two units", { mode: "topic" as const, units: [1, 2] }, "Pick exactly one unit for a topic exam."],
     ["topic from a different unit", { mode: "topic" as const, units: [7], topics: ["u01-t01"] }, "Unknown topic."],
     ["made-up topic id", { mode: "topic" as const, units: [7], topics: ["u07-t99"] }, "Unknown topic."],
+    ["unknown question type", { kind: "easy" as ExamConfig["kind"] }, "Choose a question type."],
+    ["question type from the prototype chain", { kind: "toString" as ExamConfig["kind"] }, "Choose a question type."],
     ["unknown paper setup", { setup: "easy" as ExamConfig["setup"] }, "Choose a paper setup."],
     ["zero questions", { count: 0 }, "Number of questions must be between 1 and 200."],
     ["negative questions", { count: -5 }, "Number of questions must be between 1 and 200."],
@@ -60,6 +62,26 @@ describe("startExamAction — valid input", () => {
     const { redirect } = await run({});
     expect(createAttempt).toHaveBeenCalledWith(valid);
     expect(redirect).toBe("/exam/attempt-1");
+  });
+
+  it("passes the question type through", async () => {
+    await run({ kind: "numerical" });
+    expect(createAttempt.mock.calls[0][0].kind).toBe("numerical");
+  });
+
+  it("numerical exams ignore the chosen paper setup", async () => {
+    await run({ kind: "numerical", setup: "assertion" });
+    expect(createAttempt.mock.calls[0][0].setup).toBe("balanced");
+  });
+
+  it("non-numerical exams keep the chosen paper setup", async () => {
+    await run({ kind: "non-numerical", setup: "assertion" });
+    expect(createAttempt.mock.calls[0][0].setup).toBe("assertion");
+  });
+
+  it("treats a missing question type as both", async () => {
+    await run({ kind: undefined });
+    expect(createAttempt.mock.calls[0][0].kind).toBe("both");
   });
 
   it("drops duplicate and unknown unit numbers", async () => {

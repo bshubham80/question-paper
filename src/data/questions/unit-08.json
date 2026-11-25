@@ -613,6 +613,7 @@
     "unit": 8,
     "topic": "u08-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "A product costs ₹80 per unit. If the seller wants a markup of 20% on the selling price, the selling price should be:",
     "options": [
       "₹100",
@@ -3018,6 +3019,7 @@
     "unit": 8,
     "topic": "u08-t09",
     "type": "mcq",
+    "numerical": true,
     "stem": "An online advertisement is displayed 2,00,000 times and receives 4,000 clicks. Its click-through rate (CTR) is:",
     "options": [
       "20%",
@@ -3033,6 +3035,7 @@
     "unit": 8,
     "topic": "u08-t09",
     "type": "mcq",
+    "numerical": true,
     "stem": "In a Net Promoter Score survey, 60% of respondents are promoters, 25% are passives and 15% are detractors. The Net Promoter Score is:",
     "options": [
       "60",
@@ -3048,6 +3051,7 @@
     "unit": 8,
     "topic": "u08-t09",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm spends Rs 3,000 to acquire a customer who is expected to yield an annual contribution of Rs 2,000 for 5 years. Ignoring discounting, the net value of the customer over the relationship is:",
     "options": [
       "Rs 7,000",
@@ -3512,6 +3516,7 @@
     "unit": 8,
     "topic": "u08-t03",
     "type": "mcq",
+    "numerical": true,
     "stem": "A company makes soaps (4 items), shampoos (3 items) and toothpastes (5 items). The width and the length of its product mix are respectively:",
     "options": [
       "3 and 12",
@@ -3527,6 +3532,7 @@
     "unit": 8,
     "topic": "u08-t03",
     "type": "mcq",
+    "numerical": true,
     "stem": "A brand of toothpaste is sold in 3 pack sizes, each available in 2 formulations (gel and paste). The number of versions of this product offered in its line, i.e. its depth, is:",
     "options": [
       "2",
@@ -3587,6 +3593,7 @@
     "unit": 8,
     "topic": "u08-t03",
     "type": "mcq",
+    "numerical": true,
     "stem": "Using Rogers' adopter distribution (innovators 2.5%, early adopters 13.5%, early majority 34%, late majority 34%, laggards 16%), the number of early adopters expected among 2,000 potential adopters is:",
     "options": [
       "270",
@@ -4053,6 +4060,7 @@
     "unit": 8,
     "topic": "u08-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm's variable cost is ₹30 per unit and its fixed cost is ₹2,00,000. It expects to sell 10,000 units and uses cost-plus pricing with a markup of 20% on full unit cost. The price per unit is:",
     "options": [
       "₹60",
@@ -4068,6 +4076,7 @@
     "unit": 8,
     "topic": "u08-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "A retailer buys an article for ₹600 and sells it for ₹750. The markup expressed as a percentage of the selling price is:",
     "options": [
       "25%",
@@ -4083,6 +4092,7 @@
     "unit": 8,
     "topic": "u08-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm has variable cost of ₹10 per unit, fixed cost of ₹3,00,000 and invested capital of ₹10,00,000. It wants a 20% return on investment and expects to sell 50,000 units. The target-return price per unit is:",
     "options": [
       "₹16",
@@ -4098,6 +4108,7 @@
     "unit": 8,
     "topic": "u08-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "A product sells at ₹100 per unit and its variable cost is ₹40 per unit. Fixed costs are ₹6,00,000. The break-even volume is:",
     "options": [
       "6,000 units",
@@ -4113,6 +4124,7 @@
     "unit": 8,
     "topic": "u08-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "A contractor's cost for a project is ₹80,000. Its estimated probabilities of winning at different bids are: ₹85,000 — 0.8; ₹90,000 — 0.5; ₹95,000 — 0.3; ₹1,00,000 — 0.2. The bid that maximises expected profit is:",
     "options": [
       "₹90,000",
@@ -4188,6 +4200,7 @@
     "unit": 8,
     "topic": "u08-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "An invoice of ₹50,000 carries the terms '2/10, net 30'. If the buyer pays on the 8th day, the amount payable is:",
     "options": [
       "₹50,000",
@@ -4573,6 +4586,7 @@
     "unit": 8,
     "topic": "u08-t04",
     "type": "sequencing",
+    "numerical": true,
     "stem": "A product has a list price of ₹2,000. Four buyers pay as described below. Arrange the buyers in descending order of the net price paid:",
     "items": [
       "Buyer P pays the list price with no discount",
@@ -4716,6 +4730,7 @@
     "unit": 8,
     "topic": "u08-t01",
     "type": "mcq",
+    "numerical": true,
     "stem": "A business unit holds 15 per cent of its market, while its largest competitor holds 30 per cent. Market growth is high. Its relative market share and BCG classification are:",
     "options": [
       "2.0; star",
@@ -5265,6 +5280,7 @@
     "unit": 8,
     "topic": "u08-t02",
     "type": "mcq",
+    "numerical": true,
     "stem": "A market has 4,00,000 potential customers. The segment of young professionals forms 25 per cent of the market. A firm expects to win 10 per cent of this segment, and each customer buys goods worth ₹2,000 a year. Expected annual sales revenue from the segment is:",
     "options": [
       "₹2 crore",
@@ -5758,6 +5774,7 @@
     "unit": 8,
     "topic": "u08-t05",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm sets its advertising budget at 5% of next year's forecast sales. This year's sales are ₹2,00,00,000 and sales are forecast to rise by 10%. The advertising budget will be:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -5806,6 +5823,7 @@
     "unit": 8,
     "topic": "u08-t05",
     "type": "mcq",
+    "numerical": true,
     "stem": "A magazine charges ₹60,000 for a full-page advertisement and has a circulation of 2,00,000 copies. The cost per thousand (CPM) for this advertisement is:",
     "prompt": "Choose the correct option:",
     "options": [

@@ -305,6 +305,7 @@
     "unit": 10,
     "topic": "u10-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "Under the Income-tax Act, 1961, a let-out house has a gross annual value of ₹3,00,000. The owner paid municipal taxes of ₹20,000 and interest of ₹50,000 on a loan taken to construct it. Standard deduction is 30% of the net annual value. The income from house property is:",
     "options": [
       "₹1,40,000",
@@ -503,6 +504,7 @@
     "unit": 10,
     "topic": "u10-t08",
     "type": "mcq",
+    "numerical": true,
     "stem": "Under the Income-tax Act, 1961, a partnership firm has total income of ₹10,00,000, taxed at a flat 30%, with health and education cess at 4% of the tax. Assuming no surcharge, the firm's tax liability is:",
     "options": [
       "₹3,00,000",
@@ -666,6 +668,7 @@
     "unit": 10,
     "topic": "u10-t06",
     "type": "mcq",
+    "numerical": true,
     "stem": "An individual sells a capital asset for ₹10,00,000 and pays brokerage of ₹20,000 on the sale. The cost of acquisition was ₹6,00,000 and the cost of improvement ₹1,00,000. Assuming no indexation and no exemption, the capital gain is:",
     "options": [
       "₹3,00,000",
@@ -713,6 +716,7 @@
     "unit": 10,
     "topic": "u10-t03",
     "type": "mcq",
+    "numerical": true,
     "stem": "Under the Income-tax Act, 1961, salary is taxable on due or receipt basis, whichever is earlier. Mr X's salary of ₹50,000 for March 2025 fell due on 31 March 2025 but was paid on 5 April 2025. In March 2025 he also received ₹50,000 as advance salary for April 2025. How much of these two items is taxable in previous year 2024-25?",
     "options": [
       "₹50,000",
@@ -1275,6 +1279,7 @@
     "unit": 10,
     "topic": "u10-t06",
     "type": "mcq",
+    "numerical": true,
     "stem": "Meena received a plot as a gift from her father, who had bought it for Rs 8,00,000. She spent Rs 1,00,000 on improving it and later sold it for Rs 20,00,000, incurring Rs 50,000 as transfer expenses. Ignoring indexation and exemptions, her capital gain is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -1291,6 +1296,7 @@
     "unit": 10,
     "topic": "u10-t06",
     "type": "mcq",
+    "numerical": true,
     "stem": "A company sells its entire manufacturing undertaking as a going concern for a lump sum of Rs 90 lakh without assigning values to individual assets. Depreciable assets stand at a written down value of Rs 40 lakh, other assets at a book value of Rs 35 lakh, and the liabilities of the undertaking are Rs 15 lakh. The capital gain on this slump sale is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -1809,6 +1815,7 @@
     "unit": 10,
     "topic": "u10-t05",
     "type": "mcq",
+    "numerical": true,
     "stem": "A block of plant and machinery has an opening written down value of ₹10,00,000. During the year a machine costing ₹2,00,000 was bought and another machine of the block was sold for ₹1,00,000. Assuming the depreciation rate of 15% (given as data) applies in full to the addition, depreciation for the year is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -1825,6 +1832,7 @@
     "unit": 10,
     "topic": "u10-t05",
     "type": "mcq",
+    "numerical": true,
     "stem": "A sole proprietor's profit and loss account shows a net profit of ₹5,00,000 after debiting household expenses of the proprietor ₹40,000, depreciation as per books ₹60,000 and income-tax ₹30,000. It also credits interest of ₹20,000 on his personal savings account. Depreciation allowable under tax law is ₹90,000. His income from business is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -1921,6 +1929,7 @@
     "unit": 10,
     "topic": "u10-t05",
     "type": "mcq",
+    "numerical": true,
     "stem": "Under a presumptive taxation scheme, a small business with a turnover of ₹40,00,000 declares income at 8% of turnover (the percentage is given as data). The income computed under the scheme is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -2229,6 +2238,7 @@
     "unit": 10,
     "topic": "u10-t05",
     "type": "matching",
+    "numerical": true,
     "stem": "Match List I (block with opening written down value, no additions or sales; depreciation rate given as data) with List II (depreciation for the year):",
     "listI": [
       "₹2,00,000 at 10%",
@@ -2459,6 +2469,7 @@
     "unit": 10,
     "topic": "u10-t07",
     "type": "mcq",
+    "numerical": true,
     "stem": "A husband gifts ₹5,00,000 to his wife, who deposits it in a fixed deposit at 8% interest per annum (rate given as data). In Year 1 she earns ₹40,000 and reinvests it at 8%. In Year 2 she earns ₹40,000 on the original deposit and ₹3,200 on the reinvested interest. The amount clubbed in the husband's income for Year 2 is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -2507,6 +2518,7 @@
     "unit": 10,
     "topic": "u10-t07",
     "type": "mcq",
+    "numerical": true,
     "stem": "Under the Income-tax Act, 1961, an individual has a loss of ₹3,00,000 from a non-speculative business, income of ₹1,00,000 from house property and salary of ₹4,00,000 in the same year. His gross total income and the business loss carried forward are respectively:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -2981,6 +2993,7 @@
     "unit": 10,
     "topic": "u10-t03",
     "type": "mcq",
+    "numerical": true,
     "stem": "Rahul's salary for house rent allowance purposes (basic salary plus eligible dearness allowance) is ₹3,60,000 for the year. He receives HRA of ₹1,80,000 and pays rent of ₹2,00,000. Under the Income-tax Act, 1961, HRA is exempt to the extent of the least of (i) HRA actually received, (ii) rent paid in excess of 10% of salary, and (iii) 50% of salary (the percentage for his city, given as data). The taxable HRA is:",
     "options": [
       "₹16,000",
@@ -2996,6 +3009,7 @@
     "unit": 10,
     "topic": "u10-t03",
     "type": "mcq",
+    "numerical": true,
     "stem": "Ms Rekha, covered by the Payment of Gratuity Act, 1972, retires after 20 completed years of service. Her last drawn monthly salary (basic plus dearness allowance) is ₹26,000 and she receives gratuity of ₹4,00,000. Take 15 days' salary as 15/26 of the monthly salary and the prescribed monetary ceiling as ₹20,00,000. The gratuity taxable under the Income-tax Act, 1961 is:",
     "options": [
       "₹4,00,000",
@@ -3011,6 +3025,7 @@
     "unit": 10,
     "topic": "u10-t03",
     "type": "mcq",
+    "numerical": true,
     "stem": "Mr S, a non-government employee, retires and receives ₹4,50,000 as encashment of accumulated leave. His average monthly salary for the 10 months before retirement is ₹30,000; the cash equivalent of his leave entitlement (at most 30 days per year of service) is ₹3,60,000; the prescribed ceiling is taken as ₹25,00,000. Under the Income-tax Act, 1961, the taxable leave encashment is:",
     "options": [
       "₹90,000",
@@ -3026,6 +3041,7 @@
     "unit": 10,
     "topic": "u10-t03",
     "type": "mcq",
+    "numerical": true,
     "stem": "Mr P, a non-government employee who also receives gratuity, commutes 40% of his pension and receives ₹2,40,000 as the commuted value. Under the Income-tax Act, 1961, the taxable portion of the commuted pension is:",
     "options": [
       "Nil",
@@ -3071,6 +3087,7 @@
     "unit": 10,
     "topic": "u10-t03",
     "type": "mcq",
+    "numerical": true,
     "stem": "Under the Income-tax Act, 1961, an employer pays ₹30,000 as income tax on the employee's monetary salary of ₹6,00,000, and also pays ₹12,000 as tax on a non-monetary perquisite valued at ₹50,000. Ignoring deductions, the gross salary of the employee is:",
     "options": [
       "₹6,30,000",
@@ -3528,6 +3545,7 @@
     "unit": 10,
     "topic": "u10-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "A house let out for the whole year has municipal value ₹1,20,000, fair rent ₹1,40,000 and standard rent (under the rent control law) ₹1,30,000. The actual rent receivable is ₹1,10,000. Its gross annual value under the Income-tax Act, 1961 is:",
     "options": [
       "₹1,40,000",
@@ -3543,6 +3561,7 @@
     "unit": 10,
     "topic": "u10-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "Under the Income-tax Act, 1961, a house is let at ₹20,000 per month and stays vacant for 2 months of the year. Its expected rent for the year (higher of municipal value and fair rent, no rent control) is ₹2,40,000. The rent received for the year is therefore ₹2,00,000. The gross annual value is:",
     "options": [
       "₹2,40,000",
@@ -3573,6 +3592,7 @@
     "unit": 10,
     "topic": "u10-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "A let-out house was constructed with a loan. Interest of ₹1,50,000 accrued during the pre-construction period (up to the end of the year before the year of completion). In the year of completion the interest on the loan for that year is ₹60,000. Under the Income-tax Act, 1961, the interest deductible in the year of completion is (no ceiling applies):",
     "options": [
       "₹2,10,000",
@@ -3588,6 +3608,7 @@
     "unit": 10,
     "topic": "u10-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "Mr A receives ₹1,20,000 as arrears of rent from a tenant in the current year. This rent was not taxed in any earlier year. Under the Income-tax Act, 1961, the amount chargeable to tax as income from house property is:",
     "options": [
       "₹1,20,000",
@@ -3603,6 +3624,7 @@
     "unit": 10,
     "topic": "u10-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "A house is let at ₹20,000 per month for 12 months. ₹40,000 of the rent is unrealised and satisfies all conditions for being excluded. Its expected rent is ₹1,50,000, interest on the borrowed capital is ₹30,000, the owner pays no municipal taxes and the standard deduction is 30% of net annual value. Under the Income-tax Act, 1961, the income from house property is:",
     "options": [
       "₹1,38,000",
@@ -3633,6 +3655,7 @@
     "unit": 10,
     "topic": "u10-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "A let-out house is owned by two individuals in definite shares of 50% each. Its gross annual value is ₹4,00,000, and municipal taxes of ₹40,000 were paid by the co-owners together during the year. There is no loan, and the standard deduction is 30% of net annual value. The income from the property chargeable to each co-owner is:",
     "options": [
       "₹2,52,000",
@@ -3875,6 +3898,7 @@
     "unit": 10,
     "topic": "u10-t04",
     "type": "statements",
+    "numerical": true,
     "stem": "A let-out house has a gross annual value of ₹5,00,000. The owner paid municipal taxes of ₹50,000. Interest on borrowed capital accrued for the year is ₹1,00,000, of which only ₹60,000 has been paid. The standard deduction is 30% of net annual value. Consider the following statements:",
     "items": [
       "The net annual value is ₹4,50,000.",
@@ -4738,6 +4762,7 @@
     "unit": 10,
     "topic": "u10-t02",
     "type": "mcq",
+    "numerical": true,
     "stem": "Assume that where a person grows tea and manufactures it for sale, 40% of the composite income is treated as business income (data given for this question). A grower earns a composite income of ₹10,00,000 from such tea, after allowing all expenses, and also earns ₹2,00,000 from a transport business. His income chargeable under the head 'Profits and gains of business or profession' is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -4754,6 +4779,7 @@
     "unit": 10,
     "topic": "u10-t02",
     "type": "mcq",
+    "numerical": true,
     "stem": "Assume that where a cultivator grows rubber and manufactures latex-based products from it, 35% of the composite income is treated as business income (data given for this question). He sells such products for ₹20,00,000. The cost of growing the rubber is ₹6,00,000 and the cost of manufacture is ₹4,00,000, both fully allowable. His exempt agricultural income is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -4770,6 +4796,7 @@
     "unit": 10,
     "topic": "u10-t02",
     "type": "mcq",
+    "numerical": true,
     "stem": "For an individual, assume the basic exemption limit is ₹3,00,000 and the slabs are: up to ₹3,00,000 nil; ₹3,00,001 to ₹6,00,000 at 5%; ₹6,00,001 to ₹9,00,000 at 10%; above ₹9,00,000 at 20%. Ignore rebate, surcharge and cess, and assume partial integration applies. If his non-agricultural income is ₹7,00,000 and agricultural income is ₹2,00,000, the income tax payable is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -4786,6 +4813,7 @@
     "unit": 10,
     "topic": "u10-t02",
     "type": "mcq",
+    "numerical": true,
     "stem": "Assume partial integration applies to an individual only if net agricultural income exceeds ₹5,000 and non-agricultural income exceeds the basic exemption limit of ₹3,00,000. Slabs: up to ₹3,00,000 nil; ₹3,00,001 to ₹6,00,000 at 5%; ₹6,00,001 to ₹9,00,000 at 10%. Ignore rebate, surcharge and cess. An individual has non-agricultural income of ₹6,00,000 and agricultural income of ₹4,000. His income tax is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -4802,6 +4830,7 @@
     "unit": 10,
     "topic": "u10-t02",
     "type": "mcq",
+    "numerical": true,
     "stem": "A farmer's receipts for the year are: sale of crops grown on his own land in India ₹5,00,000; rent from letting a shed in a town as a shop ₹60,000; interest on a bank deposit ₹20,000; rent from agricultural land in India let to a neighbour for cultivation ₹1,00,000. His agricultural income is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -4818,6 +4847,7 @@
     "unit": 10,
     "topic": "u10-t02",
     "type": "mcq",
+    "numerical": true,
     "stem": "In a year an individual's incomes are: business income ₹4,00,000; interest on a bank deposit ₹40,000; share of profit from a firm assessed as a firm ₹1,50,000; agricultural income from land in India ₹2,00,000; and a scholarship of ₹60,000 granted to meet the cost of his education. His gross total income, ignoring any effect on the rate of tax, is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -5308,6 +5338,7 @@
     "unit": 10,
     "topic": "u10-t10",
     "type": "mcq",
+    "numerical": true,
     "stem": "A company pays professional fees of ₹80,000 to a consultant. Assume, as data, that tax is to be deducted at source at 10% on this payment. The tax to be deducted and the net amount paid to the consultant are:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -5861,6 +5892,7 @@
     "unit": 10,
     "topic": "u10-t08",
     "type": "mcq",
+    "numerical": true,
     "stem": "Under the Income-tax Act, 1961, the profit and loss account of a partnership firm shows a net profit of ₹12,00,000 after debiting remuneration of ₹4,00,000 to working partners and interest of ₹60,000 on partners' capital. The deed authorises both payments, the interest is within the permitted rate, and the maximum remuneration allowable under the book-profit rules is ₹3,00,000. Ignoring all other adjustments, the total income of the firm is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -5877,6 +5909,7 @@
     "unit": 10,
     "topic": "u10-t08",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm pays interest of ₹90,000 on partners' capital for the year at 15% simple per annum, as authorised by its partnership deed. Assume the maximum rate of interest allowable under the Income-tax Act, 1961 is 12% simple per annum and the partners' capital throughout the year was ₹6,00,000. The amount of interest disallowed in computing the firm's income is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -5893,6 +5926,7 @@
     "unit": 10,
     "topic": "u10-t08",
     "type": "mcq",
+    "numerical": true,
     "stem": "Under the Income-tax Act, 1961, assume a rebate is available to a resident individual whose total income does not exceed ₹7,00,000, and equals the tax computed on the total income subject to a maximum of ₹25,000. An individual with total income of ₹6,00,000 has tax of ₹15,000 computed at slab rates. With health and education cess at 4%, the tax and cess payable is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -5909,6 +5943,7 @@
     "unit": 10,
     "topic": "u10-t08",
     "type": "mcq",
+    "numerical": true,
     "stem": "Income-tax computed on the total income of an assessee is ₹2,00,000. Surcharge applicable is 10% of income-tax and health and education cess is 4%. The total tax liability is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -5925,6 +5960,7 @@
     "unit": 10,
     "topic": "u10-t08",
     "type": "mcq",
+    "numerical": true,
     "stem": "Under the Income-tax Act, 1961, an individual's total income is ₹7,26,375. When total income is rounded off for the purpose of computing tax, it is taken as:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -6478,6 +6514,7 @@
     "unit": 10,
     "topic": "u10-t09",
     "type": "mcq",
+    "numerical": true,
     "stem": "A company borrows at 12% interest per annum and is taxed at a flat 30% on its income (ignore surcharge and cess). The after-tax cost of this debt is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -6494,6 +6531,7 @@
     "unit": 10,
     "topic": "u10-t09",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm may buy an asset for ₹3,00,000 or lease it at ₹1,20,000 per year for 3 years, paid at each year-end. The tax rate is 30%. If bought, the asset is depreciated for tax at ₹1,00,000 a year with nil salvage; the tax saving on depreciation arises at each year-end. Discount the after-tax flows at 10% (annuity factor for 3 years at 10% = 2.487). The better option is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -6510,6 +6548,7 @@
     "unit": 10,
     "topic": "u10-t09",
     "type": "mcq",
+    "numerical": true,
     "stem": "Under the Income-tax Act, 1961, a company has book profit of ₹80,00,000 and tax of ₹8,00,000 under the normal provisions. Assume MAT is levied at 15% of book profit (ignore surcharge and cess). The MAT credit arising for carry forward is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -6526,6 +6565,7 @@
     "unit": 10,
     "topic": "u10-t09",
     "type": "mcq",
+    "numerical": true,
     "stem": "A company has MAT credit of ₹5,00,000 brought forward. In the current year its tax under the normal provisions is ₹10,00,000 and its MAT liability is ₹6,00,000. Assume credit can be set off only up to the excess of normal tax over MAT. The credit carried forward after this year is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -6542,6 +6582,7 @@
     "unit": 10,
     "topic": "u10-t09",
     "type": "mcq",
+    "numerical": true,
     "stem": "A company can either make a component in-house at a pre-tax cost of ₹6,00,000 or buy it at ₹6,50,000. Both amounts are fully deductible business expenses and the tax rate is 30%. The after-tax advantage of making over buying is:",
     "prompt": "Choose the correct option:",
     "options": [

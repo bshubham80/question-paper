@@ -28,16 +28,32 @@ export function toExamQuestion(q: Question): ExamQuestion {
 
 /** Question counts per unit and sub-topic, safe to send to the browser. */
 export interface BankSummary {
-  units: { unit: number; name: string; count: number; topics: { id: string; name: string; count: number }[] }[];
+  units: {
+    unit: number;
+    name: string;
+    count: number;
+    numerical: number;
+    topics: { id: string; name: string; count: number; numerical: number }[];
+  }[];
 }
 
 export function bankSummary(): BankSummary {
   const byTopic = new Map<string, number>();
-  for (const q of ALL_QUESTIONS) byTopic.set(q.topic, (byTopic.get(q.topic) ?? 0) + 1);
+  const numericalByTopic = new Map<string, number>();
+  for (const q of ALL_QUESTIONS) {
+    byTopic.set(q.topic, (byTopic.get(q.topic) ?? 0) + 1);
+    if (q.numerical) numericalByTopic.set(q.topic, (numericalByTopic.get(q.topic) ?? 0) + 1);
+  }
   return {
     units: SYLLABUS.map((u) => {
-      const topics = u.topics.map((t) => ({ id: t.id, name: t.name, count: byTopic.get(t.id) ?? 0 }));
-      return { unit: u.unit, name: u.name, count: topics.reduce((s, t) => s + t.count, 0), topics };
+      const topics = u.topics.map((t) => ({
+        id: t.id,
+        name: t.name,
+        count: byTopic.get(t.id) ?? 0,
+        numerical: numericalByTopic.get(t.id) ?? 0,
+      }));
+      const sum = (k: "count" | "numerical") => topics.reduce((s, t) => s + t[k], 0);
+      return { unit: u.unit, name: u.name, count: sum("count"), numerical: sum("numerical"), topics };
     }),
   };
 }

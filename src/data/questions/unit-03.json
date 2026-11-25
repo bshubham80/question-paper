@@ -58,6 +58,7 @@
     "unit": 3,
     "topic": "u03-t05",
     "type": "sequencing",
+    "numerical": true,
     "stem": "A firm faces the demand curve P = 20 − 2Q. At Q = 4, arrange the following in ascending order of value:",
     "items": [
       "Total revenue",
@@ -509,6 +510,7 @@
     "unit": 3,
     "topic": "u03-t05",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm's total cost function is TC = 100 + 10Q + Q². What is the marginal cost at Q = 5?",
     "options": [
       "₹20",
@@ -553,6 +555,7 @@
     "unit": 3,
     "topic": "u03-t06",
     "type": "mcq",
+    "numerical": true,
     "stem": "A monopolist faces the demand curve P = 100 − 2Q and has a constant marginal cost of ₹20. Its profit-maximising output and price are:",
     "options": [
       "Q = 40, P = ₹20",
@@ -568,6 +571,7 @@
     "unit": 3,
     "topic": "u03-t05",
     "type": "mcq",
+    "numerical": true,
     "stem": "If average revenue is ₹20 and the price elasticity of demand is 2, marginal revenue is:",
     "options": [
       "₹15",
@@ -604,6 +608,7 @@
     "unit": 3,
     "topic": "u03-t02",
     "type": "mcq",
+    "numerical": true,
     "stem": "When the price of a good falls from ₹10 to ₹8, its quantity demanded rises from 100 to 130 units. Using the percentage method with the initial values as base, the price elasticity of demand is:",
     "options": [
       "0.67",
@@ -737,6 +742,7 @@
     "unit": 3,
     "topic": "u03-t08",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm's unit cost is ₹80 and it adds a mark-up of 25% on cost. Its selling price is:",
     "options": [
       "₹105",
@@ -995,6 +1001,7 @@
     "unit": 3,
     "topic": "u03-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "For the production function Q = A·L^0.6·K^0.5, returns to scale are:",
     "options": [
       "Increasing",
@@ -1233,6 +1240,7 @@
     "unit": 3,
     "topic": "u03-t01",
     "type": "mcq",
+    "numerical": true,
     "stem": "A proprietor earns revenue of ₹10 lakh and pays ₹6 lakh to outsiders for materials, wages and rent. He has invested ₹5 lakh of his own funds that could earn 20% interest elsewhere, and he works full-time in the firm instead of taking a ₹2 lakh job. His economic profit is:",
     "options": [
       "₹4 lakh",
@@ -1263,6 +1271,7 @@
     "unit": 3,
     "topic": "u03-t01",
     "type": "mcq",
+    "numerical": true,
     "stem": "Using the discounting principle, the present value of ₹1,21,000 receivable after two years at a discount rate of 10 per cent per annum is:",
     "options": [
       "₹1,00,000",
@@ -1817,6 +1826,7 @@
     "unit": 3,
     "topic": "u03-t02",
     "type": "mcq",
+    "numerical": true,
     "stem": "When the price of a good rises from ₹50 to ₹60, its quantity demanded falls from 200 to 150 units. Using the arc (mid-point) formula, the price elasticity of demand (absolute value) is approximately:",
     "options": [
       "1.25",
@@ -1832,6 +1842,7 @@
     "unit": 3,
     "topic": "u03-t02",
     "type": "mcq",
+    "numerical": true,
     "stem": "For the linear demand function Q = 100 − 4P, the point price elasticity of demand (absolute value) at P = ₹10 is approximately:",
     "options": [
       "0.40",
@@ -1862,6 +1873,7 @@
     "unit": 3,
     "topic": "u03-t02",
     "type": "mcq",
+    "numerical": true,
     "stem": "A consumer's income rises from ₹10,000 to ₹12,000 and her purchases of a good fall from 50 to 45 units. Her income elasticity of demand and the nature of the good are:",
     "options": [
       "+0.5; a necessity",
@@ -2253,6 +2265,7 @@
     "unit": 3,
     "topic": "u03-t03",
     "type": "mcq",
+    "numerical": true,
     "stem": "A consumer's total utility from consuming 1, 2, 3, 4 and 5 units of a good is 12, 22, 30, 36 and 40 utils respectively. The marginal utility of the fourth unit is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -2269,6 +2282,7 @@
     "unit": 3,
     "topic": "u03-t03",
     "type": "mcq",
+    "numerical": true,
     "stem": "A consumer is willing to pay a maximum of ₹50, ₹40 and ₹30 for the first, second and third unit of a good respectively. If the market price is ₹30 and she buys three units, her consumer's surplus is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -2285,6 +2299,7 @@
     "unit": 3,
     "topic": "u03-t03",
     "type": "mcq",
+    "numerical": true,
     "stem": "At a particular combination of goods, MUx = 12 utils and MUy = 4 utils. The marginal rate of substitution of X for Y (MRSxy) is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -2301,6 +2316,7 @@
     "unit": 3,
     "topic": "u03-t03",
     "type": "mcq",
+    "numerical": true,
     "stem": "A consumer has an income of ₹600 and faces prices of ₹20 for X and ₹30 for Y. If she buys 12 units of X and spends the whole income, the number of units of Y she buys is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -2349,6 +2365,7 @@
     "unit": 3,
     "topic": "u03-t03",
     "type": "mcq",
+    "numerical": true,
     "stem": "A consumer pays ₹5 for good X and ₹10 for good Y. The marginal utility of the last unit is 20 utils for X and 30 utils for Y. To maximise total utility, the consumer should:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -2656,6 +2673,7 @@
     "unit": 3,
     "topic": "u03-t05",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm's total cost function is TC = 500 + 20Q + 2Q². Its average variable cost at Q = 10 is:",
     "options": [
       "₹40",
@@ -2716,6 +2734,7 @@
     "unit": 3,
     "topic": "u03-t05",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm faces the demand curve P = 50 − Q. The maximum total revenue it can earn is:",
     "options": [
       "₹1,250",
@@ -2731,6 +2750,7 @@
     "unit": 3,
     "topic": "u03-t05",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm has fixed costs of ₹60,000, sells at ₹50 per unit and has an average variable cost of ₹30 per unit (constant). Its break-even output is:",
     "options": [
       "1,200 units",
@@ -3068,6 +3088,7 @@
     "unit": 3,
     "topic": "u03-t05",
     "type": "sequencing",
+    "numerical": true,
     "stem": "A firm's total cost is TC = 50 + 4Q + Q². At Q = 5, arrange the following in ascending order of value:",
     "items": [
       "Average total cost",
@@ -3112,6 +3133,7 @@
     "unit": 3,
     "topic": "u03-t05",
     "type": "sequencing",
+    "numerical": true,
     "stem": "For the demand curve P = 40 − 2Q, arrange the following in ascending order of the output at which they occur:",
     "items": [
       "MR = 0",
@@ -3149,6 +3171,7 @@
     "unit": 3,
     "topic": "u03-t06",
     "type": "mcq",
+    "numerical": true,
     "stem": "A perfectly competitive firm with TC = 100 + 10Q + Q² faces a market price of ₹50. Its maximum profit is:",
     "options": [
       "₹400",
@@ -3179,6 +3202,7 @@
     "unit": 3,
     "topic": "u03-t06",
     "type": "mcq",
+    "numerical": true,
     "stem": "A profit-maximising monopolist faces a price elasticity of demand of 3 at equilibrium, and its marginal cost is ₹60. Its price is:",
     "options": [
       "₹60",
@@ -3194,6 +3218,7 @@
     "unit": 3,
     "topic": "u03-t06",
     "type": "mcq",
+    "numerical": true,
     "stem": "A monopolist faces the demand curve P = 80 − 2Q and the total cost TC = 100 + 20Q. Its maximum profit is:",
     "options": [
       "₹450",
@@ -3224,6 +3249,7 @@
     "unit": 3,
     "topic": "u03-t06",
     "type": "mcq",
+    "numerical": true,
     "stem": "A monopolist sells in two separate markets with MC = ₹20. Demand in market 1 is P1 = 80 − Q1 and in market 2 is P2 = 60 − Q2. If it practises third-degree price discrimination, the prices are:",
     "options": [
       "P1 = ₹50 and P2 = ₹40",
@@ -3626,6 +3652,7 @@
     "unit": 3,
     "topic": "u03-t06",
     "type": "sequencing",
+    "numerical": true,
     "stem": "Firm X has P = ₹40 and MC = ₹20, firm Y has P = ₹10 and MC = ₹10, and firm Z has P = ₹20 and MC = ₹15. Arrange them in ascending order of the Lerner index:",
     "items": [
       "Firm X",
@@ -3678,6 +3705,7 @@
     "unit": 3,
     "topic": "u03-t07",
     "type": "mcq",
+    "numerical": true,
     "stem": "Two firms face the market demand P = 100 − Q, each with a constant marginal cost of ₹10. Under Cournot competition, the equilibrium market price is:",
     "options": [
       "₹55",
@@ -3708,6 +3736,7 @@
     "unit": 3,
     "topic": "u03-t07",
     "type": "mcq",
+    "numerical": true,
     "stem": "In an industry the seven firms have market shares of 30, 25, 20, 10, 5, 5 and 5 per cent. The four-firm concentration ratio is:",
     "options": [
       "75 per cent",
@@ -4121,6 +4150,7 @@
     "unit": 3,
     "topic": "u03-t07",
     "type": "sequencing",
+    "numerical": true,
     "stem": "For the market demand P = 100 − Q with a constant marginal cost of ₹10, arrange the following market outcomes in ascending order of total output:",
     "items": [
       "Perfect competition",
@@ -4367,6 +4397,7 @@
     "unit": 3,
     "topic": "u03-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "To keep output unchanged, a firm gives up 6 units of capital when it employs 3 additional units of labour. The marginal rate of technical substitution of labour for capital (MRTS_LK) is:",
     "options": [
       "0.5",
@@ -4382,6 +4413,7 @@
     "unit": 3,
     "topic": "u03-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm's marginal products are MPL = 20 and MPK = 15. The price of labour is ₹10 per unit and the price of capital is ₹5 per unit. To minimise the cost of a given output, the firm should:",
     "options": [
       "Employ more labour and less capital",
@@ -4412,6 +4444,7 @@
     "unit": 3,
     "topic": "u03-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "For the production function Q = 3L²K, if both L and K are doubled, output increases by a factor of:",
     "options": [
       "8",
@@ -4427,6 +4460,7 @@
     "unit": 3,
     "topic": "u03-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm has a total outlay of ₹1,000. Labour (on the horizontal axis) costs ₹50 per unit and capital (on the vertical axis) costs ₹100 per unit. The absolute slope of its isocost line is:",
     "options": [
       "2",
@@ -4472,6 +4506,7 @@
     "unit": 3,
     "topic": "u03-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "Five workers produce an average of 20 units each. When a sixth worker is added, the marginal product is 26 units. The average product of the six workers is:",
     "options": [
       "21",
@@ -4882,6 +4917,7 @@
     "unit": 3,
     "topic": "u03-t04",
     "type": "sequencing",
+    "numerical": true,
     "stem": "With a fixed quantity of capital, 1, 2, 3 and 4 workers produce total outputs of 6, 16, 24 and 28 units respectively. Arrange the workers in increasing order of marginal product:",
     "items": [
       "First worker",
@@ -4928,6 +4964,7 @@
     "unit": 3,
     "topic": "u03-t08",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm adds a mark-up of 50% on its cost of ₹100 per unit. The profit margin expressed as a percentage of the selling price is:",
     "options": [
       "33.3%",
@@ -4943,6 +4980,7 @@
     "unit": 3,
     "topic": "u03-t08",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm has fixed costs of ₹3,00,000 and a variable cost of ₹40 per unit. At an expected sales volume of 10,000 units, the price at which it just breaks even is:",
     "options": [
       "₹40",
@@ -4958,6 +4996,7 @@
     "unit": 3,
     "topic": "u03-t08",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm has capital employed of ₹10,00,000 and wants a 20% return on it. At the expected output of 10,000 units, the full cost is ₹60 per unit. Under target-return pricing, the price per unit is:",
     "options": [
       "₹72",
@@ -4973,6 +5012,7 @@
     "unit": 3,
     "topic": "u03-t08",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm with idle capacity receives a one-time export order at ₹55 per unit. Its variable cost is ₹40 per unit and its full cost is ₹60 per unit. Regular sales will not be affected. The firm should:",
     "options": [
       "Reject it because the price is below full cost",
@@ -4988,6 +5028,7 @@
     "unit": 3,
     "topic": "u03-t08",
     "type": "mcq",
+    "numerical": true,
     "stem": "Division S makes an intermediate product at a variable cost of ₹40 per unit. It works at full capacity and sells every unit in a perfectly competitive outside market at ₹70. The minimum transfer price at which S should supply Division B is:",
     "options": [
       "₹70",
@@ -5290,6 +5331,7 @@
     "unit": 3,
     "topic": "u03-t08",
     "type": "statements",
+    "numerical": true,
     "stem": "Consider the following statements about cost-based pricing:",
     "items": [
       "A mark-up of 25% on cost is equivalent to a margin of 20% on the selling price.",
@@ -5474,6 +5516,7 @@
     "unit": 3,
     "topic": "u03-t08",
     "type": "sequencing",
+    "numerical": true,
     "stem": "Fixed costs are ₹1,00,000 and variable cost is ₹40 per unit. Arrange the following planned sales volumes in increasing order of the break-even price per unit:",
     "items": [
       "10,000 units",

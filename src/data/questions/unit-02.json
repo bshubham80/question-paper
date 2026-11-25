@@ -20,6 +20,7 @@
     "unit": 2,
     "topic": "u02-t01",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm has total assets of ₹5,00,000 and outside liabilities of ₹1,80,000. According to the accounting equation, the owner's capital is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -127,6 +128,7 @@
     "unit": 2,
     "topic": "u02-t02",
     "type": "mcq",
+    "numerical": true,
     "stem": "A and B share profits in the ratio 3:2. C is admitted and the new profit-sharing ratio of A, B and C is 5:3:2. The sacrificing ratio of A and B is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -266,6 +268,7 @@
     "unit": 2,
     "topic": "u02-t03",
     "type": "mcq",
+    "numerical": true,
     "stem": "H Ltd acquired 80 per cent of the equity shares of S Ltd for ₹5,20,000. On the date of acquisition, S Ltd had share capital of ₹5,00,000 and reserves of ₹1,00,000. Goodwill or capital reserve on consolidation is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -372,6 +375,7 @@
     "unit": 2,
     "topic": "u02-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "Fixed costs are ₹1,20,000, the selling price is ₹50 per unit and the variable cost is ₹30 per unit. The break-even point in units is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -388,6 +392,7 @@
     "unit": 2,
     "topic": "u02-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "Sales are ₹5,00,000, the P/V ratio is 40 per cent and fixed costs are ₹1,20,000. The margin of safety is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -612,6 +617,7 @@
     "unit": 2,
     "topic": "u02-t06",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm's current ratio is 2.5 and its working capital is ₹60,000. Its current assets are:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -713,6 +719,7 @@
     "unit": 2,
     "topic": "u02-t06",
     "type": "sequencing",
+    "numerical": true,
     "stem": "A firm has sales of ₹10,00,000, gross profit of ₹2,50,000 and operating expenses of ₹1,50,000 (no other income or expenses). Arrange the following ratios in ascending order of value:",
     "items": [
       "Operating ratio",
@@ -836,6 +843,7 @@
     "unit": 2,
     "topic": "u02-t07",
     "type": "sequencing",
+    "numerical": true,
     "stem": "Under CPP accounting, the general price index is 200 at year end. Arrange the following in ascending order of their CPP-restated year-end values:",
     "items": [
       "Land bought for ₹50,000 when the index was 100",
@@ -1260,6 +1268,7 @@
     "unit": 2,
     "topic": "u02-t01",
     "type": "mcq",
+    "numerical": true,
     "stem": "A machine costing ₹2,00,000 is depreciated at 10 per cent per annum on the written down value method. Depreciation for the second year is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -1276,6 +1285,7 @@
     "unit": 2,
     "topic": "u02-t01",
     "type": "mcq",
+    "numerical": true,
     "stem": "Item X has cost ₹50,000 and net realisable value ₹45,000; item Y has cost ₹30,000 and net realisable value ₹36,000. Applying the 'lower of cost and net realisable value' rule item by item, closing stock is valued at:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -1324,6 +1334,7 @@
     "unit": 2,
     "topic": "u02-t01",
     "type": "mcq",
+    "numerical": true,
     "stem": "The cash book shows a favourable balance of ₹50,000. Cheques of ₹8,000 issued to suppliers have not yet been presented, and cheques of ₹5,000 deposited have not yet been collected by the bank. The balance as per pass book is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -1807,6 +1818,7 @@
     "unit": 2,
     "topic": "u02-t02",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm's profits for the last three years were ₹60,000, ₹70,000 and ₹80,000. Goodwill valued at two years' purchase of the average profit is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -1823,6 +1835,7 @@
     "unit": 2,
     "topic": "u02-t02",
     "type": "mcq",
+    "numerical": true,
     "stem": "Capital employed in a firm is ₹5,00,000, the normal rate of return is 10 per cent and the average profit is ₹80,000. Goodwill at three years' purchase of super profit is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -1839,6 +1852,7 @@
     "unit": 2,
     "topic": "u02-t02",
     "type": "mcq",
+    "numerical": true,
     "stem": "A and B have total capital and reserves of ₹5,00,000 and the net assets of the firm are ₹5,00,000. C is admitted for a one-fourth share and brings ₹2,00,000 as capital. The goodwill of the firm implied by C's contribution is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -1855,6 +1869,7 @@
     "unit": 2,
     "topic": "u02-t02",
     "type": "mcq",
+    "numerical": true,
     "stem": "A, B and C share profits in the ratio 4:3:2. C retires and A and B decide to share future profits equally. The gaining ratio of A and B is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -1887,6 +1902,7 @@
     "unit": 2,
     "topic": "u02-t02",
     "type": "mcq",
+    "numerical": true,
     "stem": "On dissolution, the book value of non-cash assets is ₹3,00,000 and they realise ₹2,60,000; outside creditors of ₹80,000 are settled for ₹78,000, and realisation expenses of ₹4,000 are paid. The loss on realisation is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -1919,6 +1935,7 @@
     "unit": 2,
     "topic": "u02-t02",
     "type": "mcq",
+    "numerical": true,
     "stem": "A and B share profits 3:2. On the admission of C, stock is appreciated by ₹12,000, building is depreciated by ₹4,000 and a provision for doubtful debts of ₹2,000 is created. A's share of the profit on revaluation is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -2392,6 +2409,7 @@
     "unit": 2,
     "topic": "u02-t03",
     "type": "mcq",
+    "numerical": true,
     "stem": "A company offered 80,000 shares and received applications for 1,20,000 shares, which were allotted pro rata. An applicant who applied for 6,000 shares will be allotted:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -2408,6 +2426,7 @@
     "unit": 2,
     "topic": "u02-t03",
     "type": "mcq",
+    "numerical": true,
     "stem": "100 shares of ₹10 each issued at par, on which ₹8 has been called and ₹5 per share received, are forfeited. The amount credited to the share forfeiture account is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -2440,6 +2459,7 @@
     "unit": 2,
     "topic": "u02-t03",
     "type": "mcq",
+    "numerical": true,
     "stem": "Redeemable preference shares of ₹5,00,000 are redeemed at a 10 per cent premium. A fresh issue of equity shares of ₹3,00,000 at par is made for the purpose, and the rest is paid out of profits. The amount to be transferred to capital redemption reserve is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -2456,6 +2476,7 @@
     "unit": 2,
     "topic": "u02-t03",
     "type": "mcq",
+    "numerical": true,
     "stem": "H Ltd holds 75 per cent of S Ltd. S Ltd has share capital of ₹10,00,000 and reserves of ₹2,00,000. The minority interest in S Ltd's net worth is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -2488,6 +2509,7 @@
     "unit": 2,
     "topic": "u02-t03",
     "type": "mcq",
+    "numerical": true,
     "stem": "A company issues 40,000 equity shares of face value ₹10 at ₹12 each and pays ₹1,00,000 in cash to the vendor company. The purchase consideration (payment method) is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -2977,6 +2999,7 @@
     "unit": 2,
     "topic": "u02-t06",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm has current assets of ₹5,00,000, including inventory of ₹1,50,000 and prepaid expenses of ₹20,000. Its current liabilities are ₹2,00,000. Its quick (liquid) ratio is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -2993,6 +3016,7 @@
     "unit": 2,
     "topic": "u02-t06",
     "type": "mcq",
+    "numerical": true,
     "stem": "Credit sales for the year are ₹12,00,000. Trade receivables were ₹1,00,000 at the beginning and ₹1,40,000 at the end of the year. The debtors (receivables) turnover ratio is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -3041,6 +3065,7 @@
     "unit": 2,
     "topic": "u02-t06",
     "type": "mcq",
+    "numerical": true,
     "stem": "A company has a net profit margin of 5%, a total asset turnover of 2 times and an equity multiplier (total assets ÷ equity) of 1.5. Using the DuPont identity, its return on equity is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -3057,6 +3082,7 @@
     "unit": 2,
     "topic": "u02-t06",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm has total assets of ₹15,00,000 and total outside liabilities of ₹6,00,000. Its proprietary ratio is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -3073,6 +3099,7 @@
     "unit": 2,
     "topic": "u02-t06",
     "type": "mcq",
+    "numerical": true,
     "stem": "Profit before tax is ₹2,00,000 after depreciation of ₹30,000 and a profit on sale of machinery of ₹10,000. During the year trade receivables rose by ₹25,000, trade payables rose by ₹15,000 and inventory fell by ₹20,000. Cash generated from operations (before tax paid) is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -3089,6 +3116,7 @@
     "unit": 2,
     "topic": "u02-t06",
     "type": "mcq",
+    "numerical": true,
     "stem": "Profit before tax of ₹1,50,000 is stated after charging depreciation ₹30,000, preliminary expenses written off ₹5,000 and loss on sale of furniture ₹7,000, and after crediting profit on sale of investments ₹12,000. Funds from operations is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -3105,6 +3133,7 @@
     "unit": 2,
     "topic": "u02-t06",
     "type": "mcq",
+    "numerical": true,
     "stem": "Net profit after tax is ₹5,00,000 and the preference dividend is ₹50,000. There are 1,00,000 equity shares and the market price per share is ₹90. The price-earnings ratio is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -3514,6 +3543,7 @@
     "unit": 2,
     "topic": "u02-t06",
     "type": "sequencing",
+    "numerical": true,
     "stem": "A firm has current assets of ₹3,00,000 (inventory ₹1,00,000, cash ₹30,000, marketable securities ₹20,000, receivables ₹1,50,000) and current liabilities of ₹1,50,000. Arrange the ratios in ascending order of value:",
     "items": [
       "Absolute liquid ratio",
@@ -3607,6 +3637,7 @@
     "unit": 2,
     "topic": "u02-t07",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm held net monetary assets of ₹2,00,000 throughout the year. The general price index rose from 100 to 120. Under CPP accounting, the purchasing power gain or loss on these items is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -3687,6 +3718,7 @@
     "unit": 2,
     "topic": "u02-t07",
     "type": "mcq",
+    "numerical": true,
     "stem": "Under current cost accounting, goods with a historical cost of ₹50,000 were sold when their replacement cost was ₹58,000. The cost of sales adjustment (COSA) is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -4072,6 +4104,7 @@
     "unit": 2,
     "topic": "u02-t07",
     "type": "sequencing",
+    "numerical": true,
     "stem": "During a year the general price index rose from 100 to a new level. Net monetary assets were held throughout. Arrange the purchasing power losses of the following firms in ascending order: Firm P (₹1,00,000, index 125 at year end), Firm Q (₹2,00,000, index 110), Firm R (₹80,000, index 150), Firm S (₹3,00,000, index 105).",
     "items": [
       "Firm P",
@@ -4157,6 +4190,7 @@
     "unit": 2,
     "topic": "u02-t08",
     "type": "mcq",
+    "numerical": true,
     "stem": "An item of inventory costs ₹80,000. Its estimated selling price is ₹1,00,000, further costs to complete are ₹18,000 and selling costs are ₹12,000. Under Ind AS 2 it should be carried at:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -4173,6 +4207,7 @@
     "unit": 2,
     "topic": "u02-t08",
     "type": "mcq",
+    "numerical": true,
     "stem": "An asset has a carrying amount of ₹10,00,000, fair value less costs of disposal of ₹7,50,000 and value in use of ₹8,20,000. The impairment loss under Ind AS 36 is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -4738,6 +4773,7 @@
     "unit": 2,
     "topic": "u02-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm has sales of ₹8,00,000, variable costs of ₹5,20,000 and fixed costs of ₹1,40,000. Its break-even sales are:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -4754,6 +4790,7 @@
     "unit": 2,
     "topic": "u02-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "Fixed costs are ₹2,40,000 and the P/V ratio is 40 per cent. The sales needed to earn a profit of ₹80,000 are:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -4770,6 +4807,7 @@
     "unit": 2,
     "topic": "u02-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm earned a profit of ₹40,000 on sales of ₹5,00,000 in one period and a profit of ₹80,000 on sales of ₹7,00,000 in the next. Its fixed costs (assumed constant) are:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -4786,6 +4824,7 @@
     "unit": 2,
     "topic": "u02-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "The standard allows 2 kg of material per unit at ₹15 per kg. For an actual output of 500 units, 1,100 kg were used at an actual price of ₹14 per kg. The material usage variance is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -4802,6 +4841,7 @@
     "unit": 2,
     "topic": "u02-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "The standard labour time is 4 hours per unit at ₹20 per hour. For an actual output of 300 units, 1,300 hours were paid at ₹22 per hour, of which 60 hours were idle. The labour idle time variance is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -4818,6 +4858,7 @@
     "unit": 2,
     "topic": "u02-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "In a process, 1,000 units are introduced at a total cost of ₹46,000. Normal loss is 10% of input and is sold at ₹10 per unit; abnormal loss units also realise ₹10 each. Actual output is 850 units. The amount debited to the costing profit and loss account on account of abnormal loss is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -4834,6 +4875,7 @@
     "unit": 2,
     "topic": "u02-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "In a process, 1,000 units were introduced; 600 were completed and 400 remain as closing work-in-progress, 50% complete in materials, labour and overheads. Total process cost is ₹1,60,000 and there is no loss or opening stock. The closing work-in-progress is valued at:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -4850,6 +4892,7 @@
     "unit": 2,
     "topic": "u02-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "Machine hours are the limiting (key) factor. Product X earns a contribution of ₹30 per unit and needs 2 machine hours; Y earns ₹36 and needs 3 hours; Z earns ₹20 and needs 1 hour. Production should give first preference to:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -5078,6 +5121,7 @@
     "unit": 2,
     "topic": "u02-t04",
     "type": "statements",
+    "numerical": true,
     "stem": "Consider the following statements about break-even analysis:",
     "items": [
       "A firm with a higher break-even point is generally less risky than one with a lower break-even point, other things equal.",
@@ -5325,6 +5369,7 @@
     "unit": 2,
     "topic": "u02-t05",
     "type": "mcq",
+    "numerical": true,
     "stem": "A flexible budget shows a total cost of ₹1,00,000 at 8,000 units, of which ₹36,000 is fixed. The budgeted total cost at 10,000 units is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -5341,6 +5386,7 @@
     "unit": 2,
     "topic": "u02-t05",
     "type": "mcq",
+    "numerical": true,
     "stem": "For a month, the opening cash balance is ₹50,000, budgeted receipts are ₹3,00,000 and budgeted payments are ₹3,20,000. The firm wants to maintain a minimum cash balance of ₹40,000. The cash budget shows:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -5357,6 +5403,7 @@
     "unit": 2,
     "topic": "u02-t05",
     "type": "mcq",
+    "numerical": true,
     "stem": "The sales budget is 20,000 units, opening stock of finished goods is 3,000 units and the desired closing stock is 5,000 units. The production budget is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -5373,6 +5420,7 @@
     "unit": 2,
     "topic": "u02-t05",
     "type": "mcq",
+    "numerical": true,
     "stem": "In an activity-based costing system, the machine set-up pool costs ₹1,20,000 and the cost driver is the number of set-ups, 400 in the period. Product P required 50 set-ups. The set-up cost assigned to P is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -5389,6 +5437,7 @@
     "unit": 2,
     "topic": "u02-t05",
     "type": "mcq",
+    "numerical": true,
     "stem": "A product can be sold at ₹500 per unit. The firm requires a profit of 20% of the selling price, and the estimated cost with the current design is ₹430 per unit. The cost reduction needed to meet the target cost is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -5665,6 +5714,7 @@
     "unit": 2,
     "topic": "u02-t05",
     "type": "statements",
+    "numerical": true,
     "stem": "A flexible budget is prepared with fixed costs of ₹40,000 and variable costs of ₹5 per unit. Consider the following statements:",
     "items": [
       "The total budgeted cost at 6,000 units is ₹70,000.",
@@ -6008,6 +6058,7 @@
     "unit": 2,
     "topic": "u02-t09",
     "type": "mcq",
+    "numerical": true,
     "stem": "At the year end, an item of inventory costs Rs 80,000. Its estimated selling price is Rs 1,00,000 and the estimated cost necessary to make the sale is Rs 30,000. The auditor should expect the item to be valued at:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -6606,6 +6657,7 @@
     "unit": 2,
     "topic": "u02-t10",
     "type": "mcq",
+    "numerical": true,
     "stem": "A cost auditor checks the cost sheet of a process. Input is 1,000 kg costing Rs 90,000 in total. Normal loss is 10% of input and has no scrap value. Actual output is 880 kg. The abnormal loss should be valued at:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -6690,6 +6742,7 @@
     "unit": 2,
     "topic": "u02-t10",
     "type": "ar",
+    "numerical": true,
     "stem": "Assertion (A): If the target audit risk is 5%, and the assessed inherent risk is 50% and control risk is 40%, the detection risk that the auditor can accept is 25%.",
     "reason": "Reason (R): Under the audit risk model, audit risk equals inherent risk x control risk x detection risk.",
     "prompt": "Choose the correct option:",

@@ -1,6 +1,8 @@
 export type QType = "mcq" | "ar" | "statements" | "matching" | "sequencing";
 export type Letter = "a" | "b" | "c" | "d";
 export type Setup = "balanced" | "assertion" | "analytical";
+/** Which questions an exam draws from: calculation-based, the rest, or both. */
+export type QuestionKind = "both" | "numerical" | "non-numerical";
 
 /** One question in the bank. Layout follows .claude/question-types.md. */
 export interface Question {
@@ -8,6 +10,7 @@ export interface Question {
   unit: number; // 1..10
   topic: string; // sub-topic id from syllabus, e.g. "u07-t03"
   type: QType;
+  numerical?: boolean; // true when answering needs a calculation; absent = non-numerical
   stem: string; // bold stem; for AR this is "Assertion (A): ..."
   reason?: string; // AR only: "Reason (R): ..."
   items?: string[]; // statements / sequencing items, printed as 1..n
@@ -21,4 +24,4 @@ export interface Question {
 }
 
 /** Question as sent to the exam screen: no answer, code or explanation. */
-export type ExamQuestion = Omit<Question, "answer" | "code" | "explanation" | "topic" | "unit">;
+export type ExamQuestion = Omit<Question, "answer" | "code" | "explanation" | "topic" | "unit" | "numerical">;

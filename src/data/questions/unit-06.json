@@ -302,6 +302,7 @@
     "unit": 6,
     "topic": "u06-t08",
     "type": "mcq",
+    "numerical": true,
     "stem": "Standard time for a job is 10 hours and a worker completes it in 8 hours. The time rate is ₹50 per hour. Under the Rowan premium plan, the worker's total earnings are:",
     "options": [
       "₹450",
@@ -1852,6 +1853,7 @@
     "unit": 6,
     "topic": "u06-t02",
     "type": "mcq",
+    "numerical": true,
     "stem": "According to Graicunas' formula, n[2^(n-1) + (n-1)], the total number of direct, cross and group relationships for a manager with three subordinates is:",
     "options": [
       "9",
@@ -3033,6 +3035,7 @@
     "unit": 6,
     "topic": "u06-t06",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm had 380 employees at the beginning of the year and 420 at the end. During the year 40 employees left. The labour turnover rate (separation method) is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -3567,6 +3570,7 @@
     "unit": 6,
     "topic": "u06-t07",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm spent ₹2,00,000 on advertising, ₹1,50,000 on agency fees and an allocated ₹1,00,000 on recruiters' salaries to hire 25 employees. The cost per hire is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -4070,6 +4074,7 @@
     "unit": 6,
     "topic": "u06-t08",
     "type": "mcq",
+    "numerical": true,
     "stem": "Standard time for a job is 8 hours, and a worker completes it in 6 hours. The time rate is ₹40 per hour. Under the Halsey premium plan (worker's share 50% of time saved), the worker's total earnings are:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -4086,6 +4091,7 @@
     "unit": 6,
     "topic": "u06-t08",
     "type": "mcq",
+    "numerical": true,
     "stem": "Under Taylor's differential piece-rate system, the standard output is 40 units per day. The low rate (for output below standard) is ₹5 per unit and the high rate (for standard or above) is ₹6 per unit. A worker producing 45 units earns:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -4102,6 +4108,7 @@
     "unit": 6,
     "topic": "u06-t08",
     "type": "mcq",
+    "numerical": true,
     "stem": "Under Merrick's multiple piece-rate system, workers producing below 83% of standard get the ordinary piece rate, those at 83% to 100% get 110% of it, and those above 100% get 120% of it. Standard output is 100 units, the ordinary rate is ₹10 per unit, and a worker produces 90 units. His earnings are:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -4118,6 +4125,7 @@
     "unit": 6,
     "topic": "u06-t08",
     "type": "mcq",
+    "numerical": true,
     "stem": "Under Gantt's task and bonus plan, a worker who completes the task within the standard time receives the time wage for the standard time plus a 20% bonus. The standard time is 10 hours, the time rate is ₹60 per hour, and the worker finishes in 9 hours. His earnings are:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -4134,6 +4142,7 @@
     "unit": 6,
     "topic": "u06-t08",
     "type": "mcq",
+    "numerical": true,
     "stem": "Under the Halsey plan (50% share) and the Rowan plan, a worker's earnings are the same when the time saved is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -5871,6 +5880,7 @@
     "unit": 6,
     "topic": "u06-t09",
     "type": "mcq",
+    "numerical": true,
     "stem": "In a wage negotiation the union demands an increase of Rs 12,000 per month but would accept no less than Rs 6,000. The employer initially offers Rs 4,000 but could go up to a maximum of Rs 9,000. Which settlement lies within the zone of agreement?",
     "options": [
       "Rs 7,500",
@@ -6421,6 +6431,7 @@
     "unit": 6,
     "topic": "u06-t10",
     "type": "mcq",
+    "numerical": true,
     "stem": "A plant with 800 employees recorded 40 grievances during the year. Taking the grievance rate as the number of grievances per 100 employees, the rate is:",
     "options": [
       "20",

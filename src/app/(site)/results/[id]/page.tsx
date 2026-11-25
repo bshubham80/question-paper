@@ -3,7 +3,7 @@ import { notFound, redirect } from "next/navigation";
 import { getAttempt, getAttemptAnswers } from "@/lib/attempts";
 import { getQuestion } from "@/lib/bank";
 import { describeScope, formatDateTime, formatDuration, pct } from "@/lib/format";
-import { MARKS_PER_QUESTION, SETUPS, TYPE_LABELS } from "@/lib/setups";
+import { examSetupLabel, MARKS_PER_QUESTION, TYPE_LABELS } from "@/lib/setups";
 import { getTopic, getUnit } from "@/lib/syllabus";
 import { AccuracyBar } from "@/components/AccuracyBar";
 import { Review, type ReviewItem } from "./Review";
@@ -65,7 +65,7 @@ export default async function ResultsPage({ params }: { params: Promise<{ id: st
           </Link>
           <h1 className="mt-1 font-serif text-2xl font-semibold">{describeScope(attempt)}</h1>
           <p className="text-sm text-muted">
-            {formatDateTime(attempt.startedAt)} · {SETUPS[attempt.setup].label} ·{" "}
+            {formatDateTime(attempt.startedAt)} · {examSetupLabel(attempt.kind, attempt.setup)} ·{" "}
             {attempt.timeLimitSec ? `${Math.round(attempt.timeLimitSec / 60)} min limit` : "untimed"}
           </p>
         </div>

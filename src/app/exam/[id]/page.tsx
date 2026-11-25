@@ -2,7 +2,7 @@ import { notFound, redirect } from "next/navigation";
 import { getAttempt, isTimeUp, serverNow, submitAttempt } from "@/lib/attempts";
 import { getQuestion, toExamQuestion } from "@/lib/bank";
 import { describeScope } from "@/lib/format";
-import { SETUPS } from "@/lib/setups";
+import { examSetupLabel } from "@/lib/setups";
 import { ExamClient } from "./ExamClient";
 
 export const dynamic = "force-dynamic";
@@ -24,7 +24,7 @@ export default async function ExamPage({ params }: { params: Promise<{ id: strin
     <ExamClient
       attemptId={id}
       title={describeScope(attempt)}
-      subtitle={`${SETUPS[attempt.setup].label} · ${attempt.total} questions`}
+      subtitle={`${examSetupLabel(attempt.kind, attempt.setup)} · ${attempt.total} questions`}
       questions={questions}
       startedAt={attempt.startedAt}
       serverNow={serverNow()}

@@ -17,7 +17,7 @@ function seeded(seed: number) {
 }
 
 function config(overrides: Partial<ExamConfig>): ExamConfig {
-  return { mode: "subject", units: ALL_UNITS, topics: [], setup: "balanced", count: 25, timeLimitSec: null, ...overrides };
+  return { mode: "subject", units: ALL_UNITS, topics: [], kind: "both", setup: "balanced", count: 25, timeLimitSec: null, ...overrides };
 }
 
 function questions(ids: string[]): Question[] {
@@ -52,7 +52,7 @@ describe("buildExam — size and integrity", () => {
   });
 
   it("caps the exam at the size of the pool", () => {
-    const pool = examPool(ALL_QUESTIONS, { mode: "topic", units: [7], topics: ["u07-t10"] });
+    const pool = examPool(ALL_QUESTIONS, { mode: "topic", units: [7], topics: ["u07-t10"], kind: "both" });
     const ids = buildExam(ALL_QUESTIONS, config({ mode: "topic", units: [7], topics: ["u07-t10"], count: 500 }), new Set(), seeded(1));
     expect(ids).toHaveLength(pool.length);
   });
@@ -103,7 +103,7 @@ describe("buildExam — several topics of one unit", () => {
   });
 
   it("the pool is the sum of the ticked topics", () => {
-    const pool = examPool(ALL_QUESTIONS, { mode: "topic", units: [7], topics: picked });
+    const pool = examPool(ALL_QUESTIONS, { mode: "topic", units: [7], topics: picked, kind: "both" });
     const expected = ALL_QUESTIONS.filter((q) => picked.includes(q.topic)).length;
     expect(pool).toHaveLength(expected);
   });
@@ -157,7 +157,7 @@ describe("buildExam — type mix per paper setup (SKILL.md §3)", () => {
   });
 
   it("still fills the exam when a small pool cannot meet the mix", () => {
-    const pool = examPool(ALL_QUESTIONS, { mode: "topic", units: [7], topics: ["u07-t10"] });
+    const pool = examPool(ALL_QUESTIONS, { mode: "topic", units: [7], topics: ["u07-t10"], kind: "both" });
     const ids = buildExam(ALL_QUESTIONS, config({ mode: "topic", units: [7], topics: ["u07-t10"], setup: "assertion", count: pool.length }), new Set(), seeded(2));
     expect(ids).toHaveLength(pool.length);
   });
@@ -187,5 +187,37 @@ describe("buildExam — unseen questions first and random order", () => {
       expect(units).not.toEqual([...units].sort((a, b) => a - b));
       expect(types).not.toEqual([...types].sort());
     }
+  });
+});
+
+describe("buildExam — question type", () => {
+  it("numerical only: every question needs a calculation", () => {
+    for (const seed of SEEDS) {
+      const qs = questions(buildExam(ALL_QUESTIONS, config({ kind: "numerical", count: 50 }), new Set(), seeded(seed)));
+      expect(qs).toHaveLength(50);
+      for (const q of qs) expect(q.numerical).toBe(true);
+    }
+  });
+
+  it("non-numerical only: no question needs a calculation", () => {
+    for (const seed of SEEDS) {
+      const qs = questions(buildExam(ALL_QUESTIONS, config({ kind: "non-numerical", count: 50 }), new Set(), seeded(seed)));
+      expect(qs).toHaveLength(50);
+      for (const q of qs) expect(q.numerical).toBeFalsy();
+    }
+  });
+
+  it("the two kinds split the pool with nothing left over", () => {
+    const scope = { mode: "subject" as const, units: [4], topics: [] };
+    const both = examPool(ALL_QUESTIONS, { ...scope, kind: "both" });
+    const num = examPool(ALL_QUESTIONS, { ...scope, kind: "numerical" });
+    const non = examPool(ALL_QUESTIONS, { ...scope, kind: "non-numerical" });
+    expect(num.length).toBeGreaterThan(0);
+    expect(num.length + non.length).toBe(both.length);
+  });
+
+  it("caps a numerical exam at the numerical questions available", () => {
+    const pool = examPool(ALL_QUESTIONS, { mode: "subject", units: [9], topics: [], kind: "numerical" });
+    expect(buildExam(ALL_QUESTIONS, config({ units: [9], kind: "numerical", count: 100 }), new Set(), seeded(1))).toHaveLength(pool.length);
   });
 });

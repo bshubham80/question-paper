@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { listAttempts, type Attempt } from "@/lib/attempts";
 import { describeScope, formatDateTime, formatDuration, pct } from "@/lib/format";
-import { SETUPS } from "@/lib/setups";
+import { examSetupLabel, KIND_LABELS, SETUPS } from "@/lib/setups";
 import { UnitFilter } from "./UnitFilter";
 
 export const dynamic = "force-dynamic";
@@ -69,7 +69,10 @@ export default async function HistoryPage({ searchParams }: { searchParams: Prom
                         <div className="max-w-xs truncate">{describeScope(a)}</div>
                         <div className="text-xs text-muted">{a.mode === "topic" ? "By topic" : "Across subjects"}</div>
                       </td>
-                      <td className="whitespace-nowrap px-4 py-3 text-muted">{SETUPS[a.setup].label}</td>
+                      <td className="whitespace-nowrap px-4 py-3 text-muted">
+                        {a.kind === "numerical" ? KIND_LABELS.numerical.label : SETUPS[a.setup].label}
+                        {a.kind === "non-numerical" && <div className="text-xs">{KIND_LABELS[a.kind].label}</div>}
+                      </td>
                       <td className="whitespace-nowrap px-4 py-3 text-right tabular-nums">
                         {done ? (
                           <>
@@ -110,7 +113,7 @@ function HistoryCard({ a }: { a: Attempt }) {
         <div className="min-w-0">
           <div className="font-medium">{describeScope(a)}</div>
           <div className="mt-0.5 text-xs text-muted">
-            {formatDateTime(a.startedAt)} · {a.mode === "topic" ? "By topic" : "Across subjects"} · {SETUPS[a.setup].label}
+            {formatDateTime(a.startedAt)} · {a.mode === "topic" ? "By topic" : "Across subjects"} · {examSetupLabel(a.kind, a.setup)}
           </div>
         </div>
         <div className="shrink-0 text-right tabular-nums">

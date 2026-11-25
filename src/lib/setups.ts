@@ -1,4 +1,4 @@
-import type { QType, Setup } from "./types";
+import type { QType, QuestionKind, Setup } from "./types";
 
 // Paper setups and type mix, verbatim from .claude/SKILL.md §3.
 export const SETUPS: Record<Setup, { label: string; description: string; mix: Record<QType, number> }> = {
@@ -26,6 +26,18 @@ export const TYPE_LABELS: Record<QType, string> = {
   matching: "Matching",
   sequencing: "Sequencing",
 };
+
+export const KIND_LABELS: Record<QuestionKind, { label: string; description: string }> = {
+  both: { label: "Both", description: "Numerical and non-numerical questions together." },
+  numerical: { label: "Numerical only", description: "Questions that need a calculation." },
+  "non-numerical": { label: "Non-numerical only", description: "Conceptual and factual questions, no calculation." },
+};
+
+/** "Balanced Mix", "Non-numerical only · Balanced Mix", or just "Numerical only" (no paper setup there). */
+export function examSetupLabel(kind: QuestionKind, setup: Setup): string {
+  if (kind === "numerical") return KIND_LABELS.numerical.label;
+  return kind === "both" ? SETUPS[setup].label : `${KIND_LABELS[kind].label} · ${SETUPS[setup].label}`;
+}
 
 /** Real-exam pace: Paper 2 is 100 questions in 120 minutes. */
 export const SECONDS_PER_QUESTION = 72;
