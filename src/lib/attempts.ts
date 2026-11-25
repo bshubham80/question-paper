@@ -3,7 +3,7 @@ import type { Row } from "@libsql/client";
 import { db } from "./db";
 import { ALL_QUESTIONS, getQuestion } from "./bank";
 import { buildExam, type ExamConfig } from "./exam-builder";
-import type { Letter, Setup } from "./types";
+import type { Letter, QuestionKind, Setup } from "./types";
 
 /** Per-question state kept by the exam screen and autosaved. */
 export interface AnswerState {
@@ -19,6 +19,7 @@ export interface Attempt {
   mode: "subject" | "topic";
   units: number[];
   topics: string[]; // topic mode: chosen sub-topics; empty = whole unit
+  kind: QuestionKind;
   setup: Setup;
   questionIds: string[];
   timeLimitSec: number | null;
@@ -53,6 +54,7 @@ function toAttempt(r: Row): Attempt {
     mode: r.mode as Attempt["mode"],
     units: JSON.parse(String(r.units)),
     topics: parseTopics(r.topic as string | null),
+    kind: ((r.kind as string | null) ?? "both") as QuestionKind,
     setup: r.setup as Setup,
     questionIds: JSON.parse(String(r.question_ids)),
     timeLimitSec: r.time_limit_sec == null ? null : Number(r.time_limit_sec),
@@ -76,13 +78,14 @@ export async function createAttempt(config: ExamConfig): Promise<string> {
 
   const id = crypto.randomUUID();
   await client.execute({
-    sql: `INSERT INTO attempts (id, mode, units, topic, setup, question_ids, time_limit_sec, started_at, total)
-          VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)`,
+    sql: `INSERT INTO attempts (id, mode, units, topic, kind, setup, question_ids, time_limit_sec, started_at, total)
+          VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
     args: [
       id,
       config.mode,
       JSON.stringify(config.units),
       config.topics.length ? JSON.stringify(config.topics) : null,
+      config.kind === "both" ? null : config.kind,
       config.setup,
       JSON.stringify(ids),
       config.timeLimitSec,

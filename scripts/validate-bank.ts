@@ -49,6 +49,7 @@ for (const file of files) {
   const byType: Record<string, number> = {};
   const byTopic: Record<string, number> = {};
   const byAnswer: Record<string, number> = {};
+  let numerical = 0;
 
   for (const q of data) {
     const id = q.id ?? "(no id)";
@@ -60,6 +61,7 @@ for (const file of files) {
     if (q.unit !== unitNo) err(id, `unit must be ${unitNo}`);
     if (!topicIds.has(q.topic)) err(id, `unknown topic "${q.topic}"`);
     if (!TYPES.includes(q.type)) err(id, `bad type "${q.type}"`);
+    if ("numerical" in q && q.numerical !== true) err(id, "numerical must be true or left out");
     if (typeof q.stem !== "string" || q.stem.length < 10) err(id, "stem missing");
     if (/^Q\d+\./.test(q.stem ?? "")) err(id, "stem must not include the Q number");
     if (!Array.isArray(q.options) || q.options.length !== 4) err(id, "need exactly 4 options");
@@ -93,10 +95,12 @@ for (const file of files) {
     byType[q.type] = (byType[q.type] ?? 0) + 1;
     byTopic[q.topic] = (byTopic[q.topic] ?? 0) + 1;
     byAnswer[q.answer] = (byAnswer[q.answer] ?? 0) + 1;
+    if (q.numerical) numerical++;
   }
 
   console.log(`  ${data.length} questions`);
   console.log(`  types:   ${TYPES.map((t) => `${t}=${byType[t] ?? 0}`).join("  ")}`);
+  console.log(`  numerical: ${numerical}  non-numerical: ${data.length - numerical}`);
   console.log(`  answers: ${LETTERS.map((l) => `${l}=${byAnswer[l] ?? 0}`).join("  ")}`);
   console.log(`  topics:  ${unit.topics.map((t) => `${t.id.slice(4)}=${byTopic[t.id] ?? 0}`).join("  ")}`);
   const empty = unit.topics.filter((t) => !byTopic[t.id]);

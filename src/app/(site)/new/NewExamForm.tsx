@@ -3,13 +3,18 @@
 import { useMemo, useState, useTransition } from "react";
 import { startExamAction } from "@/app/actions";
 import type { BankSummary } from "@/lib/bank";
-import { SECONDS_PER_QUESTION, SETUPS } from "@/lib/setups";
-import type { Setup } from "@/lib/types";
+import { examSetupLabel, KIND_LABELS, SECONDS_PER_QUESTION, SETUPS } from "@/lib/setups";
+import type { QuestionKind, Setup } from "@/lib/types";
 
 type Mode = "subject" | "topic";
 type Timer = "pace" | "none" | "custom";
 
 const COUNT_PRESETS = [10, 25, 50, 100];
+
+/** Questions of a unit or topic that match the chosen question type. */
+function ofKind(c: { count: number; numerical: number }, kind: QuestionKind): number {
+  return kind === "both" ? c.count : kind === "numerical" ? c.numerical : c.count - c.numerical;
+}
 
 export function NewExamForm({
   summary,
@@ -30,6 +35,7 @@ export function NewExamForm({
     const picked = (initialTopics ?? []).filter((t) => valid.includes(t));
     return picked.length ? picked : valid;
   });
+  const [kind, setKind] = useState<QuestionKind>("both");
   const [setup, setSetup] = useState<Setup>("balanced");
   const [count, setCount] = useState(25);
   const [timer, setTimer] = useState<Timer>("pace");
@@ -37,11 +43,15 @@ export function NewExamForm({
   const [error, setError] = useState<string | null>(null);
   const [pending, startTransition] = useTransition();
 
-  const available = useMemo(() => {
-    if (mode === "subject") return summary.units.filter((u) => units.includes(u.unit)).reduce((s, u) => s + u.count, 0);
-    const u = summary.units.find((u) => u.unit === topicUnit);
-    return u?.topics.filter((t) => topics.includes(t.id)).reduce((s, t) => s + t.count, 0) ?? 0;
+  // Questions in the current unit/topic selection, split by kind.
+  const selection = useMemo(() => {
+    const picked =
+      mode === "subject"
+        ? summary.units.filter((u) => units.includes(u.unit))
+        : (summary.units.find((u) => u.unit === topicUnit)?.topics.filter((t) => topics.includes(t.id)) ?? []);
+    return picked.reduce((s, x) => ({ count: s.count + x.count, numerical: s.numerical + x.numerical }), { count: 0, numerical: 0 });
   }, [mode, units, topicUnit, topics, summary]);
+  const available = ofKind(selection, kind);
 
   const effectiveCount = Math.min(count, available);
   const timeLimitSec =
@@ -63,6 +73,7 @@ export function NewExamForm({
         mode,
         units: mode === "subject" ? units : [topicUnit],
         topics: mode === "topic" ? topics : [],
+        kind,
         setup,
         count: effectiveCount,
         timeLimitSec,
@@ -199,26 +210,48 @@ export function NewExamForm({
         )}
       </section>
 
-      {/* 2. Paper setup */}
+      {/* 2. Question type */}
       <section className="card p-5">
-        <Step n={2} title="Paper setup" />
+        <Step n={2} title="Question type" />
         <div className="grid gap-2 sm:grid-cols-3">
-          {(Object.keys(SETUPS) as Setup[]).map((s) => (
+          {(Object.keys(KIND_LABELS) as QuestionKind[]).map((k) => (
             <label
-              key={s}
-              className={`cursor-pointer rounded-lg border p-3 text-sm ${setup === s ? "border-brand bg-brand-soft" : "border-line"}`}
+              key={k}
+              className={`cursor-pointer rounded-lg border p-3 text-sm ${kind === k ? "border-brand bg-brand-soft" : "border-line"}`}
             >
-              <input type="radio" name="setup" className="sr-only" checked={setup === s} onChange={() => setSetup(s)} />
-              <span className="block font-medium">{SETUPS[s].label}</span>
-              <span className="mt-1 block text-xs text-muted">{SETUPS[s].description}</span>
+              <input type="radio" name="kind" className="sr-only" checked={kind === k} onChange={() => setKind(k)} />
+              <span className="flex items-baseline justify-between gap-2">
+                <span className="font-medium">{KIND_LABELS[k].label}</span>
+                <span className="text-xs tabular-nums text-muted">{ofKind(selection, k)}</span>
+              </span>
+              <span className="mt-1 block text-xs text-muted">{KIND_LABELS[k].description}</span>
             </label>
           ))}
         </div>
       </section>
 
-      {/* 3. Count + timer */}
+      {/* 3. Paper setup — not for numerical exams: nearly every numerical question is a direct MCQ. */}
+      {kind !== "numerical" && (
+        <section className="card p-5">
+          <Step n={3} title="Paper setup" />
+          <div className="grid gap-2 sm:grid-cols-3">
+            {(Object.keys(SETUPS) as Setup[]).map((s) => (
+              <label
+                key={s}
+                className={`cursor-pointer rounded-lg border p-3 text-sm ${setup === s ? "border-brand bg-brand-soft" : "border-line"}`}
+              >
+                <input type="radio" name="setup" className="sr-only" checked={setup === s} onChange={() => setSetup(s)} />
+                <span className="block font-medium">{SETUPS[s].label}</span>
+                <span className="mt-1 block text-xs text-muted">{SETUPS[s].description}</span>
+              </label>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {/* Count + timer */}
       <section className="card p-5">
-        <Step n={3} title="Number of questions and time" />
+        <Step n={kind === "numerical" ? 3 : 4} title="Number of questions and time" />
         <div className="flex flex-wrap items-center gap-2">
           {COUNT_PRESETS.map((n) => (
             <button
@@ -288,7 +321,7 @@ export function NewExamForm({
         {error && <p className="rounded-lg bg-bad-soft px-4 py-2 text-sm text-bad">{error}</p>}
         <div className="flex items-center justify-between gap-3">
           <span className="hidden text-sm text-muted sm:inline">
-            {SETUPS[setup].label} · {timeLimitSec ? `${Math.round(timeLimitSec / 60)} min` : "untimed"}
+            {examSetupLabel(kind, setup)} · {timeLimitSec ? `${Math.round(timeLimitSec / 60)} min` : "untimed"}
           </span>
           <button type="button" className="btn-primary w-full py-3 sm:w-auto sm:px-6 sm:py-2.5" onClick={submit} disabled={pending || !available}>
             {pending ? "Preparing exam…" : `Start exam · ${effectiveCount} questions`}

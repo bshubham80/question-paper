@@ -38,6 +38,7 @@
     "unit": 4,
     "topic": "u04-t07",
     "type": "mcq",
+    "numerical": true,
     "stem": "The risk-free rate is 6%, the expected market return is 12% and a security's beta is 1.5. Under CAPM, the required return on the security is:",
     "options": [
       "18%",
@@ -76,6 +77,7 @@
     "unit": 4,
     "topic": "u04-t03",
     "type": "mcq",
+    "numerical": true,
     "stem": "The value of an unlevered firm is ₹50 lakh. An identical firm uses ₹20 lakh of perpetual debt, and the corporate tax rate is 30%. According to Modigliani–Miller with corporate taxes, the value of the levered firm is:",
     "options": [
       "₹56 lakh",
@@ -146,6 +148,7 @@
     "unit": 4,
     "topic": "u04-t02",
     "type": "mcq",
+    "numerical": true,
     "stem": "A company has just paid a dividend of ₹2 per share. Dividends are expected to grow at 5% per annum and the current share price is ₹42. Using the Gordon growth model, the cost of equity is:",
     "options": [
       "9.76%",
@@ -161,6 +164,7 @@
     "unit": 4,
     "topic": "u04-t02",
     "type": "sequencing",
+    "numerical": true,
     "stem": "₹1,000 is invested for one year at a nominal rate of 12% per annum. Arrange the following compounding frequencies in ascending order of the resulting future value:",
     "items": [
       "Quarterly compounding",
@@ -184,6 +188,7 @@
     "unit": 4,
     "topic": "u04-t06",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm has earnings per share of ₹10 and pays a dividend of ₹4 per share. Its rate of return on investment is 15% and its cost of equity is 10%. According to Walter's model, the market price per share is:",
     "options": [
       "₹100",
@@ -265,6 +270,7 @@
     "unit": 4,
     "topic": "u04-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "A project costs ₹50,000 and yields ₹30,000 at the end of each of the next two years. At a discount rate of 10%, its NPV is approximately:",
     "options": [
       "₹10,000",
@@ -317,6 +323,7 @@
     "unit": 4,
     "topic": "u04-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "A project costs ₹1,00,000 and generates cash inflows of ₹30,000, ₹40,000, ₹50,000 and ₹20,000 in years 1 to 4. Its payback period is:",
     "options": [
       "2.5 years",
@@ -354,6 +361,7 @@
     "unit": 4,
     "topic": "u04-t07",
     "type": "mcq",
+    "numerical": true,
     "stem": "A share may return 20%, 10% or −5% with probabilities 0.3, 0.5 and 0.2 respectively. Its expected return is:",
     "options": [
       "8.33%",
@@ -419,6 +427,7 @@
     "unit": 4,
     "topic": "u04-t02",
     "type": "mcq",
+    "numerical": true,
     "stem": "The present value of ₹10,000 receivable after 2 years at a discount rate of 10% per annum compounded annually is approximately:",
     "options": [
       "₹8,000",
@@ -597,6 +606,7 @@
     "unit": 4,
     "topic": "u04-t05",
     "type": "mcq",
+    "numerical": true,
     "stem": "Annual demand for a material is 4,000 units, the cost of placing an order is ₹100 and the carrying cost is ₹5 per unit per year. The economic order quantity is:",
     "options": [
       "283 units",
@@ -872,6 +882,7 @@
     "unit": 4,
     "topic": "u04-t02",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm is financed 60% by equity (cost 15%) and 40% by debt (pre-tax cost 10%). If the tax rate is 30%, its weighted average cost of capital is:",
     "options": [
       "13.0%",
@@ -887,6 +898,7 @@
     "unit": 4,
     "topic": "u04-t05",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm's raw materials are held for 30 days, WIP for 15 days and finished goods for 20 days. Debtors take 45 days to pay, and creditors allow 40 days. Its net operating cycle is:",
     "options": [
       "110 days",
@@ -985,6 +997,7 @@
     "unit": 4,
     "topic": "u04-t10",
     "type": "mcq",
+    "numerical": true,
     "stem": "The spot rate is ₹83.00/US$. The one-year interest rate is 8% in India and 4% in the US. Under interest rate parity, the one-year forward rate is approximately:",
     "options": [
       "₹86.19/US$",
@@ -1220,6 +1233,7 @@
     "unit": 4,
     "topic": "u04-t01",
     "type": "mcq",
+    "numerical": true,
     "stem": "A company's equity shares trade cum-rights at ₹120. It offers one new share for every four held at ₹80 per share. The theoretical ex-rights price per share is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -1252,6 +1266,7 @@
     "unit": 4,
     "topic": "u04-t01",
     "type": "mcq",
+    "numerical": true,
     "stem": "A supplier offers credit terms of 2/10, net 30. Using a 360-day year, the approximate annual cost of foregoing the cash discount is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -1784,6 +1799,7 @@
     "unit": 4,
     "topic": "u04-t02",
     "type": "mcq",
+    "numerical": true,
     "stem": "₹10,000 is deposited for 2 years at 10% per annum. The difference between the amount under annual compound interest and under simple interest is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -1800,6 +1816,7 @@
     "unit": 4,
     "topic": "u04-t02",
     "type": "mcq",
+    "numerical": true,
     "stem": "₹1,000 is deposited at the end of each year for 3 years at 10% interest compounded annually. The accumulated sum at the end of year 3 is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -1816,6 +1833,7 @@
     "unit": 4,
     "topic": "u04-t02",
     "type": "mcq",
+    "numerical": true,
     "stem": "A nominal annual rate of 10% compounded half-yearly corresponds to an effective annual rate of:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -1832,6 +1850,7 @@
     "unit": 4,
     "topic": "u04-t02",
     "type": "mcq",
+    "numerical": true,
     "stem": "If the nominal rate of interest is 15.5% and the expected inflation rate is 5%, the real rate of return according to the Fisher relationship is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -1848,6 +1867,7 @@
     "unit": 4,
     "topic": "u04-t02",
     "type": "mcq",
+    "numerical": true,
     "stem": "A debenture of face value ₹100 with an 8% coupon is issued at ₹90 and is redeemable at ₹110 after 5 years. Using the approximation formula for the pre-tax cost and a tax rate of 25%, the after-tax cost of debt is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -1864,6 +1884,7 @@
     "unit": 4,
     "topic": "u04-t02",
     "type": "mcq",
+    "numerical": true,
     "stem": "The risk-free rate is 6%, the expected market return is 14% and a share has a beta of 1.5. By the CAPM, the cost of equity is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -1880,6 +1901,7 @@
     "unit": 4,
     "topic": "u04-t02",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm's capital (book-value weights) is: equity ₹5,00,000 costing 16%, preference capital ₹2,00,000 costing 12%, and debt ₹3,00,000 with a pre-tax cost of 10%. The tax rate is 30%. The WACC is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -1896,6 +1918,7 @@
     "unit": 4,
     "topic": "u04-t02",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm plans a capital structure of 60% equity and 40% debt. It expects ₹6 lakh of retained earnings. The total new financing at which the cost of equity will rise because retained earnings get exhausted (the break point) is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -2072,6 +2095,7 @@
     "unit": 4,
     "topic": "u04-t02",
     "type": "statements",
+    "numerical": true,
     "stem": "Consider the following statements:",
     "items": [
       "The present value of a perpetuity of ₹5,000 per year at a 10% discount rate is ₹50,000.",
@@ -2295,6 +2319,7 @@
     "unit": 4,
     "topic": "u04-t02",
     "type": "sequencing",
+    "numerical": true,
     "stem": "At a discount rate of 10%, arrange the following receipts in ascending order of present value:",
     "items": [
       "₹2,000 received today",
@@ -2364,6 +2389,7 @@
     "unit": 4,
     "topic": "u04-t03",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm has a degree of operating leverage of 2.5 and a degree of financial leverage of 1.6. Its degree of combined leverage is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -2380,6 +2406,7 @@
     "unit": 4,
     "topic": "u04-t03",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm needs ₹10 lakh. Plan A: issue 20,000 equity shares. Plan B: issue 10,000 equity shares and raise the balance as debt carrying interest of ₹1,00,000 a year. Ignoring tax, the EBIT at which EPS is the same under both plans (the indifference point) is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -2396,6 +2423,7 @@
     "unit": 4,
     "topic": "u04-t03",
     "type": "mcq",
+    "numerical": true,
     "stem": "Under the Net Operating Income approach, a firm has EBIT of ₹3,00,000 and an overall capitalisation rate of 10%. It has ₹10 lakh of debt at 8% interest. The cost of equity is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -2412,6 +2440,7 @@
     "unit": 4,
     "topic": "u04-t03",
     "type": "mcq",
+    "numerical": true,
     "stem": "Under the Net Income approach, a firm has EBIT of ₹2,00,000, ₹5,00,000 of 10% debt and a cost of equity of 12%. The value of the firm is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -2428,6 +2457,7 @@
     "unit": 4,
     "topic": "u04-t03",
     "type": "mcq",
+    "numerical": true,
     "stem": "As per Modigliani–Miller with corporate taxes, the cost of unlevered equity is 12%, the cost of debt is 8%, the tax rate is 25% and the debt-equity ratio is 0.5. The cost of equity of the levered firm is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -2476,6 +2506,7 @@
     "unit": 4,
     "topic": "u04-t03",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm borrows ₹20 lakh at 10% interest. If the corporate tax rate is 30%, the annual tax saving on interest is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -2794,6 +2825,7 @@
     "unit": 4,
     "topic": "u04-t03",
     "type": "matching",
+    "numerical": true,
     "stem": "A firm has sales of ₹12 lakh, variable costs of ₹6 lakh, fixed operating costs of ₹3 lakh and interest of ₹1 lakh. Match List I with List II:",
     "listI": [
       "Degree of operating leverage",
@@ -2944,6 +2976,7 @@
     "unit": 4,
     "topic": "u04-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "A project requires an outlay of ₹1,00,000 and returns a single cash inflow of ₹1,21,000 at the end of year 2. Its internal rate of return is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -2960,6 +2993,7 @@
     "unit": 4,
     "topic": "u04-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "A project's initial outlay is ₹1,00,000 and the present value of its cash inflows is ₹1,50,000. Its profitability index is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -2976,6 +3010,7 @@
     "unit": 4,
     "topic": "u04-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "A project costs ₹2,000 and yields ₹1,100, ₹1,210 and ₹1,331 at the end of years 1, 2 and 3. At a discount rate of 10%, its discounted payback period is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -2992,6 +3027,7 @@
     "unit": 4,
     "topic": "u04-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "A machine costing ₹5,00,000 has a salvage value of ₹1,00,000. It is expected to give an average annual profit after depreciation of ₹60,000. The accounting rate of return on average investment is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -3008,6 +3044,7 @@
     "unit": 4,
     "topic": "u04-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "A project yields an annual cash profit of ₹1,00,000 before depreciation and tax. Annual depreciation is ₹40,000 and the tax rate is 30%. The annual cash flow after tax is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -3024,6 +3061,7 @@
     "unit": 4,
     "topic": "u04-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "Project X has a 3-year life and an NPV of ₹24,869 at 10% (the 3-year annuity factor at 10% is 2.4869). Its equivalent annual annuity is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -3040,6 +3078,7 @@
     "unit": 4,
     "topic": "u04-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "A project may yield an NPV of ₹40,000 with probability 0.5, ₹20,000 with probability 0.3 and −₹10,000 with probability 0.2. Its expected NPV is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -3072,6 +3111,7 @@
     "unit": 4,
     "topic": "u04-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "A project costs ₹1,00,000 and gives cash inflows of ₹40,000, ₹50,000 and ₹40,000 over three years. Its NPV at a discount rate of 0% is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -3253,6 +3293,7 @@
     "unit": 4,
     "topic": "u04-t04",
     "type": "statements",
+    "numerical": true,
     "stem": "Project A has an expected NPV of ₹50,000 with a standard deviation of ₹10,000. Project B has an expected NPV of ₹80,000 with a standard deviation of ₹20,000. Consider the following statements:",
     "items": [
       "The coefficient of variation of Project A is 0.2.",
@@ -3524,6 +3565,7 @@
     "unit": 4,
     "topic": "u04-t06",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm has EPS of ₹20, a retention ratio of 40%, a rate of return on investment of 15% and a cost of equity of 12%. Using Gordon's model, the market price per share is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -3540,6 +3582,7 @@
     "unit": 4,
     "topic": "u04-t06",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm has EPS of ₹10 and pays a dividend of ₹5 per share. Its return on investment is 20% and its cost of equity is 10%. According to Walter's model, the price per share is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -3556,6 +3599,7 @@
     "unit": 4,
     "topic": "u04-t06",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm with 10,000 shares expects net income of ₹2,00,000 and plans an investment of ₹3,00,000. It pays a dividend of ₹5 per share, and the expected share price at year-end is ₹150. According to the Modigliani–Miller model, the number of new shares it must issue is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -3572,6 +3616,7 @@
     "unit": 4,
     "topic": "u04-t06",
     "type": "mcq",
+    "numerical": true,
     "stem": "A company earns ₹50 lakh and needs ₹60 lakh for a capital project. It follows a residual dividend policy and finances new investment with equity and debt in the ratio 1 : 1. The dividend it can pay is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -3588,6 +3633,7 @@
     "unit": 4,
     "topic": "u04-t06",
     "type": "mcq",
+    "numerical": true,
     "stem": "Last year's dividend was ₹4 per share. The target payout ratio is 50%, the current year's EPS is ₹12 and the speed-of-adjustment factor is 0.5. Using Lintner's model (with no constant term), this year's dividend is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -3620,6 +3666,7 @@
     "unit": 4,
     "topic": "u04-t06",
     "type": "mcq",
+    "numerical": true,
     "stem": "A company with 10 lakh shares and a net profit of ₹50 lakh issues bonus shares in the ratio 1 : 1. Assuming profit is unchanged, the new EPS is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -3636,6 +3683,7 @@
     "unit": 4,
     "topic": "u04-t06",
     "type": "mcq",
+    "numerical": true,
     "stem": "A share is quoted at ₹200 and has EPS of ₹20 and DPS of ₹8. Its dividend yield and dividend payout ratio are respectively:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -4074,6 +4122,7 @@
     "unit": 4,
     "topic": "u04-t06",
     "type": "sequencing",
+    "numerical": true,
     "stem": "For a declining firm (r = 5%, ke = 10%, EPS = ₹10), arrange the following payout ratios in ascending order of the share price predicted by Walter's model:",
     "items": [
       "50% payout",
@@ -4097,6 +4146,7 @@
     "unit": 4,
     "topic": "u04-t07",
     "type": "mcq",
+    "numerical": true,
     "stem": "Two securities have standard deviations of 10% and 20% and a correlation coefficient of +0.5. If an equal amount is invested in each, the variance of the portfolio return (in %²) is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -4113,6 +4163,7 @@
     "unit": 4,
     "topic": "u04-t07",
     "type": "mcq",
+    "numerical": true,
     "stem": "Two assets are perfectly negatively correlated (ρ = −1) and have standard deviations of 10% and 20%. The proportion to be invested in the less risky asset to make the portfolio risk-free is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -4129,6 +4180,7 @@
     "unit": 4,
     "topic": "u04-t07",
     "type": "mcq",
+    "numerical": true,
     "stem": "A portfolio has 50% in a stock with beta 1.2, 25% in a stock with beta 0.8 and 25% in a stock with beta 1.0. The portfolio beta is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -4145,6 +4197,7 @@
     "unit": 4,
     "topic": "u04-t07",
     "type": "mcq",
+    "numerical": true,
     "stem": "A portfolio earned 14% with a standard deviation of 16% when the risk-free rate was 6%. Its Sharpe ratio is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -4161,6 +4214,7 @@
     "unit": 4,
     "topic": "u04-t07",
     "type": "mcq",
+    "numerical": true,
     "stem": "A mutual fund earned 15% with a beta of 1.6. The risk-free rate was 7%. Its Treynor ratio is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -4177,6 +4231,7 @@
     "unit": 4,
     "topic": "u04-t07",
     "type": "mcq",
+    "numerical": true,
     "stem": "A portfolio with beta 1.2 earned 16%. The risk-free rate is 6% and the market return is 14%. Jensen's alpha for the portfolio is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -4193,6 +4248,7 @@
     "unit": 4,
     "topic": "u04-t07",
     "type": "mcq",
+    "numerical": true,
     "stem": "Security A has an expected return of 15% and a standard deviation of 9%. Security B has an expected return of 20% and a standard deviation of 16%. On the basis of the coefficient of variation:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -4241,6 +4297,7 @@
     "unit": 4,
     "topic": "u04-t07",
     "type": "mcq",
+    "numerical": true,
     "stem": "The risk-free rate is 4% and the expected market return is 12%. A security is expected to yield 10%, which is exactly its CAPM required return. Its beta must be:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -4669,6 +4726,7 @@
     "unit": 4,
     "topic": "u04-t08",
     "type": "mcq",
+    "numerical": true,
     "stem": "The spot rate is ₹80/US$ and the six-month forward rate is ₹82/US$. The annualised forward premium on the dollar is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -4685,6 +4743,7 @@
     "unit": 4,
     "topic": "u04-t08",
     "type": "mcq",
+    "numerical": true,
     "stem": "An Indian importer must pay US$ 1,05,000 after one year. The one-year US dollar deposit rate is 5% and the spot rate is ₹80/US$. To hedge through a money market hedge, the rupee amount needed today to buy the dollars to be deposited is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -4701,6 +4760,7 @@
     "unit": 4,
     "topic": "u04-t08",
     "type": "mcq",
+    "numerical": true,
     "stem": "The spot rates are ₹80/US$ and US$ 1.10/€. The implied cross rate ₹/€ is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -4717,6 +4777,7 @@
     "unit": 4,
     "topic": "u04-t08",
     "type": "mcq",
+    "numerical": true,
     "stem": "A bank quotes ₹/US$ as 79.60 – 80.00 (bid – ask). The bid–ask spread as a percentage of the ask rate is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -4733,6 +4794,7 @@
     "unit": 4,
     "topic": "u04-t08",
     "type": "mcq",
+    "numerical": true,
     "stem": "A trader buys a call option on US dollars with a strike price of ₹80 by paying a premium of ₹2 per dollar. At expiry the spot rate is ₹86. The net profit per dollar is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -4781,6 +4843,7 @@
     "unit": 4,
     "topic": "u04-t08",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm has dollar receivables of US$ 5,00,000 and dollar payables of US$ 3,00,000. If the dollar depreciates from ₹80 to ₹78, the firm's gain or loss on its net exposure is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -5265,6 +5328,7 @@
     "unit": 4,
     "topic": "u04-t09",
     "type": "mcq",
+    "numerical": true,
     "stem": "A foreign currency convertible bond has a face value of US$ 1,000 and a conversion price of ₹500 per share at a fixed conversion exchange rate of ₹80/US$. The number of shares obtained on conversion of one bond is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -5297,6 +5361,7 @@
     "unit": 4,
     "topic": "u04-t09",
     "type": "mcq",
+    "numerical": true,
     "stem": "A zero-coupon Eurobond redeemable after two years at US$ 1,21,000 is priced to yield 10% per annum, compounded annually. Its issue price is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -5377,6 +5442,7 @@
     "unit": 4,
     "topic": "u04-t09",
     "type": "mcq",
+    "numerical": true,
     "stem": "One ADR represents two shares of an Indian company. The Indian share trades at ₹500 and the exchange rate is ₹80/US$. If the ADR trades at US$ 13 in New York, then, ignoring costs, an arbitrageur who buys shares in India, converts them into ADRs and sells in the US earns per ADR:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -5829,6 +5895,7 @@
     "unit": 4,
     "topic": "u04-t05",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm needs ₹1,00,000 of cash over the year, spent evenly. Each sale of securities to raise cash costs ₹200, and the interest rate on securities is 10 per cent per annum. Using the Baumol model, the total annual cost (transaction cost plus holding cost) at the optimal conversion size is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -5845,6 +5912,7 @@
     "unit": 4,
     "topic": "u04-t05",
     "type": "mcq",
+    "numerical": true,
     "stem": "In the Miller–Orr model, the transaction cost per security transaction is ₹320, the standard deviation of daily net cash flows is ₹100 and the daily interest rate is 0.03 per cent. The lower control limit is ₹5,000. The upper control limit is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -5861,6 +5929,7 @@
     "unit": 4,
     "topic": "u04-t05",
     "type": "mcq",
+    "numerical": true,
     "stem": "A supplier offers terms of 2/10, net 30. Taking a 360-day year, the approximate annual cost of forgoing the cash discount and paying on the 30th day is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -5877,6 +5946,7 @@
     "unit": 4,
     "topic": "u04-t05",
     "type": "mcq",
+    "numerical": true,
     "stem": "Annual demand for an item is 4,500 units, the cost of placing an order is ₹50 and the carrying cost is ₹5 per unit per year. At the economic order quantity, the total annual ordering and carrying cost is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -5893,6 +5963,7 @@
     "unit": 4,
     "topic": "u04-t05",
     "type": "mcq",
+    "numerical": true,
     "stem": "Using a 360-day year: cost of goods sold ₹7,20,000 and average inventory ₹1,20,000; credit sales ₹9,00,000 and average receivables ₹1,50,000; purchases ₹7,20,000 and average payables ₹90,000. The cash conversion cycle is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -5909,6 +5980,7 @@
     "unit": 4,
     "topic": "u04-t05",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm's annual credit sales are ₹36,00,000, its average collection period is 40 days (360-day year) and variable costs are 75 per cent of sales. Its investment in receivables, measured at variable cost, is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -5925,6 +5997,7 @@
     "unit": 4,
     "topic": "u04-t05",
     "type": "mcq",
+    "numerical": true,
     "stem": "A firm considers relaxing its credit policy. Incremental sales will be ₹5,00,000 with a contribution margin of 20 per cent; bad debts on the incremental sales will be 4 per cent; additional investment in receivables will be ₹1,00,000 and the required return is 20 per cent. The net benefit of relaxing the policy is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -5941,6 +6014,7 @@
     "unit": 4,
     "topic": "u04-t05",
     "type": "mcq",
+    "numerical": true,
     "stem": "Under the second method of lending suggested by the Tandon Committee (1975), the borrower must finance at least 25 per cent of total current assets from long-term sources, so that maximum permissible bank finance (MPBF) = 0.75 × current assets − other current liabilities (excluding bank borrowings). If current assets are ₹8,00,000 and other current liabilities are ₹2,00,000, the MPBF is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -6346,6 +6420,7 @@
     "unit": 4,
     "topic": "u04-t05",
     "type": "sequencing",
+    "numerical": true,
     "stem": "Maximum, normal and minimum usage are 60, 50 and 40 units per day, and the corresponding lead times are 10, 8 and 6 days. The reorder quantity is 400 units. Arrange the following stock levels in ascending order of quantity:",
     "items": [
       "Reorder level",
@@ -6414,6 +6489,7 @@
     "unit": 4,
     "topic": "u04-t10",
     "type": "mcq",
+    "numerical": true,
     "stem": "Bank X quotes ₹83.10–83.20 per US$ (bid–ask) and Bank Y quotes ₹83.30–83.40 per US$. Ignoring other costs, the locational arbitrage profit on US$1,00,000 is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -6430,6 +6506,7 @@
     "unit": 4,
     "topic": "u04-t10",
     "type": "mcq",
+    "numerical": true,
     "stem": "Ignoring bid–ask spreads, the spot rates are ₹80.00/US$, ₹90.00/euro and US$1.15/euro. Starting with ₹9,00,000, the profit from triangular arbitrage is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -6446,6 +6523,7 @@
     "unit": 4,
     "topic": "u04-t10",
     "type": "mcq",
+    "numerical": true,
     "stem": "The spot rate is ₹80/US$ and the one-year forward rate is ₹83/US$. One-year interest rates are 6 per cent in India and 3 per cent in the US. By borrowing ₹80,00,000 in India, the covered interest arbitrage profit at the end of one year is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -6478,6 +6556,7 @@
     "unit": 4,
     "topic": "u04-t10",
     "type": "mcq",
+    "numerical": true,
     "stem": "The spot rate is ₹51.50 per unit of a foreign currency. Expected inflation over the next year is 6 per cent in India and 3 per cent abroad. Under relative purchasing power parity, the expected spot rate after one year is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -6494,6 +6573,7 @@
     "unit": 4,
     "topic": "u04-t10",
     "type": "mcq",
+    "numerical": true,
     "stem": "An Indian parent invests US$1,40,000 at a spot rate of ₹80/US$ in a US project. Remittable cash flows are US$80,000 in year 1 and US$88,000 in year 2, with an expected rate of ₹82.50/US$ in both years. The parent's required return is 10 per cent per annum in rupees. The project's NPV from the parent's perspective is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -6526,6 +6606,7 @@
     "unit": 4,
     "topic": "u04-t10",
     "type": "mcq",
+    "numerical": true,
     "stem": "For a foreign project, the base-case (all-equity) NPV is ₹8,00,000. The present value of the interest tax shield on the debt used is ₹1,50,000, the present value of the interest saving on a concessional loan from the host government is ₹1,00,000 and issue costs of raising funds are ₹50,000. The adjusted present value (APV) is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -6879,6 +6960,7 @@
     "unit": 4,
     "topic": "u04-t10",
     "type": "matching",
+    "numerical": true,
     "stem": "The spot rate is ₹80 per US$. Match List I (six-month forward rate, ₹ per US$) with List II (annualised forward premium or discount on the US$):",
     "listI": [
       "80.80",
@@ -6931,6 +7013,7 @@
     "unit": 4,
     "topic": "u04-t10",
     "type": "sequencing",
+    "numerical": true,
     "stem": "The spot rate is ₹100 per unit of each of four foreign currencies P, Q, R and S. The one-year interest rate in India is 10 per cent. One-year interest rates abroad are: P 0%, Q 10%, R 20% and S 5%. Arrange the currencies in ascending order of their one-year forward rates (₹ per unit) under interest rate parity:",
     "items": [
       "Currency P",

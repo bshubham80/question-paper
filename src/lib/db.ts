@@ -11,6 +11,7 @@ CREATE TABLE IF NOT EXISTS attempts (
   units          TEXT NOT NULL,        -- JSON array of unit numbers
   topic          TEXT,                 -- topic mode: JSON array of sub-topic ids (older rows: one id); NULL = whole unit
   setup          TEXT NOT NULL,
+  kind           TEXT,                 -- 'numerical' | 'non-numerical'; NULL = both
   question_ids   TEXT NOT NULL,        -- JSON array, in exam order
   time_limit_sec INTEGER,              -- NULL = untimed
   started_at     TEXT NOT NULL,        -- ISO 8601 UTC
@@ -35,16 +36,26 @@ CREATE TABLE IF NOT EXISTS attempt_answers (
 );
 `;
 
+/** Columns added after the first release; existing databases get them here. */
+async function migrate(c: Client): Promise<void> {
+  const cols = await c.execute("PRAGMA table_info(attempts)");
+  if (!cols.rows.some((r) => r.name === "kind")) await c.execute("ALTER TABLE attempts ADD COLUMN kind TEXT");
+}
+
 let client: Client | null = null;
 let ready: Promise<void> | null = null;
 
 export async function db(): Promise<Client> {
   if (!client) {
     client = createClient(resolveDbConfig(process.env));
-    ready = client.executeMultiple(SCHEMA).catch((e) => {
-      client = null; // retry on the next request
-      throw e;
-    });
+    const c = client;
+    ready = c
+      .executeMultiple(SCHEMA)
+      .then(() => migrate(c))
+      .catch((e) => {
+        client = null; // retry on the next request
+        throw e;
+      });
   }
   await ready;
   return client;

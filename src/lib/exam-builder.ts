@@ -1,10 +1,11 @@
-import type { QType, Question, Setup } from "./types";
+import type { QType, Question, QuestionKind, Setup } from "./types";
 import { SETUPS } from "./setups";
 
 export interface ExamConfig {
   mode: "subject" | "topic";
   units: number[]; // subject mode: selected units; topic mode: exactly one
   topics: string[]; // topic mode: chosen sub-topic ids of that unit; empty = the whole unit
+  kind: QuestionKind;
   setup: Setup;
   count: number;
   timeLimitSec: number | null;
@@ -51,9 +52,13 @@ function shuffle<T>(arr: T[], rng: () => number): T[] {
   return a;
 }
 
-export function examPool(bank: Question[], config: Pick<ExamConfig, "mode" | "units" | "topics">): Question[] {
+export function matchesKind(q: Question, kind: QuestionKind): boolean {
+  return kind === "both" || (kind === "numerical") === !!q.numerical;
+}
+
+export function examPool(bank: Question[], config: Pick<ExamConfig, "mode" | "units" | "topics" | "kind">): Question[] {
   const topics = config.mode === "topic" && config.topics.length ? new Set(config.topics) : null;
-  return bank.filter((q) => config.units.includes(q.unit) && (!topics || topics.has(q.topic)));
+  return bank.filter((q) => config.units.includes(q.unit) && (!topics || topics.has(q.topic)) && matchesKind(q, config.kind));
 }
 
 /**

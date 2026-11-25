@@ -1993,6 +1993,7 @@
     "unit": 7,
     "topic": "u07-t01",
     "type": "mcq",
+    "numerical": true,
     "stem": "In an economy, total financial assets are 900 units and total tangible (real) assets, i.e. national wealth, are 600 units. Goldsmith's Financial Interrelations Ratio (FIR) is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -3115,6 +3116,7 @@
     "unit": 7,
     "topic": "u07-t06",
     "type": "mcq",
+    "numerical": true,
     "stem": "A mutual fund scheme has investments with a market value of Rs 480 crore and cash of Rs 20 crore. Its accrued expenses and other liabilities are Rs 10 crore and it has 40 crore units outstanding. Its NAV per unit is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -3131,6 +3133,7 @@
     "unit": 7,
     "topic": "u07-t06",
     "type": "mcq",
+    "numerical": true,
     "stem": "An investor invests Rs 2,000 every month through a SIP for three months, when the NAVs are Rs 10, Rs 8 and Rs 20 respectively. The investor's average cost per unit is approximately:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -3470,6 +3473,7 @@
     "unit": 7,
     "topic": "u07-t03",
     "type": "mcq",
+    "numerical": true,
     "stem": "In a hypothetical banking system, banks must hold 20% of deposits as reserves and keep no excess reserves; there is no cash leakage to the public. The maximum total deposits (including the primary deposit) that can be created from a fresh primary deposit of ₹1,000 lakh is:",
     "options": [
       "₹4,000 lakh",
@@ -3485,6 +3489,7 @@
     "unit": 7,
     "topic": "u07-t03",
     "type": "mcq",
+    "numerical": true,
     "stem": "Assume the net demand and time liabilities (NDTL) of the banking system are ₹8,00,000 crore. If the RBI lowers the CRR from 6% to 5% of NDTL (hypothetical values), the additional resources released for banks are:",
     "options": [
       "₹800 crore",
@@ -3500,6 +3505,7 @@
     "unit": 7,
     "topic": "u07-t03",
     "type": "mcq",
+    "numerical": true,
     "stem": "Suppose the policy repo rate is 6.00%, and the RBI operates a symmetric corridor in which the Standing Deposit Facility (SDF) rate is 0.25 percentage point below the repo rate and the Marginal Standing Facility (MSF) rate is 0.25 percentage point above it. The overnight money-market rate would ordinarily be expected to stay within:",
     "options": [
       "6.00% to 6.25%",
@@ -3920,6 +3926,7 @@
     "unit": 7,
     "topic": "u07-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "A bank has Tier 1 capital of ₹60 crore and Tier 2 capital of ₹20 crore. Its total risk-weighted assets (RWA) are ₹800 crore. Its capital to risk-weighted assets ratio (CRAR) is:",
     "options": [
       "10%",
@@ -3935,6 +3942,7 @@
     "unit": 7,
     "topic": "u07-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "For a corporate loan, a bank estimates the probability of default (PD) at 2%, the loss given default (LGD) at 50% and the exposure at default (EAD) at ₹10 crore. The expected loss on the loan is:",
     "options": [
       "₹1 crore",
@@ -3980,6 +3988,7 @@
     "unit": 7,
     "topic": "u07-t04",
     "type": "mcq",
+    "numerical": true,
     "stem": "A bank reports gross NPAs of ₹600 crore and holds provisions of ₹100 crore against them. If its net advances are ₹10,000 crore (as given), its net NPA ratio is:",
     "options": [
       "5%",
@@ -4347,6 +4356,7 @@
     "unit": 7,
     "topic": "u07-t08",
     "type": "mcq",
+    "numerical": true,
     "stem": "For illustration, assume CRR is 5% and SLR is 20% of net demand and time liabilities (NDTL); these values are data for the problem only. A bank with NDTL of Rs 2,000 crore is left with how much of its resources after maintaining CRR and SLR, free for loans and other uses?",
     "options": [
       "Rs 1,400 crore",
@@ -4362,6 +4372,7 @@
     "unit": 7,
     "topic": "u07-t08",
     "type": "mcq",
+    "numerical": true,
     "stem": "A bank has capital funds of Rs 90 crore and risk-weighted assets of Rs 1,000 crore. If the regulatory capital adequacy ratio to be met is 12% (given as data), how much additional capital is needed, risk-weighted assets remaining unchanged?",
     "options": [
       "Rs 10 crore",
@@ -4918,6 +4929,7 @@
     "unit": 7,
     "topic": "u07-t09",
     "type": "mcq",
+    "numerical": true,
     "stem": "In a deferred net settlement batch, customers of Bank X have instructed payments of Rs 500 crore to customers of Bank Y, while customers of Bank Y have instructed Rs 300 crore to customers of Bank X. What is the net settlement between the banks?",
     "options": [
       "Bank Y pays Rs 200 crore to Bank X",
@@ -5438,6 +5450,7 @@
     "unit": 7,
     "topic": "u07-t05",
     "type": "mcq",
+    "numerical": true,
     "stem": "A company issues Commercial Paper of face value ₹10,00,000 for 73 days at a price of ₹9,90,000. Taking a year of 365 days, the annualised yield to the investor is approximately:",
     "options": [
       "5.00%",
@@ -5453,6 +5466,7 @@
     "unit": 7,
     "topic": "u07-t05",
     "type": "mcq",
+    "numerical": true,
     "stem": "A bank borrows ₹73 crore in the repo market for 10 days at 5% per annum (365-day year). The total amount payable by the bank when it repurchases the securities is:",
     "options": [
       "₹73.05 crore",
@@ -5468,6 +5482,7 @@
     "unit": 7,
     "topic": "u07-t05",
     "type": "mcq",
+    "numerical": true,
     "stem": "The Government accepts two bids of ₹100 crore face value each, one at a price of ₹99 and the other at ₹98 per ₹100 face value, and the cut-off price is ₹98. Compared with a uniform-price auction, the Government's total proceeds under a multiple-price auction are:",
     "options": [
       "Higher by ₹2 crore",
@@ -6438,6 +6453,7 @@
     "unit": 7,
     "topic": "u07-t10",
     "type": "mcq",
+    "numerical": true,
     "stem": "A building worth Rs 10,00,000 is insured under fire policies with Insurer X for Rs 6,00,000 and with Insurer Y for Rs 4,00,000. A fire causes a genuine loss of Rs 5,00,000. If contribution is made in proportion to the sums insured, the amounts payable by X and Y respectively are:",
     "options": [
       "Rs 2,50,000 and Rs 2,50,000",
@@ -6453,6 +6469,7 @@
     "unit": 7,
     "topic": "u07-t10",
     "type": "mcq",
+    "numerical": true,
     "stem": "A shop's stock worth Rs 10,00,000 at the time of loss is insured for Rs 6,00,000 under a fire policy containing an average clause. A fire causes a loss of Rs 5,00,000. The insurer's liability is:",
     "options": [
       "Rs 5,00,000",
@@ -6468,6 +6485,7 @@
     "unit": 7,
     "topic": "u07-t10",
     "type": "mcq",
+    "numerical": true,
     "stem": "Under an excess-of-loss reinsurance treaty, an insurer retains the first Rs 2,00,000 of each loss and the reinsurer pays the part above that. If a single loss of Rs 7,00,000 occurs, the reinsurer's share is:",
     "options": [
       "Rs 2,00,000",

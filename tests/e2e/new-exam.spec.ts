@@ -1,7 +1,7 @@
 import { expect, test, type Page } from "@playwright/test";
-import { SETUPS } from "../../src/lib/setups";
+import { KIND_LABELS, SETUPS } from "../../src/lib/setups";
 import { SYLLABUS } from "../../src/lib/syllabus";
-import { TOTAL, topicCount, unitCount } from "./bank";
+import { TOTAL, numericalCount, topicCount, unitCount } from "./bank";
 
 const unitBox = (page: Page, n: number) => page.getByRole("checkbox", { name: new RegExp(`^${n}\\. `) });
 const startButton = (page: Page) => page.getByRole("button", { name: /^Start exam/ });
@@ -21,8 +21,8 @@ test.beforeEach(async ({ page }) => {
 });
 
 test.describe("page layout", () => {
-  test("shows the three setup steps and the navigation", async ({ page }) => {
-    for (const step of ["What to practise", "Paper setup", "Number of questions and time"])
+  test("shows the four setup steps and the navigation", async ({ page }) => {
+    for (const step of ["What to practise", "Question type", "Paper setup", "Number of questions and time"])
       await expect(page.getByRole("heading", { name: step })).toBeVisible();
     for (const link of ["Dashboard", "New exam", "History"]) await expect(page.getByRole("link", { name: link })).toBeVisible();
   });
@@ -82,6 +82,48 @@ test.describe("choosing units (across subjects)", () => {
     await unitBox(page, 9).check();
     await expect(available(page)).toHaveText(`${unitCount(3) + unitCount(9)} available`);
     await expect(startButton(page)).toBeEnabled();
+  });
+});
+
+test.describe("question type", () => {
+  test("offers Both, Numerical only and Non-numerical only, with Both preselected", async ({ page }) => {
+    await expect(page.locator('input[type="radio"][name="kind"]')).toHaveCount(3);
+    for (const k of Object.values(KIND_LABELS)) {
+      const card = page.locator("label", { has: page.getByRole("radio", { name: new RegExp(`^${k.label}`) }) });
+      await expect(card).toContainText(k.description);
+    }
+    await expect(page.getByRole("radio", { name: /^Both/ })).toBeChecked();
+  });
+
+  test("numerical and non-numerical only count their own questions", async ({ page }) => {
+    await page.getByText("Numerical only", { exact: true }).click();
+    await expect(available(page)).toHaveText(`${numericalCount()} available`);
+    await page.getByText("Non-numerical only", { exact: true }).click();
+    await expect(available(page)).toHaveText(`${TOTAL - numericalCount()} available`);
+    await page.getByRole("button", { name: "Clear" }).click();
+    await unitBox(page, 4).check();
+    await expect(available(page)).toHaveText(`${unitCount(4) - numericalCount(4)} available`);
+    await page.getByText("Both", { exact: true }).click();
+    await expect(available(page)).toHaveText(`${unitCount(4)} available`);
+  });
+
+  test("Numerical only hides the paper setup step; other types bring it back", async ({ page }) => {
+    const setupStep = page.getByRole("heading", { name: "Paper setup" });
+    const countStep = page.getByRole("heading", { name: "Number of questions and time" });
+    await page.getByText("Numerical only", { exact: true }).click();
+    await expect(setupStep).toHaveCount(0);
+    await expect(countStep).toHaveText("3Number of questions and time");
+    await page.getByText("Non-numerical only", { exact: true }).click();
+    await expect(setupStep).toBeVisible();
+    await expect(countStep).toHaveText("4Number of questions and time");
+  });
+
+  test("a numerical exam shows the type in the exam header", async ({ page }) => {
+    await page.getByText("Numerical only", { exact: true }).click();
+    await page.getByRole("button", { name: "10", exact: true }).click();
+    await startButton(page).click();
+    await expect(page).toHaveURL(/\/exam\//);
+    await expect(page.getByText("Numerical only · 10 questions").first()).toBeAttached();
   });
 });
 
@@ -173,7 +215,7 @@ test.describe("links from other pages", () => {
 
 test.describe("paper setup", () => {
   test("offers exactly the three setups from the skill, word for word", async ({ page }) => {
-    await expect(page.getByRole("radio")).toHaveCount(3);
+    await expect(page.locator('input[type="radio"][name="setup"]')).toHaveCount(3);
     for (const s of Object.values(SETUPS)) {
       const card = page.locator("label", { has: page.getByRole("radio", { name: new RegExp(s.label) }) });
       await expect(card).toContainText(s.label);

@@ -16,6 +16,7 @@ Each file is a JSON array of objects matching `Question` in `src/lib/types.ts`:
 | `unit` | number, matches file |
 | `topic` | a sub-topic id of that unit from `syllabus.ts`, e.g. `u07-t03` |
 | `type` | `mcq` · `ar` · `statements` · `matching` · `sequencing` |
+| `numerical` | `true` when answering needs a calculation (ratios, NPV, tax computation, probabilities…); leave it out otherwise. Drives the Numerical / Non-numerical exam option |
 | `stem` | question text, no `Q1.` prefix. AR: `"Assertion (A): …"` |
 | `reason` | AR only: `"Reason (R): …"` |
 | `items` | statements / sequencing: array of strings, rendered as 1, 2, 3… (no numbers in the text) |

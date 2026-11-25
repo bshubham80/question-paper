@@ -2,7 +2,7 @@
 import { readFileSync } from "node:fs";
 import { join } from "node:path";
 
-type Q = { unit: number; topic: string };
+type Q = { unit: number; topic: string; numerical?: boolean };
 
 const DIR = join(process.cwd(), "src/data/questions");
 const all: Q[] = Array.from({ length: 10 }, (_, i) =>
@@ -12,3 +12,4 @@ const all: Q[] = Array.from({ length: 10 }, (_, i) =>
 export const TOTAL = all.length;
 export const unitCount = (u: number) => all.filter((q) => q.unit === u).length;
 export const topicCount = (id: string) => all.filter((q) => q.topic === id).length;
+export const numericalCount = (u?: number) => all.filter((q) => q.numerical && (u === undefined || q.unit === u)).length;

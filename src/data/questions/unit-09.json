@@ -3512,6 +3512,7 @@
     "unit": 9,
     "topic": "u09-t05",
     "type": "mcq",
+    "numerical": true,
     "stem": "A company has an authorised capital of ₹10,00,000 divided into 1,00,000 equity shares of ₹10 each. It issues 80,000 shares, all of which are subscribed, and calls up ₹8 per share. Calls in arrears amount to ₹3,000. Its paid-up capital is:",
     "options": [
       "₹8,00,000",
@@ -3557,6 +3558,7 @@
     "unit": 9,
     "topic": "u09-t05",
     "type": "mcq",
+    "numerical": true,
     "stem": "At a general meeting of a company, a resolution received 120 votes in favour and 40 votes against, while 20 members abstained. Under the Companies Act, 2013, the resolution is:",
     "options": [
       "Lost, because abstentions are counted as votes against it",
@@ -4134,6 +4136,7 @@
     "unit": 9,
     "topic": "u09-t06",
     "type": "mcq",
+    "numerical": true,
     "stem": "A, B and C are partners in an LLP whose agreement is silent on profit sharing. Their capital contributions are ₹4,00,000, ₹3,00,000 and ₹1,00,000, and the LLP earns a profit of ₹90,000. Applying the default rules in the First Schedule to the Limited Liability Partnership Act, 2008, each partner's share of the profit is:",
     "options": [
       "₹30,000 each",
@@ -5766,6 +5769,7 @@
     "unit": 9,
     "topic": "u09-t09",
     "type": "mcq",
+    "numerical": true,
     "stem": "A manufacturer buys raw materials worth ₹40,000 and pays GST at 10 per cent (a rate assumed only for this illustration). He sells the finished goods for ₹70,000 excluding tax and charges GST at the same rate. If the raw materials are fully eligible for input tax credit and there are no other transactions, the net GST payable in cash is:",
     "prompt": "Choose the correct option:",
     "options": [
@@ -6403,6 +6407,7 @@
     "unit": 9,
     "topic": "u09-t10",
     "type": "mcq",
+    "numerical": true,
     "stem": "Section 13 of FEMA provides that, where the sum involved in a contravention is quantifiable, the penalty on adjudication may extend to three times that sum. For a contravention involving ₹20 lakh, the maximum penalty that can be imposed is:",
     "prompt": "Choose the correct option:",
     "options": [
